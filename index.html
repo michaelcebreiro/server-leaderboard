@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Server Leaderboard — Local Public Eatery Leaside</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Header -->
+    <header class="header">
+      <h1>Local Public Eatery Leaside</h1>
+      <p class="subtitle">Server Recognition Leaderboard</p>
+      <nav class="tabs">
+        <button class="tab active" data-tab="leaderboard">Leaderboard</button>
+        <button class="tab" data-tab="process">Process Reviews</button>
+        <button class="tab" data-tab="servers">Manage Servers</button>
+        <button class="tab" data-tab="history">History</button>
+        <button class="tab" data-tab="update">Weekly Update</button>
+      </nav>
+    </header>
+
+    <!-- Leaderboard Tab -->
+    <section id="tab-leaderboard" class="tab-content active">
+      <div class="month-selector">
+        <button id="prev-month" class="btn-icon">&larr;</button>
+        <h2 id="current-month-label">March 2026</h2>
+        <button id="next-month" class="btn-icon">&rarr;</button>
+      </div>
+
+      <div class="prize-banner">
+        <div class="prize first">
+          <span class="prize-icon">&#x1f947;</span>
+          <div>
+            <strong>1st Place — $100 Bonus</strong>
+            <span id="first-place-status">25 mentions to win</span>
+          </div>
+        </div>
+        <div class="prize second">
+          <span class="prize-icon">&#x1f948;</span>
+          <div>
+            <strong>2nd Place</strong>
+            <span id="second-place-status">18 mentions to win</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="stats-bar">
+        <div class="stat">
+          <span class="stat-value" id="total-reviews">0</span>
+          <span class="stat-label">Reviews Processed</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="total-mentions">0</span>
+          <span class="stat-label">Server Mentions</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="active-servers">0</span>
+          <span class="stat-label">Active Servers</span>
+        </div>
+      </div>
+
+      <table class="leaderboard-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Server</th>
+            <th>Mentions</th>
+            <th>To 1st</th>
+            <th>To 2nd</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="leaderboard-body">
+          <tr><td colspan="6" class="empty-state">No data yet — add servers and process reviews to get started.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Process Reviews Tab -->
+    <section id="tab-process" class="tab-content">
+      <h2>Process Reviews</h2>
+      <p class="help-text">Copy reviews from Google Maps and paste them below. The system will extract server names from 4 and 5 star reviews and ignore owner/staff replies.</p>
+
+      <div class="form-group">
+        <label for="review-text">Paste Google Maps reviews:</label>
+        <textarea id="review-text" rows="12" placeholder="Copy reviews from Google Maps and paste here...&#10;&#10;The parser will look for star ratings (e.g. '5 stars'), split individual reviews, skip owner replies, and find server names."></textarea>
+      </div>
+
+      <button id="parse-btn" class="btn btn-primary">Parse Reviews</button>
+
+      <div id="parse-results" class="hidden">
+        <h3>Parsing Results</h3>
+        <div id="parse-summary" class="parse-summary"></div>
+        <div id="parsed-reviews" class="parsed-reviews"></div>
+        <div class="action-bar">
+          <button id="confirm-btn" class="btn btn-success">Confirm &amp; Save Mentions</button>
+          <button id="cancel-btn" class="btn btn-secondary">Cancel</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Manage Servers Tab -->
+    <section id="tab-servers" class="tab-content">
+      <h2>Manage Servers</h2>
+      <p class="help-text">Add server names so the system knows who to look for in reviews. You can add alternate spellings too (e.g., "Johnny" and "Johny").</p>
+
+      <div class="add-server-form">
+        <input type="text" id="new-server-name" placeholder="Server name (e.g., Sarah)">
+        <input type="text" id="new-server-aliases" placeholder="Alternate spellings, comma-separated (optional)">
+        <button id="add-server-btn" class="btn btn-primary">Add Server</button>
+      </div>
+
+      <div id="server-list" class="server-list"></div>
+    </section>
+
+    <!-- History Tab -->
+    <section id="tab-history" class="tab-content">
+      <h2>Past Winners</h2>
+      <div id="history-list" class="history-list">
+        <p class="empty-state">No history yet. Winners will appear here at the end of each month.</p>
+      </div>
+    </section>
+
+    <!-- Weekly Update Tab -->
+    <section id="tab-update" class="tab-content">
+      <h2>Weekly Team Update</h2>
+      <p class="help-text">Generate a message to share with your team showing current standings.</p>
+      <button id="generate-update-btn" class="btn btn-primary">Generate Update</button>
+      <div id="update-output" class="hidden">
+        <textarea id="update-text" rows="15" readonly></textarea>
+        <button id="copy-update-btn" class="btn btn-success">Copy to Clipboard</button>
+        <span id="copy-confirm" class="copy-confirm hidden">Copied!</span>
+      </div>
+    </section>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
