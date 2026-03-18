@@ -1,0 +1,25 @@
+{
+  "name": "server-leaderboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcebreiro/server-leaderboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/michaelcebreiro/server-leaderboard/issues"
+  },
+  "homepage": "https://github.com/michaelcebreiro/server-leaderboard#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "serve": "^14.2.6"
+  }
+}

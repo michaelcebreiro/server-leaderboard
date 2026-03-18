@@ -79,25 +79,46 @@ function getMonthScores(month) {
     .sort((a, b) => b.count - a.count);
 }
 
-function getMonthWinners(month) {
-  return winners.find(w => w.month === month) || { month, first: null, second: null };
-}
-
-function checkAndRecordWinners(month) {
+// Determine current projected winners based on scores (dynamic, not locked in)
+// 1st place: highest count among those with >= 25 mentions
+// 2nd place: next highest count among those with >= 18 mentions
+// Positions can change at any time until month end
+function getProjectedWinners(month) {
   const scores = getMonthScores(month);
-  let w = winners.find(wr => wr.month === month);
-  if (!w) {
-    w = { month, first: null, second: null };
-    winners.push(w);
-  }
+  let first = null;
+  let second = null;
 
   for (const s of scores) {
-    if (!w.first && s.count >= FIRST_PLACE_THRESHOLD) {
-      w.first = s.name;
+    if (!first && s.count >= FIRST_PLACE_THRESHOLD) {
+      first = s.name;
+    } else if (first && !second && s.count >= SECOND_PLACE_THRESHOLD) {
+      second = s.name;
     }
-    if (w.first && !w.second && s.name !== w.first && s.count >= SECOND_PLACE_THRESHOLD) {
-      w.second = s.name;
-    }
+  }
+
+  return { month, first, second };
+}
+
+// Check if a month has ended (past month = finalized)
+function isMonthFinalized(month) {
+  const [y, m] = month.split('-').map(Number);
+  // Last moment of the month: last day at 23:59:59
+  const endOfMonth = new Date(y, m, 0, 23, 59, 59);
+  return new Date() > endOfMonth;
+}
+
+// For finalized months, persist winners to history
+function finalizeMonth(month) {
+  const projected = getProjectedWinners(month);
+  if (!projected.first && !projected.second) return projected;
+
+  let w = winners.find(wr => wr.month === month);
+  if (!w) {
+    w = { month, first: projected.first, second: projected.second };
+    winners.push(w);
+  } else {
+    w.first = projected.first;
+    w.second = projected.second;
   }
   save('winners', winners);
   return w;
@@ -113,7 +134,8 @@ function renderLeaderboard() {
   document.getElementById('current-month-label').textContent = formatMonthLabel(currentMonth);
 
   const scores = getMonthScores(currentMonth);
-  const w = checkAndRecordWinners(currentMonth);
+  const finalized = isMonthFinalized(currentMonth);
+  const w = finalized ? finalizeMonth(currentMonth) : getProjectedWinners(currentMonth);
   const tbody = document.getElementById('leaderboard-body');
 
   // Stats
@@ -123,16 +145,21 @@ function renderLeaderboard() {
   document.getElementById('total-mentions').textContent = monthMentions.length;
   document.getElementById('active-servers').textContent = servers.length;
 
-  // Prize status
+  // Prize banner status
+  const firstLabel = finalized ? 'Final' : 'Qualify with 25+ mentions';
+  const secondLabel = finalized ? 'Final' : 'Qualify with 18+ mentions';
+
   if (w.first) {
-    document.getElementById('first-place-status').textContent = esc(w.first) + ' won 1st!';
+    document.getElementById('first-place-status').textContent =
+      (finalized ? 'Winner: ' : 'Leading: ') + w.first;
   } else {
-    document.getElementById('first-place-status').textContent = '25 mentions to win';
+    document.getElementById('first-place-status').textContent = firstLabel;
   }
   if (w.second) {
-    document.getElementById('second-place-status').textContent = esc(w.second) + ' won 2nd!';
+    document.getElementById('second-place-status').textContent =
+      (finalized ? 'Winner: ' : 'Projected: ') + w.second;
   } else {
-    document.getElementById('second-place-status').textContent = '18 mentions to win';
+    document.getElementById('second-place-status').textContent = secondLabel;
   }
 
   if (scores.length === 0 || scores.every(s => s.count === 0)) {
@@ -144,14 +171,32 @@ function renderLeaderboard() {
     .filter(s => s.count > 0 || servers.some(sv => sv.name === s.name))
     .map((s, i) => {
       const rank = i + 1;
-      const toFirst = w.first ? (s.name === w.first ? '—' : 'Closed') : Math.max(0, FIRST_PLACE_THRESHOLD - s.count);
-      const toSecond = w.second ? (s.name === w.second ? '—' : (s.name === w.first ? '—' : 'Closed')) : Math.max(0, SECOND_PLACE_THRESHOLD - s.count);
 
+      // "To 1st" = how many more to reach the 25 threshold
+      const gapFirst = FIRST_PLACE_THRESHOLD - s.count;
+      const toFirst = gapFirst <= 0 ? 'Qualified' : gapFirst + ' away';
+
+      // "To 2nd" = how many more to reach the 18 threshold
+      const gapSecond = SECOND_PLACE_THRESHOLD - s.count;
+      const toSecond = gapSecond <= 0 ? 'Qualified' : gapSecond + ' away';
+
+      // Status: projected placement
       let status = '';
-      if (s.name === w.first) status = '<span class="status-won">WON 1st</span>';
-      else if (s.name === w.second) status = '<span class="status-won">WON 2nd</span>';
-      else if (s.count >= FIRST_PLACE_THRESHOLD - 3 && !w.first) status = '<span class="status-hot">Close to 1st</span>';
-      else if (s.count >= SECOND_PLACE_THRESHOLD - 3 && !w.second) status = '<span class="status-close">Close to 2nd</span>';
+      if (finalized && s.name === w.first) {
+        status = '<span class="status-won">WON 1st — $100</span>';
+      } else if (finalized && s.name === w.second) {
+        status = '<span class="status-won">WON 2nd — $50</span>';
+      } else if (!finalized && s.name === w.first) {
+        status = '<span class="status-hot">Leading 1st</span>';
+      } else if (!finalized && s.name === w.second) {
+        status = '<span class="status-close">Projected 2nd</span>';
+      } else if (s.count >= FIRST_PLACE_THRESHOLD) {
+        status = '<span class="status-hot">Qualified</span>';
+      } else if (s.count >= SECOND_PLACE_THRESHOLD) {
+        status = '<span class="status-close">In contention</span>';
+      } else if (s.count >= SECOND_PLACE_THRESHOLD - 3) {
+        status = '<span class="status-close">Close</span>';
+      }
 
       const barPct = Math.min(100, (s.count / FIRST_PLACE_THRESHOLD) * 100);
 
@@ -164,8 +209,8 @@ function renderLeaderboard() {
             <div class="bar" style="width:${barPct}%"></div>
           </div>
         </td>
-        <td>${typeof toFirst === 'number' ? toFirst + ' away' : toFirst}</td>
-        <td>${typeof toSecond === 'number' ? toSecond + ' away' : toSecond}</td>
+        <td>${toFirst}</td>
+        <td>${toSecond}</td>
         <td>${status}</td>
       </tr>`;
     }).join('');
@@ -350,7 +395,6 @@ document.getElementById('confirm-btn').addEventListener('click', () => {
   });
 
   save('mentions', mentions);
-  checkAndRecordWinners(currentMonth);
   renderLeaderboard();
 
   alert(added + ' new mention(s) recorded.');
@@ -436,25 +480,32 @@ document.getElementById('new-server-aliases').addEventListener('keydown', e => {
 // ── History ───────────────────────────────────────
 function renderHistory() {
   const container = document.getElementById('history-list');
-  const pastWinners = winners
-    .filter(w => w.first || w.second)
-    .sort((a, b) => b.month.localeCompare(a.month));
 
-  if (pastWinners.length === 0) {
-    container.innerHTML = '<p class="empty-state">No winners recorded yet. Winners will appear here once someone reaches the thresholds.</p>';
+  // Finalize any past months and collect them
+  const allMonths = [...new Set(mentions.map(m => m.month))].sort().reverse();
+  const pastMonths = allMonths.filter(m => isMonthFinalized(m));
+
+  // Finalize each and collect results
+  const results = pastMonths.map(month => {
+    const w = finalizeMonth(month);
+    const scores = getMonthScores(month);
+    return { month, w, scores };
+  }).filter(r => r.w.first || r.w.second);
+
+  if (results.length === 0) {
+    container.innerHTML = '<p class="empty-state">No winners recorded yet. Winners are determined at the end of each month based on highest mention counts.</p>';
     return;
   }
 
-  container.innerHTML = pastWinners.map(w => {
-    const scores = getMonthScores(w.month);
+  container.innerHTML = results.map(({ month, w, scores }) => {
     const topScores = scores.slice(0, 5).map((s, i) =>
       `<div style="margin-left:16px; color: var(--text-muted); font-size:0.85rem;">${i + 1}. ${esc(s.name)} — ${s.count} mentions</div>`
     ).join('');
 
     return `<div class="history-card">
-      <h3>${formatMonthLabel(w.month)}</h3>
-      ${w.first ? '<div class="winner-line"><span class="icon">&#x1f947;</span> <strong>' + esc(w.first) + '</strong> — 1st Place ($100)</div>' : '<div class="winner-line"><span class="icon">&#x1f947;</span> <em>No 1st place winner</em></div>'}
-      ${w.second ? '<div class="winner-line"><span class="icon">&#x1f948;</span> <strong>' + esc(w.second) + '</strong> — 2nd Place</div>' : '<div class="winner-line"><span class="icon">&#x1f948;</span> <em>No 2nd place winner</em></div>'}
+      <h3>${formatMonthLabel(month)}</h3>
+      ${w.first ? '<div class="winner-line"><span class="icon">&#x1f947;</span> <strong>' + esc(w.first) + '</strong> — 1st Place ($100)</div>' : '<div class="winner-line"><span class="icon">&#x1f947;</span> <em>No one qualified for 1st (needed 25+)</em></div>'}
+      ${w.second ? '<div class="winner-line"><span class="icon">&#x1f948;</span> <strong>' + esc(w.second) + '</strong> — 2nd Place ($50)</div>' : '<div class="winner-line"><span class="icon">&#x1f948;</span> <em>No one qualified for 2nd (needed 18+)</em></div>'}
       <details style="margin-top:8px"><summary style="cursor:pointer; color: var(--text-muted); font-size:0.85rem;">Full standings</summary>${topScores}</details>
     </div>`;
   }).join('');
@@ -465,25 +516,33 @@ document.querySelector('[data-tab="history"]').addEventListener('click', renderH
 // ── Weekly Update Generator ───────────────────────
 document.getElementById('generate-update-btn').addEventListener('click', () => {
   const scores = getMonthScores(currentMonth);
-  const w = getMonthWinners(currentMonth);
+  const w = getProjectedWinners(currentMonth);
   const monthLabel = formatMonthLabel(currentMonth);
 
   const today = new Date();
   const dayOfMonth = today.getDate();
   const weekNum = Math.ceil(dayOfMonth / 7);
 
+  // Days remaining in month
+  const [y, mo] = currentMonth.split('-').map(Number);
+  const lastDay = new Date(y, mo, 0).getDate();
+  const daysLeft = Math.max(0, lastDay - dayOfMonth);
+
   let text = `Server Leaderboard Update\n`;
   text += `${monthLabel} — Week ${weekNum}\n`;
   text += `${'─'.repeat(36)}\n\n`;
 
-  text += `1st Place ($100 Bonus): ${FIRST_PLACE_THRESHOLD} mentions\n`;
-  text += `2nd Place: ${SECOND_PLACE_THRESHOLD} mentions\n\n`;
+  text += `1st Place ($100): Need 25+ mentions — highest count wins\n`;
+  text += `2nd Place ($50): Need 18+ mentions — 2nd highest wins\n`;
+  text += `Deadline: End of month (${daysLeft} day${daysLeft !== 1 ? 's' : ''} left!)\n\n`;
 
   if (w.first) {
-    text += `1st Place has been WON by ${w.first}!\n`;
+    text += `Currently leading 1st: ${w.first}\n`;
+  } else {
+    text += `No one has qualified for 1st yet (need 25+)\n`;
   }
   if (w.second) {
-    text += `2nd Place has been WON by ${w.second}!\n`;
+    text += `Currently projected 2nd: ${w.second}\n`;
   }
   text += '\n';
 
@@ -495,20 +554,21 @@ document.getElementById('generate-update-btn').addEventListener('click', () => {
     let line = `${rank}. ${s.name} — ${s.count} mention${s.count !== 1 ? 's' : ''}`;
 
     if (s.name === w.first) {
-      line += '  [WON 1st]';
+      line += '  [Leading 1st]';
     } else if (s.name === w.second) {
-      line += '  [WON 2nd]';
-    } else {
-      const parts = [];
-      if (!w.first) {
-        const gap = FIRST_PLACE_THRESHOLD - s.count;
-        parts.push(gap + ' away from 1st');
-      }
-      if (!w.second) {
-        const gap = SECOND_PLACE_THRESHOLD - s.count;
-        parts.push(gap + ' away from 2nd');
-      }
-      if (parts.length) line += '  (' + parts.join(', ') + ')';
+      line += '  [Projected 2nd]';
+    }
+
+    // Show distance to thresholds
+    const parts = [];
+    if (s.count < FIRST_PLACE_THRESHOLD) {
+      parts.push((FIRST_PLACE_THRESHOLD - s.count) + ' to qualify for 1st');
+    }
+    if (s.count < SECOND_PLACE_THRESHOLD) {
+      parts.push((SECOND_PLACE_THRESHOLD - s.count) + ' to qualify for 2nd');
+    }
+    if (parts.length && s.name !== w.first && s.name !== w.second) {
+      line += '  (' + parts.join(', ') + ')';
     }
 
     text += line + '\n';
@@ -516,7 +576,7 @@ document.getElementById('generate-update-btn').addEventListener('click', () => {
 
   const totalMentions = scores.reduce((sum, s) => sum + s.count, 0);
   text += `\nTotal mentions this month: ${totalMentions}\n`;
-  text += `\nKeep up the great work, team!\n`;
+  text += `\nPositions can still change — keep going, team!\n`;
 
   document.getElementById('update-output').classList.remove('hidden');
   document.getElementById('update-text').value = text;
