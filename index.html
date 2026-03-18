@@ -92,7 +92,7 @@
     <section id="tab-process" class="tab-content">
       <h2>Process Reviews</h2>
       <p class="help-text">Copy reviews from Google Maps and paste them below. The system will extract server names from 4 and 5 star reviews and ignore owner/staff replies.</p>
-      <p class="help-text">First time? <a href="bookmarklet.html" style="color:#6c63ff">Set up the Review Grabber bookmarklet</a> to auto-extract reviews with one click instead of manual copy-paste.</p>
+      <p class="help-text">Tip: On the Google Maps reviews page, scroll through the month's reviews, then select all and copy-paste them here. The parser handles the rest.</p>
 
       <div class="form-group">
         <label for="review-text">Paste Google Maps reviews:</label>
@@ -124,6 +124,18 @@
       </div>
 
       <div id="server-list" class="server-list"></div>
+
+      <div class="data-controls">
+        <h3>Data Backup</h3>
+        <p class="help-text">Export your data to a file for safekeeping, or import a previous backup.</p>
+        <div class="action-bar">
+          <button class="btn btn-secondary" onclick="exportData()">Export Data</button>
+          <label class="btn btn-secondary" style="cursor:pointer">
+            Import Data
+            <input type="file" accept=".json" style="display:none" onchange="importData(this.files[0]); this.value='';">
+          </label>
+        </div>
+      </div>
     </section>
 
     <!-- History Tab -->

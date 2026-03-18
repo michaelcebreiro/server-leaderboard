@@ -5,6 +5,13 @@
 const FIRST_PLACE_THRESHOLD = 25;
 const SECOND_PLACE_THRESHOLD = 18;
 
+// ── HTML sanitization ──────────────────────────────
+function esc(str) {
+  const el = document.createElement('span');
+  el.textContent = str;
+  return el.innerHTML;
+}
+
 // ── Storage helpers ────────────────────────────────
 function load(key, fallback) {
   try {
@@ -19,13 +26,24 @@ function save(key, value) {
 
 // ── State ──────────────────────────────────────────
 let servers = load('servers', []);
-// Each mention: { server, month, reviewSnippet, date }
 let mentions = load('mentions', []);
-// Each winner: { month, first: name|null, second: name|null }
 let winners = load('winners', []);
+let reviewCounts = load('reviewCounts', {});
 
-// Current viewed month (YYYY-MM)
-let currentMonth = new Date().toISOString().slice(0, 7);
+// Current viewed month (YYYY-MM) — use local date, not UTC
+function getLocalYearMonth() {
+  const d = new Date();
+  return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0');
+}
+
+// Timezone-safe month arithmetic
+function shiftMonth(ym, delta) {
+  const [y, m] = ym.split('-').map(Number);
+  const d = new Date(y, m - 1 + delta, 1);
+  return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0');
+}
+
+let currentMonth = getLocalYearMonth();
 
 // ── Tab switching ──────────────────────────────────
 document.querySelectorAll('.tab').forEach(btn => {
@@ -39,16 +57,12 @@ document.querySelectorAll('.tab').forEach(btn => {
 
 // ── Month navigation ──────────────────────────────
 document.getElementById('prev-month').addEventListener('click', () => {
-  const d = new Date(currentMonth + '-01');
-  d.setMonth(d.getMonth() - 1);
-  currentMonth = d.toISOString().slice(0, 7);
+  currentMonth = shiftMonth(currentMonth, -1);
   renderLeaderboard();
 });
 
 document.getElementById('next-month').addEventListener('click', () => {
-  const d = new Date(currentMonth + '-01');
-  d.setMonth(d.getMonth() + 1);
-  currentMonth = d.toISOString().slice(0, 7);
+  currentMonth = shiftMonth(currentMonth, 1);
   renderLeaderboard();
 });
 
@@ -59,7 +73,6 @@ function getMonthScores(month) {
   servers.forEach(s => { counts[s.name] = 0; });
   monthMentions.forEach(m => {
     if (counts[m.server] !== undefined) counts[m.server]++;
-    else counts[m.server] = (counts[m.server] || 0) + 1;
   });
   return Object.entries(counts)
     .map(([name, count]) => ({ name, count }))
@@ -104,21 +117,20 @@ function renderLeaderboard() {
   const tbody = document.getElementById('leaderboard-body');
 
   // Stats
+  const monthReviewCount = reviewCounts[currentMonth] || 0;
   const monthMentions = mentions.filter(m => m.month === currentMonth);
-  // Count unique review snippets as a rough review count
-  const uniqueReviews = new Set(monthMentions.map(m => m.reviewSnippet)).size;
-  document.getElementById('total-reviews').textContent = uniqueReviews;
+  document.getElementById('total-reviews').textContent = monthReviewCount;
   document.getElementById('total-mentions').textContent = monthMentions.length;
   document.getElementById('active-servers').textContent = servers.length;
 
   // Prize status
   if (w.first) {
-    document.getElementById('first-place-status').textContent = w.first + ' won 1st!';
+    document.getElementById('first-place-status').textContent = esc(w.first) + ' won 1st!';
   } else {
     document.getElementById('first-place-status').textContent = '25 mentions to win';
   }
   if (w.second) {
-    document.getElementById('second-place-status').textContent = w.second + ' won 2nd!';
+    document.getElementById('second-place-status').textContent = esc(w.second) + ' won 2nd!';
   } else {
     document.getElementById('second-place-status').textContent = '18 mentions to win';
   }
@@ -141,15 +153,15 @@ function renderLeaderboard() {
       else if (s.count >= FIRST_PLACE_THRESHOLD - 3 && !w.first) status = '<span class="status-hot">Close to 1st</span>';
       else if (s.count >= SECOND_PLACE_THRESHOLD - 3 && !w.second) status = '<span class="status-close">Close to 2nd</span>';
 
-      const barWidth = Math.min(100, (s.count / FIRST_PLACE_THRESHOLD) * 100);
+      const barPct = Math.min(100, (s.count / FIRST_PLACE_THRESHOLD) * 100);
 
       return `<tr class="rank-${rank <= 3 ? rank : ''}">
         <td>${rank}</td>
-        <td>${s.name}</td>
+        <td>${esc(s.name)}</td>
         <td>
           <div class="mentions-bar">
             <span>${s.count}</span>
-            <div class="bar" style="width:${barWidth}px"></div>
+            <div class="bar" style="width:${barPct}%"></div>
           </div>
         </td>
         <td>${typeof toFirst === 'number' ? toFirst + ' away' : toFirst}</td>
@@ -166,12 +178,10 @@ function parseReviewText(rawText) {
 
   let i = 0;
   while (i < lines.length) {
-    // Look for a star rating line to anchor a review
     const starMatch = lines[i].match(/^(\d)\s*star/i)
       || lines[i].match(/(\d)\s*(?:star|estrella)/i)
       || lines[i].match(/^([1-5])\/5/);
 
-    // Also match unicode stars: "★★★★★" or "⭐⭐⭐⭐⭐"
     const unicodeStarMatch = lines[i].match(/^([★⭐]{1,5})$/);
 
     let rating = null;
@@ -182,29 +192,20 @@ function parseReviewText(rawText) {
     }
 
     if (rating !== null) {
-      // The reviewer name is typically the line before the star rating
       const reviewerName = i > 0 ? lines[i - 1] : 'Unknown';
-
-      // Collect review text lines until we hit a reply marker or the next review
       let reviewText = '';
       let j = i + 1;
 
-      // Skip the "time ago" line (e.g., "2 weeks ago", "a month ago")
+      // Skip the "time ago" line
       if (j < lines.length && /^\d+|^a\s/i.test(lines[j]) && /ago$/i.test(lines[j])) {
         j++;
       }
 
-      // Collect review body
       while (j < lines.length) {
-        // Stop if we hit a reply marker
         if (/^(response from|reply from|respuesta de)/i.test(lines[j])) {
-          // Skip past the reply section until next review
           j++;
-          // Skip reply "time ago" line
           if (j < lines.length && /ago$/i.test(lines[j])) j++;
-          // Skip reply body
           while (j < lines.length) {
-            // Check if next line is a potential new reviewer name followed by stars
             if (j + 1 < lines.length) {
               const nextStarMatch = lines[j + 1].match(/^(\d)\s*star/i)
                 || lines[j + 1].match(/^([★⭐]{1,5})$/);
@@ -215,7 +216,6 @@ function parseReviewText(rawText) {
           break;
         }
 
-        // Check if this line is a reviewer name for the NEXT review
         if (j + 1 < lines.length) {
           const nextStarMatch = lines[j + 1].match(/^(\d)\s*star/i)
             || lines[j + 1].match(/(\d)\s*(?:star|estrella)/i)
@@ -257,7 +257,6 @@ function findServerMentions(reviews) {
     const text = review.text.toLowerCase();
     const found = new Set();
     allNames.forEach(({ canonical, search }) => {
-      // Word-boundary match to avoid partial name matches
       const regex = new RegExp('\\b' + escapeRegex(search) + '\\b', 'i');
       if (regex.test(text)) found.add(canonical);
     });
@@ -288,7 +287,6 @@ document.getElementById('parse-btn').addEventListener('click', () => {
   const withMentions = qualifyingReviews.filter(r => r.mentionedServers.length > 0);
   const skippedReviews = reviews.filter(r => r.rating < 4);
 
-  // Show results
   document.getElementById('parse-results').classList.remove('hidden');
   document.getElementById('parse-summary').innerHTML = `
     <strong>${reviews.length}</strong> reviews parsed |
@@ -304,20 +302,19 @@ document.getElementById('parse-btn').addEventListener('click', () => {
     if (r.rating < 4) {
       mentionHtml = '<span class="skipped">Skipped (below 4 stars)</span>';
     } else if (r.mentionedServers.length > 0) {
-      mentionHtml = '<span class="mention-found">Mentions: ' + r.mentionedServers.join(', ') + '</span>';
+      mentionHtml = '<span class="mention-found">Mentions: ' + r.mentionedServers.map(esc).join(', ') + '</span>';
     } else {
       mentionHtml = '<span class="no-mention">No server name found</span>';
     }
 
     const snippet = r.text.length > 120 ? r.text.slice(0, 120) + '...' : r.text;
     return `<div class="parsed-review">
-      <span class="stars">${stars}</span> — ${r.reviewer}<br>
-      <small>${snippet}</small><br>
+      <span class="stars">${stars}</span> — ${esc(r.reviewer)}<br>
+      <small>${esc(snippet)}</small><br>
       ${mentionHtml}
     </div>`;
   }).join('');
 
-  // Store parsed data for confirmation
   window._parsedReviews = reviews;
 });
 
@@ -326,10 +323,14 @@ document.getElementById('confirm-btn').addEventListener('click', () => {
   const reviews = window._parsedReviews || [];
   let added = 0;
 
+  // Track total reviews processed for this month
+  const qualifyingCount = reviews.filter(r => r.rating >= 4).length;
+  reviewCounts[currentMonth] = (reviewCounts[currentMonth] || 0) + qualifyingCount;
+  save('reviewCounts', reviewCounts);
+
   reviews.forEach(r => {
     if (r.rating < 4) return;
     r.mentionedServers.forEach(server => {
-      // Deduplicate: don't add if we already have this exact review snippet for this server/month
       const snippet = r.text.slice(0, 80);
       const exists = mentions.some(m =>
         m.server === server &&
@@ -354,7 +355,6 @@ document.getElementById('confirm-btn').addEventListener('click', () => {
 
   alert(added + ' new mention(s) recorded.');
 
-  // Reset
   document.getElementById('parse-results').classList.add('hidden');
   document.getElementById('review-text').value = '';
   window._parsedReviews = null;
@@ -377,8 +377,8 @@ function renderServers() {
   container.innerHTML = servers.map((s, i) => `
     <div class="server-card">
       <div>
-        <div class="name">${s.name}</div>
-        ${s.aliases && s.aliases.length ? '<div class="aliases">Also matches: ' + s.aliases.join(', ') + '</div>' : ''}
+        <div class="name">${esc(s.name)}</div>
+        ${s.aliases && s.aliases.length ? '<div class="aliases">Also matches: ' + s.aliases.map(esc).join(', ') + '</div>' : ''}
       </div>
       <button class="btn btn-danger" data-index="${i}">Remove</button>
     </div>
@@ -387,14 +387,17 @@ function renderServers() {
   container.querySelectorAll('.btn-danger').forEach(btn => {
     btn.addEventListener('click', () => {
       const idx = parseInt(btn.dataset.index);
-      servers.splice(idx, 1);
-      save('servers', servers);
-      renderServers();
+      if (confirm('Remove ' + servers[idx].name + '? Their existing mentions will be kept.')) {
+        servers.splice(idx, 1);
+        save('servers', servers);
+        renderServers();
+        renderLeaderboard();
+      }
     });
   });
 }
 
-document.getElementById('add-server-btn').addEventListener('click', () => {
+function addServer() {
   const nameInput = document.getElementById('new-server-name');
   const aliasInput = document.getElementById('new-server-aliases');
   const name = nameInput.value.trim();
@@ -413,9 +416,21 @@ document.getElementById('add-server-btn').addEventListener('click', () => {
   servers.push({ name, aliases });
   save('servers', servers);
   renderServers();
+  renderLeaderboard();
 
   nameInput.value = '';
   aliasInput.value = '';
+  nameInput.focus();
+}
+
+document.getElementById('add-server-btn').addEventListener('click', addServer);
+
+// Enter key submits add-server form
+document.getElementById('new-server-name').addEventListener('keydown', e => {
+  if (e.key === 'Enter') addServer();
+});
+document.getElementById('new-server-aliases').addEventListener('keydown', e => {
+  if (e.key === 'Enter') addServer();
 });
 
 // ── History ───────────────────────────────────────
@@ -433,19 +448,18 @@ function renderHistory() {
   container.innerHTML = pastWinners.map(w => {
     const scores = getMonthScores(w.month);
     const topScores = scores.slice(0, 5).map((s, i) =>
-      `<div style="margin-left:16px; color: var(--text-muted); font-size:0.85rem;">${i + 1}. ${s.name} — ${s.count} mentions</div>`
+      `<div style="margin-left:16px; color: var(--text-muted); font-size:0.85rem;">${i + 1}. ${esc(s.name)} — ${s.count} mentions</div>`
     ).join('');
 
     return `<div class="history-card">
       <h3>${formatMonthLabel(w.month)}</h3>
-      ${w.first ? '<div class="winner-line"><span class="icon">&#x1f947;</span> <strong>' + w.first + '</strong> — 1st Place ($100)</div>' : '<div class="winner-line"><span class="icon">&#x1f947;</span> <em>No 1st place winner</em></div>'}
-      ${w.second ? '<div class="winner-line"><span class="icon">&#x1f948;</span> <strong>' + w.second + '</strong> — 2nd Place</div>' : '<div class="winner-line"><span class="icon">&#x1f948;</span> <em>No 2nd place winner</em></div>'}
+      ${w.first ? '<div class="winner-line"><span class="icon">&#x1f947;</span> <strong>' + esc(w.first) + '</strong> — 1st Place ($100)</div>' : '<div class="winner-line"><span class="icon">&#x1f947;</span> <em>No 1st place winner</em></div>'}
+      ${w.second ? '<div class="winner-line"><span class="icon">&#x1f948;</span> <strong>' + esc(w.second) + '</strong> — 2nd Place</div>' : '<div class="winner-line"><span class="icon">&#x1f948;</span> <em>No 2nd place winner</em></div>'}
       <details style="margin-top:8px"><summary style="cursor:pointer; color: var(--text-muted); font-size:0.85rem;">Full standings</summary>${topScores}</details>
     </div>`;
   }).join('');
 }
 
-// Re-render history when tab is clicked
 document.querySelector('[data-tab="history"]').addEventListener('click', renderHistory);
 
 // ── Weekly Update Generator ───────────────────────
@@ -493,8 +507,6 @@ document.getElementById('generate-update-btn').addEventListener('click', () => {
       if (!w.second) {
         const gap = SECOND_PLACE_THRESHOLD - s.count;
         parts.push(gap + ' away from 2nd');
-      } else if (!w.first) {
-        // 2nd is won but 1st isn't — shouldn't normally happen given thresholds
       }
       if (parts.length) line += '  (' + parts.join(', ') + ')';
     }
@@ -514,11 +526,46 @@ document.getElementById('copy-update-btn').addEventListener('click', () => {
   const textarea = document.getElementById('update-text');
   textarea.select();
   navigator.clipboard.writeText(textarea.value).then(() => {
-    const confirm = document.getElementById('copy-confirm');
-    confirm.classList.remove('hidden');
-    setTimeout(() => confirm.classList.add('hidden'), 2000);
+    const confirmEl = document.getElementById('copy-confirm');
+    confirmEl.classList.remove('hidden');
+    setTimeout(() => confirmEl.classList.add('hidden'), 2000);
   });
 });
+
+// ── Data Export/Import ────────────────────────────
+function exportData() {
+  const data = { servers, mentions, winners, reviewCounts, exportDate: new Date().toISOString() };
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'leaderboard-backup-' + getLocalYearMonth() + '.json';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function importData(file) {
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const data = JSON.parse(reader.result);
+      if (data.servers) { servers = data.servers; save('servers', servers); }
+      if (data.mentions) { mentions = data.mentions; save('mentions', mentions); }
+      if (data.winners) { winners = data.winners; save('winners', winners); }
+      if (data.reviewCounts) { reviewCounts = data.reviewCounts; save('reviewCounts', reviewCounts); }
+      renderLeaderboard();
+      renderServers();
+      alert('Data imported successfully!');
+    } catch {
+      alert('Invalid backup file.');
+    }
+  };
+  reader.readAsText(file);
+}
+
+// Expose for the UI buttons
+window.exportData = exportData;
+window.importData = importData;
 
 // ── Initial render ────────────────────────────────
 renderLeaderboard();
