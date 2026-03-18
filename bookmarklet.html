@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Review Grabber — Setup</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0f1117; color: #e4e6ed; line-height: 1.7; padding: 24px;
+    }
+    .container { max-width: 700px; margin: 0 auto; }
+    h1 { font-size: 1.4rem; margin-bottom: 8px; }
+    h2 { font-size: 1.1rem; margin: 24px 0 8px; color: #6c63ff; }
+    p, li { font-size: 0.95rem; color: #b0b3c5; }
+    ol { padding-left: 20px; }
+    li { margin-bottom: 10px; }
+    .bookmarklet-link {
+      display: inline-block;
+      background: #6c63ff;
+      color: #fff;
+      padding: 14px 28px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1rem;
+      margin: 16px 0;
+      cursor: grab;
+    }
+    .bookmarklet-link:hover { background: #5a52e0; }
+    .note {
+      background: #1a1d27;
+      border: 1px solid #2a2e3a;
+      border-radius: 10px;
+      padding: 14px;
+      margin: 16px 0;
+      font-size: 0.9rem;
+    }
+    .note strong { color: #f1c40f; }
+    code {
+      background: #1a1d27;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.85rem;
+    }
+    .back-link { color: #6c63ff; text-decoration: none; font-size: 0.9rem; }
+    .back-link:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="index.html" class="back-link">&larr; Back to Leaderboard</a>
+
+    <h1>Review Grabber Bookmarklet</h1>
+    <p>One-click tool to extract all Google Maps reviews from the browser. No extensions, no installs.</p>
+
+    <h2>Setup (one time)</h2>
+    <ol>
+      <li><strong>Drag</strong> the button below to your browser's <strong>bookmarks bar</strong>. If you don't see the bookmarks bar, press <code>Ctrl+Shift+B</code> (Windows) or <code>Cmd+Shift+B</code> (Mac) to show it.</li>
+    </ol>
+
+    <!-- The bookmarklet link — drag this to bookmarks bar -->
+    <a class="bookmarklet-link" href="javascript:void(function(){const%20SCROLL_DELAY=800,MAX_SCROLLS=500;let%20statusDiv=document.getElementById('_rgStatus');if(statusDiv){statusDiv.remove()}statusDiv=document.createElement('div');statusDiv.id='_rgStatus';statusDiv.style.cssText='position:fixed;top:20px;right:20px;z-index:99999;background:%23222;color:%23fff;padding:16px%2024px;border-radius:10px;font-family:sans-serif;font-size:14px;box-shadow:0%204px%2020px%20rgba(0,0,0,.5);min-width:280px';document.body.appendChild(statusDiv);function%20setStatus(msg){statusDiv.innerHTML=msg}async%20function%20run(){setStatus('Finding%20reviews%20panel...');const%20scrollable=document.querySelector('div.m6QErb.DxyBCb.kA9KIf.dS8AEf')%7C%7Cdocument.querySelector('div.m6QErb.DxyBCb.kA9KIf')%7C%7Cdocument.querySelector('div.m6QErb.DxyBCb')%7C%7Cdocument.querySelector('div.m6QErb');if(!scrollable){setStatus('Could%20not%20find%20reviews%20panel.%20Make%20sure%20you%20are%20on%20a%20Google%20Maps%20page%20with%20reviews%20open.%20<br><button%20onclick=%22this.parentElement.remove()%22%20style=%22margin-top:8px;padding:6px%2012px;border:none;background:%236c63ff;color:white;border-radius:6px;cursor:pointer%22>Close</button>');return}setStatus('Scrolling%20to%20load%20all%20reviews...<br>0%20reviews%20loaded');let%20prevHeight=0,scrollCount=0,stableCount=0;while(scrollCount<MAX_SCROLLS){scrollable.scrollTop=scrollable.scrollHeight;await%20new%20Promise(r=>setTimeout(r,SCROLL_DELAY));const%20reviewEls=scrollable.querySelectorAll('div.jftiEf');setStatus('Scrolling%20to%20load%20all%20reviews...<br>'+reviewEls.length+'%20reviews%20loaded');if(scrollable.scrollHeight===prevHeight){stableCount++;if(stableCount>=3)break}else{stableCount=0}prevHeight=scrollable.scrollHeight;scrollCount++}const%20reviewEls=scrollable.querySelectorAll('div.jftiEf');const%20reviews=[];reviewEls.forEach(el=>{const%20nameEl=el.querySelector('.d4r55');const%20starsEl=el.querySelector('.kvMYJc');const%20textEl=el.querySelector('.wiI7pd');const%20dateEl=el.querySelector('.rsqaWe');const%20name=nameEl?nameEl.textContent.trim():'Unknown';const%20starsLabel=starsEl?starsEl.getAttribute('aria-label'):'';const%20starsMatch=starsLabel.match(/(\d)/);const%20stars=starsMatch?parseInt(starsMatch[1]):0;const%20text=textEl?textEl.textContent.trim():'';const%20date=dateEl?dateEl.textContent.trim():'';if(text.length>0){reviews.push({name,stars,text,date})}});let%20output='';reviews.forEach(r=>{output+=r.name+'\n'+r.stars+'%20stars\n'+r.date+'\n'+r.text+'\n\n'});if(reviews.length===0){setStatus('No%20reviews%20found.%20<br><button%20onclick=%22this.parentElement.remove()%22%20style=%22margin-top:8px;padding:6px%2012px;border:none;background:%236c63ff;color:white;border-radius:6px;cursor:pointer%22>Close</button>');return}navigator.clipboard.writeText(output).then(()=>{setStatus('<strong>Done!</strong>%20'+reviews.length+'%20reviews%20copied%20to%20clipboard.<br><br>Now%20go%20to%20the%20Leaderboard%20app%20&rarr;%20Process%20Reviews%20tab%20&rarr;%20Paste.<br><br><button%20onclick=%22this.parentElement.remove()%22%20style=%22margin-top:8px;padding:6px%2012px;border:none;background:%236c63ff;color:white;border-radius:6px;cursor:pointer%22>Close</button>')}).catch(()=>{const%20ta=document.createElement('textarea');ta.value=output;ta.style.cssText='position:fixed;top:80px;right:20px;z-index:99999;width:350px;height:300px;font-size:12px';document.body.appendChild(ta);ta.select();setStatus('<strong>Done!</strong>%20'+reviews.length+'%20reviews%20extracted.<br>Clipboard%20blocked%20%E2%80%94%20select%20all%20text%20in%20the%20box%20below%20and%20copy%20manually.<br><br><button%20onclick=%22this.parentElement.remove();document.querySelector(%27textarea[style*=fixed]%27).remove()%22%20style=%22margin-top:8px;padding:6px%2012px;border:none;background:%236c63ff;color:white;border-radius:6px;cursor:pointer%22>Close</button>')})}run()}());">
+      Grab Reviews
+    </a>
+
+    <div class="note">
+      <strong>Tip:</strong> On mobile, you can't drag bookmarklets. Instead, bookmark this page, then edit the bookmark and replace the URL with the bookmarklet code. Or just use the desktop method — it's easier.
+    </div>
+
+    <h2>How to use (each time)</h2>
+    <ol>
+      <li>Go to the <a href="https://maps.app.goo.gl/BtnRijkb7dZvYe148" target="_blank" style="color:#6c63ff">Local Public Eatery Leaside</a> Google Maps page.</li>
+      <li>Click on the <strong>Reviews</strong> section so the reviews panel is open.</li>
+      <li>Click the <strong>"Grab Reviews"</strong> bookmark in your bookmarks bar.</li>
+      <li>Wait while it auto-scrolls through all reviews (you'll see a progress counter).</li>
+      <li>When it says "Done", all reviews are copied to your clipboard.</li>
+      <li>Go to the <a href="index.html" style="color:#6c63ff">Leaderboard</a> &rarr; <strong>Process Reviews</strong> tab &rarr; paste &rarr; click <strong>Parse Reviews</strong>.</li>
+    </ol>
+
+    <h2>What it does</h2>
+    <ul style="padding-left: 20px;">
+      <li>Auto-scrolls the reviews panel to load <strong>every</strong> review</li>
+      <li>Extracts: reviewer name, star rating, date, and review text</li>
+      <li>Skips owner/business replies automatically</li>
+      <li>Formats everything and copies to clipboard</li>
+      <li>Shows a live progress counter while scrolling</li>
+    </ul>
+
+    <h2>Troubleshooting</h2>
+    <ul style="padding-left: 20px;">
+      <li><strong>"Could not find reviews panel"</strong> — Make sure you've clicked into the Reviews section on the Google Maps page. The reviews list should be visible and scrollable.</li>
+      <li><strong>Clipboard blocked</strong> — Some browsers block clipboard access. A text box will appear instead; select all and copy manually.</li>
+      <li><strong>Missing reviews</strong> — If Google Maps has hundreds of reviews, the scroll may take 30-60 seconds. Let it finish.</li>
+    </ul>
+  </div>
+</body>
+</html>
