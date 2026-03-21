@@ -1,0 +1,55 @@
+name: Fetch Birdeye Reviews
+
+on:
+  # Run every day at 6:00 AM UTC (2 AM EST / 3 AM EDT)
+  schedule:
+    - cron: '0 6 * * *'
+
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      month:
+        description: 'Month to fetch (YYYY-MM, leave blank for current month)'
+        required: false
+        default: ''
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit the JSON file back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch reviews from Birdeye
+        env:
+          BIRDEYE_API_KEY: ${{ secrets.BIRDEYE_API_KEY }}
+          BIRDEYE_BUSINESS_ID: ${{ secrets.BIRDEYE_BUSINESS_ID }}
+        run: |
+          MONTH="${{ github.event.inputs.month }}"
+          if [ -z "$MONTH" ]; then
+            node scripts/fetch-reviews.js
+          else
+            node scripts/fetch-reviews.js "$MONTH"
+          fi
+
+      - name: Commit and push review data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update review data [skip ci]"
+            git push
+          fi

@@ -627,6 +627,83 @@ function importData(file) {
 window.exportData = exportData;
 window.importData = importData;
 
+// ── Birdeye Auto-Fetch ────────────────────────────
+// Reviews are fetched nightly by GitHub Actions and saved as
+// data/reviews-YYYY-MM.json in the repo. This function reads
+// that file and converts it into the same format as pasted text.
+
+async function checkBirdeyeSync() {
+  try {
+    const res = await fetch('data/latest.json?_=' + Date.now());
+    if (!res.ok) return;
+    const info = await res.json();
+    const el = document.getElementById('birdeye-sync-status');
+    if (!el) return;
+    const ago = timeSince(new Date(info.fetchedAt));
+    el.textContent = `Last synced ${ago} — ${info.reviewCount} review${info.reviewCount !== 1 ? 's' : ''}`;
+    el.classList.add('synced');
+  } catch {
+    // data/latest.json doesn't exist yet — silently hide the panel
+    const panel = document.getElementById('birdeye-panel');
+    if (panel) panel.style.display = 'none';
+  }
+}
+
+function timeSince(date) {
+  const secs = Math.floor((Date.now() - date) / 1000);
+  if (secs < 60) return 'just now';
+  const mins = Math.floor(secs / 60);
+  if (mins < 60) return `${mins} min ago`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs}h ago`;
+  return `${Math.floor(hrs / 24)}d ago`;
+}
+
+// Convert a normalised Birdeye review array into the plain-text format
+// that parseReviewText() already understands.
+function birdeyeReviewsToText(reviews) {
+  return reviews.map(r => {
+    const stars = r.rating + ' stars';
+    const date = r.reviewDate ? new Date(r.reviewDate).toLocaleDateString('en-CA') : 'unknown date';
+    return [r.reviewer, stars, date, r.text].join('\n');
+  }).join('\n');
+}
+
+document.getElementById('birdeye-load-btn').addEventListener('click', async () => {
+  const btn = document.getElementById('birdeye-load-btn');
+  btn.textContent = 'Loading...';
+  btn.disabled = true;
+
+  try {
+    const res = await fetch(`data/reviews-${currentMonth}.json?_=` + Date.now());
+    if (!res.ok) throw new Error(`No data file found for ${currentMonth}`);
+    const data = await res.json();
+
+    if (!data.reviews || data.reviews.length === 0) {
+      alert('No reviews found for ' + currentMonth + '.\n\nThe nightly job may not have run yet. You can trigger it manually from the GitHub Actions tab.');
+      return;
+    }
+
+    const text = birdeyeReviewsToText(data.reviews);
+    document.getElementById('review-text').value = text;
+
+    // Scroll to the textarea and auto-parse
+    document.getElementById('review-text').scrollIntoView({ behavior: 'smooth' });
+
+    // Show a brief note
+    const statusEl = document.getElementById('birdeye-sync-status');
+    if (statusEl) {
+      statusEl.textContent = `Loaded ${data.reviews.length} reviews into the parser`;
+    }
+  } catch (err) {
+    alert('Could not load Birdeye data:\n' + err.message + '\n\nPlease use the manual paste method below, or check that the GitHub Action has run successfully.');
+  } finally {
+    btn.textContent = "Load This Month's Reviews";
+    btn.disabled = false;
+  }
+});
+
 // ── Initial render ────────────────────────────────
 renderLeaderboard();
 renderServers();
+checkBirdeyeSync();

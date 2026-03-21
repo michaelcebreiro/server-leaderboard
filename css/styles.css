@@ -619,6 +619,67 @@ textarea:focus, input[type="text"]:focus {
   margin-bottom: 8px;
 }
 
+/* ── Birdeye Panel ───────────────────────────── */
+.birdeye-panel {
+  background: linear-gradient(135deg, var(--brand-dark) 0%, var(--brand) 100%);
+  color: #fff;
+  border-radius: var(--radius-lg);
+  padding: 16px 20px;
+  margin-bottom: 8px;
+}
+
+.birdeye-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.birdeye-header > div {
+  flex: 1;
+}
+
+.birdeye-header strong {
+  display: block;
+  font-size: 0.95rem;
+  letter-spacing: 0.3px;
+}
+
+.birdeye-icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+
+.sync-status {
+  font-size: 0.78rem;
+  opacity: 0.75;
+  display: block;
+  margin-top: 2px;
+}
+
+.sync-status.synced {
+  opacity: 0.9;
+  color: #d4f8d4;
+}
+
+.birdeye-panel .help-text {
+  color: rgba(255,255,255,0.7);
+  margin-top: 6px;
+}
+
+.btn-sm {
+  font-size: 0.8rem;
+  padding: 8px 14px;
+  white-space: nowrap;
+}
+
+.divider-label {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  margin: 16px 0 12px;
+  letter-spacing: 0.5px;
+}
+
 /* ── Utility ─────────────────────────────────── */
 .hidden { display: none !important; }
 

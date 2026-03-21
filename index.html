@@ -91,8 +91,23 @@
     <!-- Process Reviews Tab -->
     <section id="tab-process" class="tab-content">
       <h2>Process Reviews</h2>
+
+      <!-- Birdeye auto-fetch panel -->
+      <div class="birdeye-panel" id="birdeye-panel">
+        <div class="birdeye-header">
+          <span class="birdeye-icon">&#9729;</span>
+          <div>
+            <strong>Auto-Fetch via Birdeye</strong>
+            <span id="birdeye-sync-status" class="sync-status"></span>
+          </div>
+          <button id="birdeye-load-btn" class="btn btn-primary btn-sm">Load This Month's Reviews</button>
+        </div>
+        <p class="help-text" style="margin-top:6px">Reviews are fetched automatically each night. Click to load them into the parser below.</p>
+      </div>
+
+      <div class="divider-label">— or paste manually —</div>
+
       <p class="help-text">Copy reviews from Google Maps and paste them below. The system will extract server names from 4 and 5 star reviews and ignore owner/staff replies.</p>
-      <p class="help-text">Tip: On the Google Maps reviews page, scroll through the month's reviews, then select all and copy-paste them here. The parser handles the rest.</p>
 
       <div class="form-group">
         <label for="review-text">Paste Google Maps reviews:</label>
