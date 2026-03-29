@@ -80,8 +80,8 @@ function getMonthScores(month) {
 }
 
 // Determine current projected winners based on scores (dynamic, not locked in)
-// 1st place: highest count among those with >= 25 mentions
-// 2nd place: next highest count among those with >= 18 mentions
+// 1st place: highest count among those with >= FIRST_PLACE_THRESHOLD mentions
+// 2nd place: next highest count among those with >= SECOND_PLACE_THRESHOLD mentions
 // Positions can change at any time until month end
 function getProjectedWinners(month) {
   const scores = getMonthScores(month);
@@ -172,11 +172,11 @@ function renderLeaderboard() {
     .map((s, i) => {
       const rank = i + 1;
 
-      // "To 1st" = how many more to reach the 25 threshold
+      // "To 1st" = how many more to reach the threshold
       const gapFirst = FIRST_PLACE_THRESHOLD - s.count;
       const toFirst = gapFirst <= 0 ? 'Qualified' : gapFirst + ' away';
 
-      // "To 2nd" = how many more to reach the 18 threshold
+      // "To 2nd" = how many more to reach the threshold
       const gapSecond = SECOND_PLACE_THRESHOLD - s.count;
       const toSecond = gapSecond <= 0 ? 'Qualified' : gapSecond + ' away';
 
@@ -393,8 +393,8 @@ function renderHistory() {
 
     return `<div class="history-card">
       <h3>${formatMonthLabel(month)}</h3>
-      ${w.first ? '<div class="winner-line"><span class="icon">&#x1f947;</span> <strong>' + esc(w.first) + '</strong> — 1st Place ($100)</div>' : '<div class="winner-line"><span class="icon">&#x1f947;</span> <em>No one qualified for 1st (needed 25+)</em></div>'}
-      ${w.second ? '<div class="winner-line"><span class="icon">&#x1f948;</span> <strong>' + esc(w.second) + '</strong> — 2nd Place ($50)</div>' : '<div class="winner-line"><span class="icon">&#x1f948;</span> <em>No one qualified for 2nd (needed 18+)</em></div>'}
+      ${w.first ? '<div class="winner-line"><span class="icon">&#x1f947;</span> <strong>' + esc(w.first) + '</strong> — 1st Place ($100)</div>' : '<div class="winner-line"><span class="icon">&#x1f947;</span> <em>No one qualified for 1st (needed ' + FIRST_PLACE_THRESHOLD + '+)</em></div>'}
+      ${w.second ? '<div class="winner-line"><span class="icon">&#x1f948;</span> <strong>' + esc(w.second) + '</strong> — 2nd Place ($50)</div>' : '<div class="winner-line"><span class="icon">&#x1f948;</span> <em>No one qualified for 2nd (needed ' + SECOND_PLACE_THRESHOLD + '+)</em></div>'}
       <details style="margin-top:8px"><summary style="cursor:pointer; color: var(--text-muted); font-size:0.85rem;">Full standings</summary>${topScores}</details>
     </div>`;
   }).join('');
@@ -421,14 +421,14 @@ document.getElementById('generate-update-btn').addEventListener('click', () => {
   text += `${monthLabel} — Week ${weekNum}\n`;
   text += `${'─'.repeat(36)}\n\n`;
 
-  text += `1st Place ($100): Need 25+ mentions — highest count wins\n`;
-  text += `2nd Place ($50): Need 18+ mentions — 2nd highest wins\n`;
+  text += `1st Place ($100): Need ${FIRST_PLACE_THRESHOLD}+ mentions — highest count wins\n`;
+  text += `2nd Place ($50): Need ${SECOND_PLACE_THRESHOLD}+ mentions — 2nd highest wins\n`;
   text += `Deadline: End of month (${daysLeft} day${daysLeft !== 1 ? 's' : ''} left!)\n\n`;
 
   if (w.first) {
     text += `Currently leading 1st: ${w.first}\n`;
   } else {
-    text += `No one has qualified for 1st yet (need 25+)\n`;
+    text += `No one has qualified for 1st yet (need ${FIRST_PLACE_THRESHOLD}+)\n`;
   }
   if (w.second) {
     text += `Currently projected 2nd: ${w.second}\n`;
