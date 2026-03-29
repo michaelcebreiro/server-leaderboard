@@ -2,8 +2,8 @@
    Server Leaderboard — Local Public Eatery Leaside
    ══════════════════════════════════════════════════ */
 
-const FIRST_PLACE_THRESHOLD = 25;
-const SECOND_PLACE_THRESHOLD = 18;
+const FIRST_PLACE_THRESHOLD = 20;
+const SECOND_PLACE_THRESHOLD = 15;
 
 // ── HTML sanitization ──────────────────────────────
 function esc(str) {
@@ -146,8 +146,8 @@ function renderLeaderboard() {
   document.getElementById('active-servers').textContent = servers.length;
 
   // Prize banner status
-  const firstLabel = finalized ? 'Final' : 'Qualify with 25+ mentions';
-  const secondLabel = finalized ? 'Final' : 'Qualify with 18+ mentions';
+  const firstLabel = finalized ? 'Final' : `Qualify with ${FIRST_PLACE_THRESHOLD}+ mentions`;
+  const secondLabel = finalized ? 'Final' : `Qualify with ${SECOND_PLACE_THRESHOLD}+ mentions`;
 
   if (w.first) {
     document.getElementById('first-place-status').textContent =
