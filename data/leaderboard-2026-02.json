@@ -1,6 +1,6 @@
 {
   "month": "2026-02",
-  "processedAt": "2026-03-29T22:28:26.082Z",
+  "processedAt": "2026-03-29T22:28:57.922Z",
   "reviewCount": 117,
   "qualifyingReviewCount": 114,
   "thresholds": {
@@ -9,14 +9,14 @@
   },
   "winners": {
     "finalized": true,
-    "first": null,
-    "second": "Danielle"
+    "first": "Danielle",
+    "second": "Ewan"
   },
   "standings": [
     {
       "rank": 1,
       "server": "Danielle",
-      "count": 18
+      "count": 20
     },
     {
       "rank": 2,
@@ -80,76 +80,71 @@
     },
     {
       "rank": 14,
-      "server": "Dani",
-      "count": 2
-    },
-    {
-      "rank": 15,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "server": "Maria",
       "count": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "server": "Christina",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "server": "Jackie N",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "server": "Paulveen",
       "count": 1
     },
     {
-      "rank": 21,
+      "rank": 20,
       "server": "Rivaldo",
       "count": 1
     },
     {
-      "rank": 22,
+      "rank": 21,
       "server": "Sofie",
       "count": 1
     },
     {
-      "rank": 23,
+      "rank": 22,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 23,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 24,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 25,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 26,
       "server": "Qam",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 27,
       "server": "Ricki",
       "count": 0
     }
@@ -601,7 +596,7 @@
     },
     {
       "server": "Danielle",
-      "count": 18,
+      "count": 20,
       "reviews": [
         {
           "reviewer": "Brielle Small",
@@ -684,6 +679,18 @@
         {
           "reviewer": "Arash Jahangir",
           "text": "Nicky and Danielle rock.  Great service.",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Elina Ramezani",
+          "text": "We were here for the Super Bowl. We had such an amazing experience here, and a huge part of that was thanks to our server Dani and the manager Nicky. Dani was incredibly attentive, friendly, and made us feel genuinely taken care of from start to finish. She anticipated what we needed before we even had to ask and brought such positive energy to the table.\nNicky was also fantastic! you can really tell when a restaurant has strong leadership, and it shows in the service and overall atmosphere. Everything ran smoothly, and we felt truly valued as guests.",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Bardia Dehbasti",
+          "text": "Greatest bar, best beer and best food especially the Asian inspired menu.\nOh and even greater service, our servers Nicky, and Dani were so nice and caring and provided the best service.\n10/10 recommended.",
           "date": "2026-02-09",
           "rating": 5
         },
@@ -895,24 +902,6 @@
           "reviewer": "Marek Khella",
           "text": "Came with my family and Ben and Karina were wonderful serving and bartending for us! Paulveen, Alessia, Aisia and Rivaldo were also very helpful, friendly and attentive!",
           "date": "2026-02-17",
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "server": "Dani",
-      "count": 2,
-      "reviews": [
-        {
-          "reviewer": "Elina Ramezani",
-          "text": "We were here for the Super Bowl. We had such an amazing experience here, and a huge part of that was thanks to our server Dani and the manager Nicky. Dani was incredibly attentive, friendly, and made us feel genuinely taken care of from start to finish. She anticipated what we needed before we even had to ask and brought such positive energy to the table.\nNicky was also fantastic! you can really tell when a restaurant has strong leadership, and it shows in the service and overall atmosphere. Everything ran smoothly, and we felt truly valued as guests.",
-          "date": "2026-02-09",
-          "rating": 5
-        },
-        {
-          "reviewer": "Bardia Dehbasti",
-          "text": "Greatest bar, best beer and best food especially the Asian inspired menu.\nOh and even greater service, our servers Nicky, and Dani were so nice and caring and provided the best service.\n10/10 recommended.",
-          "date": "2026-02-09",
           "rating": 5
         }
       ]
