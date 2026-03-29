@@ -136,6 +136,71 @@ function processMonth(month, servers) {
   return leaderboard;
 }
 
+// ── Auto-discovery of new server names ──────────────────────
+
+const NAME_PATTERNS = [
+  /\b([A-Z][a-z]{2,})\s+(?:was|is|were)\s+(?:a\s+)?(?:great|amazing|awesome|fantastic|wonderful|lovely|excellent|exceptional|phenomenal|incredible|attentive|friendly|professional|charming|knowledgeable|accommodating|helpful|efficient|pleasant|sweet|personable|the best|new but great|so\s+(?:kind|nice|helpful|friendly|sweet|professional|attentive|lovely|great|fun|good))/gi,
+  /(?:our|my|the)\s+(?:server|waitress|waiter|host|hostess|bartender)[,\s]+([A-Z][a-z]{2,})/gi,
+  /(?:served by|shoutout to|thanks? to|thank you to|big thank you to)\s+([A-Z][a-z]{2,})/gi,
+  /(?:server|waitress|waiter|host|hostess|bartender)\s+([A-Z][a-z]{2,})\b/gi,
+  /\b([A-Z][a-z]{2,})\s+(?:made our|gave us|kept our|took care|brought out|checked in|remembered|provided|hosted|killed it|absolutely killed)/gi,
+  /\b([A-Z][a-z]{2,})\s+(?:and|&|\+)\s+[A-Z][a-z]{2,}\s+(?:were|was|both|perfect)/gi,
+  /(?:and|&|\+)\s+([A-Z][a-z]{2,})\s+(?:were|was|both|perfect|made)/gi,
+  /\b([A-Z][a-z]{2,})'s\s+service/gi,
+];
+
+const STOP_WORDS = new Set([
+  'she','her','his','they','the','our','was','and','are','but','for','had','has','have','who','that','this','not','you','all','can','its',
+  'food','place','local','public','service','great','amazing','good','best','really','super','also','would','could','such','much',
+  'very','been','came','come','went','made','will','just','even','more','always','definitely','totally','absolutely','everything',
+  'someone','something','never','another','their','loved','between','honestly','liked','hopefully','tired','huge','speaking','except',
+  'highly','popped','services','fantastic','fabulous','double','burger','whoever','mystery','kudos','shoutout','trivia','york',
+  'excellent','attentive','drinks','night','right','well','here','there','where','atmosphere','host','server','waitress','waiter',
+  'bartender','during','again','throughout','last','next','first','fast','slow','kids','either','which','every',
+  'leaside','toronto','monday','tuesday','wednesday','thursday','friday','saturday','sunday',
+  'january','february','march','april','may','june','july','august','september','october','november','december',
+  'fish','staff','today','yesterday','care','attention','level','vibe','selection','recommendations',
+  'kindness','patience','experience','quality','portion','portions','price','prices','decor','ambiance',
+]);
+
+function discoverNewServers(servers) {
+  const knownNames = new Set();
+  servers.forEach(s => {
+    knownNames.add(s.name.toLowerCase());
+    (s.aliases || []).forEach(a => knownNames.add(a.toLowerCase()));
+  });
+
+  // Scan ALL review files for name patterns
+  const reviewFiles = fs.readdirSync(dataDir).filter(f => /^reviews-\d{4}-\d{2}\.json$/.test(f));
+  const candidates = {};
+
+  reviewFiles.forEach(file => {
+    const raw = JSON.parse(fs.readFileSync(path.join(dataDir, file), 'utf8'));
+    (raw.reviews || []).forEach(r => {
+      if (r.rating < 4 || !r.text) return;
+      NAME_PATTERNS.forEach(pat => {
+        pat.lastIndex = 0;
+        let match;
+        while ((match = pat.exec(r.text)) !== null) {
+          const name = match[1];
+          if (!name || name.length < 3) continue;
+          if (STOP_WORDS.has(name.toLowerCase())) continue;
+          if (knownNames.has(name.toLowerCase())) continue;
+          if (!candidates[name]) candidates[name] = new Set();
+          candidates[name].add(r.reviewer || 'unknown');
+        }
+      });
+    });
+  });
+
+  // Only auto-add names mentioned by 2+ unique reviewers (high confidence)
+  const newServers = Object.entries(candidates)
+    .filter(([, reviewers]) => reviewers.size >= 2)
+    .map(([name]) => ({ name, aliases: [] }));
+
+  return newServers;
+}
+
 // ── Main ────────────────────────────────────────────────────
 
 const serversFile = path.join(dataDir, 'servers.json');
@@ -143,8 +208,21 @@ if (!fs.existsSync(serversFile)) {
   console.error('Error: data/servers.json not found.');
   process.exit(1);
 }
-const servers = JSON.parse(fs.readFileSync(serversFile, 'utf8')).servers || [];
+const serverData = JSON.parse(fs.readFileSync(serversFile, 'utf8'));
+let servers = serverData.servers || [];
 console.log(`Loaded ${servers.length} servers from data/servers.json`);
+
+// Auto-discover new server names from all reviews
+const newServers = discoverNewServers(servers);
+if (newServers.length > 0) {
+  console.log(`Discovered ${newServers.length} new server(s): ${newServers.map(s => s.name).join(', ')}`);
+  servers = servers.concat(newServers);
+  serverData.servers = servers;
+  fs.writeFileSync(serversFile, JSON.stringify(serverData, null, 2));
+  console.log(`Updated data/servers.json (now ${servers.length} servers)`);
+} else {
+  console.log('No new servers discovered.');
+}
 
 const arg = process.argv[2] || (() => {
   const d = new Date();

@@ -1,31 +1,126 @@
 {
   "servers": [
-    { "name": "Mia", "aliases": [] },
-    { "name": "Akiko", "aliases": [] },
-    { "name": "Karina", "aliases": [] },
-    { "name": "Christina", "aliases": [] },
-    { "name": "Annabel", "aliases": ["Annabelle"] },
-    { "name": "Maria", "aliases": [] },
-    { "name": "Meklit", "aliases": ["Mekilt"] },
-    { "name": "Ewan", "aliases": ["Ewen"] },
-    { "name": "Kayla", "aliases": [] },
-    { "name": "Nicola", "aliases": [] },
-    { "name": "Nicky", "aliases": [] },
-    { "name": "Ben", "aliases": [] },
-    { "name": "Danielle", "aliases": [] },
-    { "name": "Sofie", "aliases": ["Sophie"] },
-    { "name": "Ricki", "aliases": [] },
-    { "name": "Matteo", "aliases": [] },
-    { "name": "Alessia", "aliases": [] },
-    { "name": "Josh", "aliases": [] },
-    { "name": "Jackie", "aliases": ["Jacquie"] },
-    { "name": "Jackie G", "aliases": [] },
-    { "name": "Jackie N", "aliases": [] },
-    { "name": "Eli", "aliases": [] },
-    { "name": "Paulveen", "aliases": [] },
-    { "name": "Ivy", "aliases": [] },
-    { "name": "Kalypsa", "aliases": [] },
-    { "name": "Rivaldo", "aliases": [] },
-    { "name": "Qam", "aliases": [] }
+    {
+      "name": "Mia",
+      "aliases": []
+    },
+    {
+      "name": "Akiko",
+      "aliases": []
+    },
+    {
+      "name": "Karina",
+      "aliases": []
+    },
+    {
+      "name": "Christina",
+      "aliases": []
+    },
+    {
+      "name": "Annabel",
+      "aliases": [
+        "Annabelle"
+      ]
+    },
+    {
+      "name": "Maria",
+      "aliases": []
+    },
+    {
+      "name": "Meklit",
+      "aliases": [
+        "Mekilt"
+      ]
+    },
+    {
+      "name": "Ewan",
+      "aliases": [
+        "Ewen"
+      ]
+    },
+    {
+      "name": "Kayla",
+      "aliases": []
+    },
+    {
+      "name": "Nicola",
+      "aliases": []
+    },
+    {
+      "name": "Nicky",
+      "aliases": []
+    },
+    {
+      "name": "Ben",
+      "aliases": []
+    },
+    {
+      "name": "Danielle",
+      "aliases": []
+    },
+    {
+      "name": "Sofie",
+      "aliases": [
+        "Sophie"
+      ]
+    },
+    {
+      "name": "Ricki",
+      "aliases": []
+    },
+    {
+      "name": "Matteo",
+      "aliases": []
+    },
+    {
+      "name": "Alessia",
+      "aliases": []
+    },
+    {
+      "name": "Josh",
+      "aliases": []
+    },
+    {
+      "name": "Jackie",
+      "aliases": [
+        "Jacquie"
+      ]
+    },
+    {
+      "name": "Jackie G",
+      "aliases": []
+    },
+    {
+      "name": "Jackie N",
+      "aliases": []
+    },
+    {
+      "name": "Eli",
+      "aliases": []
+    },
+    {
+      "name": "Paulveen",
+      "aliases": []
+    },
+    {
+      "name": "Ivy",
+      "aliases": []
+    },
+    {
+      "name": "Kalypsa",
+      "aliases": []
+    },
+    {
+      "name": "Rivaldo",
+      "aliases": []
+    },
+    {
+      "name": "Qam",
+      "aliases": []
+    },
+    {
+      "name": "Dani",
+      "aliases": []
+    }
   ]
 }
