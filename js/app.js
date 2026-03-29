@@ -217,77 +217,6 @@ function renderLeaderboard() {
 }
 
 // ── Review Parsing ────────────────────────────────
-function parseReviewText(rawText) {
-  const results = [];
-  const lines = rawText.split('\n').map(l => l.trim()).filter(l => l.length > 0);
-
-  let i = 0;
-  while (i < lines.length) {
-    const starMatch = lines[i].match(/^(\d)\s*star/i)
-      || lines[i].match(/(\d)\s*(?:star|estrella)/i)
-      || lines[i].match(/^([1-5])\/5/);
-
-    const unicodeStarMatch = lines[i].match(/^([★⭐]{1,5})$/);
-
-    let rating = null;
-    if (starMatch) {
-      rating = parseInt(starMatch[1]);
-    } else if (unicodeStarMatch) {
-      rating = unicodeStarMatch[1].length;
-    }
-
-    if (rating !== null) {
-      const reviewerName = i > 0 ? lines[i - 1] : 'Unknown';
-      let reviewText = '';
-      let j = i + 1;
-
-      // Skip the "time ago" line
-      if (j < lines.length && /^\d+|^a\s/i.test(lines[j]) && /ago$/i.test(lines[j])) {
-        j++;
-      }
-
-      while (j < lines.length) {
-        if (/^(response from|reply from|respuesta de)/i.test(lines[j])) {
-          j++;
-          if (j < lines.length && /ago$/i.test(lines[j])) j++;
-          while (j < lines.length) {
-            if (j + 1 < lines.length) {
-              const nextStarMatch = lines[j + 1].match(/^(\d)\s*star/i)
-                || lines[j + 1].match(/^([★⭐]{1,5})$/);
-              if (nextStarMatch) break;
-            }
-            j++;
-          }
-          break;
-        }
-
-        if (j + 1 < lines.length) {
-          const nextStarMatch = lines[j + 1].match(/^(\d)\s*star/i)
-            || lines[j + 1].match(/(\d)\s*(?:star|estrella)/i)
-            || lines[j + 1].match(/^([★⭐]{1,5})$/);
-          if (nextStarMatch) break;
-        }
-
-        reviewText += lines[j] + ' ';
-        j++;
-      }
-
-      results.push({
-        reviewer: reviewerName,
-        rating,
-        text: reviewText.trim(),
-        mentionedServers: []
-      });
-
-      i = j;
-    } else {
-      i++;
-    }
-  }
-
-  return results;
-}
-
 function findServerMentions(reviews) {
   const allNames = [];
   servers.forEach(s => {
@@ -322,53 +251,7 @@ function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-// Parse button
-document.getElementById('parse-btn').addEventListener('click', () => {
-  const raw = document.getElementById('review-text').value;
-  if (!raw.trim()) return;
-
-  if (servers.length === 0) {
-    alert('Please add server names first in the "Manage Servers" tab.');
-    return;
-  }
-
-  let reviews = parseReviewText(raw);
-  reviews = findServerMentions(reviews);
-
-  const qualifyingReviews = reviews.filter(r => r.rating >= 4);
-  const withMentions = qualifyingReviews.filter(r => r.mentionedServers.length > 0);
-  const skippedReviews = reviews.filter(r => r.rating < 4);
-
-  document.getElementById('parse-results').classList.remove('hidden');
-  document.getElementById('parse-summary').innerHTML = `
-    <strong>${reviews.length}</strong> reviews parsed |
-    <strong>${skippedReviews.length}</strong> below 4 stars (skipped) |
-    <strong>${qualifyingReviews.length}</strong> qualifying (4-5 stars) |
-    <strong>${withMentions.length}</strong> with server mentions
-  `;
-
-  const container = document.getElementById('parsed-reviews');
-  container.innerHTML = reviews.map(r => {
-    const stars = '★'.repeat(r.rating) + '☆'.repeat(5 - r.rating);
-    let mentionHtml = '';
-    if (r.rating < 4) {
-      mentionHtml = '<span class="skipped">Skipped (below 4 stars)</span>';
-    } else if (r.mentionedServers.length > 0) {
-      mentionHtml = '<span class="mention-found">Mentions: ' + r.mentionedServers.map(esc).join(', ') + '</span>';
-    } else {
-      mentionHtml = '<span class="no-mention">No server name found</span>';
-    }
-
-    const snippet = r.text.length > 120 ? r.text.slice(0, 120) + '...' : r.text;
-    return `<div class="parsed-review">
-      <span class="stars">${stars}</span> — ${esc(r.reviewer)}<br>
-      <small>${esc(snippet)}</small><br>
-      ${mentionHtml}
-    </div>`;
-  }).join('');
-
-  window._parsedReviews = reviews;
-});
+// Parse button removed — Birdeye flow handles parsing directly
 
 // Confirm button
 document.getElementById('confirm-btn').addEventListener('click', () => {
@@ -407,7 +290,6 @@ document.getElementById('confirm-btn').addEventListener('click', () => {
   alert(added + ' new mention(s) recorded.');
 
   document.getElementById('parse-results').classList.add('hidden');
-  document.getElementById('review-text').value = '';
   window._parsedReviews = null;
 });
 
@@ -666,15 +548,7 @@ function timeSince(date) {
   return `${Math.floor(hrs / 24)}d ago`;
 }
 
-// Convert a normalised Birdeye review array into the plain-text format
-// that parseReviewText() already understands.
-function birdeyeReviewsToText(reviews) {
-  return reviews.map(r => {
-    const stars = r.rating + ' stars';
-    const date = r.reviewDate ? new Date(r.reviewDate).toLocaleDateString('en-CA') : 'unknown date';
-    return [r.reviewer, stars, date, r.text].join('\n');
-  }).join('\n');
-}
+
 
 document.getElementById('birdeye-load-btn').addEventListener('click', async () => {
   const btn = document.getElementById('birdeye-load-btn');
@@ -682,6 +556,11 @@ document.getElementById('birdeye-load-btn').addEventListener('click', async () =
   btn.disabled = true;
 
   try {
+    if (servers.length === 0) {
+      alert('Please add server names first in the "Manage Servers" tab.');
+      return;
+    }
+
     const res = await fetch(`data/reviews-${currentMonth}.json?_=` + Date.now());
     if (!res.ok) throw new Error(`No data file found for ${currentMonth}`);
     const data = await res.json();
@@ -691,13 +570,55 @@ document.getElementById('birdeye-load-btn').addEventListener('click', async () =
       return;
     }
 
-    const text = birdeyeReviewsToText(data.reviews);
-    document.getElementById('review-text').value = text;
+    // Build structured review objects directly from JSON (no text round-trip)
+    const reviews = data.reviews.map(r => ({
+      reviewer: r.reviewer || 'Unknown',
+      rating: r.rating || 0,
+      text: r.text || '',
+      reviewDate: r.reviewDate ? new Date(r.reviewDate).toLocaleDateString('en-CA') : '',
+      mentionedServers: []
+    }));
 
-    // Scroll to the textarea and auto-parse
-    document.getElementById('review-text').scrollIntoView({ behavior: 'smooth' });
+    findServerMentions(reviews);
 
-    // Show a brief note
+    // Show results using the same UI as the manual parse flow
+    const qualifyingReviews = reviews.filter(r => r.rating >= 4);
+    const withMentions = qualifyingReviews.filter(r => r.mentionedServers.length > 0);
+    const skippedReviews = reviews.filter(r => r.rating < 4);
+
+    document.getElementById('parse-results').classList.remove('hidden');
+    document.getElementById('parse-summary').innerHTML = `
+      <strong>${reviews.length}</strong> reviews parsed |
+      <strong>${skippedReviews.length}</strong> below 4 stars (skipped) |
+      <strong>${qualifyingReviews.length}</strong> qualifying (4-5 stars) |
+      <strong>${withMentions.length}</strong> with server mentions
+    `;
+
+    const container = document.getElementById('parsed-reviews');
+    container.innerHTML = reviews.map(r => {
+      const stars = '★'.repeat(r.rating) + '☆'.repeat(5 - r.rating);
+      let mentionHtml = '';
+      if (r.rating < 4) {
+        mentionHtml = '<span class="skipped">Skipped (below 4 stars)</span>';
+      } else if (r.mentionedServers.length > 0) {
+        mentionHtml = '<span class="mention-found">Mentions: ' + r.mentionedServers.map(esc).join(', ') + '</span>';
+      } else {
+        mentionHtml = '<span class="no-mention">No server name found</span>';
+      }
+
+      const snippet = r.text.length > 120 ? r.text.slice(0, 120) + '...' : r.text;
+      const dateStr = r.reviewDate ? r.reviewDate + ' ' : '';
+      return `<div class="parsed-review">
+        <span class="stars">${stars}</span> — ${esc(r.reviewer)}<br>
+        <small>${esc(dateStr + snippet)}</small><br>
+        ${mentionHtml}
+      </div>`;
+    }).join('');
+
+    window._parsedReviews = reviews;
+
+    document.getElementById('parse-results').scrollIntoView({ behavior: 'smooth' });
+
     const statusEl = document.getElementById('birdeye-sync-status');
     if (statusEl) {
       statusEl.textContent = `Loaded ${data.reviews.length} reviews into the parser`;
