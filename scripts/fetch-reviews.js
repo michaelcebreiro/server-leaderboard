@@ -63,9 +63,8 @@ async function fetchAll() {
   let fetchedAll = false;
 
   while (!fetchedAll) {
-    const url = `https://api.birdeye.com/resources/v1/reviews/businessId/${BUSINESS_ID}` +
-      `?sindex=${sindex}&count=${PAGE_SIZE}` +
-      `&startDate=${startDate}&endDate=${endDate}`;
+    const url = `https://api.birdeye.com/resources/v1/review/businessid/${BUSINESS_ID}` +
+      `?sindex=${sindex}&count=${PAGE_SIZE}`;
 
     console.log(`  Fetching page sindex=${sindex}...`);
     const data = await httpsGet(url, {
@@ -82,34 +81,40 @@ async function fetchAll() {
     allReviews.push(...page);
     console.log(`  Got ${page.length} reviews (total so far: ${allReviews.length})`);
 
-    if (page.length < PAGE_SIZE) {
+    // Reviews come newest-first; stop paginating once we've passed our date range
+    const oldestInPage = page.length ? (page[page.length - 1].rdate ?? Infinity) : 0;
+    if (page.length < PAGE_SIZE || oldestInPage < startDate) {
       fetchedAll = true;
     } else {
       sindex += PAGE_SIZE;
     }
   }
 
-  return allReviews;
+  // Filter to the target month using rdate (epoch ms)
+  return allReviews.filter(r => {
+    const ts = r.rdate ?? 0;
+    return ts >= startDate && ts <= endDate;
+  });
 }
 
 // Normalise a raw Birdeye review into the shape the app expects:
 // { reviewId, reviewer, rating, text, reviewDate, source }
 function normalise(r) {
-  const rating = parseInt(r.ratingText ?? r.rating ?? r.starRating ?? 0, 10);
+  const rating = parseInt(r.rating ?? r.ratingText ?? r.starRating ?? 0, 10);
   const reviewer =
-    r.reviewerName ?? r.reviewer?.name ?? r.userName ?? r.author ?? 'Unknown';
+    r.reviewer?.nickName ?? r.reviewer?.firstName ?? r.reviewerName ?? 'Unknown';
   const text =
     r.comments ?? r.reviewText ?? r.text ?? r.body ?? '';
-  const reviewDate =
-    r.reviewDate ?? r.createdDate ?? r.dateAdded ?? r.date ?? null;
+  // Prefer rdate (epoch ms) for reliable parsing; fall back to reviewDate string
+  const dateVal = r.rdate ?? r.reviewDate ?? r.createdDate ?? null;
 
   return {
     reviewId:   String(r.reviewId ?? r.id ?? ''),
     reviewer:   String(reviewer).trim(),
     rating,
     text:       String(text).trim(),
-    reviewDate: reviewDate ? new Date(typeof reviewDate === 'number' ? reviewDate : reviewDate).toISOString() : null,
-    source:     String(r.source ?? r.sourceName ?? '').toUpperCase(),
+    reviewDate: dateVal ? new Date(typeof dateVal === 'number' ? dateVal : dateVal).toISOString() : null,
+    source:     String(r.sourceType ?? r.source ?? '').toUpperCase(),
   };
 }
 
