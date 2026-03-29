@@ -1,0 +1,943 @@
+{
+  "month": "2026-02",
+  "fetchedAt": "2026-03-29T22:11:01.469Z",
+  "reviewCount": 117,
+  "reviews": [
+    {
+      "reviewId": "5362886335439609441",
+      "reviewer": "Iman Rawji",
+      "rating": 5,
+      "text": "Matteo was awesome!  food was outstanding as always.  Amazing service as well!   Loved it and great experience!",
+      "reviewDate": "2026-03-01T04:40:27.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327653425436103852",
+      "reviewer": "Rubina Manji-Rawji",
+      "rating": 5,
+      "text": "Matteo was amazing.   Really took care of of us.    was super friendly  and very good service.",
+      "reviewDate": "2026-03-01T04:40:15.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5362851205439605937",
+      "reviewer": "Laurie Stoneburgh",
+      "rating": 5,
+      "text": "Except food and tremendous service. Karina was excellent",
+      "reviewDate": "2026-03-01T03:20:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5362851395439605956",
+      "reviewer": "Joanna Lancaster",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-03-01T03:19:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5362844165439605237",
+      "reviewer": "Diksha Joshi",
+      "rating": 5,
+      "text": "Our server Mia was really sweet, she checked in frequently and made sure we had a really great time! Loved her drinks recommendations!",
+      "reviewDate": "2026-03-01T03:04:14.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5362761735439597024",
+      "reviewer": "J Chavada",
+      "rating": 5,
+      "text": "The atmosphere here was great very good for a team event I ended up eating a lot of the appetizers like the tuna, the skewers as well as the main with the Korean BBQ bowl",
+      "reviewDate": "2026-03-01T00:58:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5362692585439590126",
+      "reviewer": "Brielle Small",
+      "rating": 5,
+      "text": "I went to local for the first time and had the pleasure of being served by Danielle and she was amazing! Gave incredible suggestions and was so accommodating and fun. Will definitely be back",
+      "reviewDate": "2026-03-01T00:13:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5362434365439564403",
+      "reviewer": "Deki",
+      "rating": 5,
+      "text": "Meklit was great. Very helpfull and gave us great ideas regarding food and drinks. So friendly and profesional . Definitly we are comming back and bringing friends. Tkank You Meklit and Local.",
+      "reviewDate": "2026-02-28T21:20:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361973865439518495",
+      "reviewer": "Alex Ani",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-02-28T17:14:03.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361801195439501459",
+      "reviewer": "Elise Warren",
+      "rating": 5,
+      "text": "Food was delicious and Jackie and Akiko were amazing! They helped me choose a perfect cocktail and made our whole experience worth it. Great place, definitely will go back :)",
+      "reviewDate": "2026-02-28T13:46:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361792555439500603",
+      "reviewer": "Michael Wessels",
+      "rating": 5,
+      "text": "Came here on a busy Friday night and had a great time. Jackie and Akiko were super helpful with suggestions from the menu, food and drinks were quick and delicious. They were so friendly and welcoming, the vibe was just right. Overall great experience. I’ll be back!",
+      "reviewDate": "2026-02-28T13:36:09.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361582335439479706",
+      "reviewer": "Amal M",
+      "rating": 5,
+      "text": "We had such a wonderful experience, and it was truly made special by Annabel and Aisia.\n\nAnnabel, our server, was absolutely incredible so warm, attentive, and genuinely kind. She made us feel completely taken care of from the moment we sat down. Her energy was welcoming, she anticipated what we needed before we even had to ask, and she made the whole experience feel personal and effortless.\n\nAisia was just as amazing. She stepped in to assist and did so with such professionalism and grace. It’s rare to come across service that feels this sincere.",
+      "reviewDate": "2026-02-28T06:42:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361437175439465218",
+      "reviewer": "Maroula Kouz",
+      "rating": 5,
+      "text": "Great place and Christina is  an excellent hostess!",
+      "reviewDate": "2026-02-28T03:52:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361374055439458963",
+      "reviewer": "Amhlaoibh Lynch",
+      "rating": 5,
+      "text": "We had Mia as our server and she was amazing.  She helped us pick some delicious appetizers and main meals and appreciate her excellent service.\n\nWill definitely return and look for her as our server",
+      "reviewDate": "2026-02-28T01:03:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361100375439431879",
+      "reviewer": "Diana Brito",
+      "rating": 5,
+      "text": "Amazing food great service staff is very friendly. I’ll definitely be back.",
+      "reviewDate": "2026-02-27T20:45:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5360732595439395311",
+      "reviewer": "Rhea Ntakos",
+      "rating": 5,
+      "text": "Meklit was an amazing server!! Thank You!",
+      "reviewDate": "2026-02-27T17:40:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361713235439492770",
+      "reviewer": "Chris Culligan",
+      "rating": 5,
+      "text": "Mateo and Annabel were great",
+      "reviewDate": "2026-02-27T01:57:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5361713245439492771",
+      "reviewer": "Shannon O'Brien",
+      "rating": 5,
+      "text": "Fun place for a tasty meal out. Great staff, especially Ewan, aka Bad Bunny. He represents the Local well and has great rapport with patrons. Great neighbourhood establishment.",
+      "reviewDate": "2026-02-26T19:15:24.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5352961355438621322",
+      "reviewer": "Tanuj Pandya",
+      "rating": 5,
+      "text": "I attended the Tuesday trivia night and it was a spectacular experience! The trivia was fun and engaging, the food was delicious, and the staff were so friendly and welcoming. The location is accessible by public transportation which is a huge plus in my books. Also, the restaurant has vegetarian options which is great! I had the couscous salad and thought it was wonderful. I would definitely consider coming back here with friends.",
+      "reviewDate": "2026-02-24T22:50:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5351872115438513026",
+      "reviewer": "David",
+      "rating": 5,
+      "text": "As usual we had friendly/professional service and the food is always top notch.",
+      "reviewDate": "2026-02-24T12:14:22.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5351470835438473094",
+      "reviewer": "bhimreddy ramakrishna",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-02-24T11:01:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5350969993438423108",
+      "reviewer": "Melanie",
+      "rating": 3,
+      "text": "Love Local— a favourite spot of mine and my family’s. Food is consistently great for typical gastro pub food, and the service is always above and beyond.\n\nOne thing I will say however is that they’ve begun asking for a phone number upon arrival which I don’t really understand. I asked why and the host mentioned the restaurant wants to track who comes in and cultivate a more “elevated” dining experience. I’m not too sure what is “elevated” about having people wait in a line at the door because now each party needs to check in with a phone number. People are coming in to grab a quick bite in a casual environment, not to have to provide a name and number as if I’m checking into a hotel.\n\nAs I said previously, love this place!  Just unsure of where the brand consistency is since Local promotes itself to be a casual spot for food and drinks and now it seems as though they’re trying to be more high-end. Hopefully this is a one off and they go back to how they were before.",
+      "reviewDate": "2026-02-24T01:39:30.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5350770635438403299",
+      "reviewer": "Khepri Nelson",
+      "rating": 5,
+      "text": "I came by to visit a friend because she raves about this place all the time and it definitely met my expectations!! Food was amazing but the service was even better. Kaitlyn M really took care of us. Karina was also really helpful with suggestions. EVERYONE was amazing and very friendly!! Will 100% be returning and recommending",
+      "reviewDate": "2026-02-23T23:00:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5349985235438325221",
+      "reviewer": "Gail",
+      "rating": 5,
+      "text": "Local is a favorite of my daughter's family. We took our granddaughter, had a nice booth and Katlyn provided outstanding service.",
+      "reviewDate": "2026-02-23T17:41:47.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5349130085438239988",
+      "reviewer": "Review",
+      "rating": 5,
+      "text": "The service was excellent and the entire staff was very friendly. A special thank you to Meklit, who went out of her way to make sure it was a great dining experience, really appreciated the extra effort!",
+      "reviewDate": "2026-02-23T01:39:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5348999145438226918",
+      "reviewer": "Andrew Hakes",
+      "rating": 5,
+      "text": "Danielle is great. We love her",
+      "reviewDate": "2026-02-22T23:43:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5348738315438200991",
+      "reviewer": "Matthew Shuckett",
+      "rating": 5,
+      "text": "Danielle was absolutely amazing at the Local Leaside. She was so friendly, attentive, and knowledgeable, and truly made the experience feel special. Great humour too. You can tell she genuinely cares about great service and knew exactly what to do. Such a standout and a huge asset to the team!",
+      "reviewDate": "2026-02-22T18:45:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5348137155438141129",
+      "reviewer": "Jose Bravo",
+      "rating": 5,
+      "text": "It was our first time visiting Local Public Eatery. The food was delicious, and our server Carolina was incredibly friendly. We were looking for a Mezcal, and her recommendation was excellent. Carolina is the best, definitely we will be back’",
+      "reviewDate": "2026-02-21T23:37:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347241295438052044",
+      "reviewer": "zoe niles",
+      "rating": 5,
+      "text": "We had the pleasure of being served by Alessia tonight at the Local Leaside location, and she was absolutely amazing! From the moment we sat down, she was warm, welcoming, and so attentive. She checked in at all the right times, made sure everything was perfect, and genuinely made us feel taken care of.\n\nIt’s rare to come across service that truly stands out, but Alessia did just that. She was friendly, professional, and went above and beyond to make our experience special. Thank you for such a wonderful evening — we’ll definitely be back!",
+      "reviewDate": "2026-02-21T07:15:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347100885438038013",
+      "reviewer": "Martina Caunedo",
+      "rating": 5,
+      "text": "Great service by Ewan!",
+      "reviewDate": "2026-02-21T03:48:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347088415438036768",
+      "reviewer": "Lesheaya Vassell",
+      "rating": 5,
+      "text": "ewan was a great server & food was amazing we got the nachos and he recommended the chicken with it and we weren’t disappointed!",
+      "reviewDate": "2026-02-21T03:37:14.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347088315438036758",
+      "reviewer": "Frequency Recording Studio",
+      "rating": 5,
+      "text": "Amazing service! Ewan was very respectful and efficient.",
+      "reviewDate": "2026-02-21T03:36:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347085805438036507",
+      "reviewer": "Isaac Yermus",
+      "rating": 5,
+      "text": "Danielle is my favourite! 10/10 service can’t wait to go back!",
+      "reviewDate": "2026-02-21T03:31:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347085245438036451",
+      "reviewer": "Adina L",
+      "rating": 5,
+      "text": "First time going to local and the service blew me away! Danielle was incredible and made the experience even more memorable. Highly recommend",
+      "reviewDate": "2026-02-21T03:30:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347083735438036300",
+      "reviewer": "Rachel Fluxman",
+      "rating": 5,
+      "text": "Had an amazing time at local tonight! The food was great but Danielle really elevated the whole dining experience. She was so attentive, fun and kept the drinks flowing, will definitely be back!",
+      "reviewDate": "2026-02-21T03:26:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347049085438032840",
+      "reviewer": "Preston",
+      "rating": 5,
+      "text": "Ewan did an amazing job serving us and enhanced our dinning experience",
+      "reviewDate": "2026-02-21T02:36:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5347048895438032821",
+      "reviewer": "joseph aquino",
+      "rating": 5,
+      "text": "Ewan",
+      "reviewDate": "2026-02-21T02:35:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5346970655438025020",
+      "reviewer": "Manny Phanvongsa",
+      "rating": 5,
+      "text": "The server was a gentleman and made a family experience a great one",
+      "reviewDate": "2026-02-21T01:17:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5346954075438023363",
+      "reviewer": "Jim Murphy",
+      "rating": 5,
+      "text": "Danielle made the visit extra special with great service",
+      "reviewDate": "2026-02-21T00:53:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5346891835438017184",
+      "reviewer": "Jason Steel",
+      "rating": 5,
+      "text": "Danielle was very friendly and attentive",
+      "reviewDate": "2026-02-20T23:46:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5345042405437833424",
+      "reviewer": "Elahe Rahimian",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-02-19T22:47:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5344272264437757000",
+      "reviewer": "Besnik Kasemi",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-02-19T13:56:18.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5344066895437736686",
+      "reviewer": "Lara Sutton",
+      "rating": 5,
+      "text": "So much fun! Annabel and Matteo make a great team. Amazing, smart service 👍  👍",
+      "reviewDate": "2026-02-19T03:56:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5344062295437736227",
+      "reviewer": "Will Stevens",
+      "rating": 5,
+      "text": "Strikingly alive, but in a non-threatening way. Hypnotically ambient for a Leaside pub. Service was divine (a tall one named Annabel). I lost my Ray-Bans and didn’t even care. Very few haunts have such an effect on me.",
+      "reviewDate": "2026-02-19T03:37:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5344061205437736118",
+      "reviewer": "Katy Tritt",
+      "rating": 5,
+      "text": "Can’t say enough good things about this place. Beautiful ambiance, good grub, and out of this world service. Annabel and Matteo rocked my world. *Terminator Voice* I’ll be back!",
+      "reviewDate": "2026-02-19T03:32:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5343965965437726719",
+      "reviewer": "Ella Brenton",
+      "rating": 5,
+      "text": "I loved Karina so much she was such a wonderful soul❤️❤️❤️❤️",
+      "reviewDate": "2026-02-19T01:23:18.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5343965975437726720",
+      "reviewer": "Ryan Wolfe-Sandy",
+      "rating": 5,
+      "text": "The service and food were both spectacular, my girlfriend and I loved our server Karina",
+      "reviewDate": "2026-02-19T01:23:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5343965985437726721",
+      "reviewer": "Samantha Sykes",
+      "rating": 5,
+      "text": "Karina took great care of us on our surprise date night",
+      "reviewDate": "2026-02-19T00:55:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5343897445437719993",
+      "reviewer": "Isfandyar Virani",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-02-18T22:13:03.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5344103835437740365",
+      "reviewer": "Matt",
+      "rating": 5,
+      "text": "Great local venue. Food good, drink selection decent.\nThe staff were very helpful in setting up the game we wanted. We would return.",
+      "reviewDate": "2026-02-18T16:27:43.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5341838375437515771",
+      "reviewer": "Aliyyah Nazeem",
+      "rating": 5,
+      "text": "Had brunch on Sunday and the whole experience was great. Our server, Jackie, was a delight!",
+      "reviewDate": "2026-02-17T13:31:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5341791755437511130",
+      "reviewer": "Matt Diniz",
+      "rating": 5,
+      "text": "Danielle is amazing. #chickentendiesforlife",
+      "reviewDate": "2026-02-17T13:03:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5341439925437476105",
+      "reviewer": "G. P.",
+      "rating": 5,
+      "text": "Came in this weekend. Overall the restaurant was very scenic and the ambience in the afternoon gave a very homely and neighborhood-ish vibe- totally characteristic of the name!\n\nThe food was good. The service was phenomenal. Palveen was very friendly and greeted us with a smile. Would come back again.",
+      "reviewDate": "2026-02-17T02:08:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5341399515437472085",
+      "reviewer": "Marek Khella",
+      "rating": 5,
+      "text": "Came with my family and Ben and Karina were wonderful serving and bartending for us! Paulveen, Alessia, Aisia and Rivaldo were also very helpful, friendly and attentive!",
+      "reviewDate": "2026-02-17T01:14:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5341313595437463593",
+      "reviewer": "Allison Andrews",
+      "rating": 5,
+      "text": "Great brunch with family and fantastic service from Danielle!",
+      "reviewDate": "2026-02-16T23:15:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327625275436101039",
+      "reviewer": "Rich Andrews",
+      "rating": 5,
+      "text": "Great food and drinks with family. Danielle was an outstanding server and super friendly!",
+      "reviewDate": "2026-02-16T23:13:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5340963205437428793",
+      "reviewer": "Thomas Glass",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-02-16T19:41:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5339308484437263951",
+      "reviewer": "Helen S",
+      "rating": 4,
+      "text": "Though there was some confusion in tge kitchen,  Ewan, our server made it right and his approach made us forget about the entire thing.",
+      "reviewDate": "2026-02-15T19:42:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5339306145437263719",
+      "reviewer": "Audrey Banfield",
+      "rating": 5,
+      "text": "Ewan our server was amazing! Very attentive to ensuring our needs were met and visit was enjoyable!",
+      "reviewDate": "2026-02-15T19:39:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5339274255437260561",
+      "reviewer": "Jacqueline Francois",
+      "rating": 5,
+      "text": "Jackie N was amazing!! We had a bigger group of basketball families and she was quick, efficient and friendly. We ordered by Jersey numbers and food cam out quickly.  Great location, amazing food and even better service",
+      "reviewDate": "2026-02-15T18:34:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5339263825437259534",
+      "reviewer": "David Pidgeon",
+      "rating": 5,
+      "text": "Ewan was our server. He did a great job.",
+      "reviewDate": "2026-02-15T18:12:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5339098705437243258",
+      "reviewer": "Tristan Pacheco",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-02-15T11:41:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5338966405437230057",
+      "reviewer": "Jessica Furlano",
+      "rating": 5,
+      "text": "Our waitress Jackie was amazing and provided us wonderful service while we were here!",
+      "reviewDate": "2026-02-15T05:25:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5338964225437229839",
+      "reviewer": "Robert Marcon",
+      "rating": 5,
+      "text": "Jackie was the best",
+      "reviewDate": "2026-02-15T05:13:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5338834465437216915",
+      "reviewer": "Shaun Herre",
+      "rating": 5,
+      "text": "Ewan was great, friendly prompt and knowledgeable.",
+      "reviewDate": "2026-02-14T23:55:14.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5338579235437191456",
+      "reviewer": "Geoff Goodman",
+      "rating": 5,
+      "text": "Carolina was a delightful server. She made me feel like I was transported to a Greek island of love and mystery. My fish and chips were perfectly crisp, and my Sapporo tasted like heaven in a glass. I love this place and may one day secretly spread my ashes here. The pickles were so good I almost…you get the rest. Bravo!Carolina was a delightful server. She made me feel like I was transported to a Greek island of love and mystery. My fish and chips were perfectly crisp, and my Sapporo tasted like heaven in a glass. I love this place and may one day secretly spread my ashes here. The pickles were so good I almost…you get the rest. Bravo!",
+      "reviewDate": "2026-02-14T20:35:18.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5337541785437088036",
+      "reviewer": "Kate Gagnon",
+      "rating": 5,
+      "text": "Ewan was great!  Very engaging and made great food recommendations.  We come here often and really enjoyed his vibe!",
+      "reviewDate": "2026-02-14T01:24:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5337520475437085914",
+      "reviewer": "prasanth mulukutla",
+      "rating": 5,
+      "text": "Ewan was the best",
+      "reviewDate": "2026-02-14T00:57:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5334043975436740349",
+      "reviewer": "Sultana Lalani",
+      "rating": 5,
+      "text": "Had a great time here with my friends. Kayla was super knowledgeable!",
+      "reviewDate": "2026-02-13T01:29:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5334042815436740234",
+      "reviewer": "Jason Adonez",
+      "rating": 5,
+      "text": "Love the beef hummus. Kayla took great care of our group.",
+      "reviewDate": "2026-02-13T01:27:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5334042095436740164",
+      "reviewer": "Aran Harker",
+      "rating": 5,
+      "text": "Food was good, nice atmosphere and our server Kayla was really great! will be back. thanks Kayla!",
+      "reviewDate": "2026-02-13T01:26:20.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5334017985436737757",
+      "reviewer": "Connor McCauley",
+      "rating": 5,
+      "text": "Kayla was fantastic! On point and very friendly.",
+      "reviewDate": "2026-02-13T01:19:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5333710585436707078",
+      "reviewer": "Raveenthan Thambirajah",
+      "rating": 5,
+      "text": "We had a great time today at this restaurant. Great food and drinks and our server Kayla was amazing!",
+      "reviewDate": "2026-02-12T23:46:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5329618185436300118",
+      "reviewer": "Vanessa Lee",
+      "rating": 5,
+      "text": "Had really great roti and curry! Annabel was lovely and so grateful she recommended it.",
+      "reviewDate": "2026-02-12T03:13:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5328595525436197889",
+      "reviewer": "Aftab Khan",
+      "rating": 5,
+      "text": "Went for a meal with close friends and enjoyed the food, but the service was even better. Sophie and. Annabelle did an excellent job taking care of us with Care and friendliness. We will definitely be back.",
+      "reviewDate": "2026-02-12T01:29:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327297543436068360",
+      "reviewer": "Jackie Nimer",
+      "rating": 3,
+      "text": "Four of us visited this establishment for a quick bite before a hockey game. Although the food was delicious, the service was seriously lacking. Nice enough atmosphere, will definitely go back and give it a second shot.",
+      "reviewDate": "2026-02-11T21:28:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5326561204435995025",
+      "reviewer": "Omid Ahmadi",
+      "rating": 4,
+      "text": "It's one of the good pubs in the neighbourhood and gets busy on weekends. The food is good, but not perfect. The atmosphere is great for spending time with your friends or family.\nDuring the summer, they have a patio, which is perfect for spending time and drinking a cold brew.",
+      "reviewDate": "2026-02-11T17:52:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5323974335435736872",
+      "reviewer": "Ch Kashif Gujjar",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-02-11T03:47:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5323734785435712940",
+      "reviewer": "Audrey Carroll",
+      "rating": 5,
+      "text": "Had a great time at local trivia night Maria made our night she was so sweet and service was super quick. Can’t wait to come back!",
+      "reviewDate": "2026-02-11T02:13:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "2147302625146687567",
+      "reviewer": "Suzy Rezkalla",
+      "rating": 5,
+      "text": "Danielle is amazing! Great service, very friendly! Amazing hospitality!\nThank you!",
+      "reviewDate": "2026-02-10T22:59:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5320399885435380075",
+      "reviewer": "Robert",
+      "rating": 5,
+      "text": "Came here for the superbowl last night and had an incredible time. Between the service and the raffle give aways, local was the place to be!!! Our server Alessia is what made our experience perfect. She was extremely attentive and knowledgeable, giving us great suggestions on drinks & food. She was always checking in on us and made us feel prioritized even though the place was packed. We didn’t see her stop moving all night!!! Best service we’ve ever had, will definitely be back.",
+      "reviewDate": "2026-02-09T19:57:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5312759815434616909",
+      "reviewer": "Carrie McLaren",
+      "rating": 5,
+      "text": "Mia was excellent!",
+      "reviewDate": "2026-02-09T19:07:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5312759825434616910",
+      "reviewer": "Angela Cluney",
+      "rating": 5,
+      "text": "Mia was amazing!!! She was helpful, shared information. She was kind and friendly!!!",
+      "reviewDate": "2026-02-09T18:48:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5312759835434616911",
+      "reviewer": "Helen Smith",
+      "rating": 5,
+      "text": "Mia was awesome. Friendly and efficient",
+      "reviewDate": "2026-02-09T18:47:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5312704865434611433",
+      "reviewer": "Kareema Alladina",
+      "rating": 5,
+      "text": "Outstanding service from Kaitlin M!\n\nI stopped by the Local Bar last week for a drink and an appetizer and had such a great experience thanks to Kaitlin M. She was warm, attentive, and incredibly personable from the moment I sat down. Kaitlin made excellent drink recommendations, was quick without making me feel rushed, and checked in just the right amount.\n\nYou can tell she genuinely enjoys what she does — her positive energy really elevated the whole visit. The appetizer was great, the drinks were spot-on, and the service was exceptional. Kaitlin is exactly the kind of bartender/server that keeps you coming back.\n\nHighly recommend sitting at her bar if you get the chance!",
+      "reviewDate": "2026-02-09T17:28:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5312759845434616912",
+      "reviewer": "Amir K. Ahari",
+      "rating": 5,
+      "text": "Ask for Jackie. She’s exceptional, attentive and very real/authentic.",
+      "reviewDate": "2026-02-09T04:51:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5309965245434337806",
+      "reviewer": "Reza Sal",
+      "rating": 5,
+      "text": "Danielle & Nicky were great.",
+      "reviewDate": "2026-02-09T03:04:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5309958755434337157",
+      "reviewer": "Arash Jahangir",
+      "rating": 5,
+      "text": "Nicky and Danielle rock.  Great service.",
+      "reviewDate": "2026-02-09T03:03:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5309935035434334788",
+      "reviewer": "Elina Ramezani",
+      "rating": 5,
+      "text": "We were here for the Super Bowl. We had such an amazing experience here, and a huge part of that was thanks to our server Dani and the manager Nicky. Dani was incredibly attentive, friendly, and made us feel genuinely taken care of from start to finish. She anticipated what we needed before we even had to ask and brought such positive energy to the table.\nNicky was also fantastic! you can really tell when a restaurant has strong leadership, and it shows in the service and overall atmosphere. Everything ran smoothly, and we felt truly valued as guests.",
+      "reviewDate": "2026-02-09T02:54:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5309931445434334429",
+      "reviewer": "Bardia Dehbasti",
+      "rating": 5,
+      "text": "Greatest bar, best beer and best food especially the Asian inspired menu.\nOh and even greater service, our servers Nicky, and Dani were so nice and caring and provided the best service.\n10/10 recommended.",
+      "reviewDate": "2026-02-09T02:54:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5307494695434090960",
+      "reviewer": "Sarper",
+      "rating": 5,
+      "text": "Local always feels like home to us, especially since it’s so close to where we live. Once again today, we were welcomed as if we were at home. We were initially directed upstairs, but when we mentioned that we preferred to sit downstairs, Jacqueline, the manager, kindly assisted us.\nWe saw Ewan again, who, as always, was warm and incredibly kind. Our server today was Jackie G — friendly, personable, and very attentive. Our meals arrived right on time, and the level of care and attention was, once again, flawless.\nUntil next time, please keep being the wonderful place that you are.",
+      "reviewDate": "2026-02-08T12:18:31.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5305395105433881165",
+      "reviewer": "Marigold O'Leary",
+      "rating": 5,
+      "text": "The service was amazing, our servers Jackie, Ben, and Annabelle were so sweet and made sure our time at Local was enjoyable! 10/10!!",
+      "reviewDate": "2026-02-08T00:37:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5190412285422427862",
+      "reviewer": "Sarper Pamuk",
+      "rating": 5,
+      "text": "Locale always feels like home to us, especially since it’s so close to where we live. Once again today, we were welcomed as if we were at home. We were initially directed upstairs, but when we mentioned that we preferred to sit downstairs, Jacqueline, the manager, kindly assisted us.\n\nWe saw Ewan again, who, as always, was warm and incredibly kind. Our server today was Jackie G — friendly, personable, and very attentive. Our meals arrived right on time, and the level of care and attention was, once again, flawless.\n\nUntil next time, please keep being the wonderful place that you are.",
+      "reviewDate": "2026-02-08T00:27:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5304924275433834218",
+      "reviewer": "Rahim",
+      "rating": 5,
+      "text": "Eli was fantastic! He was attentive, friendly, and gave us excellent recommendations. We ordered the blackened chicken bowl based on his suggestion and it was to die for. Truly great service from start to finish, we’ll definitely be back and hope to sit in Eli’s section again.",
+      "reviewDate": "2026-02-07T20:41:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5304422895433784231",
+      "reviewer": "Anonymous",
+      "rating": 5,
+      "text": "Food was good, service was excellent, loud but was still able to talk w person beside me",
+      "reviewDate": "2026-02-07T17:39:28.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5289168575432262306",
+      "reviewer": "Gary Park",
+      "rating": 5,
+      "text": "Had a nice evening for a quick bite at Local Leaside.  Always consistent - friendly service, delicious food and cold drinks.\n\nOur server Mia was very hospitable and welcoming. Will be back!",
+      "reviewDate": "2026-02-07T02:35:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301750315433517298",
+      "reviewer": "Jennifer Peel",
+      "rating": 5,
+      "text": "We are in here very frequently and the food is always great and the staff is lovely! Ewan was our server and he was very kind and attentive. He made sure our drinks were always full and made an effort to learn all of our names. Had an amazing experience as always!",
+      "reviewDate": "2026-02-07T02:08:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301733965433515665",
+      "reviewer": "Ken Shelson",
+      "rating": 5,
+      "text": "Always consistent, delicious with terrific service from our favourite, Mia.",
+      "reviewDate": "2026-02-07T02:02:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311695433473530",
+      "reviewer": "Rosie Shelson",
+      "rating": 5,
+      "text": "Mia was fantastic!",
+      "reviewDate": "2026-02-06T23:46:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311705433473531",
+      "reviewer": "Amanda Boyden Connell",
+      "rating": 5,
+      "text": "Great food and device provided by Mia was excellent--friendly and very attentive. Great shrimp dumplings.",
+      "reviewDate": "2026-02-06T23:26:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5300906985433433179",
+      "reviewer": "Paul M",
+      "rating": 5,
+      "text": "excellent & friendly service, good food and ambience. Wheelchair facilties way better than at other/comparable places. highly recommend!",
+      "reviewDate": "2026-02-06T21:27:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447355432888032",
+      "reviewer": "Steven C",
+      "rating": 5,
+      "text": "Mia was very helpful and made sure our table was topped off with drinks, food, etc. overall service is great and atmosphere is good.",
+      "reviewDate": "2026-02-06T02:25:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447365432888033",
+      "reviewer": "Adrian Colas",
+      "rating": 5,
+      "text": "Elite level service from Mia",
+      "reviewDate": "2026-02-06T02:23:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447375432888034",
+      "reviewer": "Marc Stephenson",
+      "rating": 5,
+      "text": "Mia is my favourite server she’s so wonderful and kind and amazing and the best. Request her especially over some of them. Vicco always takes good care of us",
+      "reviewDate": "2026-02-06T01:39:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5294523695432795977",
+      "reviewer": "Ana Romero",
+      "rating": 5,
+      "text": "First time visiting Local Public Eatery. From the moment you walk in you are greeted with warmth and friendliness (and a complimentary taste of chilled sparkling wine during my visit). The service from Eli was stupendous; he is charismatic, easy going and attentive. He ensured we had everything we needed throughout our meal. The food was fresh, delicious and very well presented. Our dining experience was memorable.",
+      "reviewDate": "2026-02-05T20:51:30.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5241106745427477751",
+      "reviewer": "Kyle Weir",
+      "rating": 5,
+      "text": "Here to watch some hockey and football. Maria was our server upstairs and was attentive, smiling and making sure we are handled first class ! I’ll be back !",
+      "reviewDate": "2026-02-05T18:56:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5287648875432110933",
+      "reviewer": "Andrew",
+      "rating": 5,
+      "text": "Danielle did a great job serving us at the Leaside location.\n\nFood was great and service was fast!",
+      "reviewDate": "2026-02-03T18:32:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5287648825432110928",
+      "reviewer": "Maxime Briand",
+      "rating": 5,
+      "text": "Great spot and excellent spot. Danielle was incredible!",
+      "reviewDate": "2026-02-03T18:31:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5287648795432110925",
+      "reviewer": "Peter Chan",
+      "rating": 5,
+      "text": "Danielle was amazing! Thanks for the amazing service.",
+      "reviewDate": "2026-02-03T18:31:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5287624425432108504",
+      "reviewer": "Monica Zou",
+      "rating": 5,
+      "text": "We have our office lunches here all the time. Food is consistently delicious and the servers are really nice and lovely. Shout out to Danielle!",
+      "reviewDate": "2026-02-03T18:17:52.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5287621555432108218",
+      "reviewer": "Ediri",
+      "rating": 5,
+      "text": "Was great, thanks!",
+      "reviewDate": "2026-02-03T18:16:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5285069044431853916",
+      "reviewer": "Kim Richards",
+      "rating": 4,
+      "text": "Very attentive service. Thanks Mia!",
+      "reviewDate": "2026-02-02T18:22:14.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5285061645431853178",
+      "reviewer": "Alexandra Baker",
+      "rating": 5,
+      "text": "Mia is the best server!",
+      "reviewDate": "2026-02-02T18:18:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5283777335431725186",
+      "reviewer": "Liam Farahzad",
+      "rating": 5,
+      "text": "Yo I cant lie the guy was hella fast and nice and he had a goatee he was 23 hes funny very good atmosphere",
+      "reviewDate": "2026-02-02T00:44:10.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4371955435340917801",
+      "reviewer": "Afti Afti",
+      "rating": 5,
+      "text": "Been here a lot and never thought of leaving a review. Service here is always super pleasant and cheerful. Despite the servers being really young, they are well trained and always check in on you. Makes for a super comfortable and chill experience. Food is also always really good. I usually get the crispy chicken sandwich. It’s reliably tasty every single time. Even when this place is packed, it still has a really nice neighborhood feel to it. Great place to hang out with friends or a night out as a couple.\n\nUPDATE: been back many times and it’s always great.  Food is so much better than similar places in the area and the service is outstanding.  Nice to see young and energetic staff who are really focussed on their customers. Love it.",
+      "reviewDate": "2026-02-01T17:03:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5282988393431646560",
+      "reviewer": "Hannah Glick",
+      "rating": 3,
+      "text": "Everyone was nice but they completely forgot about my order don’t come here if you want a quick meal only if you are very patient. The food is good though.",
+      "reviewDate": "2026-02-01T16:23:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5284318685431779208",
+      "reviewer": "Divya",
+      "rating": 5,
+      "text": "Had a great experience at Local today. Came in for an early dinner with 2 young kids. Food was great and came out very quickly. Ewan, our server, really made the experience. He spoke with the kids, engaged them during the ordering process and even remembered their names on our way out. He checked in with all of us a couple of times thru the dinner to make sure everything was to our liking. Thanks to the team for a great dinner!",
+      "reviewDate": "2026-02-01T14:52:11.000Z",
+      "source": "OPENTABLE"
+    }
+  ]
+}

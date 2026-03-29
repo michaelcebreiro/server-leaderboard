@@ -1,0 +1,767 @@
+{
+  "month": "2026-01",
+  "fetchedAt": "2026-03-29T22:11:01.181Z",
+  "reviewCount": 95,
+  "reviews": [
+    {
+      "reviewId": "5282464675431594344",
+      "reviewer": "Miguel Victoria",
+      "rating": 5,
+      "text": "Ewan es definitivamente el mesero mas atento 👍🏻 excelente servicio!",
+      "reviewDate": "2026-02-01T03:50:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5282373805431585324",
+      "reviewer": "Mikayla Kuehn",
+      "rating": 5,
+      "text": "Came here for the first time and loved the vibe! The Shrimp Dumplings and Mango Bubble drink were amazing. Karina was my server and she did a fabulous job. Very friendly and quick service.",
+      "reviewDate": "2026-02-01T01:43:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5282359725431583918",
+      "reviewer": "Wall Street Database",
+      "rating": 5,
+      "text": "Great",
+      "reviewDate": "2026-02-01T01:28:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5282316764431579635",
+      "reviewer": "Vip Jain",
+      "rating": 4,
+      "text": "Nice atmosphere and great staff! Albeit new, Ewan did an amazing job informing us on delays and helped us with kitchen issues.",
+      "reviewDate": "2026-02-01T00:43:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5282264095431574391",
+      "reviewer": "Tyler Walters",
+      "rating": 5,
+      "text": "Ewan made our dining experience exceptional. He was wonderful with our kids—patient, engaging, and genuinely warm in a way that put the whole table at ease. His attentiveness stood out: he anticipated what we needed before we had to ask, from refilling drinks to timing courses perfectly around the kids' attention spans. You could tell he genuinely cared about us having a great time, not just going through the motions. Service like this is rare and makes all the difference. Ewan is an absolute asset to your team.",
+      "reviewDate": "2026-01-31T23:47:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5281677305431515835",
+      "reviewer": "Alice w",
+      "rating": 5,
+      "text": "Loved our server mia! Awesome nails and super helpful with the menu- thank you for sauce on the side!",
+      "reviewDate": "2026-01-31T19:46:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5281677075431515812",
+      "reviewer": "Pekka Woods",
+      "rating": 5,
+      "text": "Mia was awesome!",
+      "reviewDate": "2026-01-31T19:45:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5280327485431381279",
+      "reviewer": "Natalie Chue",
+      "rating": 5,
+      "text": "Christina was very welcoming and friendly. She offered great service and checked on us throughout. Maria was also great, she made really good drinks and was really friendly.",
+      "reviewDate": "2026-01-31T05:16:35.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5280317865431380317",
+      "reviewer": "Sarah Chue",
+      "rating": 5,
+      "text": "christina and maria were amazing!!!!",
+      "reviewDate": "2026-01-31T04:56:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5161443265419546924",
+      "reviewer": "Lexi Cosentino",
+      "rating": 5,
+      "text": "Maria is the absolute sweetest ever! Always so kind and endearing! We will be coming back ASAP!",
+      "reviewDate": "2026-01-31T04:55:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5280220975431370695",
+      "reviewer": "Tyler Hunt",
+      "rating": 5,
+      "text": "Best beermosas in town. Thank you, Jackie N & Maria.",
+      "reviewDate": "2026-01-31T02:15:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5280215085431370108",
+      "reviewer": "Devan Diamond",
+      "rating": 5,
+      "text": "Nice",
+      "reviewDate": "2026-01-31T02:05:52.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5280182895431366911",
+      "reviewer": "Steven Byng",
+      "rating": 5,
+      "text": "This is a great local spot with great food and excellent servers .",
+      "reviewDate": "2026-01-31T01:26:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311715433473532",
+      "reviewer": "Francisco Ferrer",
+      "rating": 5,
+      "text": "Danielle did a great job at Local Public Eatery. She was very accomodating and provided great recommendations.",
+      "reviewDate": "2026-01-30T00:57:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311725433473533",
+      "reviewer": "Nicolas Rebollo",
+      "rating": 5,
+      "text": "Always a good time with good food and good service at Local! Karina was super friendly and helpful.",
+      "reviewDate": "2026-01-29T03:40:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447385432888035",
+      "reviewer": "Ma Jason",
+      "rating": 5,
+      "text": "Christina was providing a great service tonight! I am travelling here, and she made my night! Would definitely give it a visit in the future if I come back, and definitely recommend to eat here the food was fantastic too!",
+      "reviewDate": "2026-01-29T02:50:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311735433473534",
+      "reviewer": "Abhishek Gautam",
+      "rating": 5,
+      "text": "Akiko was amazing! Really patient and had great recommendations! The ambience was so cute!",
+      "reviewDate": "2026-01-29T00:38:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5291902205432534581",
+      "reviewer": "Damien Joel-Radbourne",
+      "rating": 5,
+      "text": "Service was amazing. Eli may be the best at the restaurant",
+      "reviewDate": "2026-01-28T18:07:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5291902215432534582",
+      "reviewer": "Evan Ma",
+      "rating": 5,
+      "text": "We came here as a large group and service was fantastic! Alessia went above and beyond to take care of us and ensure we all had an amazing time!\n\nFood and drinks came super quick even with our multiple large orders!\n\n100% would recommend for anyone in the area!",
+      "reviewDate": "2026-01-27T03:06:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5291902225432534583",
+      "reviewer": "Katerina Liotos",
+      "rating": 5,
+      "text": "EVERYTHING WAS SO AMAZING. Best and most attentive service. Earls team is so happy ❤️❤️❤️",
+      "reviewDate": "2026-01-27T03:04:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5291902235432534584",
+      "reviewer": "Ashdeep Singh",
+      "rating": 5,
+      "text": "Alessia was amazing as our server, did make sure that we were sufficient at all times. Had an amazing experience! Would recommend for everyone",
+      "reviewDate": "2026-01-27T03:04:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447395432888036",
+      "reviewer": "Carter Hugill",
+      "rating": 5,
+      "text": "Alessia was awesome!! The food was perfection",
+      "reviewDate": "2026-01-27T03:03:35.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311745433473535",
+      "reviewer": "Anusha Ali",
+      "rating": 5,
+      "text": "Alessia was absolutely amazing!!!!",
+      "reviewDate": "2026-01-27T03:03:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5291902245432534585",
+      "reviewer": "Emma Langtry",
+      "rating": 5,
+      "text": "Alessia was awesome!",
+      "reviewDate": "2026-01-27T03:02:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5291902254432534586",
+      "reviewer": "Mirnader Ghazali",
+      "rating": 4,
+      "text": "We came on a stormy day. Unlike the weather the people were warm and Annabel was very attentive and provided excellent service",
+      "reviewDate": "2026-01-25T18:36:09.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5038055225407276888",
+      "reviewer": "eleanor lowden",
+      "rating": 5,
+      "text": "Ewan was great. Super helpful friendly and accommodating our asks. What enthusiasm!! Loved having him as our server.",
+      "reviewDate": "2026-01-25T01:22:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5268094315430163289",
+      "reviewer": "Lisa Towle",
+      "rating": 5,
+      "text": "Meklit was great!",
+      "reviewDate": "2026-01-25T01:14:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5268086435430162509",
+      "reviewer": "edwina jobin",
+      "rating": 5,
+      "text": "Sat night at local perfect way to escape the winter blahs. We had dinner and drinks and everyone loved their dinner. Jackie was awesome! Helpful with suggestions and just the right level of service!\n\nThe spice levels on the blackened chicken in enchiladas and spicy chicken sandwiches was more than expected but it was good!\n\nThere's now a kids menu which made the kids happy!",
+      "reviewDate": "2026-01-25T00:44:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311755433473536",
+      "reviewer": "Joshua Clark",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-24T23:30:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5129886955416406087",
+      "reviewer": "Lewis Glatt",
+      "rating": 5,
+      "text": "Christina V was a fantastic server! She made us feel like we were at home, the vibes were immaculate, I can’t wait to return to this establishment again",
+      "reviewDate": "2026-01-24T23:16:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267810875430135097",
+      "reviewer": "allie ahmed",
+      "rating": 5,
+      "text": "Service, atmosphere and drinks all 10/10! Shoutout to server Kam or Cam & Christina!",
+      "reviewDate": "2026-01-24T20:17:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267808825430134894",
+      "reviewer": "Evelyn Pereira",
+      "rating": 5,
+      "text": "Annabel was so warm and welcoming. Me and my girls were in the area and decided to grab lunch here and it will be our new spot!",
+      "reviewDate": "2026-01-24T20:12:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447405432888037",
+      "reviewer": "Amanda Ilagan",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-24T20:06:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267240314430078434",
+      "reviewer": "Jamila",
+      "rating": 4,
+      "text": "It was lunchtime and very busy. It took some time for us to be seated. Food was fine. The staff were very friendly and pleasant, but I don’t think they had enough people on hand to cover the lunch hour.\nIf you drive, it should be noted that parking is limited. You may have to park on the street.",
+      "reviewDate": "2026-01-24T11:06:41.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5267200665430074476",
+      "reviewer": "L. Williams",
+      "rating": 5,
+      "text": "Great service from Christina, such a great server. Great food and drinks",
+      "reviewDate": "2026-01-24T06:37:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267198525430074262",
+      "reviewer": "angeliki alikakis",
+      "rating": 5,
+      "text": "Christina was an amazing waitress she made the experience awesome and was very attentive😊",
+      "reviewDate": "2026-01-24T06:25:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267198445430074254",
+      "reviewer": "Anastasia Skoubouris",
+      "rating": 5,
+      "text": "Christina was amazing! super attentive server. Had a great time here!!!",
+      "reviewDate": "2026-01-24T06:23:30.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267191765430073587",
+      "reviewer": "Darija Borovic",
+      "rating": 5,
+      "text": "Christina was the best server, so friendly and welcoming. Definitely coming back",
+      "reviewDate": "2026-01-24T05:46:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267156555430070072",
+      "reviewer": "Doug Irwin",
+      "rating": 5,
+      "text": "Christina and Maria are awesome staff here",
+      "reviewDate": "2026-01-24T04:09:32.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4311421305334893575",
+      "reviewer": "Max Tremblay",
+      "rating": 5,
+      "text": "We had a fantastic time thank to Anabelle and staff. She was friendly and funny",
+      "reviewDate": "2026-01-24T03:16:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267135735430068047",
+      "reviewer": "Jarod Banigan",
+      "rating": 5,
+      "text": "Had a great time tonight, Christina was funny and fast with our orders",
+      "reviewDate": "2026-01-24T02:56:44.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311765433473537",
+      "reviewer": "Chris Lexovsky",
+      "rating": 5,
+      "text": "Christina was great",
+      "reviewDate": "2026-01-24T02:56:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267133165430067791",
+      "reviewer": "Kim Iverson",
+      "rating": 5,
+      "text": "Annabel was a goddess of a server. Great place for nachos!",
+      "reviewDate": "2026-01-24T02:46:44.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267111175430065608",
+      "reviewer": "Harmeet Ahuja",
+      "rating": 5,
+      "text": "Great service!  Annabel really helped make everyone feel comfortable and made sure we got the food on time even when the place was busy for the hockey game!",
+      "reviewDate": "2026-01-24T01:58:24.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311775433473538",
+      "reviewer": "Cary Noble",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-24T00:59:58.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5291902265432534587",
+      "reviewer": "Rustem Rzayev",
+      "rating": 5,
+      "text": "Little bit noisy place. But it generally pretty good pub bar.",
+      "reviewDate": "2026-01-23T22:41:58.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5301311785433473539",
+      "reviewer": "Ashley Warren",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-22T22:57:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5258476625429205792",
+      "reviewer": "Patty Medica",
+      "rating": 5,
+      "text": "Absolutely outstanding experience! The service from Nicola was flawless from start to finish, and the manager Alessia truly set this place apart. Every detail was handled with professionalism, efficiency, and genuine care. The two were attentive, responsive, and went above and beyond to ensure everything was perfect. It’s clear that the management runs a tight, well-organized operation while still making customers feel valued and welcomed. I couldn’t be happier with the experience and would highly recommend this place to anyone. Special shoutout to Trivia host Mia for a fun night!!!",
+      "reviewDate": "2026-01-21T01:52:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5255590995428919053",
+      "reviewer": "Diana Bledea",
+      "rating": 5,
+      "text": "Had the best time\nWarm place, great drinks and good atmosphere\nLoved Danielle, she is the sweetest . Definitely coming back",
+      "reviewDate": "2026-01-19T01:54:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5255591005428919054",
+      "reviewer": "Christina Andrea",
+      "rating": 5,
+      "text": "10/10 service with danielle",
+      "reviewDate": "2026-01-19T01:53:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5255571285428917095",
+      "reviewer": "Sara Dhalla",
+      "rating": 5,
+      "text": "Alessia was such a great waitress! Came for spicy guava margs which never disappoint",
+      "reviewDate": "2026-01-19T00:16:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5255563625428916329",
+      "reviewer": "Nicole Cruz",
+      "rating": 5,
+      "text": "Staff was very friendly and food was great. Amazing service from Alessia!",
+      "reviewDate": "2026-01-19T00:03:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622015436100712",
+      "reviewer": "Mira Raven",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-18T21:51:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447415432888038",
+      "reviewer": "Alannah Mulholland",
+      "rating": 5,
+      "text": "The food and service is consistently amazing. I come with my family monthly and we always enjoy our meal. Jackie served us and she was delightful!",
+      "reviewDate": "2026-01-18T19:54:20.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5255572884428917255",
+      "reviewer": "TARA",
+      "rating": 4,
+      "text": "Good food and friendly service. A little loud to be able to converse",
+      "reviewDate": "2026-01-18T09:47:34.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5327622025436100713",
+      "reviewer": "Christine Youm",
+      "rating": 5,
+      "text": "Shoutout Jackie and Nicky for being the best servers tonight! They helped us have an amazing night out, and I would for sure return :)",
+      "reviewDate": "2026-01-18T05:54:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447425432888039",
+      "reviewer": "Jessica Sabayo",
+      "rating": 5,
+      "text": "Nicky and Jackie were so kind and provided my friends and I with great care and service!",
+      "reviewDate": "2026-01-18T05:53:24.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5291902275432534588",
+      "reviewer": "Fritz Ampuller",
+      "rating": 5,
+      "text": "Nicky and Jackie be goated",
+      "reviewDate": "2026-01-18T05:53:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5275696765430920226",
+      "reviewer": "Lana",
+      "rating": 5,
+      "text": "Jackie and Nicky were super helpful, they gave such good recs for dishes and drinks! Had such a fun time :)",
+      "reviewDate": "2026-01-18T05:52:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622035436100714",
+      "reviewer": "Nicole Alvarez",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-18T04:10:44.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622045436100715",
+      "reviewer": "saruyan hi",
+      "rating": 5,
+      "text": "I only come hear for Christina and Maria!! It was so nice talking to them. They’re both very nice and will be the reason I come back!",
+      "reviewDate": "2026-01-18T03:52:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5295447435432888040",
+      "reviewer": "Wendy Ducheck",
+      "rating": 5,
+      "text": "Food was outstanding tonight. Our server Christina ensured we were taken care of from start to finish.  Fabulous service. Always a great experience at Local!",
+      "reviewDate": "2026-01-18T00:57:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5254729365428833439",
+      "reviewer": "J & L Abraham",
+      "rating": 5,
+      "text": "Karina was fantastic",
+      "reviewDate": "2026-01-17T23:49:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622055436100716",
+      "reviewer": "Grant Ferneyhough",
+      "rating": 5,
+      "text": "Kaitlyn and Maria were awesome, fast, professional. Great atmosphere",
+      "reviewDate": "2026-01-17T23:32:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5254615783428822125",
+      "reviewer": "Tony",
+      "rating": 3,
+      "text": "We go here frequently - our curling team will use the opportunity to have dinner before our late games. We (the 4 of us) all like it very much - the menu appeals to us, the ambiance feels right, and it's typically convenient. This time the service really was poor and this affected our enjoyment of the evening. We arrived exactly on time as per our reservation, and although there was nobody in line, we were at the door for almost 10 minutes while the flustered hostess tried to figure out where to seat us. When she was finally ready for us, we informed we had requested a booth, as we always do, but were told there were none available any longer. No problem. We went to our table and saw there were two booths available. I went back to the hostess and asked about these. She asked who I was, even though I was literally speaking with her 30 seconds prior. She was certainly \"off her game\" - again, flustered - bad night maybe. She informed us that the booths were reserved but if they came available she could move us. Frustratingly the two booths remained unused the entire time we were at our table, and yet nobody came for us. The rest of the service was equally poor. Wait staff took 10 minutes after we were sitting to take our orders - at this time we were ready with drink and food order. We were worried about being rushed so informed our wait staff that we would have to leave promptly (we had a curling match later that evening). Drink and food came as expected - not particularly quickly but not an inappropriately lengthy wait. But we could not get our waitress to return to pay the bill at the end of the night. We had to ask several table bus persons for help getting our waitress. We had to wander the restaurant ourselves looking for her, rushed payment, and were late for our match. This kind of service made the experience unenjoyable. If we can't count on better service and more predictable timing then we can't come to the Local anymore, though it had become our goto.",
+      "reviewDate": "2026-01-17T08:11:30.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5327622065436100717",
+      "reviewer": "Marshall Devlin",
+      "rating": 5,
+      "text": "My friends and I decided last minute on local. Have heard some great things about here and word of mouth did not disappoint. Our server Jackie was great, all staff made us feel welcome and like we were already regulars. Safe to say we will be returning!",
+      "reviewDate": "2026-01-17T05:43:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5253422105428703312",
+      "reviewer": "Alessandro Perusco",
+      "rating": 5,
+      "text": "My friends and I had a great time with Jackie as our server. She was very on point and engaged with our table every opportunity she had. She made our experience here at the Local a much better time and I would greatly recommend to others!",
+      "reviewDate": "2026-01-17T05:42:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622075436100718",
+      "reviewer": "Lewis Shek",
+      "rating": 5,
+      "text": "I recently had the pleasure of visiting Local, and I can confidently say it’s one of the best spots in town. From the moment I walked in, the warm and welcoming atmosphere made me feel right at home.\n\nA huge shout-out to Veronica and Jules, who truly made the experience unforgettable. Veronica’s friendly demeanor and attention to detail ensured everything was perfect, while Julie’s quick service and cheerful attitude added a special touch to the evening. It’s clear they both take pride in what they do, and it shows in how they interact with every customer. I would like to point out Meklit’s service as well, as she truly got to know us. Her recommendations were spot-on, and my friends and I always had pleasure being served by her.\n\nThe food and drinks were brilliant. The ambiance was cozy, with just the right mix of lively energy and a relaxed vibe.\n\nWhether you're stopping in for a casual drink or a full meal, is the perfect spot. Thanks again to Veronica, Jules, and Meklit for making it such an enjoyable visit — I’ll definitely be back soon! Next time we’re around, we will make sure to dap Nicky up.",
+      "reviewDate": "2026-01-17T05:01:10.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622085436100719",
+      "reviewer": "Aidan",
+      "rating": 5,
+      "text": "Veronika and jules were excellent hosts everynight we went. Made our stay in Toronto so much better. Food is good and drink selection is better. Would highly recommend!",
+      "reviewDate": "2026-01-17T04:54:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622095436100720",
+      "reviewer": "LucasGames 1407",
+      "rating": 5,
+      "text": "We love jules and Veronika!! Only came this week for them. Such nice girls. Hope to see them next time we come round.",
+      "reviewDate": "2026-01-17T04:47:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622105436100721",
+      "reviewer": "Aaron Chan",
+      "rating": 5,
+      "text": "Jules and Veronica are the nicest.  Super nice and helpful. Very pretty too!!! They deliver 10/10 service 🫡🫡🫡🫡",
+      "reviewDate": "2026-01-17T04:46:15.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622115436100722",
+      "reviewer": "Hugh Lee",
+      "rating": 5,
+      "text": "One of my favorite places to eat with my family. My kids love the local burger. Fish and chips and fish tacos are good. Wish they put more tuna and tofu in the poke bowls",
+      "reviewDate": "2026-01-16T15:53:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5252628965428624373",
+      "reviewer": "June",
+      "rating": 5,
+      "text": "Trivia is great but you can’t hear Mia very well. Is there any way you can put the questions on one of the screens?",
+      "reviewDate": "2026-01-16T14:26:04.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5327622125436100723",
+      "reviewer": "Shana Dela Cruz",
+      "rating": 5,
+      "text": "Karina was an amazing server! Would highly recommend this location",
+      "reviewDate": "2026-01-16T03:34:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622135436100724",
+      "reviewer": "Autumn Frazer",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-16T02:08:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622145436100725",
+      "reviewer": "Julia Krause",
+      "rating": 5,
+      "text": "Jules is the best!",
+      "reviewDate": "2026-01-16T01:28:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5250260935428388546",
+      "reviewer": "Pegah Mir Mohammad Sadeghi",
+      "rating": 5,
+      "text": "Akiko was so friendly and kind. Thanks for your service.",
+      "reviewDate": "2026-01-15T23:10:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5250703044428432491",
+      "reviewer": "CAROL",
+      "rating": 4,
+      "text": "The menu has some great options and the fish is excellent. Good value.",
+      "reviewDate": "2026-01-14T12:38:34.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5327622155436100726",
+      "reviewer": "Miss Jennie's",
+      "rating": 5,
+      "text": "Maria is awesome! ⭐️⭐️⭐️⭐️⭐️",
+      "reviewDate": "2026-01-12T00:52:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5241691165427535835",
+      "reviewer": "Jacqueline Howell",
+      "rating": 5,
+      "text": "Thank you to our server Maria & the team for another memorable, happy family celebration at the Local!",
+      "reviewDate": "2026-01-12T00:24:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5289168335432262282",
+      "reviewer": "Mehran Hashmi",
+      "rating": 5,
+      "text": "Nikki is amazing. Absolute sunshine. She was also in charge of my brother's baby shower and it was flawlessly executed by her. Appreciate you and thank you.",
+      "reviewDate": "2026-01-11T06:03:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5289168345432262283",
+      "reviewer": "James D",
+      "rating": 5,
+      "text": "Wonderful service from Maria. Great burger. Fries could use some seasoning tho. Altogether great place to watch the game.",
+      "reviewDate": "2026-01-11T03:39:18.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5289168355432262284",
+      "reviewer": "Alisa Lim",
+      "rating": 5,
+      "text": "My daughter and I went for a Mommy/Daughter dinner last night and had the best time. Our waitress Karina was so lovely and made the experience that much better. Thanks for a fun night :)",
+      "reviewDate": "2026-01-09T19:01:58.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5238375764427206346",
+      "reviewer": "Ben Lawson",
+      "rating": 4,
+      "text": "Good service, nice atmosphere! Marina was so friendly.",
+      "reviewDate": "2026-01-09T02:32:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4179584064321776883",
+      "reviewer": "Chris",
+      "rating": 4,
+      "text": "The atmosphere and menu feel intended to be frictionless and generic, which is perfectly fine. The service is usually the main thing that feels confidently delivered, and staff seem to effortlessly accommodate diners. Our server, Karina, was really welcoming and created a lasting bond with the bar. Even on a busy night she was very personable and helpful.",
+      "reviewDate": "2026-01-09T02:29:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5238209395427189812",
+      "reviewer": "Shruti Srivastava",
+      "rating": 5,
+      "text": "Our server, Maria, made a regular outing feel truly special with her attentiveness and warm, pleasant personality. The food quality, variety, and taste were excellent, and the beer selection was good as well. The ambience at LOCAL is always on point. Overall, a great experience and one we would happily repeat.",
+      "reviewDate": "2026-01-09T01:33:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622165436100727",
+      "reviewer": "Ritvik Sharma",
+      "rating": 5,
+      "text": "came here for some chill drinks and snacks it was lovely! amy was an absolute sweetheart and totally saved the night as they were very busy! shout out amy :) brooke was also just a superstar awesome service!!!",
+      "reviewDate": "2026-01-07T01:33:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5225127995425885161",
+      "reviewer": "Jeffron personal email",
+      "rating": 5,
+      "text": "Great spot! Great food! Great service ~ thanks Eli!",
+      "reviewDate": "2026-01-05T22:19:20.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5225128015425885163",
+      "reviewer": "Varasuthan Kumarathasan",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-05T19:13:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5289168365432262285",
+      "reviewer": "James Brown",
+      "rating": 5,
+      "text": "Food and service are always excellent !",
+      "reviewDate": "2026-01-05T12:59:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622175436100728",
+      "reviewer": "Kiriakos Angelakos",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-01-05T00:18:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5221799055425553459",
+      "reviewer": "Ivy",
+      "rating": 5,
+      "text": "Had a lovely server Jacky G she was friendly and helpful, very nice and welcoming",
+      "reviewDate": "2026-01-03T19:26:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5225210443425893383",
+      "reviewer": "Peter",
+      "rating": 3,
+      "text": "Server was lovely , but coffee cold - a problem with the machine . Food also barely warm. My Huevos Rancheros were soggy and tasteless.",
+      "reviewDate": "2026-01-02T08:43:57.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5220383795425412766",
+      "reviewer": "Artiom Kvasha",
+      "rating": 5,
+      "text": "This has been one of the local go-to’s for my wife and I for as long as can be remembered.\n\nThe sad part is we moved super west and into Durham meaning we couldn’t enjoy more often!\n\nOne of our go to-to’s whenever in the city. Thank goodness the Juevos Rancheros was added back! So good! Their brunch menu is can’t miss!\n\nOne of the few places that have their own Caesar mix which is exceptional and one of the fewer places that have Blanche De Chambly on tap!",
+      "reviewDate": "2026-01-02T01:54:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5220377575425412145",
+      "reviewer": "Shenade Walker",
+      "rating": 5,
+      "text": "Great meal with exceptional and friendly service from Karina.  Thank you!",
+      "reviewDate": "2026-01-02T01:34:20.000Z",
+      "source": "GOOGLE"
+    }
+  ]
+}
