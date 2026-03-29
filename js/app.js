@@ -297,13 +297,20 @@ function findServerMentions(reviews) {
     });
   });
 
+  // Sort longest first so "Jackie G" matches before "Jackie"
+  allNames.sort((a, b) => b.search.length - a.search.length);
+
   reviews.forEach(review => {
     if (review.rating < 4) return;
-    const text = review.text.toLowerCase();
+    let text = review.text.toLowerCase();
     const found = new Set();
     allNames.forEach(({ canonical, search }) => {
       const regex = new RegExp('\\b' + escapeRegex(search) + '\\b', 'i');
-      if (regex.test(text)) found.add(canonical);
+      if (regex.test(text)) {
+        found.add(canonical);
+        // Remove matched text so shorter names don't double-count
+        text = text.replace(regex, '');
+      }
     });
     review.mentionedServers = Array.from(found);
   });
