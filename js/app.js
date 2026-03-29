@@ -25,7 +25,7 @@ function save(key, value) {
 }
 
 // ── State ──────────────────────────────────────────
-let servers = load('servers', []);
+let servers = load('servers', null);
 let mentions = load('mentions', []);
 let winners = load('winners', []);
 let reviewCounts = load('reviewCounts', {});
@@ -711,6 +711,23 @@ document.getElementById('birdeye-load-btn').addEventListener('click', async () =
 });
 
 // ── Initial render ────────────────────────────────
-renderLeaderboard();
-renderServers();
-checkBirdeyeSync();
+(async () => {
+  // Load default server list from repo if localStorage is empty
+  if (servers === null) {
+    try {
+      const res = await fetch('data/servers.json?_=' + Date.now());
+      if (res.ok) {
+        const data = await res.json();
+        servers = data.servers || [];
+        save('servers', servers);
+      } else {
+        servers = [];
+      }
+    } catch {
+      servers = [];
+    }
+  }
+  renderLeaderboard();
+  renderServers();
+  checkBirdeyeSync();
+})();
