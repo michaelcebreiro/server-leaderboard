@@ -1,3 +1,10 @@
 node_modules/
 test-results/
 playwright-report/
+
+# Sensitive / temporary
+_tmp/
+.env
+.env.*
+*.pem
+*.key
