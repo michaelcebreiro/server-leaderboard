@@ -43,6 +43,15 @@ jobs:
             node scripts/fetch-reviews.js "$MONTH"
           fi
 
+      - name: Process reviews into leaderboard
+        run: |
+          MONTH="${{ github.event.inputs.month }}"
+          if [ -z "$MONTH" ]; then
+            node scripts/process-reviews.js
+          else
+            node scripts/process-reviews.js "$MONTH"
+          fi
+
       - name: Commit and push review data
         run: |
           git config user.name  "github-actions[bot]"

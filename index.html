@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Server Leaderboard — Local Public Eatery Leaside</title>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="data:,">
 </head>
 <body>
   <div id="app">
@@ -83,7 +84,7 @@
           </tr>
         </thead>
         <tbody id="leaderboard-body">
-          <tr><td colspan="6" class="empty-state">No data yet — add servers and process reviews to get started.</td></tr>
+          <tr><td colspan="6" class="empty-state">Loading...</td></tr>
         </tbody>
       </table>
     </section>
@@ -92,61 +93,38 @@
     <section id="tab-process" class="tab-content">
       <h2>Process Reviews</h2>
 
-      <!-- Birdeye auto-fetch panel -->
       <div class="birdeye-panel" id="birdeye-panel">
         <div class="birdeye-header">
           <span class="birdeye-icon">&#9729;</span>
           <div>
-            <strong>Auto-Fetch via Birdeye</strong>
-            <span id="birdeye-sync-status" class="sync-status"></span>
+            <strong>Automated Processing</strong>
+            <span id="sync-status" class="sync-status"></span>
           </div>
-          <button id="birdeye-load-btn" class="btn btn-primary btn-sm">Load & Parse Reviews</button>
         </div>
-        <p class="help-text" style="margin-top:6px">Reviews are fetched automatically each night. Click to load and parse them for server mentions.</p>
+        <p class="help-text" style="margin-top:6px">Reviews are fetched from Birdeye and processed automatically each night. The leaderboard updates for all users.</p>
+        <p class="help-text" style="margin-top:6px">Use the button below to preview how current reviews would be processed.</p>
+        <button id="reprocess-btn" class="btn btn-primary" style="margin-top:10px">Preview Current Reviews</button>
       </div>
 
-      <div id="parse-results" class="hidden">
-        <h3>Parsing Results</h3>
-        <div id="parse-summary" class="parse-summary"></div>
-        <div id="parsed-reviews" class="parsed-reviews"></div>
-        <div class="action-bar">
-          <button id="confirm-btn" class="btn btn-success">Confirm &amp; Save Mentions</button>
-          <button id="cancel-btn" class="btn btn-secondary">Cancel</button>
-        </div>
+      <div id="process-results" class="hidden" style="margin-top:16px">
+        <h3>Processing Preview</h3>
+        <div id="process-summary" class="parse-summary"></div>
+        <div id="process-review-list" class="parsed-reviews"></div>
       </div>
     </section>
 
     <!-- Manage Servers Tab -->
     <section id="tab-servers" class="tab-content">
-      <h2>Manage Servers</h2>
-      <p class="help-text">Add server names so the system knows who to look for in reviews. You can add alternate spellings too (e.g., "Johnny" and "Johny").</p>
-
-      <div class="add-server-form">
-        <input type="text" id="new-server-name" placeholder="Server name (e.g., Sarah)">
-        <input type="text" id="new-server-aliases" placeholder="Alternate spellings, comma-separated (optional)">
-        <button id="add-server-btn" class="btn btn-primary">Add Server</button>
-      </div>
-
+      <h2>Server List</h2>
+      <p class="help-text">Server names used for matching mentions in reviews. To add or remove servers, update <code>data/servers.json</code> in the repository.</p>
       <div id="server-list" class="server-list"></div>
-
-      <div class="data-controls">
-        <h3>Data Backup</h3>
-        <p class="help-text">Export your data to a file for safekeeping, or import a previous backup.</p>
-        <div class="action-bar">
-          <button class="btn btn-secondary" onclick="exportData()">Export Data</button>
-          <label class="btn btn-secondary" style="cursor:pointer">
-            Import Data
-            <input type="file" accept=".json" style="display:none" onchange="importData(this.files[0]); this.value='';">
-          </label>
-        </div>
-      </div>
     </section>
 
     <!-- History Tab -->
     <section id="tab-history" class="tab-content">
       <h2>Past Winners</h2>
       <div id="history-list" class="history-list">
-        <p class="empty-state">No history yet. Winners will appear here at the end of each month.</p>
+        <p class="empty-state">Loading...</p>
       </div>
     </section>
 

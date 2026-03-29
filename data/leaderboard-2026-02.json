@@ -1,0 +1,898 @@
+{
+  "month": "2026-02",
+  "processedAt": "2026-03-29T22:18:59.152Z",
+  "reviewCount": 117,
+  "qualifyingReviewCount": 114,
+  "thresholds": {
+    "first": 20,
+    "second": 15
+  },
+  "winners": {
+    "finalized": true,
+    "first": null,
+    "second": "Danielle"
+  },
+  "standings": [
+    {
+      "rank": 1,
+      "server": "Danielle",
+      "count": 18
+    },
+    {
+      "rank": 2,
+      "server": "Ewan",
+      "count": 16
+    },
+    {
+      "rank": 3,
+      "server": "Mia",
+      "count": 14
+    },
+    {
+      "rank": 4,
+      "server": "Annabel",
+      "count": 8
+    },
+    {
+      "rank": 5,
+      "server": "Jackie",
+      "count": 7
+    },
+    {
+      "rank": 6,
+      "server": "Karina",
+      "count": 6
+    },
+    {
+      "rank": 7,
+      "server": "Kayla",
+      "count": 5
+    },
+    {
+      "rank": 8,
+      "server": "Matteo",
+      "count": 4
+    },
+    {
+      "rank": 9,
+      "server": "Nicky",
+      "count": 4
+    },
+    {
+      "rank": 10,
+      "server": "Alessia",
+      "count": 3
+    },
+    {
+      "rank": 11,
+      "server": "Meklit",
+      "count": 3
+    },
+    {
+      "rank": 12,
+      "server": "Akiko",
+      "count": 2
+    },
+    {
+      "rank": 13,
+      "server": "Ben",
+      "count": 2
+    },
+    {
+      "rank": 14,
+      "server": "Eli",
+      "count": 2
+    },
+    {
+      "rank": 15,
+      "server": "Jackie G",
+      "count": 2
+    },
+    {
+      "rank": 16,
+      "server": "Maria",
+      "count": 2
+    },
+    {
+      "rank": 17,
+      "server": "Christina",
+      "count": 1
+    },
+    {
+      "rank": 18,
+      "server": "Jackie N",
+      "count": 1
+    },
+    {
+      "rank": 19,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 20,
+      "server": "Rivaldo",
+      "count": 1
+    },
+    {
+      "rank": 21,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 22,
+      "server": "Ivy",
+      "count": 0
+    },
+    {
+      "rank": 23,
+      "server": "Josh",
+      "count": 0
+    },
+    {
+      "rank": 24,
+      "server": "Kalypsa",
+      "count": 0
+    },
+    {
+      "rank": 25,
+      "server": "Nicola",
+      "count": 0
+    },
+    {
+      "rank": 26,
+      "server": "Qam",
+      "count": 0
+    },
+    {
+      "rank": 27,
+      "server": "Ricki",
+      "count": 0
+    }
+  ],
+  "mentions": [
+    {
+      "server": "Mia",
+      "count": 14,
+      "reviews": [
+        {
+          "reviewer": "Diksha Joshi",
+          "text": "Our server Mia was really sweet, she checked in frequently and made sure we had a really great time! Loved her drinks recommendations!",
+          "date": "2026-03-01",
+          "rating": 5
+        },
+        {
+          "reviewer": "Amhlaoibh Lynch",
+          "text": "We had Mia as our server and she was amazing.  She helped us pick some delicious appetizers and main meals and appreciate her excellent service.\n\nWill definitely return and look for her as our server",
+          "date": "2026-02-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Carrie McLaren",
+          "text": "Mia was excellent!",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Angela Cluney",
+          "text": "Mia was amazing!!! She was helpful, shared information. She was kind and friendly!!!",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Helen Smith",
+          "text": "Mia was awesome. Friendly and efficient",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Gary Park",
+          "text": "Had a nice evening for a quick bite at Local Leaside.  Always consistent - friendly service, delicious food and cold drinks.\n\nOur server Mia was very hospitable and welcoming. Will be back!",
+          "date": "2026-02-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ken Shelson",
+          "text": "Always consistent, delicious with terrific service from our favourite, Mia.",
+          "date": "2026-02-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rosie Shelson",
+          "text": "Mia was fantastic!",
+          "date": "2026-02-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Amanda Boyden Connell",
+          "text": "Great food and device provided by Mia was excellent--friendly and very attentive. Great shrimp dumplings.",
+          "date": "2026-02-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Steven C",
+          "text": "Mia was very helpful and made sure our table was topped off with drinks, food, etc. overall service is great and atmosphere is good.",
+          "date": "2026-02-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adrian Colas",
+          "text": "Elite level service from Mia",
+          "date": "2026-02-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Marc Stephenson",
+          "text": "Mia is my favourite server she’s so wonderful and kind and amazing and the best. Request her especially over some of them. Vicco always takes good care of us",
+          "date": "2026-02-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kim Richards",
+          "text": "Very attentive service. Thanks Mia!",
+          "date": "2026-02-02",
+          "rating": 4
+        },
+        {
+          "reviewer": "Alexandra Baker",
+          "text": "Mia is the best server!",
+          "date": "2026-02-02",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Akiko",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Elise Warren",
+          "text": "Food was delicious and Jackie and Akiko were amazing! They helped me choose a perfect cocktail and made our whole experience worth it. Great place, definitely will go back :)",
+          "date": "2026-02-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Michael Wessels",
+          "text": "Came here on a busy Friday night and had a great time. Jackie and Akiko were super helpful with suggestions from the menu, food and drinks were quick and delicious. They were so friendly and welcoming, the vibe was just right. Overall great experience. I’ll be back!",
+          "date": "2026-02-28",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Karina",
+      "count": 6,
+      "reviews": [
+        {
+          "reviewer": "Laurie Stoneburgh",
+          "text": "Except food and tremendous service. Karina was excellent",
+          "date": "2026-03-01",
+          "rating": 5
+        },
+        {
+          "reviewer": "Khepri Nelson",
+          "text": "I came by to visit a friend because she raves about this place all the time and it definitely met my expectations!! Food was amazing but the service was even better. Kaitlyn M really took care of us. Karina was also really helpful with suggestions. EVERYONE was amazing and very friendly!! Will 100% be returning and recommending",
+          "date": "2026-02-23",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ella Brenton",
+          "text": "I loved Karina so much she was such a wonderful soul❤️❤️❤️❤️",
+          "date": "2026-02-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ryan Wolfe-Sandy",
+          "text": "The service and food were both spectacular, my girlfriend and I loved our server Karina",
+          "date": "2026-02-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Samantha Sykes",
+          "text": "Karina took great care of us on our surprise date night",
+          "date": "2026-02-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Marek Khella",
+          "text": "Came with my family and Ben and Karina were wonderful serving and bartending for us! Paulveen, Alessia, Aisia and Rivaldo were also very helpful, friendly and attentive!",
+          "date": "2026-02-17",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Christina",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Maroula Kouz",
+          "text": "Great place and Christina is  an excellent hostess!",
+          "date": "2026-02-28",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Annabel",
+      "count": 8,
+      "reviews": [
+        {
+          "reviewer": "Amal M",
+          "text": "We had such a wonderful experience, and it was truly made special by Annabel and Aisia.\n\nAnnabel, our server, was absolutely incredible so warm, attentive, and genuinely kind. She made us feel completely taken care of from the moment we sat down. Her energy was welcoming, she anticipated what we needed before we even had to ask, and she made the whole experience feel personal and effortless.\n\nAisia was just as amazing. She stepped in to assist and did so with such professionalism and grace. It’s rare to come across service that feels this sincere.",
+          "date": "2026-02-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Chris Culligan",
+          "text": "Mateo and Annabel were great",
+          "date": "2026-02-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lara Sutton",
+          "text": "So much fun! Annabel and Matteo make a great team. Amazing, smart service 👍  👍",
+          "date": "2026-02-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Will Stevens",
+          "text": "Strikingly alive, but in a non-threatening way. Hypnotically ambient for a Leaside pub. Service was divine (a tall one named Annabel). I lost my Ray-Bans and didn’t even care. Very few haunts have such an effect on me.",
+          "date": "2026-02-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Katy Tritt",
+          "text": "Can’t say enough good things about this place. Beautiful ambiance, good grub, and out of this world service. Annabel and Matteo rocked my world. *Terminator Voice* I’ll be back!",
+          "date": "2026-02-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Vanessa Lee",
+          "text": "Had really great roti and curry! Annabel was lovely and so grateful she recommended it.",
+          "date": "2026-02-12",
+          "rating": 5
+        },
+        {
+          "reviewer": "Aftab Khan",
+          "text": "Went for a meal with close friends and enjoyed the food, but the service was even better. Sophie and. Annabelle did an excellent job taking care of us with Care and friendliness. We will definitely be back.",
+          "date": "2026-02-12",
+          "rating": 5
+        },
+        {
+          "reviewer": "Marigold O'Leary",
+          "text": "The service was amazing, our servers Jackie, Ben, and Annabelle were so sweet and made sure our time at Local was enjoyable! 10/10!!",
+          "date": "2026-02-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Maria",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Audrey Carroll",
+          "text": "Had a great time at local trivia night Maria made our night she was so sweet and service was super quick. Can’t wait to come back!",
+          "date": "2026-02-11",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kyle Weir",
+          "text": "Here to watch some hockey and football. Maria was our server upstairs and was attentive, smiling and making sure we are handled first class ! I’ll be back !",
+          "date": "2026-02-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Meklit",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "Deki",
+          "text": "Meklit was great. Very helpfull and gave us great ideas regarding food and drinks. So friendly and profesional . Definitly we are comming back and bringing friends. Tkank You Meklit and Local.",
+          "date": "2026-02-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rhea Ntakos",
+          "text": "Meklit was an amazing server!! Thank You!",
+          "date": "2026-02-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Review",
+          "text": "The service was excellent and the entire staff was very friendly. A special thank you to Meklit, who went out of her way to make sure it was a great dining experience, really appreciated the extra effort!",
+          "date": "2026-02-23",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Ewan",
+      "count": 16,
+      "reviews": [
+        {
+          "reviewer": "Shannon O'Brien",
+          "text": "Fun place for a tasty meal out. Great staff, especially Ewan, aka Bad Bunny. He represents the Local well and has great rapport with patrons. Great neighbourhood establishment.",
+          "date": "2026-02-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Martina Caunedo",
+          "text": "Great service by Ewan!",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lesheaya Vassell",
+          "text": "ewan was a great server & food was amazing we got the nachos and he recommended the chicken with it and we weren’t disappointed!",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Frequency Recording Studio",
+          "text": "Amazing service! Ewan was very respectful and efficient.",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Preston",
+          "text": "Ewan did an amazing job serving us and enhanced our dinning experience",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "joseph aquino",
+          "text": "Ewan",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Helen S",
+          "text": "Though there was some confusion in tge kitchen,  Ewan, our server made it right and his approach made us forget about the entire thing.",
+          "date": "2026-02-15",
+          "rating": 4
+        },
+        {
+          "reviewer": "Audrey Banfield",
+          "text": "Ewan our server was amazing! Very attentive to ensuring our needs were met and visit was enjoyable!",
+          "date": "2026-02-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "David Pidgeon",
+          "text": "Ewan was our server. He did a great job.",
+          "date": "2026-02-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Shaun Herre",
+          "text": "Ewan was great, friendly prompt and knowledgeable.",
+          "date": "2026-02-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kate Gagnon",
+          "text": "Ewan was great!  Very engaging and made great food recommendations.  We come here often and really enjoyed his vibe!",
+          "date": "2026-02-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "prasanth mulukutla",
+          "text": "Ewan was the best",
+          "date": "2026-02-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sarper",
+          "text": "Local always feels like home to us, especially since it’s so close to where we live. Once again today, we were welcomed as if we were at home. We were initially directed upstairs, but when we mentioned that we preferred to sit downstairs, Jacqueline, the manager, kindly assisted us.\nWe saw Ewan again, who, as always, was warm and incredibly kind. Our server today was Jackie G — friendly, personable, and very attentive. Our meals arrived right on time, and the level of care and attention was, once again, flawless.\nUntil next time, please keep being the wonderful place that you are.",
+          "date": "2026-02-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sarper Pamuk",
+          "text": "Locale always feels like home to us, especially since it’s so close to where we live. Once again today, we were welcomed as if we were at home. We were initially directed upstairs, but when we mentioned that we preferred to sit downstairs, Jacqueline, the manager, kindly assisted us.\n\nWe saw Ewan again, who, as always, was warm and incredibly kind. Our server today was Jackie G — friendly, personable, and very attentive. Our meals arrived right on time, and the level of care and attention was, once again, flawless.\n\nUntil next time, please keep being the wonderful place that you are.",
+          "date": "2026-02-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jennifer Peel",
+          "text": "We are in here very frequently and the food is always great and the staff is lovely! Ewan was our server and he was very kind and attentive. He made sure our drinks were always full and made an effort to learn all of our names. Had an amazing experience as always!",
+          "date": "2026-02-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Divya",
+          "text": "Had a great experience at Local today. Came in for an early dinner with 2 young kids. Food was great and came out very quickly. Ewan, our server, really made the experience. He spoke with the kids, engaged them during the ordering process and even remembered their names on our way out. He checked in with all of us a couple of times thru the dinner to make sure everything was to our liking. Thanks to the team for a great dinner!",
+          "date": "2026-02-01",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kayla",
+      "count": 5,
+      "reviews": [
+        {
+          "reviewer": "Sultana Lalani",
+          "text": "Had a great time here with my friends. Kayla was super knowledgeable!",
+          "date": "2026-02-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jason Adonez",
+          "text": "Love the beef hummus. Kayla took great care of our group.",
+          "date": "2026-02-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Aran Harker",
+          "text": "Food was good, nice atmosphere and our server Kayla was really great! will be back. thanks Kayla!",
+          "date": "2026-02-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Connor McCauley",
+          "text": "Kayla was fantastic! On point and very friendly.",
+          "date": "2026-02-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Raveenthan Thambirajah",
+          "text": "We had a great time today at this restaurant. Great food and drinks and our server Kayla was amazing!",
+          "date": "2026-02-12",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Nicky",
+      "count": 4,
+      "reviews": [
+        {
+          "reviewer": "Reza Sal",
+          "text": "Danielle & Nicky were great.",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Arash Jahangir",
+          "text": "Nicky and Danielle rock.  Great service.",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Elina Ramezani",
+          "text": "We were here for the Super Bowl. We had such an amazing experience here, and a huge part of that was thanks to our server Dani and the manager Nicky. Dani was incredibly attentive, friendly, and made us feel genuinely taken care of from start to finish. She anticipated what we needed before we even had to ask and brought such positive energy to the table.\nNicky was also fantastic! you can really tell when a restaurant has strong leadership, and it shows in the service and overall atmosphere. Everything ran smoothly, and we felt truly valued as guests.",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Bardia Dehbasti",
+          "text": "Greatest bar, best beer and best food especially the Asian inspired menu.\nOh and even greater service, our servers Nicky, and Dani were so nice and caring and provided the best service.\n10/10 recommended.",
+          "date": "2026-02-09",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Ben",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Marek Khella",
+          "text": "Came with my family and Ben and Karina were wonderful serving and bartending for us! Paulveen, Alessia, Aisia and Rivaldo were also very helpful, friendly and attentive!",
+          "date": "2026-02-17",
+          "rating": 5
+        },
+        {
+          "reviewer": "Marigold O'Leary",
+          "text": "The service was amazing, our servers Jackie, Ben, and Annabelle were so sweet and made sure our time at Local was enjoyable! 10/10!!",
+          "date": "2026-02-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Danielle",
+      "count": 18,
+      "reviews": [
+        {
+          "reviewer": "Brielle Small",
+          "text": "I went to local for the first time and had the pleasure of being served by Danielle and she was amazing! Gave incredible suggestions and was so accommodating and fun. Will definitely be back",
+          "date": "2026-03-01",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andrew Hakes",
+          "text": "Danielle is great. We love her",
+          "date": "2026-02-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Matthew Shuckett",
+          "text": "Danielle was absolutely amazing at the Local Leaside. She was so friendly, attentive, and knowledgeable, and truly made the experience feel special. Great humour too. You can tell she genuinely cares about great service and knew exactly what to do. Such a standout and a huge asset to the team!",
+          "date": "2026-02-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Isaac Yermus",
+          "text": "Danielle is my favourite! 10/10 service can’t wait to go back!",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adina L",
+          "text": "First time going to local and the service blew me away! Danielle was incredible and made the experience even more memorable. Highly recommend",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rachel Fluxman",
+          "text": "Had an amazing time at local tonight! The food was great but Danielle really elevated the whole dining experience. She was so attentive, fun and kept the drinks flowing, will definitely be back!",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jim Murphy",
+          "text": "Danielle made the visit extra special with great service",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jason Steel",
+          "text": "Danielle was very friendly and attentive",
+          "date": "2026-02-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Matt Diniz",
+          "text": "Danielle is amazing. #chickentendiesforlife",
+          "date": "2026-02-17",
+          "rating": 5
+        },
+        {
+          "reviewer": "Allison Andrews",
+          "text": "Great brunch with family and fantastic service from Danielle!",
+          "date": "2026-02-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rich Andrews",
+          "text": "Great food and drinks with family. Danielle was an outstanding server and super friendly!",
+          "date": "2026-02-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Suzy Rezkalla",
+          "text": "Danielle is amazing! Great service, very friendly! Amazing hospitality!\nThank you!",
+          "date": "2026-02-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Reza Sal",
+          "text": "Danielle & Nicky were great.",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Arash Jahangir",
+          "text": "Nicky and Danielle rock.  Great service.",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andrew",
+          "text": "Danielle did a great job serving us at the Leaside location.\n\nFood was great and service was fast!",
+          "date": "2026-02-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Maxime Briand",
+          "text": "Great spot and excellent spot. Danielle was incredible!",
+          "date": "2026-02-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Peter Chan",
+          "text": "Danielle was amazing! Thanks for the amazing service.",
+          "date": "2026-02-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Monica Zou",
+          "text": "We have our office lunches here all the time. Food is consistently delicious and the servers are really nice and lovely. Shout out to Danielle!",
+          "date": "2026-02-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Sofie",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Aftab Khan",
+          "text": "Went for a meal with close friends and enjoyed the food, but the service was even better. Sophie and. Annabelle did an excellent job taking care of us with Care and friendliness. We will definitely be back.",
+          "date": "2026-02-12",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matteo",
+      "count": 4,
+      "reviews": [
+        {
+          "reviewer": "Iman Rawji",
+          "text": "Matteo was awesome!  food was outstanding as always.  Amazing service as well!   Loved it and great experience!",
+          "date": "2026-03-01",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rubina Manji-Rawji",
+          "text": "Matteo was amazing.   Really took care of of us.    was super friendly  and very good service.",
+          "date": "2026-03-01",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lara Sutton",
+          "text": "So much fun! Annabel and Matteo make a great team. Amazing, smart service 👍  👍",
+          "date": "2026-02-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Katy Tritt",
+          "text": "Can’t say enough good things about this place. Beautiful ambiance, good grub, and out of this world service. Annabel and Matteo rocked my world. *Terminator Voice* I’ll be back!",
+          "date": "2026-02-19",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Alessia",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "zoe niles",
+          "text": "We had the pleasure of being served by Alessia tonight at the Local Leaside location, and she was absolutely amazing! From the moment we sat down, she was warm, welcoming, and so attentive. She checked in at all the right times, made sure everything was perfect, and genuinely made us feel taken care of.\n\nIt’s rare to come across service that truly stands out, but Alessia did just that. She was friendly, professional, and went above and beyond to make our experience special. Thank you for such a wonderful evening — we’ll definitely be back!",
+          "date": "2026-02-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Marek Khella",
+          "text": "Came with my family and Ben and Karina were wonderful serving and bartending for us! Paulveen, Alessia, Aisia and Rivaldo were also very helpful, friendly and attentive!",
+          "date": "2026-02-17",
+          "rating": 5
+        },
+        {
+          "reviewer": "Robert",
+          "text": "Came here for the superbowl last night and had an incredible time. Between the service and the raffle give aways, local was the place to be!!! Our server Alessia is what made our experience perfect. She was extremely attentive and knowledgeable, giving us great suggestions on drinks & food. She was always checking in on us and made us feel prioritized even though the place was packed. We didn’t see her stop moving all night!!! Best service we’ve ever had, will definitely be back.",
+          "date": "2026-02-09",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Jackie",
+      "count": 7,
+      "reviews": [
+        {
+          "reviewer": "Elise Warren",
+          "text": "Food was delicious and Jackie and Akiko were amazing! They helped me choose a perfect cocktail and made our whole experience worth it. Great place, definitely will go back :)",
+          "date": "2026-02-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Michael Wessels",
+          "text": "Came here on a busy Friday night and had a great time. Jackie and Akiko were super helpful with suggestions from the menu, food and drinks were quick and delicious. They were so friendly and welcoming, the vibe was just right. Overall great experience. I’ll be back!",
+          "date": "2026-02-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Aliyyah Nazeem",
+          "text": "Had brunch on Sunday and the whole experience was great. Our server, Jackie, was a delight!",
+          "date": "2026-02-17",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jessica Furlano",
+          "text": "Our waitress Jackie was amazing and provided us wonderful service while we were here!",
+          "date": "2026-02-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Robert Marcon",
+          "text": "Jackie was the best",
+          "date": "2026-02-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Amir K. Ahari",
+          "text": "Ask for Jackie. She’s exceptional, attentive and very real/authentic.",
+          "date": "2026-02-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Marigold O'Leary",
+          "text": "The service was amazing, our servers Jackie, Ben, and Annabelle were so sweet and made sure our time at Local was enjoyable! 10/10!!",
+          "date": "2026-02-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Jackie G",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Sarper",
+          "text": "Local always feels like home to us, especially since it’s so close to where we live. Once again today, we were welcomed as if we were at home. We were initially directed upstairs, but when we mentioned that we preferred to sit downstairs, Jacqueline, the manager, kindly assisted us.\nWe saw Ewan again, who, as always, was warm and incredibly kind. Our server today was Jackie G — friendly, personable, and very attentive. Our meals arrived right on time, and the level of care and attention was, once again, flawless.\nUntil next time, please keep being the wonderful place that you are.",
+          "date": "2026-02-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sarper Pamuk",
+          "text": "Locale always feels like home to us, especially since it’s so close to where we live. Once again today, we were welcomed as if we were at home. We were initially directed upstairs, but when we mentioned that we preferred to sit downstairs, Jacqueline, the manager, kindly assisted us.\n\nWe saw Ewan again, who, as always, was warm and incredibly kind. Our server today was Jackie G — friendly, personable, and very attentive. Our meals arrived right on time, and the level of care and attention was, once again, flawless.\n\nUntil next time, please keep being the wonderful place that you are.",
+          "date": "2026-02-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Jackie N",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jacqueline Francois",
+          "text": "Jackie N was amazing!! We had a bigger group of basketball families and she was quick, efficient and friendly. We ordered by Jersey numbers and food cam out quickly.  Great location, amazing food and even better service",
+          "date": "2026-02-15",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Eli",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Rahim",
+          "text": "Eli was fantastic! He was attentive, friendly, and gave us excellent recommendations. We ordered the blackened chicken bowl based on his suggestion and it was to die for. Truly great service from start to finish, we’ll definitely be back and hope to sit in Eli’s section again.",
+          "date": "2026-02-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ana Romero",
+          "text": "First time visiting Local Public Eatery. From the moment you walk in you are greeted with warmth and friendliness (and a complimentary taste of chilled sparkling wine during my visit). The service from Eli was stupendous; he is charismatic, easy going and attentive. He ensured we had everything we needed throughout our meal. The food was fresh, delicious and very well presented. Our dining experience was memorable.",
+          "date": "2026-02-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Paulveen",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Marek Khella",
+          "text": "Came with my family and Ben and Karina were wonderful serving and bartending for us! Paulveen, Alessia, Aisia and Rivaldo were also very helpful, friendly and attentive!",
+          "date": "2026-02-17",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Rivaldo",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Marek Khella",
+          "text": "Came with my family and Ben and Karina were wonderful serving and bartending for us! Paulveen, Alessia, Aisia and Rivaldo were also very helpful, friendly and attentive!",
+          "date": "2026-02-17",
+          "rating": 5
+        }
+      ]
+    }
+  ]
+}
