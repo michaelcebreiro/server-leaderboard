@@ -1,0 +1,153 @@
+{
+  "month": "2026-04",
+  "processedAt": "2026-04-01T07:24:04.382Z",
+  "reviewCount": 0,
+  "qualifyingReviewCount": 0,
+  "thresholds": {
+    "first": 20,
+    "second": 15
+  },
+  "winners": {
+    "finalized": false,
+    "first": null,
+    "second": null
+  },
+  "standings": [
+    {
+      "rank": 1,
+      "server": "Akiko",
+      "count": 0
+    },
+    {
+      "rank": 2,
+      "server": "Alessia",
+      "count": 0
+    },
+    {
+      "rank": 3,
+      "server": "Annabel",
+      "count": 0
+    },
+    {
+      "rank": 4,
+      "server": "Ben",
+      "count": 0
+    },
+    {
+      "rank": 5,
+      "server": "Christina",
+      "count": 0
+    },
+    {
+      "rank": 6,
+      "server": "Danielle",
+      "count": 0
+    },
+    {
+      "rank": 7,
+      "server": "Eli",
+      "count": 0
+    },
+    {
+      "rank": 8,
+      "server": "Ewan",
+      "count": 0
+    },
+    {
+      "rank": 9,
+      "server": "Ivy",
+      "count": 0
+    },
+    {
+      "rank": 10,
+      "server": "Jackie",
+      "count": 0
+    },
+    {
+      "rank": 11,
+      "server": "Jackie G",
+      "count": 0
+    },
+    {
+      "rank": 12,
+      "server": "Jackie N",
+      "count": 0
+    },
+    {
+      "rank": 13,
+      "server": "Josh",
+      "count": 0
+    },
+    {
+      "rank": 14,
+      "server": "Kalypsa",
+      "count": 0
+    },
+    {
+      "rank": 15,
+      "server": "Karina",
+      "count": 0
+    },
+    {
+      "rank": 16,
+      "server": "Kayla",
+      "count": 0
+    },
+    {
+      "rank": 17,
+      "server": "Maria",
+      "count": 0
+    },
+    {
+      "rank": 18,
+      "server": "Matteo",
+      "count": 0
+    },
+    {
+      "rank": 19,
+      "server": "Meklit",
+      "count": 0
+    },
+    {
+      "rank": 20,
+      "server": "Mia",
+      "count": 0
+    },
+    {
+      "rank": 21,
+      "server": "Nicky",
+      "count": 0
+    },
+    {
+      "rank": 22,
+      "server": "Nicola",
+      "count": 0
+    },
+    {
+      "rank": 23,
+      "server": "Paulveen",
+      "count": 0
+    },
+    {
+      "rank": 24,
+      "server": "Qam",
+      "count": 0
+    },
+    {
+      "rank": 25,
+      "server": "Ricki",
+      "count": 0
+    },
+    {
+      "rank": 26,
+      "server": "Rivaldo",
+      "count": 0
+    },
+    {
+      "rank": 27,
+      "server": "Sofie",
+      "count": 0
+    }
+  ],
+  "mentions": []
+}
