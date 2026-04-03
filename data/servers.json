@@ -56,7 +56,9 @@
     },
     {
       "name": "Danielle",
-      "aliases": ["Dani"]
+      "aliases": [
+        "Dani"
+      ]
     },
     {
       "name": "Sofie",
@@ -116,6 +118,10 @@
     },
     {
       "name": "Qam",
+      "aliases": []
+    },
+    {
+      "name": "Elaiza",
       "aliases": []
     }
   ]

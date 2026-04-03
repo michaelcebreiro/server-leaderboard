@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-02T07:15:56.761Z",
-  "reviewCount": 1,
-  "qualifyingReviewCount": 1,
+  "processedAt": "2026-04-03T07:12:49.060Z",
+  "reviewCount": 4,
+  "qualifyingReviewCount": 4,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,138 +16,192 @@
     {
       "rank": 1,
       "server": "Akiko",
-      "count": 0
+      "count": 3
     },
     {
       "rank": 2,
+      "server": "Elaiza",
+      "count": 3
+    },
+    {
+      "rank": 3,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Jackie",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Qam",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Ricki",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Rivaldo",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Sofie",
       "count": 0
     }
   ],
-  "mentions": []
+  "mentions": [
+    {
+      "server": "Akiko",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "Treldon Hackshaw",
+          "text": "Elaiza and Akiko were amazing. Food and atmosphere was very enjoyable. Will go back for sure",
+          "date": "2026-04-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tom McGillis",
+          "text": "My niece and I had the most fun being served by Elaiza and Akiko. Food & drinks were great but our servers were even better! We'll be back.",
+          "date": "2026-04-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sarah Peddle",
+          "text": "Truly a local treasure.  Elaiza and Akiko made this experience what it was. While the drinks and food were delicious the servers and management made it so special. If you dine here make a special request for Elaiza and Akiko, you won’t regret it!",
+          "date": "2026-04-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Elaiza",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "Treldon Hackshaw",
+          "text": "Elaiza and Akiko were amazing. Food and atmosphere was very enjoyable. Will go back for sure",
+          "date": "2026-04-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tom McGillis",
+          "text": "My niece and I had the most fun being served by Elaiza and Akiko. Food & drinks were great but our servers were even better! We'll be back.",
+          "date": "2026-04-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sarah Peddle",
+          "text": "Truly a local treasure.  Elaiza and Akiko made this experience what it was. While the drinks and food were delicious the servers and management made it so special. If you dine here make a special request for Elaiza and Akiko, you won’t regret it!",
+          "date": "2026-04-03",
+          "rating": 5
+        }
+      ]
+    }
+  ]
 }
