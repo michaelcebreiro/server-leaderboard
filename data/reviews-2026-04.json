@@ -1,8 +1,40 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-03T07:12:48.994Z",
-  "reviewCount": 4,
+  "fetchedAt": "2026-04-04T07:03:43.953Z",
+  "reviewCount": 8,
   "reviews": [
+    {
+      "reviewId": "5463137635449602769",
+      "reviewer": "james barlow",
+      "rating": 5,
+      "text": "Amazing food and atmosphere, Karina and Christina were amazing very friendly and great service. They do their job very well!",
+      "reviewDate": "2026-04-04T01:58:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5463137375449602745",
+      "reviewer": "AC",
+      "rating": 5,
+      "text": "Food and atmosphere was great, Karina and Christina helped make the occasion even better.",
+      "reviewDate": "2026-04-04T01:57:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5463137345449602742",
+      "reviewer": "Chantal Barlow",
+      "rating": 5,
+      "text": "The most friendly staff, great vibe and delicious food.",
+      "reviewDate": "2026-04-04T01:57:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5463121935449601211",
+      "reviewer": "Christian Westlaken",
+      "rating": 5,
+      "text": "Akiko and Ben were awesome! Super friendly and made the night better with how personable they were.",
+      "reviewDate": "2026-04-04T01:30:08.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5461749605449464949",
       "reviewer": "Treldon Hackshaw",
