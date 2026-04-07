@@ -163,12 +163,14 @@ const STOP_WORDS = new Set([
   'kindness','patience','experience','quality','portion','portions','price','prices','decor','ambiance',
 ]);
 
-function discoverNewServers(servers) {
+function discoverNewServers(servers, removed) {
   const knownNames = new Set();
   servers.forEach(s => {
     knownNames.add(s.name.toLowerCase());
     (s.aliases || []).forEach(a => knownNames.add(a.toLowerCase()));
   });
+  // Names previously deleted via the web UI — never re-add these.
+  (removed || []).forEach(name => knownNames.add(name.toLowerCase()));
 
   // Scan ALL review files for name patterns
   const reviewFiles = fs.readdirSync(dataDir).filter(f => /^reviews-\d{4}-\d{2}\.json$/.test(f));
@@ -210,15 +212,17 @@ if (!fs.existsSync(serversFile)) {
 }
 const serverData = JSON.parse(fs.readFileSync(serversFile, 'utf8'));
 let servers = serverData.servers || [];
-console.log(`Loaded ${servers.length} servers from data/servers.json`);
+const removed = serverData.removed || [];
+console.log(`Loaded ${servers.length} servers from data/servers.json (${removed.length} blocked)`);
 
 // Auto-discover new server names from all reviews
-const newServers = discoverNewServers(servers);
+const newServers = discoverNewServers(servers, removed);
 if (newServers.length > 0) {
   console.log(`Discovered ${newServers.length} new server(s): ${newServers.map(s => s.name).join(', ')}`);
   servers = servers.concat(newServers);
   serverData.servers = servers;
-  fs.writeFileSync(serversFile, JSON.stringify(serverData, null, 2));
+  serverData.removed = removed;
+  fs.writeFileSync(serversFile, JSON.stringify(serverData, null, 2) + '\n');
   console.log(`Updated data/servers.json (now ${servers.length} servers)`);
 } else {
   console.log('No new servers discovered.');

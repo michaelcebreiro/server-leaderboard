@@ -275,30 +275,376 @@ document.getElementById('reprocess-btn').addEventListener('click', async () => {
   }
 });
 
-// ── Server list display ──────────────────────────
-async function renderServers() {
-  try {
-    const res = await fetch('data/servers.json?_=' + Date.now());
-    if (!res.ok) return;
-    const data = await res.json();
-    const servers = data.servers || [];
+// ── Server management (GitHub-backed editor) ─────
+const GH_REPO_OWNER = 'michaelcebreiro';
+const GH_REPO_NAME = 'server-leaderboard';
+const GH_FILE_PATH = 'data/servers.json';
+const GH_TOKEN_KEY = 'gh_token';
 
-    const container = document.getElementById('server-list');
-    if (servers.length === 0) {
-      container.innerHTML = '<p class="empty-state">No servers configured yet.</p>';
-      return;
+const serverState = {
+  servers: [],
+  removed: [],
+  sha: null,
+  editingName: null,
+  loaded: false
+};
+
+function getToken() {
+  return localStorage.getItem(GH_TOKEN_KEY) || '';
+}
+
+function setToken(token) {
+  if (token) localStorage.setItem(GH_TOKEN_KEY, token);
+  else localStorage.removeItem(GH_TOKEN_KEY);
+}
+
+// UTF-8 safe base64 helpers
+function utf8ToBase64(str) {
+  return btoa(unescape(encodeURIComponent(str)));
+}
+function base64ToUtf8(b64) {
+  return decodeURIComponent(escape(atob(b64.replace(/\n/g, ''))));
+}
+
+async function ghGetServersFile() {
+  const url = `https://api.github.com/repos/${GH_REPO_OWNER}/${GH_REPO_NAME}/contents/${GH_FILE_PATH}?_=${Date.now()}`;
+  const res = await fetch(url, {
+    headers: {
+      'Accept': 'application/vnd.github+json',
+      'Authorization': 'token ' + getToken()
     }
+  });
+  if (res.status === 401 || res.status === 403) {
+    throw new Error('Token rejected by GitHub. Click "Clear token" and re-enter a valid one.');
+  }
+  if (!res.ok) {
+    throw new Error(`GitHub API error (${res.status}): could not load servers.json`);
+  }
+  const json = await res.json();
+  const text = base64ToUtf8(json.content);
+  const parsed = JSON.parse(text);
+  return {
+    sha: json.sha,
+    servers: parsed.servers || [],
+    removed: parsed.removed || []
+  };
+}
 
-    container.innerHTML = servers.map(s => `
-      <div class="server-card">
+async function ghPutServersFile(message) {
+  const body = {
+    servers: serverState.servers,
+    removed: serverState.removed
+  };
+  const content = JSON.stringify(body, null, 2) + '\n';
+  const url = `https://api.github.com/repos/${GH_REPO_OWNER}/${GH_REPO_NAME}/contents/${GH_FILE_PATH}`;
+  const res = await fetch(url, {
+    method: 'PUT',
+    headers: {
+      'Accept': 'application/vnd.github+json',
+      'Authorization': 'token ' + getToken(),
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      message,
+      content: utf8ToBase64(content),
+      sha: serverState.sha
+    })
+  });
+  if (res.status === 401 || res.status === 403) {
+    throw new Error('Token rejected by GitHub. Click "Clear token" and re-enter a valid one.');
+  }
+  if (res.status === 409 || res.status === 422) {
+    throw new Error('CONFLICT');
+  }
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(`GitHub API error (${res.status}): ${err.message || 'save failed'}`);
+  }
+  const json = await res.json();
+  serverState.sha = json.content.sha;
+}
+
+async function loadServers() {
+  if (!getToken()) return;
+  const data = await ghGetServersFile();
+  serverState.servers = data.servers;
+  serverState.removed = data.removed;
+  serverState.sha = data.sha;
+  serverState.loaded = true;
+}
+
+async function saveServers(message) {
+  try {
+    await ghPutServersFile(message);
+  } catch (e) {
+    if (e.message === 'CONFLICT') {
+      // Refetch latest sha and retry once. The current in-memory edits win.
+      const latest = await ghGetServersFile();
+      serverState.sha = latest.sha;
+      // Merge: keep our servers/removed but use the latest sha so the PUT succeeds.
+      await ghPutServersFile(message + ' (auto-merged)');
+    } else {
+      throw e;
+    }
+  }
+}
+
+function showStatus(msg, kind) {
+  const el = document.getElementById('server-status');
+  el.textContent = msg;
+  el.className = 'server-status ' + (kind || '');
+  el.classList.remove('hidden');
+  if (kind === 'success') {
+    setTimeout(() => el.classList.add('hidden'), 3000);
+  }
+}
+
+function clearStatus() {
+  document.getElementById('server-status').classList.add('hidden');
+}
+
+function normalizeName(s) {
+  return (s || '').trim();
+}
+
+function parseAliasInput(s) {
+  return (s || '')
+    .split(',')
+    .map(a => a.trim())
+    .filter(a => a.length > 0);
+}
+
+function nameExists(name, exceptIndex) {
+  const lower = name.toLowerCase();
+  return serverState.servers.some((s, i) =>
+    i !== exceptIndex && s.name.toLowerCase() === lower
+  );
+}
+
+function renderTokenPanel() {
+  const panel = document.getElementById('token-panel');
+  const editor = document.getElementById('servers-editor');
+  if (getToken()) {
+    panel.innerHTML = `
+      <div class="token-status">
+        <span class="token-ok">Access token configured</span>
+        <button type="button" class="link-btn" id="clear-token-btn">Clear token</button>
+      </div>
+    `;
+    editor.classList.remove('hidden');
+    document.getElementById('clear-token-btn').addEventListener('click', () => {
+      if (!confirm('Remove the saved access token from this browser?')) return;
+      setToken('');
+      serverState.loaded = false;
+      serverState.servers = [];
+      serverState.sha = null;
+      renderTokenPanel();
+      renderServerList();
+    });
+  } else {
+    panel.innerHTML = `
+      <div class="token-setup">
+        <strong>One-time setup</strong>
+        <p class="help-text">Paste a GitHub access token to enable editing. Ask Michael for one if you don't have it. The token is saved to this browser only and never sent anywhere except GitHub.</p>
+        <form id="token-form" class="add-server-form">
+          <input type="password" id="token-input" placeholder="ghp_... or github_pat_..." autocomplete="off" required>
+          <button type="submit" class="btn btn-primary">Save Token</button>
+        </form>
+      </div>
+    `;
+    editor.classList.add('hidden');
+    document.getElementById('token-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const val = document.getElementById('token-input').value.trim();
+      if (!val) return;
+      setToken(val);
+      try {
+        await loadServers();
+        renderTokenPanel();
+        renderServerList();
+      } catch (err) {
+        setToken('');
+        alert(err.message);
+      }
+    });
+  }
+}
+
+function renderServerList() {
+  const container = document.getElementById('server-list');
+  if (!getToken()) {
+    container.innerHTML = '';
+    return;
+  }
+  if (!serverState.loaded) {
+    container.innerHTML = '<p class="empty-state">Loading servers...</p>';
+    return;
+  }
+  if (serverState.servers.length === 0) {
+    container.innerHTML = '<p class="empty-state">No servers configured yet. Add one above.</p>';
+    return;
+  }
+
+  container.innerHTML = serverState.servers.map((s, i) => {
+    if (serverState.editingName === s.name) {
+      return `
+        <div class="server-card editing">
+          <form class="edit-server-form" data-index="${i}">
+            <input type="text" class="edit-name" value="${esc(s.name)}" required>
+            <input type="text" class="edit-aliases" value="${esc((s.aliases || []).join(', '))}" placeholder="Aliases (comma-separated)">
+            <div class="action-bar">
+              <button type="submit" class="btn btn-primary btn-sm">Save</button>
+              <button type="button" class="btn btn-secondary btn-sm cancel-edit">Cancel</button>
+            </div>
+          </form>
+        </div>
+      `;
+    }
+    return `
+      <div class="server-card" data-index="${i}">
         <div>
           <div class="name">${esc(s.name)}</div>
           ${s.aliases && s.aliases.length ? '<div class="aliases">Also matches: ' + s.aliases.map(esc).join(', ') + '</div>' : ''}
         </div>
+        <div class="action-bar">
+          <button type="button" class="btn btn-secondary btn-sm edit-btn">Edit</button>
+          <button type="button" class="btn btn-danger delete-btn">Delete</button>
+        </div>
       </div>
-    `).join('');
-  } catch {
-    // Silently fail
+    `;
+  }).join('');
+
+  // Wire up buttons
+  container.querySelectorAll('.edit-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      const idx = parseInt(e.target.closest('.server-card').dataset.index, 10);
+      serverState.editingName = serverState.servers[idx].name;
+      renderServerList();
+    });
+  });
+
+  container.querySelectorAll('.delete-btn').forEach(btn => {
+    btn.addEventListener('click', async (e) => {
+      const idx = parseInt(e.target.closest('.server-card').dataset.index, 10);
+      const server = serverState.servers[idx];
+      if (!confirm(`Delete "${server.name}"? They'll be removed from future leaderboard processing. Past months stay unchanged.`)) return;
+
+      const removed = serverState.servers.splice(idx, 1)[0];
+      // Add to removed list so auto-discovery doesn't re-add
+      if (!serverState.removed.includes(removed.name)) {
+        serverState.removed.push(removed.name);
+      }
+      renderServerList();
+      showStatus('Saving...', '');
+      try {
+        await saveServers(`Remove server: ${removed.name}`);
+        showStatus(`Removed "${removed.name}".`, 'success');
+      } catch (err) {
+        // Roll back on failure
+        serverState.servers.splice(idx, 0, removed);
+        const rIdx = serverState.removed.indexOf(removed.name);
+        if (rIdx !== -1) serverState.removed.splice(rIdx, 1);
+        renderServerList();
+        showStatus(err.message, 'error');
+      }
+    });
+  });
+
+  container.querySelectorAll('.cancel-edit').forEach(btn => {
+    btn.addEventListener('click', () => {
+      serverState.editingName = null;
+      renderServerList();
+    });
+  });
+
+  container.querySelectorAll('.edit-server-form').forEach(form => {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const idx = parseInt(form.dataset.index, 10);
+      const oldServer = serverState.servers[idx];
+      const newName = normalizeName(form.querySelector('.edit-name').value);
+      const newAliases = parseAliasInput(form.querySelector('.edit-aliases').value);
+
+      if (!newName) {
+        showStatus('Name cannot be empty.', 'error');
+        return;
+      }
+      if (nameExists(newName, idx)) {
+        showStatus(`"${newName}" already exists.`, 'error');
+        return;
+      }
+
+      const oldName = oldServer.name;
+      const oldAliases = oldServer.aliases || [];
+      serverState.servers[idx] = { name: newName, aliases: newAliases };
+      serverState.editingName = null;
+      renderServerList();
+      showStatus('Saving...', '');
+      try {
+        const msg = oldName !== newName
+          ? `Rename server: ${oldName} -> ${newName}`
+          : `Update server: ${newName}`;
+        await saveServers(msg);
+        showStatus(`Saved "${newName}".`, 'success');
+      } catch (err) {
+        // Roll back
+        serverState.servers[idx] = { name: oldName, aliases: oldAliases };
+        renderServerList();
+        showStatus(err.message, 'error');
+      }
+    });
+  });
+}
+
+document.getElementById('add-server-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const nameInput = document.getElementById('new-server-name');
+  const aliasInput = document.getElementById('new-server-aliases');
+  const name = normalizeName(nameInput.value);
+  const aliases = parseAliasInput(aliasInput.value);
+
+  if (!name) {
+    showStatus('Name cannot be empty.', 'error');
+    return;
+  }
+  if (nameExists(name, -1)) {
+    showStatus(`"${name}" already exists.`, 'error');
+    return;
+  }
+
+  const newServer = { name, aliases };
+  serverState.servers.push(newServer);
+  // If they're adding back a name that was previously removed, take it off the blocklist
+  const rIdx = serverState.removed.indexOf(name);
+  if (rIdx !== -1) serverState.removed.splice(rIdx, 1);
+  nameInput.value = '';
+  aliasInput.value = '';
+  renderServerList();
+  showStatus('Saving...', '');
+  try {
+    await saveServers(`Add server: ${name}`);
+    showStatus(`Added "${name}".`, 'success');
+  } catch (err) {
+    // Roll back
+    const idx = serverState.servers.indexOf(newServer);
+    if (idx !== -1) serverState.servers.splice(idx, 1);
+    renderServerList();
+    showStatus(err.message, 'error');
+  }
+});
+
+async function initServersTab() {
+  renderTokenPanel();
+  if (!getToken()) {
+    renderServerList();
+    return;
+  }
+  renderServerList();
+  try {
+    await loadServers();
+    renderServerList();
+  } catch (err) {
+    showStatus(err.message, 'error');
   }
 }
 
@@ -432,5 +778,5 @@ document.getElementById('copy-update-btn').addEventListener('click', () => {
 
 // ── Initial render ────────────────────────────────
 renderLeaderboard();
-renderServers();
+initServersTab();
 checkSyncStatus();

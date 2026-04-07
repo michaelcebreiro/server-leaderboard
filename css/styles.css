@@ -484,11 +484,17 @@ textarea:focus, input[type="text"]:focus {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 12px;
   box-shadow: var(--shadow-sm);
   transition: box-shadow 0.2s;
 }
 
 .server-card:hover { box-shadow: var(--shadow); }
+
+.server-card.editing {
+  border-color: var(--brand-light);
+  box-shadow: 0 0 0 3px rgba(90,129,148,0.15);
+}
 
 .server-card .name {
   font-weight: 600;
@@ -499,6 +505,112 @@ textarea:focus, input[type="text"]:focus {
   color: var(--text-muted);
   font-size: 0.8rem;
   margin-top: 2px;
+}
+
+.edit-server-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.edit-server-form input { width: 100%; }
+
+/* ── Token panel ─────────────────────────────── */
+.token-panel { margin-bottom: 16px; }
+
+.token-setup {
+  background: var(--bg-white);
+  border: 1px solid var(--border-light);
+  border-left: 4px solid var(--gold);
+  border-radius: var(--radius);
+  padding: 16px;
+  box-shadow: var(--shadow-sm);
+}
+
+.token-setup strong {
+  display: block;
+  color: var(--brand);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.token-setup .help-text { margin-bottom: 12px; }
+
+.token-setup input[type="password"] {
+  flex: 1;
+  min-width: 200px;
+  width: 100%;
+  background: var(--bg-white);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 12px 14px;
+  border-radius: var(--radius);
+  font-family: 'DM Mono', monospace;
+  font-size: 0.85rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.token-setup input[type="password"]:focus {
+  outline: none;
+  border-color: var(--brand-light);
+  box-shadow: 0 0 0 3px rgba(90,129,148,0.15);
+}
+
+.token-status {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: var(--bg-white);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  font-size: 0.85rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.token-ok {
+  color: var(--success);
+  font-weight: 600;
+}
+.token-ok::before {
+  content: "\2713";
+  margin-right: 6px;
+}
+
+.link-btn {
+  background: none;
+  border: none;
+  color: var(--brand-light);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 0;
+  text-decoration: underline;
+}
+.link-btn:hover { color: var(--brand); }
+
+/* ── Server save status ──────────────────────── */
+.server-status {
+  padding: 10px 14px;
+  border-radius: var(--radius);
+  margin-bottom: 12px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+.server-status.success {
+  background: #e8f6ee;
+  color: var(--success);
+  border: 1px solid #c5e6d2;
+}
+.server-status.error {
+  background: #fbeae8;
+  color: var(--danger);
+  border: 1px solid #f0c8c3;
 }
 
 /* ── Parse Results ───────────────────────────── */

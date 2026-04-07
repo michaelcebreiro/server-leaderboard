@@ -116,8 +116,23 @@
     <!-- Manage Servers Tab -->
     <section id="tab-servers" class="tab-content">
       <h2>Server List</h2>
-      <p class="help-text">Server names used for matching mentions in reviews. To add or remove servers, update <code>data/servers.json</code> in the repository.</p>
-      <div id="server-list" class="server-list"></div>
+      <p class="help-text">Server names used for matching mentions in reviews. Add, rename, or remove servers below. Changes are saved directly to the repository and take effect on the next nightly review processing.</p>
+
+      <div id="token-panel" class="token-panel">
+        <!-- Filled in by JS based on token state -->
+      </div>
+
+      <div id="servers-editor" class="hidden">
+        <form id="add-server-form" class="add-server-form">
+          <input type="text" id="new-server-name" placeholder="Server name" autocomplete="off" required>
+          <input type="text" id="new-server-aliases" placeholder="Aliases (comma-separated, optional)" autocomplete="off">
+          <button type="submit" class="btn btn-primary">Add Server</button>
+        </form>
+
+        <div id="server-status" class="server-status hidden"></div>
+
+        <div id="server-list" class="server-list"></div>
+      </div>
     </section>
 
     <!-- History Tab -->
