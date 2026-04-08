@@ -1,8 +1,24 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-07T07:20:56.351Z",
-  "reviewCount": 9,
+  "fetchedAt": "2026-04-08T07:23:51.743Z",
+  "reviewCount": 11,
   "reviews": [
+    {
+      "reviewId": "5472486434450534440",
+      "reviewer": "Daniel Lee",
+      "rating": 4,
+      "text": "Food and beer selection has been consistently decent nothing to complain about, I would prefer more IPAs on tap if possible.\n\nI've been to their Liberty Village location as well and it's pretty much the same, food and drinks, nothing different. No surprises from either location.\n\nJust good reliable good food and drinks.",
+      "reviewDate": "2026-04-08T02:39:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5471883585450474817",
+      "reviewer": "Liran Lemud",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-07T17:18:05.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5468747884450162907",
       "reviewer": "laume roach",
