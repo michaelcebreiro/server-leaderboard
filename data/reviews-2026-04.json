@@ -1,8 +1,112 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-09T07:25:57.431Z",
-  "reviewCount": 13,
+  "fetchedAt": "2026-04-10T07:45:06.640Z",
+  "reviewCount": 26,
   "reviews": [
+    {
+      "reviewId": "5483564165451639778",
+      "reviewer": "sara",
+      "rating": 5,
+      "text": "Had a great experience thanks to Blake.\nSuper personable, quick with service, and clearly knows what he's doing behind the bar. He made excellent drinks and kept the vibe fun the whole time. If there were 6 stars, he'd get them without question.",
+      "reviewDate": "2026-04-10T03:55:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5483564005451639762",
+      "reviewer": "Anya Pejanovic",
+      "rating": 5,
+      "text": "Blake delivered an amazing experience behind the bar. He was friendly, attentive, and kept everything running smoothly even when it got busy. His drinks were spot-on, and his energy made the whole atmosphere better. If there were 6 stars, I’d give them all to him. Highly recommend!",
+      "reviewDate": "2026-04-10T03:55:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5483057215451589096",
+      "reviewer": "Jacob",
+      "rating": 5,
+      "text": "Always a great time\nKarina is the best!!",
+      "reviewDate": "2026-04-10T02:38:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5483059645451589341",
+      "reviewer": "Aleksi Seleni",
+      "rating": 5,
+      "text": "Kareena is the best waitress I’ve ever heard she makes me feel so welcomed and taken care of. I love coming here because of her",
+      "reviewDate": "2026-04-10T02:38:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5483044245451587799",
+      "reviewer": "ryan ismail",
+      "rating": 5,
+      "text": "Karina is the reason I come back! My drink is never empty!!",
+      "reviewDate": "2026-04-10T02:38:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4602183725363874726",
+      "reviewer": "Leslie Howard",
+      "rating": 5,
+      "text": "Meklit was great. She took great care of all of us. (Party of 4). We would love to have her again!",
+      "reviewDate": "2026-04-09T23:59:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5482731375451556704",
+      "reviewer": "Jacqueline Morrison",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-09T23:01:15.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5482731385451556705",
+      "reviewer": "Justin Renaud",
+      "rating": 5,
+      "text": "Meklit was great",
+      "reviewDate": "2026-04-09T22:50:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5482731395451556706",
+      "reviewer": "Dragonfly Accounting",
+      "rating": 5,
+      "text": "Meklit was amazing, especially since we were a large group.  Very nice smile and professional!",
+      "reviewDate": "2026-04-09T22:48:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5482731405451556707",
+      "reviewer": "Braden Weber",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-09T22:47:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5482731415451556708",
+      "reviewer": "Jonathan Sukhu",
+      "rating": 5,
+      "text": "Fantastic service and remembered our names! Meklit. Definitely recommend",
+      "reviewDate": "2026-04-09T22:46:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5482731425451556709",
+      "reviewer": "tabitha p",
+      "rating": 5,
+      "text": "Meklit was absolutely amazing! Great service!",
+      "reviewDate": "2026-04-09T22:45:35.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5482712235451554824",
+      "reviewer": "Nick",
+      "rating": 5,
+      "text": "I am looking forward to my next visit!\nKarina, Blake & Akiko always takes care of us - they are a joy and make it a fun spot at Local Public Eatery and an easy place to loose the pressures of the busy city.",
+      "reviewDate": "2026-04-09T21:49:23.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5327627694436101281",
       "reviewer": "G C",

@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-09T07:25:57.515Z",
-  "reviewCount": 13,
-  "qualifyingReviewCount": 13,
+  "processedAt": "2026-04-10T07:45:06.726Z",
+  "reviewCount": 26,
+  "qualifyingReviewCount": 26,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,101 +16,101 @@
     {
       "rank": 1,
       "server": "Akiko",
-      "count": 4
+      "count": 5
     },
     {
       "rank": 2,
+      "server": "Karina",
+      "count": 5
+    },
+    {
+      "rank": 3,
+      "server": "Meklit",
+      "count": 5
+    },
+    {
+      "rank": 4,
       "server": "Elaiza",
       "count": 3
     },
     {
-      "rank": 3,
+      "rank": 5,
       "server": "Christina",
       "count": 2
     },
     {
-      "rank": 4,
-      "server": "Karina",
-      "count": 2
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Jackie",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 19,
-      "server": "Matteo",
-      "count": 0
-    },
-    {
       "rank": 20,
-      "server": "Meklit",
+      "server": "Matteo",
       "count": 0
     },
     {
@@ -157,8 +157,14 @@
   "mentions": [
     {
       "server": "Akiko",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Nick",
+          "text": "I am looking forward to my next visit!\nKarina, Blake & Akiko always takes care of us - they are a joy and make it a fun spot at Local Public Eatery and an easy place to loose the pressures of the busy city.",
+          "date": "2026-04-09",
+          "rating": 5
+        },
         {
           "reviewer": "Christian Westlaken",
           "text": "Akiko and Ben were awesome! Super friendly and made the night better with how personable they were.",
@@ -187,8 +193,26 @@
     },
     {
       "server": "Karina",
-      "count": 2,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Jacob",
+          "text": "Always a great time\nKarina is the best!!",
+          "date": "2026-04-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "ryan ismail",
+          "text": "Karina is the reason I come back! My drink is never empty!!",
+          "date": "2026-04-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Nick",
+          "text": "I am looking forward to my next visit!\nKarina, Blake & Akiko always takes care of us - they are a joy and make it a fun spot at Local Public Eatery and an easy place to loose the pressures of the busy city.",
+          "date": "2026-04-09",
+          "rating": 5
+        },
         {
           "reviewer": "james barlow",
           "text": "Amazing food and atmosphere, Karina and Christina were amazing very friendly and great service. They do their job very well!",
@@ -217,6 +241,42 @@
           "reviewer": "AC",
           "text": "Food and atmosphere was great, Karina and Christina helped make the occasion even better.",
           "date": "2026-04-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Meklit",
+      "count": 5,
+      "reviews": [
+        {
+          "reviewer": "Leslie Howard",
+          "text": "Meklit was great. She took great care of all of us. (Party of 4). We would love to have her again!",
+          "date": "2026-04-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Justin Renaud",
+          "text": "Meklit was great",
+          "date": "2026-04-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Dragonfly Accounting",
+          "text": "Meklit was amazing, especially since we were a large group.  Very nice smile and professional!",
+          "date": "2026-04-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jonathan Sukhu",
+          "text": "Fantastic service and remembered our names! Meklit. Definitely recommend",
+          "date": "2026-04-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "tabitha p",
+          "text": "Meklit was absolutely amazing! Great service!",
+          "date": "2026-04-09",
           "rating": 5
         }
       ]
