@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-10T07:45:06.726Z",
-  "reviewCount": 26,
-  "qualifyingReviewCount": 26,
+  "processedAt": "2026-04-11T07:03:24.098Z",
+  "reviewCount": 28,
+  "qualifyingReviewCount": 28,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,57 +45,57 @@
     },
     {
       "rank": 7,
+      "server": "Ewan",
+      "count": 1
+    },
+    {
+      "rank": 8,
+      "server": "Kalypsa",
+      "count": 1
+    },
+    {
+      "rank": 9,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 10,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 11,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 11,
-      "server": "Ewan",
-      "count": 0
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Jackie",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 16,
-      "server": "Josh",
-      "count": 0
-    },
-    {
       "rank": 17,
-      "server": "Kalypsa",
+      "server": "Josh",
       "count": 0
     },
     {
@@ -282,6 +282,18 @@
       ]
     },
     {
+      "server": "Ewan",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "fred naron",
+          "text": "Ewan perfect service 👌",
+          "date": "2026-04-11",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Ben",
       "count": 1,
       "reviews": [
@@ -289,6 +301,18 @@
           "reviewer": "Christian Westlaken",
           "text": "Akiko and Ben were awesome! Super friendly and made the night better with how personable they were.",
           "date": "2026-04-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kalypsa",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Hafsah Clare",
+          "text": "Kalypsa was our server and she was amazing!!! We had such a great time here! The drinks were great and the apps were amazing!! Kalypsa was so attentive and sweet! Best experience ever!",
+          "date": "2026-04-10",
           "rating": 5
         }
       ]
