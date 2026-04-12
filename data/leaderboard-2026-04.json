@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-11T07:03:24.098Z",
-  "reviewCount": 28,
-  "qualifyingReviewCount": 28,
+  "processedAt": "2026-04-12T07:17:28.373Z",
+  "reviewCount": 30,
+  "qualifyingReviewCount": 30,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,32 +45,32 @@
     },
     {
       "rank": 7,
-      "server": "Ewan",
+      "server": "Danielle",
       "count": 1
     },
     {
       "rank": 8,
-      "server": "Kalypsa",
+      "server": "Eli",
       "count": 1
     },
     {
       "rank": 9,
+      "server": "Ewan",
+      "count": 1
+    },
+    {
+      "rank": 10,
+      "server": "Kalypsa",
+      "count": 1
+    },
+    {
+      "rank": 11,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 10,
-      "server": "Annabel",
-      "count": 0
-    },
-    {
-      "rank": 11,
-      "server": "Danielle",
-      "count": 0
-    },
-    {
       "rank": 12,
-      "server": "Eli",
+      "server": "Annabel",
       "count": 0
     },
     {
@@ -301,6 +301,30 @@
           "reviewer": "Christian Westlaken",
           "text": "Akiko and Ben were awesome! Super friendly and made the night better with how personable they were.",
           "date": "2026-04-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Danielle",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Shira Alter",
+          "text": "Danielle provided us with excellent service, and made our evening special. Thanks for the great food, and the awesome drinks! Will be back:)",
+          "date": "2026-04-12",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Eli",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Javier Machado",
+          "text": "We come often to this place, and is fantastic. The food (specially the nachos) are great, good beer selection, and the service is always outstanding. Thanks, Eli, for kepping it up today for us!",
+          "date": "2026-04-11",
           "rating": 5
         }
       ]
