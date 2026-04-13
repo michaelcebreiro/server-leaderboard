@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-12T07:17:28.373Z",
-  "reviewCount": 30,
-  "qualifyingReviewCount": 30,
+  "processedAt": "2026-04-13T08:07:04.493Z",
+  "reviewCount": 32,
+  "qualifyingReviewCount": 32,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -26,7 +26,7 @@
     {
       "rank": 3,
       "server": "Meklit",
-      "count": 5
+      "count": 4
     },
     {
       "rank": 4,
@@ -247,14 +247,8 @@
     },
     {
       "server": "Meklit",
-      "count": 5,
+      "count": 4,
       "reviews": [
-        {
-          "reviewer": "Leslie Howard",
-          "text": "Meklit was great. She took great care of all of us. (Party of 4). We would love to have her again!",
-          "date": "2026-04-09",
-          "rating": 5
-        },
         {
           "reviewer": "Justin Renaud",
           "text": "Meklit was great",
