@@ -83,12 +83,6 @@
       "aliases": []
     },
     {
-      "name": "Jackie",
-      "aliases": [
-        "Jacquie"
-      ]
-    },
-    {
       "name": "Jackie G",
       "aliases": []
     },
@@ -136,5 +130,7 @@
       ]
     }
   ],
-  "removed": []
+  "removed": [
+    "Jackie"
+  ]
 }
