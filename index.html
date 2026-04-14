@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Server Leaderboard — Local Public Eatery Leaside</title>
+  <title>Partner Shoutouts — Local Public Eatery Leaside</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="data:,">
 </head>
@@ -14,9 +15,9 @@
       <div class="header-brand">
         <div class="header-logo">
           <svg viewBox="0 0 32 45" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M22.1865 6.08838H9.81152V9.50638H11.841V27.9086H15.259V23.4073H21.2862C25.1315 23.4073 27.4508 21.9424 28.7173 20.7217C30.3653 19.1348 31.2808 16.9832 31.2808 14.6639C31.2808 12.4208 30.4416 10.3304 28.9157 8.75869C27.7408 7.53798 25.6198 6.08838 22.1865 6.08838ZM26.3522 18.2803C25.1925 19.4094 23.4377 20.0045 21.3015 20.0045H15.259V9.52164H22.1865C26.0775 9.52164 27.8628 12.1919 27.8628 14.6792C27.8628 16.0525 27.3288 17.3342 26.3522 18.2803Z" fill="#405768"/>
-            <path d="M26.9778 40.894H15.259V36.6062H11.841V40.894H9.81152V44.3272H30.3958V38.7119H26.9778V40.894Z" fill="#405768"/>
-            <path d="M25.2688 28.168H21.8355V30.4415H5.44744V3.418H7.49213V0H0.0305178V3.418H2.02944V30.4415H0V33.8748H25.2688V28.168Z" fill="#405768"/>
+            <path d="M22.1865 6.08838H9.81152V9.50638H11.841V27.9086H15.259V23.4073H21.2862C25.1315 23.4073 27.4508 21.9424 28.7173 20.7217C30.3653 19.1348 31.2808 16.9832 31.2808 14.6639C31.2808 12.4208 30.4416 10.3304 28.9157 8.75869C27.7408 7.53798 25.6198 6.08838 22.1865 6.08838ZM26.3522 18.2803C25.1925 19.4094 23.4377 20.0045 21.3015 20.0045H15.259V9.52164H22.1865C26.0775 9.52164 27.8628 12.1919 27.8628 14.6792C27.8628 16.0525 27.3288 17.3342 26.3522 18.2803Z" fill="#111"/>
+            <path d="M26.9778 40.894H15.259V36.6062H11.841V40.894H9.81152V44.3272H30.3958V38.7119H26.9778V40.894Z" fill="#111"/>
+            <path d="M25.2688 28.168H21.8355V30.4415H5.44744V3.418H7.49213V0H0.0305178V3.418H2.02944V30.4415H0V33.8748H25.2688V28.168Z" fill="#111"/>
           </svg>
         </div>
         <h1>Local Public Eatery</h1>
@@ -36,8 +37,25 @@
     <section id="tab-leaderboard" class="tab-content active">
       <div class="month-selector">
         <button id="prev-month" class="btn-icon">&larr;</button>
-        <h2 id="current-month-label">March 2026</h2>
+        <h2 id="current-month-label">April 2026</h2>
         <button id="next-month" class="btn-icon">&rarr;</button>
+      </div>
+
+      <div class="export-buttons">
+        <button id="export-weekly-btn" class="export-btn">Export Weekly PDF</button>
+        <button id="export-monthly-btn" class="export-btn">Export Monthly PDF</button>
+      </div>
+
+      <div class="card shoutouts-card" id="shoutouts-card">
+        <div class="card-title">&#x2B50; Partner Shoutouts</div>
+        <div class="card-subtitle" id="shoutouts-subtitle">LOCAL Leaside</div>
+        <div class="rows-wrap" id="shoutouts-rows">
+          <div class="empty-state">Loading...</div>
+        </div>
+        <div class="total">
+          <span class="total-label">Total</span>
+          <span class="total-num" id="shoutouts-total">0 Mentions</span>
+        </div>
       </div>
 
       <div class="prize-banner">
@@ -71,22 +89,6 @@
           <span class="stat-label">Active Servers</span>
         </div>
       </div>
-
-      <table class="leaderboard-table">
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>Server</th>
-            <th>Mentions</th>
-            <th>To 1st</th>
-            <th>To 2nd</th>
-            <th>Status</th>
-          </tr>
-        </thead>
-        <tbody id="leaderboard-body">
-          <tr><td colspan="6" class="empty-state">Loading...</td></tr>
-        </tbody>
-      </table>
     </section>
 
     <!-- Process Reviews Tab -->

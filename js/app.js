@@ -75,32 +75,121 @@ document.getElementById('next-month').addEventListener('click', () => {
   renderLeaderboard();
 });
 
+// ── Date helpers ──────────────────────────────────
+function startOfMonth(ym) {
+  const [y, m] = ym.split('-').map(Number);
+  return new Date(y, m - 1, 1, 0, 0, 0, 0);
+}
+
+function endOfMonth(ym) {
+  const [y, m] = ym.split('-').map(Number);
+  return new Date(y, m, 0, 23, 59, 59, 999);
+}
+
+function startOfWeek(d) {
+  // ISO week: Monday is the first day
+  const day = d.getDay(); // 0 (Sun) - 6 (Sat)
+  const diff = day === 0 ? 6 : day - 1;
+  return new Date(d.getFullYear(), d.getMonth(), d.getDate() - diff, 0, 0, 0, 0);
+}
+
+const MONTH_ABBR = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function formatShortDate(d) {
+  return MONTH_ABBR[d.getMonth()] + ' ' + d.getDate();
+}
+
+function formatRangeSubtitle(start, end) {
+  const sameMonth = start.getMonth() === end.getMonth() && start.getFullYear() === end.getFullYear();
+  const startStr = formatShortDate(start);
+  const endStr = sameMonth ? end.getDate() : formatShortDate(end);
+  return `LOCAL Leaside \u00B7 ${startStr}\u2013${endStr}, ${end.getFullYear()}`;
+}
+
+function isSameMonth(ym, d) {
+  return ym === d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0');
+}
+
+// ── Count mentions within a date range ────────────
+function countMentionsInRange(data, rangeStart, rangeEnd) {
+  const counts = {};
+  (data.mentions || []).forEach(group => {
+    (group.reviews || []).forEach(r => {
+      if (!r.date) return;
+      const d = new Date(r.date);
+      if (d >= rangeStart && d <= rangeEnd) {
+        counts[group.server] = (counts[group.server] || 0) + 1;
+      }
+    });
+  });
+  return Object.entries(counts)
+    .map(([server, count]) => ({ server, count }))
+    .sort((a, b) => b.count - a.count || a.server.localeCompare(b.server));
+}
+
+// ── Group servers that share a count onto one row ─
+function groupByCount(standings) {
+  const groups = [];
+  standings.filter(s => s.count > 0).forEach(s => {
+    const existing = groups.find(g => g.count === s.count);
+    if (existing) existing.servers.push(s.server);
+    else groups.push({ count: s.count, servers: [s.server] });
+  });
+  return groups;
+}
+
+// ── Render the shoutouts card ─────────────────────
+function renderShoutoutsCard(groups, subtitle, totalMentions) {
+  const rowsEl = document.getElementById('shoutouts-rows');
+  const subtitleEl = document.getElementById('shoutouts-subtitle');
+  const totalEl = document.getElementById('shoutouts-total');
+
+  subtitleEl.textContent = subtitle;
+  totalEl.textContent = `${totalMentions} Mention${totalMentions === 1 ? '' : 's'}`;
+
+  if (groups.length === 0) {
+    rowsEl.innerHTML = '<div class="empty-state">No mentions recorded yet.</div>';
+    return;
+  }
+
+  rowsEl.innerHTML = groups.map(g =>
+    `<div class="row">
+      <span class="num">${g.count}</span>
+      <span class="names">${g.servers.map(esc).join(', ')}</span>
+    </div>`
+  ).join('');
+}
+
 // ── Leaderboard rendering ─────────────────────────
 async function renderLeaderboard() {
   document.getElementById('current-month-label').textContent = formatMonthLabel(currentMonth);
 
   const data = await fetchLeaderboard(currentMonth);
-  const tbody = document.getElementById('leaderboard-body');
 
-  if (!data || !data.standings || data.standings.every(s => s.count === 0)) {
-    document.getElementById('total-reviews').textContent = data ? data.reviewCount : 0;
+  // Determine date range shown on the main card: 1st of month → today (if current month)
+  // or → end of month (if past/finalized).
+  const now = new Date();
+  const monthStart = startOfMonth(currentMonth);
+  const rangeEnd = isSameMonth(currentMonth, now) ? now : endOfMonth(currentMonth);
+
+  const subtitle = formatRangeSubtitle(monthStart, rangeEnd);
+
+  if (!data || !data.standings) {
+    renderShoutoutsCard([], subtitle, 0);
+    document.getElementById('total-reviews').textContent = 0;
     document.getElementById('total-mentions').textContent = '0';
-    document.getElementById('active-servers').textContent = data ? data.standings.length : 0;
-
-    const t = data ? data.thresholds : { first: 20, second: 15 };
+    document.getElementById('active-servers').textContent = 0;
+    const t = { first: 20, second: 15 };
     document.getElementById('first-place-status').textContent = `Qualify with ${t.first}+ mentions`;
     document.getElementById('second-place-status').textContent = `Qualify with ${t.second}+ mentions`;
-
-    tbody.innerHTML = '<tr><td colspan="6" class="empty-state">No mentions recorded for this month yet.</td></tr>';
     return;
   }
 
-  const { standings, winners, thresholds, reviewCount, qualifyingReviewCount } = data;
+  const { standings, winners, thresholds, qualifyingReviewCount } = data;
   const totalMentions = standings.reduce((sum, s) => sum + s.count, 0);
 
   document.getElementById('total-reviews').textContent = qualifyingReviewCount;
   document.getElementById('total-mentions').textContent = totalMentions;
-  document.getElementById('active-servers').textContent = standings.length;
+  document.getElementById('active-servers').textContent = standings.filter(s => s.count > 0).length;
 
   // Prize banner
   const finalized = winners.finalized;
@@ -119,49 +208,191 @@ async function renderLeaderboard() {
       finalized ? 'Final' : `Qualify with ${thresholds.second}+ mentions`;
   }
 
-  // Table
-  tbody.innerHTML = standings
-    .filter(s => s.count > 0)
-    .map(s => {
-      const gapFirst = thresholds.first - s.count;
-      const toFirst = gapFirst <= 0 ? 'Qualified' : gapFirst + ' away';
-      const gapSecond = thresholds.second - s.count;
-      const toSecond = gapSecond <= 0 ? 'Qualified' : gapSecond + ' away';
-
-      let status = '';
-      if (finalized && s.server === winners.first) {
-        status = '<span class="status-won">WON 1st — $100</span>';
-      } else if (finalized && s.server === winners.second) {
-        status = '<span class="status-won">WON 2nd — $50</span>';
-      } else if (!finalized && s.server === winners.first) {
-        status = '<span class="status-hot">Leading 1st</span>';
-      } else if (!finalized && s.server === winners.second) {
-        status = '<span class="status-close">Projected 2nd</span>';
-      } else if (s.count >= thresholds.first) {
-        status = '<span class="status-hot">Qualified</span>';
-      } else if (s.count >= thresholds.second) {
-        status = '<span class="status-close">In contention</span>';
-      } else if (s.count >= thresholds.second - 3) {
-        status = '<span class="status-close">Close</span>';
-      }
-
-      const barPct = Math.min(100, (s.count / thresholds.first) * 100);
-
-      return `<tr class="rank-${s.rank <= 3 ? s.rank : ''}">
-        <td>${s.rank}</td>
-        <td>${esc(s.server)}</td>
-        <td>
-          <div class="mentions-bar">
-            <span>${s.count}</span>
-            <div class="bar" style="width:${barPct}%"></div>
-          </div>
-        </td>
-        <td>${toFirst}</td>
-        <td>${toSecond}</td>
-        <td>${status}</td>
-      </tr>`;
-    }).join('');
+  // Card (groups with identical counts stacked on one row)
+  const groups = groupByCount(standings);
+  renderShoutoutsCard(groups, subtitle, totalMentions);
 }
+
+// ── PDF Export ───────────────────────────────────
+function buildExportHtml(title, subtitle, groups, totalMentions) {
+  const rowsHtml = groups.length === 0
+    ? '<div class="empty-state">No mentions recorded yet.</div>'
+    : groups.map(g =>
+        `<div class="row"><span class="num">${g.count}</span><span class="names">${g.servers.map(esc).join(', ')}</span></div>`
+      ).join('');
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>${esc(title)}</title>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #FFF8F0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Nunito', sans-serif;
+    padding: 20px;
+  }
+  .card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 22px 24px 18px;
+    max-width: 380px;
+    width: 100%;
+    box-shadow: 6px 6px 0px #111;
+    border: 2.5px solid #111;
+  }
+  .title {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.3rem;
+    text-align: center;
+    color: #111;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    text-align: center;
+    font-size: 0.7rem;
+    color: #999;
+    margin-bottom: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 6px 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+  }
+  .row:nth-child(odd)  { background: #FFF3E8; }
+  .row:nth-child(even) { background: #F0F6FF; }
+  .num {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.4rem;
+    min-width: 32px;
+    text-align: center;
+    flex-shrink: 0;
+  }
+  .row:nth-child(1) .num { color: #FF6B35; }
+  .row:nth-child(2) .num { color: #3B82F6; }
+  .row:nth-child(3) .num { color: #10B981; }
+  .row:nth-child(4) .num { color: #8B5CF6; }
+  .row:nth-child(5) .num { color: #F59E0B; }
+  .row:nth-child(6) .num { color: #EC4899; }
+  .row:nth-child(7) .num { color: #14B8A6; }
+  .row:nth-child(n+8) .num { color: #999; }
+  .names {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #333;
+    line-height: 1.4;
+  }
+  .total {
+    margin-top: 14px;
+    background: #111;
+    border-radius: 12px;
+    padding: 10px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .total-label {
+    font-family: 'Fredoka One', cursive;
+    color: #fff;
+    font-size: 0.95rem;
+  }
+  .total-num {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.1rem;
+    color: #FF6B35;
+  }
+  .empty-state {
+    text-align: center;
+    color: #999;
+    font-style: italic;
+    padding: 20px 0;
+    font-size: 0.85rem;
+  }
+  @media print {
+    body { background: #fff; padding: 0; min-height: auto; }
+    .card { box-shadow: none; border: 2.5px solid #111; }
+    @page { margin: 14mm; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="title">&#x2B50; ${esc(title)}</div>
+  <div class="subtitle">${esc(subtitle)}</div>
+  <div class="rows-wrap">${rowsHtml}</div>
+  <div class="total">
+    <span class="total-label">Total</span>
+    <span class="total-num">${totalMentions} Mention${totalMentions === 1 ? '' : 's'}</span>
+  </div>
+</div>
+<script>
+  // Wait for web fonts, then auto-open print dialog.
+  (document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve())
+    .then(function () {
+      setTimeout(function () { window.focus(); window.print(); }, 150);
+    });
+</script>
+</body>
+</html>`;
+}
+
+function openPrintWindow(html) {
+  const win = window.open('', '_blank', 'width=500,height=720');
+  if (!win) {
+    alert('Pop-up blocked. Please allow pop-ups for this site so the PDF export can open.');
+    return;
+  }
+  win.document.open();
+  win.document.write(html);
+  win.document.close();
+}
+
+async function exportToPdf(mode) {
+  const data = await fetchLeaderboard(currentMonth);
+  if (!data) {
+    alert('No leaderboard data for ' + formatMonthLabel(currentMonth));
+    return;
+  }
+
+  const now = new Date();
+  const monthStart = startOfMonth(currentMonth);
+  // If viewing a past month, clamp "today" to the end of that month.
+  const effectiveEnd = isSameMonth(currentMonth, now) ? now : endOfMonth(currentMonth);
+
+  let rangeStart, rangeEnd, subtitle;
+
+  if (mode === 'weekly') {
+    const weekStart = startOfWeek(effectiveEnd);
+    // Clamp the week start to this month so the numbers always match the card view.
+    rangeStart = weekStart < monthStart ? monthStart : weekStart;
+  } else {
+    rangeStart = monthStart;
+  }
+  rangeEnd = effectiveEnd;
+  subtitle = formatRangeSubtitle(rangeStart, rangeEnd);
+
+  const standings = countMentionsInRange(data, rangeStart, rangeEnd);
+  const groups = groupByCount(standings);
+  const totalMentions = standings.reduce((sum, s) => sum + s.count, 0);
+
+  const html = buildExportHtml('Partner Shoutouts', subtitle, groups, totalMentions);
+  openPrintWindow(html);
+}
+
+document.getElementById('export-weekly-btn').addEventListener('click', () => exportToPdf('weekly'));
+document.getElementById('export-monthly-btn').addEventListener('click', () => exportToPdf('monthly'));
 
 // ── Sync status ──────────────────────────────────
 async function checkSyncStatus() {
