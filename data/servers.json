@@ -106,10 +106,6 @@
       "aliases": []
     },
     {
-      "name": "Rivaldo",
-      "aliases": []
-    },
-    {
       "name": "Elaiza",
       "aliases": []
     },
@@ -136,6 +132,7 @@
   "removed": [
     "Jackie",
     "Qam",
-    "Ricki"
+    "Ricki",
+    "Rivaldo"
   ]
 }
