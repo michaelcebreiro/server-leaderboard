@@ -113,10 +113,6 @@
       "aliases": []
     },
     {
-      "name": "Qam",
-      "aliases": []
-    },
-    {
       "name": "Elaiza",
       "aliases": []
     },
@@ -133,6 +129,7 @@
     }
   ],
   "removed": [
-    "Jackie"
+    "Jackie",
+    "Qam"
   ]
 }
