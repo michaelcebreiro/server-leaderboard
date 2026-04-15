@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-14T07:49:32.842Z",
-  "reviewCount": 33,
-  "qualifyingReviewCount": 33,
+  "processedAt": "2026-04-15T07:49:59.821Z",
+  "reviewCount": 51,
+  "qualifyingReviewCount": 51,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,137 +15,137 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Akiko",
-      "count": 5
+      "server": "Blake",
+      "count": 6
     },
     {
       "rank": 2,
       "server": "Karina",
-      "count": 5
+      "count": 6
     },
     {
       "rank": 3,
-      "server": "Meklit",
-      "count": 4
+      "server": "Akiko",
+      "count": 5
     },
     {
       "rank": 4,
       "server": "Elaiza",
-      "count": 3
+      "count": 5
     },
     {
       "rank": 5,
+      "server": "Meklit",
+      "count": 4
+    },
+    {
+      "rank": 6,
       "server": "Christina",
       "count": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "server": "Kalypsa",
+      "count": 2
+    },
+    {
+      "rank": 8,
+      "server": "Zivko",
+      "count": 2
+    },
+    {
+      "rank": 9,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 10,
       "server": "Danielle",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 11,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 12,
       "server": "Ewan",
       "count": 1
     },
     {
-      "rank": 10,
-      "server": "Kalypsa",
+      "rank": 13,
+      "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 14,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 15,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 13,
-      "server": "Ivy",
-      "count": 0
-    },
-    {
-      "rank": 14,
-      "server": "Jackie",
-      "count": 0
-    },
-    {
-      "rank": 15,
-      "server": "Jackie G",
-      "count": 0
-    },
-    {
       "rank": 16,
-      "server": "Jackie N",
+      "server": "Brooke",
       "count": 0
     },
     {
       "rank": 17,
-      "server": "Josh",
+      "server": "Ivy",
       "count": 0
     },
     {
       "rank": 18,
-      "server": "Kayla",
+      "server": "Jackie N",
       "count": 0
     },
     {
       "rank": 19,
-      "server": "Maria",
+      "server": "Josh",
       "count": 0
     },
     {
       "rank": 20,
-      "server": "Matteo",
+      "server": "Kayla",
       "count": 0
     },
     {
       "rank": 21,
-      "server": "Mia",
+      "server": "Kelyse",
       "count": 0
     },
     {
       "rank": 22,
-      "server": "Nicky",
+      "server": "Maria",
       "count": 0
     },
     {
       "rank": 23,
-      "server": "Nicola",
+      "server": "Matteo",
       "count": 0
     },
     {
       "rank": 24,
-      "server": "Paulveen",
+      "server": "Mia",
       "count": 0
     },
     {
       "rank": 25,
-      "server": "Qam",
+      "server": "Nicky",
       "count": 0
     },
     {
       "rank": 26,
-      "server": "Ricki",
+      "server": "Nicola",
       "count": 0
     },
     {
       "rank": 27,
-      "server": "Rivaldo",
+      "server": "Paulveen",
       "count": 0
     },
     {
@@ -193,8 +193,14 @@
     },
     {
       "server": "Karina",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Christian Roxas",
+          "text": "I came to local for the first time yesterday and had the best experience! Karina and Blake really took care of me and made great recommendations and great conversation! Will come back just for them :)",
+          "date": "2026-04-14",
+          "rating": 5
+        },
         {
           "reviewer": "Jacob",
           "text": "Always a great time\nKarina is the best!!",
@@ -312,6 +318,18 @@
       ]
     },
     {
+      "server": "Jackie G",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sean Schumacher",
+          "text": "Jackie was great. Very nice, very fresh.",
+          "date": "2026-04-14",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Eli",
       "count": 1,
       "reviews": [
@@ -325,8 +343,14 @@
     },
     {
       "server": "Kalypsa",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Yasmin Mayorga",
+          "text": "Was our first time coming to Local and it was such a great experience!! Kalypsa, our server, was very attentive, friendly and helpful with answering questions about food/drinks. The cold tea and espresso martini were AMAZING!! We’re definitely coming back for happy hour!!",
+          "date": "2026-04-14",
+          "rating": 5
+        },
         {
           "reviewer": "Hafsah Clare",
           "text": "Kalypsa was our server and she was amazing!!! We had such a great time here! The drinks were great and the apps were amazing!! Kalypsa was so attentive and sweet! Best experience ever!",
@@ -337,8 +361,20 @@
     },
     {
       "server": "Elaiza",
-      "count": 3,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Minhee Kim",
+          "text": "The service by Blake & Elaiza was incredibly friendly and fast. All the dishes had a unique fusion style, and although the flavors were new to me, I really enjoyed them. I would definitely visit again!",
+          "date": "2026-04-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Eunice",
+          "text": "Blake and Elaiza were welcoming and cheerful in their approach! Amazing service and great food and beer! On top of that, great ambiance!",
+          "date": "2026-04-15",
+          "rating": 5
+        },
         {
           "reviewer": "Treldon Hackshaw",
           "text": "Elaiza and Akiko were amazing. Food and atmosphere was very enjoyable. Will go back for sure",
@@ -355,6 +391,66 @@
           "reviewer": "Sarah Peddle",
           "text": "Truly a local treasure.  Elaiza and Akiko made this experience what it was. While the drinks and food were delicious the servers and management made it so special. If you dine here make a special request for Elaiza and Akiko, you won’t regret it!",
           "date": "2026-04-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Blake",
+      "count": 6,
+      "reviews": [
+        {
+          "reviewer": "Minhee Kim",
+          "text": "The service by Blake & Elaiza was incredibly friendly and fast. All the dishes had a unique fusion style, and although the flavors were new to me, I really enjoyed them. I would definitely visit again!",
+          "date": "2026-04-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Eunice",
+          "text": "Blake and Elaiza were welcoming and cheerful in their approach! Amazing service and great food and beer! On top of that, great ambiance!",
+          "date": "2026-04-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Christian Roxas",
+          "text": "I came to local for the first time yesterday and had the best experience! Karina and Blake really took care of me and made great recommendations and great conversation! Will come back just for them :)",
+          "date": "2026-04-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "sara",
+          "text": "Had a great experience thanks to Blake.\nSuper personable, quick with service, and clearly knows what he's doing behind the bar. He made excellent drinks and kept the vibe fun the whole time. If there were 6 stars, he'd get them without question.",
+          "date": "2026-04-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Anya Pejanovic",
+          "text": "Blake delivered an amazing experience behind the bar. He was friendly, attentive, and kept everything running smoothly even when it got busy. His drinks were spot-on, and his energy made the whole atmosphere better. If there were 6 stars, I’d give them all to him. Highly recommend!",
+          "date": "2026-04-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Nick",
+          "text": "I am looking forward to my next visit!\nKarina, Blake & Akiko always takes care of us - they are a joy and make it a fun spot at Local Public Eatery and an easy place to loose the pressures of the busy city.",
+          "date": "2026-04-09",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Zivko",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Graham Coleman",
+          "text": "No food.\nZ our waiter was so personable. Nice introduction and compared stories. Attentive. Added to the innate ambience of the location.\nNice patio. Next time upstairs when windows are open\n\nWe will be back!",
+          "date": "2026-04-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Leslie Howard",
+          "text": "Zivko was awesome. He made our dinner with friends so much fun.",
+          "date": "2026-04-12",
           "rating": 5
         }
       ]
