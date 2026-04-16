@@ -1,8 +1,40 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-15T07:49:59.754Z",
-  "reviewCount": 51,
+  "fetchedAt": "2026-04-16T07:50:07.516Z",
+  "reviewCount": 55,
   "reviews": [
+    {
+      "reviewId": "5500464975453324254",
+      "reviewer": "Brittany Lee-Sue",
+      "rating": 5,
+      "text": "Came for the food, stayed for the drinks. Amazing service and atmosphere! It was so inviting, and the staff made me feel really taken care of. Karina was a great server with spot-on recommendations (I’ll definitely be back for the open-faced steak sandwich) and Blake was so friendly at the bar and made great drink suggestions even when I was upset the Verdita wasn’t available. Can't wait to go back when its patio season!",
+      "reviewDate": "2026-04-15T21:45:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5500095305453287473",
+      "reviewer": "Carol Townsley",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-15T19:35:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5500396565453317489",
+      "reviewer": "Karen",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-15T16:38:35.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5500396584453317491",
+      "reviewer": "Alan",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-04-15T16:12:08.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5498469385453125807",
       "reviewer": "Minhee Kim",

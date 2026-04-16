@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-15T07:49:59.821Z",
-  "reviewCount": 51,
-  "qualifyingReviewCount": 51,
+  "processedAt": "2026-04-16T07:50:07.579Z",
+  "reviewCount": 55,
+  "qualifyingReviewCount": 55,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,12 +16,12 @@
     {
       "rank": 1,
       "server": "Blake",
-      "count": 6
+      "count": 7
     },
     {
       "rank": 2,
       "server": "Karina",
-      "count": 6
+      "count": 7
     },
     {
       "rank": 3,
@@ -193,8 +193,14 @@
     },
     {
       "server": "Karina",
-      "count": 6,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Brittany Lee-Sue",
+          "text": "Came for the food, stayed for the drinks. Amazing service and atmosphere! It was so inviting, and the staff made me feel really taken care of. Karina was a great server with spot-on recommendations (I’ll definitely be back for the open-faced steak sandwich) and Blake was so friendly at the bar and made great drink suggestions even when I was upset the Verdita wasn’t available. Can't wait to go back when its patio season!",
+          "date": "2026-04-15",
+          "rating": 5
+        },
         {
           "reviewer": "Christian Roxas",
           "text": "I came to local for the first time yesterday and had the best experience! Karina and Blake really took care of me and made great recommendations and great conversation! Will come back just for them :)",
@@ -397,8 +403,14 @@
     },
     {
       "server": "Blake",
-      "count": 6,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Brittany Lee-Sue",
+          "text": "Came for the food, stayed for the drinks. Amazing service and atmosphere! It was so inviting, and the staff made me feel really taken care of. Karina was a great server with spot-on recommendations (I’ll definitely be back for the open-faced steak sandwich) and Blake was so friendly at the bar and made great drink suggestions even when I was upset the Verdita wasn’t available. Can't wait to go back when its patio season!",
+          "date": "2026-04-15",
+          "rating": 5
+        },
         {
           "reviewer": "Minhee Kim",
           "text": "The service by Blake & Elaiza was incredibly friendly and fast. All the dishes had a unique fusion style, and although the flavors were new to me, I really enjoyed them. I would definitely visit again!",
