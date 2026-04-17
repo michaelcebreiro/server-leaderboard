@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-16T07:50:07.579Z",
-  "reviewCount": 55,
-  "qualifyingReviewCount": 55,
+  "processedAt": "2026-04-17T07:50:17.314Z",
+  "reviewCount": 56,
+  "qualifyingReviewCount": 56,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,12 +15,12 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Blake",
-      "count": 7
+      "server": "Karina",
+      "count": 8
     },
     {
       "rank": 2,
-      "server": "Karina",
+      "server": "Blake",
       "count": 7
     },
     {
@@ -193,8 +193,14 @@
     },
     {
       "server": "Karina",
-      "count": 7,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Aadil Ali",
+          "text": "Karina was the best",
+          "date": "2026-04-17",
+          "rating": 5
+        },
         {
           "reviewer": "Brittany Lee-Sue",
           "text": "Came for the food, stayed for the drinks. Amazing service and atmosphere! It was so inviting, and the staff made me feel really taken care of. Karina was a great server with spot-on recommendations (I’ll definitely be back for the open-faced steak sandwich) and Blake was so friendly at the bar and made great drink suggestions even when I was upset the Verdita wasn’t available. Can't wait to go back when its patio season!",
