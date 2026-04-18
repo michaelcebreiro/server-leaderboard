@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-17T07:50:17.314Z",
-  "reviewCount": 56,
-  "qualifyingReviewCount": 56,
+  "processedAt": "2026-04-18T07:11:30.820Z",
+  "reviewCount": 59,
+  "qualifyingReviewCount": 59,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,22 +45,22 @@
     },
     {
       "rank": 7,
-      "server": "Kalypsa",
+      "server": "Danielle",
       "count": 2
     },
     {
       "rank": 8,
-      "server": "Zivko",
+      "server": "Kalypsa",
       "count": 2
     },
     {
       "rank": 9,
-      "server": "Ben",
-      "count": 1
+      "server": "Zivko",
+      "count": 2
     },
     {
       "rank": 10,
-      "server": "Danielle",
+      "server": "Ben",
       "count": 1
     },
     {
@@ -319,8 +319,14 @@
     },
     {
       "server": "Danielle",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Amrithal Bachra",
+          "text": "Delicious as always and Danielle was great!",
+          "date": "2026-04-18",
+          "rating": 5
+        },
         {
           "reviewer": "Shira Alter",
           "text": "Danielle provided us with excellent service, and made our evening special. Thanks for the great food, and the awesome drinks! Will be back:)",
