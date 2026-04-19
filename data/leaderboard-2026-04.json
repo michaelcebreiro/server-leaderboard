@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-18T07:11:30.820Z",
-  "reviewCount": 59,
-  "qualifyingReviewCount": 59,
+  "processedAt": "2026-04-19T07:22:31.624Z",
+  "reviewCount": 69,
+  "qualifyingReviewCount": 69,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -41,36 +41,36 @@
     {
       "rank": 6,
       "server": "Christina",
-      "count": 2
+      "count": 3
     },
     {
       "rank": 7,
+      "server": "Ewan",
+      "count": 3
+    },
+    {
+      "rank": 8,
       "server": "Danielle",
       "count": 2
     },
     {
-      "rank": 8,
-      "server": "Kalypsa",
-      "count": 2
-    },
-    {
       "rank": 9,
-      "server": "Zivko",
+      "server": "Eli",
       "count": 2
     },
     {
       "rank": 10,
-      "server": "Ben",
-      "count": 1
+      "server": "Kalypsa",
+      "count": 2
     },
     {
       "rank": 11,
-      "server": "Eli",
-      "count": 1
+      "server": "Zivko",
+      "count": 2
     },
     {
       "rank": 12,
-      "server": "Ewan",
+      "server": "Ben",
       "count": 1
     },
     {
@@ -247,8 +247,14 @@
     },
     {
       "server": "Christina",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Adam Pearlman",
+          "text": "Had a great time, my server Christina was very nice and welcoming. Last time I came Daniel was always checking up on our table making sure we had everything we needed. Overall had a great time both nights, will come again for the drinks and service.",
+          "date": "2026-04-19",
+          "rating": 5
+        },
         {
           "reviewer": "james barlow",
           "text": "Amazing food and atmosphere, Karina and Christina were amazing very friendly and great service. They do their job very well!",
@@ -295,8 +301,20 @@
     },
     {
       "server": "Ewan",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Maddie Stock",
+          "text": "Ewan was a great server! Thanks for a great night",
+          "date": "2026-04-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jon Jeronimus",
+          "text": "Ewan, terrible handwriting but excellent service!! Loved it",
+          "date": "2026-04-18",
+          "rating": 5
+        },
         {
           "reviewer": "fred naron",
           "text": "Ewan perfect service 👌",
@@ -349,8 +367,14 @@
     },
     {
       "server": "Eli",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Mac Tallis",
+          "text": "Great spot to catch a game! Eli is the man.",
+          "date": "2026-04-18",
+          "rating": 5
+        },
         {
           "reviewer": "Javier Machado",
           "text": "We come often to this place, and is fantastic. The food (specially the nachos) are great, good beer selection, and the service is always outstanding. Thanks, Eli, for kepping it up today for us!",

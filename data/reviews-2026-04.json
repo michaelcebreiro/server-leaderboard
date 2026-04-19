@@ -1,8 +1,88 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-18T07:11:30.762Z",
-  "reviewCount": 59,
+  "fetchedAt": "2026-04-19T07:22:31.499Z",
+  "reviewCount": 69,
   "reviews": [
+    {
+      "reviewId": "5505681455453842747",
+      "reviewer": "Adam Pearlman",
+      "rating": 5,
+      "text": "Had a great time, my server Christina was very nice and welcoming. Last time I came Daniel was always checking up on our table making sure we had everything we needed. Overall had a great time both nights, will come again for the drinks and service.",
+      "reviewDate": "2026-04-19T02:32:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5505661755453840781",
+      "reviewer": "Maddie Stock",
+      "rating": 5,
+      "text": "Ewan was a great server! Thanks for a great night",
+      "reviewDate": "2026-04-19T01:46:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5505652175453839829",
+      "reviewer": "Stinkbla",
+      "rating": 5,
+      "text": "Euan was very great server good atmosphere. Very accommodating for split bill",
+      "reviewDate": "2026-04-19T01:19:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5505602875453834942",
+      "reviewer": "Jon Jeronimus",
+      "rating": 5,
+      "text": "Ewan, terrible handwriting but excellent service!! Loved it",
+      "reviewDate": "2026-04-18T23:17:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5505574215453832099",
+      "reviewer": "Neil McMahon",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-18T22:36:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5505547645453829472",
+      "reviewer": "Jenna Shortt",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-18T21:29:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5505657205453840328",
+      "reviewer": "Gelanaz",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-18T21:28:21.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5505657214453840329",
+      "reviewer": "Kushal",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-04-18T18:53:46.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5505426565453817459",
+      "reviewer": "Mac Tallis",
+      "rating": 5,
+      "text": "Great spot to catch a game! Eli is the man.",
+      "reviewDate": "2026-04-18T18:14:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5505657224453840330",
+      "reviewer": "Michael",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-04-18T17:12:28.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5504806855453755937",
       "reviewer": "Amrithal Bachra",
