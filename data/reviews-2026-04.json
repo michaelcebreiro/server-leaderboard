@@ -1,8 +1,24 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-19T07:22:31.499Z",
-  "reviewCount": 69,
+  "fetchedAt": "2026-04-20T08:11:20.341Z",
+  "reviewCount": 71,
   "reviews": [
+    {
+      "reviewId": "5506088375453883025",
+      "reviewer": "Taylor",
+      "rating": 5,
+      "text": "Great food and service! Eli took care of us and did an amazing job!!",
+      "reviewDate": "2026-04-19T17:34:12.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5505924625453866841",
+      "reviewer": "Kirsten Lindsay",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-19T15:17:58.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5505681455453842747",
       "reviewer": "Adam Pearlman",

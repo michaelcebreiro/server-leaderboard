@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-19T07:22:31.624Z",
-  "reviewCount": 69,
-  "qualifyingReviewCount": 69,
+  "processedAt": "2026-04-20T08:11:20.454Z",
+  "reviewCount": 71,
+  "qualifyingReviewCount": 71,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,17 +45,17 @@
     },
     {
       "rank": 7,
-      "server": "Ewan",
+      "server": "Eli",
       "count": 3
     },
     {
       "rank": 8,
-      "server": "Danielle",
-      "count": 2
+      "server": "Ewan",
+      "count": 3
     },
     {
       "rank": 9,
-      "server": "Eli",
+      "server": "Danielle",
       "count": 2
     },
     {
@@ -367,8 +367,14 @@
     },
     {
       "server": "Eli",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Taylor",
+          "text": "Great food and service! Eli took care of us and did an amazing job!!",
+          "date": "2026-04-19",
+          "rating": 5
+        },
         {
           "reviewer": "Mac Tallis",
           "text": "Great spot to catch a game! Eli is the man.",
