@@ -1,8 +1,56 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-21T07:54:29.942Z",
-  "reviewCount": 72,
+  "fetchedAt": "2026-04-22T07:50:49.353Z",
+  "reviewCount": 78,
   "reviews": [
+    {
+      "reviewId": "5510863785454358414",
+      "reviewer": "Stephanie Ifrah",
+      "rating": 5,
+      "text": "Kayla was very nice and respectful. Great service !",
+      "reviewDate": "2026-04-22T02:52:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5510850295454357066",
+      "reviewer": "Milan Toumazou",
+      "rating": 5,
+      "text": "Kayla provided friendly and attentive service! The Perogies were bomb and we really liked the Dragon Sauce on the Fried Chicken. Fire.",
+      "reviewDate": "2026-04-22T02:40:35.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5510849655454357002",
+      "reviewer": "Andrew Moreno",
+      "rating": 5,
+      "text": "Love this location. Kayla was a 10/10 server and super friendly! Not a lot of servers ask if you want to keep an empty dish so you can eat all the sauce, but Kayla did!",
+      "reviewDate": "2026-04-22T02:38:15.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5510848665454356904",
+      "reviewer": "Kristian Lebitania",
+      "rating": 5,
+      "text": "Kayla was an awesome server and gave us such great service :) First time here, definitely coming to this location again!",
+      "reviewDate": "2026-04-22T02:34:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5510791305454351199",
+      "reviewer": "Shaun M",
+      "rating": 5,
+      "text": "Love this place. Food is good, beer list is long. Service pro—thank you Kayla. Prooo.",
+      "reviewDate": "2026-04-22T01:04:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5509011965454173998",
+      "reviewer": "Jv Mata",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-21T13:54:52.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5507215995453995317",
       "reviewer": "Lesley",

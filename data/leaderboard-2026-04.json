@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-21T07:54:30.006Z",
-  "reviewCount": 72,
-  "qualifyingReviewCount": 72,
+  "processedAt": "2026-04-22T07:50:49.455Z",
+  "reviewCount": 78,
+  "qualifyingReviewCount": 78,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,121 +35,126 @@
     },
     {
       "rank": 5,
+      "server": "Kayla",
+      "count": 5
+    },
+    {
+      "rank": 6,
+      "server": "Ewan",
+      "count": 4
+    },
+    {
+      "rank": 7,
       "server": "Meklit",
       "count": 4
     },
     {
-      "rank": 6,
+      "rank": 8,
       "server": "Christina",
       "count": 3
     },
     {
-      "rank": 7,
+      "rank": 9,
       "server": "Eli",
       "count": 3
     },
     {
-      "rank": 8,
-      "server": "Ewan",
-      "count": 3
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "server": "Danielle",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Kalypsa",
       "count": 2
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Zivko",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "server": "Daniel",
+      "count": 1
+    },
+    {
+      "rank": 15,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 18,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 20,
-      "server": "Kayla",
-      "count": 0
-    },
-    {
-      "rank": 21,
+      "rank": 22,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Sofie",
       "count": 0
     }
@@ -301,11 +306,17 @@
     },
     {
       "server": "Ewan",
-      "count": 3,
+      "count": 4,
       "reviews": [
         {
           "reviewer": "Maddie Stock",
           "text": "Ewan was a great server! Thanks for a great night",
+          "date": "2026-04-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Stinkbla",
+          "text": "Euan was very great server good atmosphere. Very accommodating for split bill",
           "date": "2026-04-19",
           "rating": 5
         },
@@ -319,6 +330,42 @@
           "reviewer": "fred naron",
           "text": "Ewan perfect service 👌",
           "date": "2026-04-11",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kayla",
+      "count": 5,
+      "reviews": [
+        {
+          "reviewer": "Stephanie Ifrah",
+          "text": "Kayla was very nice and respectful. Great service !",
+          "date": "2026-04-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Milan Toumazou",
+          "text": "Kayla provided friendly and attentive service! The Perogies were bomb and we really liked the Dragon Sauce on the Fried Chicken. Fire.",
+          "date": "2026-04-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andrew Moreno",
+          "text": "Love this location. Kayla was a 10/10 server and super friendly! Not a lot of servers ask if you want to keep an empty dish so you can eat all the sauce, but Kayla did!",
+          "date": "2026-04-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kristian Lebitania",
+          "text": "Kayla was an awesome server and gave us such great service :) First time here, definitely coming to this location again!",
+          "date": "2026-04-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Shaun M",
+          "text": "Love this place. Food is good, beer list is long. Service pro—thank you Kayla. Prooo.",
+          "date": "2026-04-22",
           "rating": 5
         }
       ]
@@ -505,6 +552,18 @@
           "reviewer": "Leslie Howard",
           "text": "Zivko was awesome. He made our dinner with friends so much fun.",
           "date": "2026-04-12",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Daniel",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Adam Pearlman",
+          "text": "Had a great time, my server Christina was very nice and welcoming. Last time I came Daniel was always checking up on our table making sure we had everything we needed. Overall had a great time both nights, will come again for the drinks and service.",
+          "date": "2026-04-19",
           "rating": 5
         }
       ]
