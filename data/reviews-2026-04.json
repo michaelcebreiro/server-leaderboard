@@ -1,8 +1,40 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-22T07:50:49.353Z",
-  "reviewCount": 78,
+  "fetchedAt": "2026-04-23T07:57:37.468Z",
+  "reviewCount": 82,
   "reviews": [
+    {
+      "reviewId": "5514295125454700301",
+      "reviewer": "Jake Whyte",
+      "rating": 5,
+      "text": "Had a lovely bottle of vinho verde and happy hour beverages while catching up with a friend. Annabel, Dani, and Qam are such sweet staff! If it’s happy hour, be sure to try the spicy guava margarita :)",
+      "reviewDate": "2026-04-23T02:59:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5513979575454668872",
+      "reviewer": "Nasia Nikolaidi",
+      "rating": 5,
+      "text": "Maria was a great server, she's very sweet and has great energy",
+      "reviewDate": "2026-04-22T23:21:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5513973415454668268",
+      "reviewer": "K",
+      "rating": 5,
+      "text": "Shout out to our awesome server Maria, she was fast, attentive and very kind! Good call LPE!",
+      "reviewDate": "2026-04-22T23:11:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5511050755454376970",
+      "reviewer": "Paula Johnson",
+      "rating": 5,
+      "text": "Great food and service",
+      "reviewDate": "2026-04-22T11:19:24.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5510863785454358414",
       "reviewer": "Stephanie Ifrah",

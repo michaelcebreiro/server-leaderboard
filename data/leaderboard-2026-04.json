@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-22T07:50:49.455Z",
-  "reviewCount": 78,
-  "qualifyingReviewCount": 78,
+  "processedAt": "2026-04-23T07:57:37.533Z",
+  "reviewCount": 82,
+  "qualifyingReviewCount": 82,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -55,13 +55,13 @@
     },
     {
       "rank": 9,
-      "server": "Eli",
+      "server": "Danielle",
       "count": 3
     },
     {
       "rank": 10,
-      "server": "Danielle",
-      "count": 2
+      "server": "Eli",
+      "count": 3
     },
     {
       "rank": 11,
@@ -70,62 +70,62 @@
     },
     {
       "rank": 12,
-      "server": "Zivko",
+      "server": "Maria",
       "count": 2
     },
     {
       "rank": 13,
-      "server": "Ben",
-      "count": 1
+      "server": "Zivko",
+      "count": 2
     },
     {
       "rank": 14,
-      "server": "Daniel",
+      "server": "Annabel",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Jackie G",
+      "server": "Ben",
       "count": 1
     },
     {
       "rank": 16,
+      "server": "Daniel",
+      "count": 1
+    },
+    {
+      "rank": 17,
+      "server": "Jackie G",
+      "count": 1
+    },
+    {
+      "rank": 18,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 17,
-      "server": "Annabel",
-      "count": 0
-    },
-    {
-      "rank": 18,
+      "rank": 19,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 22,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 23,
-      "server": "Maria",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -275,6 +275,36 @@
       ]
     },
     {
+      "server": "Annabel",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jake Whyte",
+          "text": "Had a lovely bottle of vinho verde and happy hour beverages while catching up with a friend. Annabel, Dani, and Qam are such sweet staff! If it’s happy hour, be sure to try the spicy guava margarita :)",
+          "date": "2026-04-23",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Maria",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Nasia Nikolaidi",
+          "text": "Maria was a great server, she's very sweet and has great energy",
+          "date": "2026-04-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "K",
+          "text": "Shout out to our awesome server Maria, she was fast, attentive and very kind! Good call LPE!",
+          "date": "2026-04-22",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Meklit",
       "count": 4,
       "reviews": [
@@ -384,8 +414,14 @@
     },
     {
       "server": "Danielle",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Jake Whyte",
+          "text": "Had a lovely bottle of vinho verde and happy hour beverages while catching up with a friend. Annabel, Dani, and Qam are such sweet staff! If it’s happy hour, be sure to try the spicy guava margarita :)",
+          "date": "2026-04-23",
+          "rating": 5
+        },
         {
           "reviewer": "Amrithal Bachra",
           "text": "Delicious as always and Danielle was great!",
