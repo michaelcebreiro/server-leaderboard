@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-24T04:39:34.463Z",
-  "reviewCount": 83,
-  "qualifyingReviewCount": 83,
+  "processedAt": "2026-04-24T06:29:56.683Z",
+  "reviewCount": 84,
+  "qualifyingReviewCount": 84,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -65,23 +65,23 @@
     },
     {
       "rank": 11,
-      "server": "Kalypsa",
+      "server": "Annabel",
       "count": 2
     },
     {
       "rank": 12,
-      "server": "Maria",
+      "server": "Kalypsa",
       "count": 2
     },
     {
       "rank": 13,
-      "server": "Zivko",
+      "server": "Maria",
       "count": 2
     },
     {
       "rank": 14,
-      "server": "Annabel",
-      "count": 1
+      "server": "Zivko",
+      "count": 2
     },
     {
       "rank": 15,
@@ -100,37 +100,37 @@
     },
     {
       "rank": 18,
+      "server": "Matteo",
+      "count": 1
+    },
+    {
+      "rank": 19,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 23,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 24,
-      "server": "Matteo",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -276,8 +276,14 @@
     },
     {
       "server": "Annabel",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Lucy Gill",
+          "text": "Stopped in with my boyfriend tonight for a quick drink at the bar and ended up having such a good time with the bartenders Annabelle and Matteo, we stayed for dinner! Food and drinks (especially the drinks) were awesome.. we will definitely be back! So fun!",
+          "date": "2026-04-24",
+          "rating": 5
+        },
         {
           "reviewer": "Jake Whyte",
           "text": "Had a lovely bottle of vinho verde and happy hour beverages while catching up with a friend. Annabel, Dani, and Qam are such sweet staff! If it’s happy hour, be sure to try the spicy guava margarita :)",
@@ -432,6 +438,18 @@
           "reviewer": "Shira Alter",
           "text": "Danielle provided us with excellent service, and made our evening special. Thanks for the great food, and the awesome drinks! Will be back:)",
           "date": "2026-04-12",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matteo",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Lucy Gill",
+          "text": "Stopped in with my boyfriend tonight for a quick drink at the bar and ended up having such a good time with the bartenders Annabelle and Matteo, we stayed for dinner! Food and drinks (especially the drinks) were awesome.. we will definitely be back! So fun!",
+          "date": "2026-04-24",
           "rating": 5
         }
       ]
