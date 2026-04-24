@@ -1,8 +1,16 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-23T07:57:37.468Z",
-  "reviewCount": 82,
+  "fetchedAt": "2026-04-24T04:39:34.403Z",
+  "reviewCount": 83,
   "reviews": [
+    {
+      "reviewId": "5515728905454842809",
+      "reviewer": "Navid",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-23T16:44:55.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5514295125454700301",
       "reviewer": "Jake Whyte",
@@ -23,7 +31,7 @@
       "reviewId": "5513973415454668268",
       "reviewer": "K",
       "rating": 5,
-      "text": "Shout out to our awesome server Maria, she was fast, attentive and very kind! Good call LPE!",
+      "text": "Shout out to our awesome server Maria, she was fast, attentive and very kind! 🙂Good call LPE!",
       "reviewDate": "2026-04-22T23:11:50.000Z",
       "source": "GOOGLE"
     },
