@@ -1,9 +1,9 @@
 name: Fetch Birdeye Reviews
 
 on:
-  # Run every day at 6:00 AM UTC (2 AM EST / 3 AM EDT)
+  # Run every 15 minutes
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '*/15 * * * *'
 
   # Allow manual trigger from GitHub Actions tab
   workflow_dispatch:
