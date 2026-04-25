@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-25T17:49:25.929Z",
-  "reviewCount": 88,
-  "qualifyingReviewCount": 88,
+  "processedAt": "2026-04-25T19:01:17.708Z",
+  "reviewCount": 90,
+  "qualifyingReviewCount": 90,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,13 +35,13 @@
     },
     {
       "rank": 5,
-      "server": "Kayla",
+      "server": "Ewan",
       "count": 5
     },
     {
       "rank": 6,
-      "server": "Ewan",
-      "count": 4
+      "server": "Kayla",
+      "count": 5
     },
     {
       "rank": 7,
@@ -354,8 +354,14 @@
     },
     {
       "server": "Ewan",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Matt Wilson",
+          "text": "Great spot for the family.\nEwan was excellent!",
+          "date": "2026-04-25",
+          "rating": 5
+        },
         {
           "reviewer": "Maddie Stock",
           "text": "Ewan was a great server! Thanks for a great night",
