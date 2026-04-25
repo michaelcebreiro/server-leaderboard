@@ -1,8 +1,32 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-24T23:52:38.633Z",
-  "reviewCount": 84,
+  "fetchedAt": "2026-04-25T02:52:23.009Z",
+  "reviewCount": 87,
   "reviews": [
+    {
+      "reviewId": "5517497735455018219",
+      "reviewer": "Joshua Knapp",
+      "rating": 5,
+      "text": "Our server Mia was amazing! She went above and beyond to make sure we were all taken care of. Wonderful service.",
+      "reviewDate": "2026-04-25T00:50:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5517227705454991289",
+      "reviewer": "Andrew Bell",
+      "rating": 5,
+      "text": "A solid bar with nice mixed drinks. Has the fish and chips and loved it",
+      "reviewDate": "2026-04-24T23:07:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5517218315454990363",
+      "reviewer": "Colleen Costa",
+      "rating": 5,
+      "text": "Our first time at Local Public Eatery.  Business lunch meeting.   Welcomed and our server Eliza was awesome!  Drinks were superb...I felt I was in Quebec with dirty martini with stuffed olives.\nFood was excellent.  Many thanks for a great afternoon.  ⭐",
+      "reviewDate": "2026-04-24T22:53:29.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5516363765454905885",
       "reviewer": "Lucy Gill",
