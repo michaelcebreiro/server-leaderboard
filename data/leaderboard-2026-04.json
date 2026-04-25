@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-25T23:06:33.661Z",
-  "reviewCount": 91,
-  "qualifyingReviewCount": 91,
+  "processedAt": "2026-04-25T23:55:12.142Z",
+  "reviewCount": 92,
+  "qualifyingReviewCount": 92,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -50,111 +50,116 @@
     },
     {
       "rank": 8,
-      "server": "Christina",
+      "server": "Carolina",
       "count": 3
     },
     {
       "rank": 9,
-      "server": "Danielle",
+      "server": "Christina",
       "count": 3
     },
     {
       "rank": 10,
-      "server": "Eli",
+      "server": "Danielle",
       "count": 3
     },
     {
       "rank": 11,
+      "server": "Eli",
+      "count": 3
+    },
+    {
+      "rank": 12,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Kalypsa",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Maria",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Zivko",
       "count": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Mia",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Sofie",
       "count": 0
     }
@@ -636,6 +641,30 @@
           "reviewer": "Adam Pearlman",
           "text": "Had a great time, my server Christina was very nice and welcoming. Last time I came Daniel was always checking up on our table making sure we had everything we needed. Overall had a great time both nights, will come again for the drinks and service.",
           "date": "2026-04-19",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Carolina",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "James Bruce Holly",
+          "text": "Been here twice now. Food is terrific. Our server/bartender (Carolina)was knowledgeable and gave great tips re. The menu.\nOne piece of constructive criticism; for the quality of the food here they should offer hand cut fries.\nAlso the yam fries are so so.",
+          "date": "2026-04-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Geoff Barker",
+          "text": "I’ve eaten at great restaurants, travelled to beautiful places, and witnessed incredible things in life… but nothing compares to being served by Carolina at this establishment.\n\nFrom the moment she steps behind the bar, the entire atmosphere changes. Drinks appear with the precision of Michelangelo creating a masterpiece, and somehow she remembers everyone’s order while also providing better emotional support than most licensed professionals.\n\nAt one point Carolina slid my drink across the bar with such grace I considered standing up and saluting.\n\nFive stars isn’t enough. I would personally support renaming a small street in her honour.\n\nObviously I’m exaggerating here… but honestly, Carolina really is awesome and one of the big reasons we keep coming back.",
+          "date": "2026-04-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sandy Eichler",
+          "text": "Carolina is one THE best severs 🙌",
+          "date": "2026-04-25",
           "rating": 5
         }
       ]

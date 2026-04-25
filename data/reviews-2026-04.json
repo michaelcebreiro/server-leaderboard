@@ -1,7 +1,7 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-25T23:06:33.567Z",
-  "reviewCount": 91,
+  "fetchedAt": "2026-04-25T23:55:12.079Z",
+  "reviewCount": 92,
   "reviews": [
     {
       "reviewId": "5518087935455076683",
@@ -9,6 +9,14 @@
       "rating": 5,
       "text": "Been here twice now. Food is terrific. Our server/bartender (Carolina)was knowledgeable and gave great tips re. The menu.\nOne piece of constructive criticism; for the quality of the food here they should offer hand cut fries.\nAlso the yam fries are so so.",
       "reviewDate": "2026-04-25T21:11:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4386113115342326605",
+      "reviewer": "Geoff Barker",
+      "rating": 5,
+      "text": "I’ve eaten at great restaurants, travelled to beautiful places, and witnessed incredible things in life… but nothing compares to being served by Carolina at this establishment.\n\nFrom the moment she steps behind the bar, the entire atmosphere changes. Drinks appear with the precision of Michelangelo creating a masterpiece, and somehow she remembers everyone’s order while also providing better emotional support than most licensed professionals.\n\nAt one point Carolina slid my drink across the bar with such grace I considered standing up and saluting.\n\nFive stars isn’t enough. I would personally support renaming a small street in her honour.\n\nObviously I’m exaggerating here… but honestly, Carolina really is awesome and one of the big reasons we keep coming back.",
+      "reviewDate": "2026-04-25T17:37:56.000Z",
       "source": "GOOGLE"
     },
     {
@@ -23,7 +31,7 @@
       "reviewId": "5517969505455065029",
       "reviewer": "Sandy Eichler",
       "rating": 5,
-      "text": "Carolina is one THE best severs",
+      "text": "Carolina is one THE best severs 🙌",
       "reviewDate": "2026-04-25T16:11:59.000Z",
       "source": "GOOGLE"
     },
