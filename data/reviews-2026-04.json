@@ -1,7 +1,7 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-26T07:50:44.729Z",
-  "reviewCount": 94,
+  "fetchedAt": "2026-04-26T09:07:15.614Z",
+  "reviewCount": 96,
   "reviews": [
     {
       "reviewId": "5518336845455101425",
@@ -18,6 +18,14 @@
       "text": "Maria serviced our table and she was amazing! Very friendly! Highly recommend this place",
       "reviewDate": "2026-04-26T01:24:50.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5518359285455103643",
+      "reviewer": "Sydney",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-25T21:29:51.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5518087935455076683",
@@ -50,6 +58,14 @@
       "text": "Carolina is one THE best severs 🙌",
       "reviewDate": "2026-04-25T16:11:59.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5518359305455103645",
+      "reviewer": "Lisa",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-04-25T14:32:38.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5517522634455020697",
