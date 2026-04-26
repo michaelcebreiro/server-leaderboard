@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-25T23:55:12.142Z",
-  "reviewCount": 92,
-  "qualifyingReviewCount": 92,
+  "processedAt": "2026-04-26T03:31:19.196Z",
+  "reviewCount": 93,
+  "qualifyingReviewCount": 93,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -70,17 +70,17 @@
     },
     {
       "rank": 12,
+      "server": "Maria",
+      "count": 3
+    },
+    {
+      "rank": 13,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 13,
-      "server": "Kalypsa",
-      "count": 2
-    },
-    {
       "rank": 14,
-      "server": "Maria",
+      "server": "Kalypsa",
       "count": 2
     },
     {
@@ -311,8 +311,14 @@
     },
     {
       "server": "Maria",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Mona Jamshidi",
+          "text": "Maria serviced our table and she was amazing! Very friendly! Highly recommend this place",
+          "date": "2026-04-26",
+          "rating": 5
+        },
         {
           "reviewer": "Nasia Nikolaidi",
           "text": "Maria was a great server, she's very sweet and has great energy",
