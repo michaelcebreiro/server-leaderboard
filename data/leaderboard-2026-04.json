@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-26T20:51:51.275Z",
-  "reviewCount": 98,
-  "qualifyingReviewCount": 98,
+  "processedAt": "2026-04-26T21:43:56.212Z",
+  "reviewCount": 99,
+  "qualifyingReviewCount": 99,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Karina",
-      "count": 9
+      "count": 10
     },
     {
       "rank": 2,
@@ -115,37 +115,37 @@
     },
     {
       "rank": 21,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 22,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 26,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 27,
-      "server": "Nicky",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -215,8 +215,14 @@
     },
     {
       "server": "Karina",
-      "count": 9,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "Josee Gravelle",
+          "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",
+          "date": "2026-04-26",
+          "rating": 5
+        },
         {
           "reviewer": "jessica wood",
           "text": "I have been to local so many times and we absolutely LOVED having Karina tonight. She provides incredibly great service, is the sweetest and shows genuine care for her tables. The food and her drink recommendations were amazing. We can’t to see Karina when we’re back!",
@@ -437,6 +443,18 @@
           "reviewer": "Shaun M",
           "text": "Love this place. Food is good, beer list is long. Service pro—thank you Kayla. Prooo.",
           "date": "2026-04-22",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Nicky",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Josee Gravelle",
+          "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",
+          "date": "2026-04-26",
           "rating": 5
         }
       ]
