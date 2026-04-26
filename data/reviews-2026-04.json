@@ -1,8 +1,24 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-26T15:58:49.538Z",
-  "reviewCount": 96,
+  "fetchedAt": "2026-04-26T16:57:29.507Z",
+  "reviewCount": 98,
   "reviews": [
+    {
+      "reviewId": "5518485675455116116",
+      "reviewer": "Kelly Gill",
+      "rating": 5,
+      "text": "Regularly go to the Local Leaside. Great place, food and fantastic service. Shout out to Kaitlyn M. who always makes good suggestions for brunch on Sunday mornings.",
+      "reviewDate": "2026-04-26T14:51:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5518485525455116101",
+      "reviewer": "Pete Robic",
+      "rating": 5,
+      "text": "This place is awesome Kaitlyn M is amzing she serves us brunch every week…she is always super happy and friendly and the service is fantastic…love this place",
+      "reviewDate": "2026-04-26T14:50:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5518336845455101425",
       "reviewer": "jessica wood",
