@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-26T05:57:37.539Z",
-  "reviewCount": 93,
-  "qualifyingReviewCount": 93,
+  "processedAt": "2026-04-26T07:50:44.808Z",
+  "reviewCount": 94,
+  "qualifyingReviewCount": 94,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Karina",
-      "count": 8
+      "count": 9
     },
     {
       "rank": 2,
@@ -215,8 +215,14 @@
     },
     {
       "server": "Karina",
-      "count": 8,
+      "count": 9,
       "reviews": [
+        {
+          "reviewer": "jessica wood",
+          "text": "I have been to local so many times and we absolutely LOVED having Karina tonight. She provides incredibly great service, is the sweetest and shows genuine care for her tables. The food and her drink recommendations were amazing. We can’t to see Karina when we’re back!",
+          "date": "2026-04-26",
+          "rating": 5
+        },
         {
           "reviewer": "Aadil Ali",
           "text": "Karina was the best",

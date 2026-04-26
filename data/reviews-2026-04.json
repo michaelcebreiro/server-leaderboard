@@ -1,8 +1,16 @@
 {
   "month": "2026-04",
-  "fetchedAt": "2026-04-26T05:57:37.478Z",
-  "reviewCount": 93,
+  "fetchedAt": "2026-04-26T07:50:44.729Z",
+  "reviewCount": 94,
   "reviews": [
+    {
+      "reviewId": "5518336845455101425",
+      "reviewer": "jessica wood",
+      "rating": 5,
+      "text": "I have been to local so many times and we absolutely LOVED having Karina tonight. She provides incredibly great service, is the sweetest and shows genuine care for her tables. The food and her drink recommendations were amazing. We can’t to see Karina when we’re back!",
+      "reviewDate": "2026-04-26T03:58:14.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5518278935455095652",
       "reviewer": "Mona Jamshidi",
