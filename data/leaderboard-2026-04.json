@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-27T17:08:09.780Z",
-  "reviewCount": 100,
-  "qualifyingReviewCount": 100,
+  "processedAt": "2026-04-27T18:41:36.214Z",
+  "reviewCount": 103,
+  "qualifyingReviewCount": 103,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,156 +15,161 @@
   "standings": [
     {
       "rank": 1,
+      "server": "with",
+      "count": 14
+    },
+    {
+      "rank": 2,
       "server": "Karina",
       "count": 11
     },
     {
-      "rank": 2,
+      "rank": 3,
       "server": "Blake",
       "count": 7
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Akiko",
       "count": 5
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Elaiza",
       "count": 5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Ewan",
       "count": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Kayla",
       "count": 5
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Meklit",
       "count": 4
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "server": "Mia",
+      "count": 4
+    },
+    {
+      "rank": 10,
       "server": "Carolina",
       "count": 3
     },
     {
-      "rank": 9,
+      "rank": 11,
       "server": "Christina",
       "count": 3
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Danielle",
       "count": 3
     },
     {
-      "rank": 11,
+      "rank": 13,
       "server": "Eli",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 14,
       "server": "Maria",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 15,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Kaitlyn M",
       "count": 2
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Kalypsa",
       "count": 2
     },
     {
-      "rank": 16,
+      "rank": 18,
       "server": "Zivko",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 19,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 21,
-      "server": "Mia",
-      "count": 1
-    },
-    {
-      "rank": 22,
+      "rank": 23,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Sofie",
       "count": 0
     }
@@ -172,8 +177,26 @@
   "mentions": [
     {
       "server": "Mia",
-      "count": 1,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Suzanne Colvin-Goulding",
+          "text": "Mia was an amazing and very attentive server with a very welcoming personality!!  Thank you!",
+          "date": "2026-04-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Meghan Mckenna",
+          "text": "Great experience with Mia as our server.\n\nThank you!",
+          "date": "2026-04-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sarah Deline",
+          "text": "Mia was amazing! So attentive and friendly! ☺️",
+          "date": "2026-04-27",
+          "rating": 5
+        },
         {
           "reviewer": "Joshua Knapp",
           "text": "Our server Mia was amazing! She went above and beyond to make sure we were all taken care of. Wonderful service.",
@@ -724,6 +747,96 @@
           "reviewer": "Pete Robic",
           "text": "This place is awesome Kaitlyn M is amzing she serves us brunch every week…she is always super happy and friendly and the service is fantastic…love this place",
           "date": "2026-04-26",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "with",
+      "count": 14,
+      "reviews": [
+        {
+          "reviewer": "Suzanne Colvin-Goulding",
+          "text": "Mia was an amazing and very attentive server with a very welcoming personality!!  Thank you!",
+          "date": "2026-04-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Meghan Mckenna",
+          "text": "Great experience with Mia as our server.\n\nThank you!",
+          "date": "2026-04-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Khodayar Mikhchi",
+          "text": "Friendly staff and not bad for spending time with friends and watch a game and grab some drinks",
+          "date": "2026-04-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Geoff Barker",
+          "text": "I’ve eaten at great restaurants, travelled to beautiful places, and witnessed incredible things in life… but nothing compares to being served by Carolina at this establishment.\n\nFrom the moment she steps behind the bar, the entire atmosphere changes. Drinks appear with the precision of Michelangelo creating a masterpiece, and somehow she remembers everyone’s order while also providing better emotional support than most licensed professionals.\n\nAt one point Carolina slid my drink across the bar with such grace I considered standing up and saluting.\n\nFive stars isn’t enough. I would personally support renaming a small street in her honour.\n\nObviously I’m exaggerating here… but honestly, Carolina really is awesome and one of the big reasons we keep coming back.",
+          "date": "2026-04-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andrew Bell",
+          "text": "A solid bar with nice mixed drinks. Has the fish and chips and loved it",
+          "date": "2026-04-24",
+          "rating": 5
+        },
+        {
+          "reviewer": "Colleen Costa",
+          "text": "Our first time at Local Public Eatery.  Business lunch meeting.   Welcomed and our server Eliza was awesome!  Drinks were superb...I felt I was in Quebec with dirty martini with stuffed olives.\nFood was excellent.  Many thanks for a great afternoon.  ⭐",
+          "date": "2026-04-24",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lucy Gill",
+          "text": "Stopped in with my boyfriend tonight for a quick drink at the bar and ended up having such a good time with the bartenders Annabelle and Matteo, we stayed for dinner! Food and drinks (especially the drinks) were awesome.. we will definitely be back! So fun!",
+          "date": "2026-04-24",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jake Whyte",
+          "text": "Had a lovely bottle of vinho verde and happy hour beverages while catching up with a friend. Annabel, Dani, and Qam are such sweet staff! If it’s happy hour, be sure to try the spicy guava margarita :)",
+          "date": "2026-04-23",
+          "rating": 5
+        },
+        {
+          "reviewer": "Brittany Lee-Sue",
+          "text": "Came for the food, stayed for the drinks. Amazing service and atmosphere! It was so inviting, and the staff made me feel really taken care of. Karina was a great server with spot-on recommendations (I’ll definitely be back for the open-faced steak sandwich) and Blake was so friendly at the bar and made great drink suggestions even when I was upset the Verdita wasn’t available. Can't wait to go back when its patio season!",
+          "date": "2026-04-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Yasmin Mayorga",
+          "text": "Was our first time coming to Local and it was such a great experience!! Kalypsa, our server, was very attentive, friendly and helpful with answering questions about food/drinks. The cold tea and espresso martini were AMAZING!! We’re definitely coming back for happy hour!!",
+          "date": "2026-04-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Shira Alter",
+          "text": "Danielle provided us with excellent service, and made our evening special. Thanks for the great food, and the awesome drinks! Will be back:)",
+          "date": "2026-04-12",
+          "rating": 5
+        },
+        {
+          "reviewer": "Leslie Howard",
+          "text": "Zivko was awesome. He made our dinner with friends so much fun.",
+          "date": "2026-04-12",
+          "rating": 5
+        },
+        {
+          "reviewer": "sara",
+          "text": "Had a great experience thanks to Blake.\nSuper personable, quick with service, and clearly knows what he's doing behind the bar. He made excellent drinks and kept the vibe fun the whole time. If there were 6 stars, he'd get them without question.",
+          "date": "2026-04-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Christian Westlaken",
+          "text": "Akiko and Ben were awesome! Super friendly and made the night better with how personable they were.",
+          "date": "2026-04-04",
           "rating": 5
         }
       ]
