@@ -150,16 +150,13 @@
       "aliases": [
         "Kaitlyn"
       ]
-    },
-    {
-      "name": "with",
-      "aliases": []
     }
   ],
   "removed": [
     "Jackie",
     "Qam",
     "Ricki",
-    "Rivaldo"
+    "Rivaldo",
+    "with"
   ]
 }
