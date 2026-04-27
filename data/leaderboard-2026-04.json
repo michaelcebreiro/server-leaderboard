@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-27T09:09:36.215Z",
+  "processedAt": "2026-04-27T13:06:24.455Z",
   "reviewCount": 99,
   "qualifyingReviewCount": 99,
   "thresholds": {
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Karina",
-      "count": 10
+      "count": 11
     },
     {
       "rank": 2,
@@ -80,86 +80,91 @@
     },
     {
       "rank": 14,
-      "server": "Kalypsa",
+      "server": "Kaitlyn M",
       "count": 2
     },
     {
       "rank": 15,
-      "server": "Zivko",
+      "server": "Kalypsa",
       "count": 2
     },
     {
       "rank": 16,
+      "server": "Zivko",
+      "count": 2
+    },
+    {
+      "rank": 17,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Mia",
       "count": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Sofie",
       "count": 0
     }
@@ -215,7 +220,7 @@
     },
     {
       "server": "Karina",
-      "count": 10,
+      "count": 11,
       "reviews": [
         {
           "reviewer": "Josee Gravelle",
@@ -250,6 +255,12 @@
         {
           "reviewer": "Jacob",
           "text": "Always a great time\nKarina is the best!!",
+          "date": "2026-04-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Aleksi Seleni",
+          "text": "Kareena is the best waitress I’ve ever heard she makes me feel so welcomed and taken care of. I love coming here because of her",
           "date": "2026-04-10",
           "rating": 5
         },
@@ -695,6 +706,24 @@
           "reviewer": "Sandy Eichler",
           "text": "Carolina is one THE best severs 🙌",
           "date": "2026-04-25",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaitlyn M",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Kelly Gill",
+          "text": "Regularly go to the Local Leaside. Great place, food and fantastic service. Shout out to Kaitlyn M. who always makes good suggestions for brunch on Sunday mornings.",
+          "date": "2026-04-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Pete Robic",
+          "text": "This place is awesome Kaitlyn M is amzing she serves us brunch every week…she is always super happy and friendly and the service is fantastic…love this place",
+          "date": "2026-04-26",
           "rating": 5
         }
       ]
