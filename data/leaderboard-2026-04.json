@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-28T04:07:54.139Z",
-  "reviewCount": 105,
-  "qualifyingReviewCount": 105,
+  "processedAt": "2026-04-28T06:45:48.021Z",
+  "reviewCount": 106,
+  "qualifyingReviewCount": 106,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Karina",
-      "count": 13
+      "count": 14
     },
     {
       "rank": 2,
@@ -238,8 +238,14 @@
     },
     {
       "server": "Karina",
-      "count": 13,
+      "count": 14,
       "reviews": [
+        {
+          "reviewer": "Erik Aston",
+          "text": "10/10 food and service. Karina made my night! will be back soon",
+          "date": "2026-04-28",
+          "rating": 5
+        },
         {
           "reviewer": "Laura Martino",
           "text": "Karina was fantastic. Super helpful and attentive!",
