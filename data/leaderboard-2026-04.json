@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-28T19:08:45.867Z",
-  "reviewCount": 107,
-  "qualifyingReviewCount": 107,
+  "processedAt": "2026-04-28T20:42:42.999Z",
+  "reviewCount": 108,
+  "qualifyingReviewCount": 108,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,12 +25,12 @@
     },
     {
       "rank": 3,
-      "server": "Akiko",
-      "count": 5
+      "server": "Elaiza",
+      "count": 6
     },
     {
       "rank": 4,
-      "server": "Elaiza",
+      "server": "Akiko",
       "count": 5
     },
     {
@@ -610,8 +610,14 @@
     },
     {
       "server": "Elaiza",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Jaime Donofrio",
+          "text": "Elaiza was the best! Made the whole experience 10/10",
+          "date": "2026-04-28",
+          "rating": 5
+        },
         {
           "reviewer": "Minhee Kim",
           "text": "The service by Blake & Elaiza was incredibly friendly and fast. All the dishes had a unique fusion style, and although the flavors were new to me, I really enjoyed them. I would definitely visit again!",
