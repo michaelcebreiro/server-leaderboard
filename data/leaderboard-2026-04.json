@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-28T00:08:45.253Z",
-  "reviewCount": 103,
-  "qualifyingReviewCount": 103,
+  "processedAt": "2026-04-28T04:07:54.139Z",
+  "reviewCount": 105,
+  "qualifyingReviewCount": 105,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Karina",
-      "count": 11
+      "count": 13
     },
     {
       "rank": 2,
@@ -238,8 +238,20 @@
     },
     {
       "server": "Karina",
-      "count": 11,
+      "count": 13,
       "reviews": [
+        {
+          "reviewer": "Laura Martino",
+          "text": "Karina was fantastic. Super helpful and attentive!",
+          "date": "2026-04-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Brandon Wright",
+          "text": "Karina was wonderful .\n\nFood was great and so was the service .",
+          "date": "2026-04-28",
+          "rating": 5
+        },
         {
           "reviewer": "Josee Gravelle",
           "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",
