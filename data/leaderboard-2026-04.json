@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-29T01:25:39.889Z",
-  "reviewCount": 108,
-  "qualifyingReviewCount": 108,
+  "processedAt": "2026-04-29T04:56:57.253Z",
+  "reviewCount": 109,
+  "qualifyingReviewCount": 109,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,17 +30,17 @@
     },
     {
       "rank": 4,
+      "server": "Kayla",
+      "count": 6
+    },
+    {
+      "rank": 5,
       "server": "Akiko",
       "count": 5
     },
     {
-      "rank": 5,
-      "server": "Ewan",
-      "count": 5
-    },
-    {
       "rank": 6,
-      "server": "Kayla",
+      "server": "Ewan",
       "count": 5
     },
     {
@@ -460,8 +460,14 @@
     },
     {
       "server": "Kayla",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Jessica Diniz",
+          "text": "Kayla was great\nVery friendly  and generous\nSuch a great time at trivia night at Local",
+          "date": "2026-04-29",
+          "rating": 5
+        },
         {
           "reviewer": "Stephanie Ifrah",
           "text": "Kayla was very nice and respectful. Great service !",
