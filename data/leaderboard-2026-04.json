@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-30T19:57:27.835Z",
-  "reviewCount": 115,
-  "qualifyingReviewCount": 115,
+  "processedAt": "2026-04-30T21:11:50.559Z",
+  "reviewCount": 116,
+  "qualifyingReviewCount": 116,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -90,27 +90,27 @@
     },
     {
       "rank": 16,
-      "server": "Kalypsa",
+      "server": "Jackie G",
       "count": 2
     },
     {
       "rank": 17,
-      "server": "Zivko",
+      "server": "Kalypsa",
       "count": 2
     },
     {
       "rank": 18,
+      "server": "Zivko",
+      "count": 2
+    },
+    {
+      "rank": 19,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 19,
-      "server": "Daniel",
-      "count": 1
-    },
-    {
       "rank": 20,
-      "server": "Jackie G",
+      "server": "Daniel",
       "count": 1
     },
     {
@@ -586,8 +586,14 @@
     },
     {
       "server": "Jackie G",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Yvonne Faulkner",
+          "text": "Happy hour with Jackie is always a great idea :)",
+          "date": "2026-04-30",
+          "rating": 5
+        },
         {
           "reviewer": "Sean Schumacher",
           "text": "Jackie was great. Very nice, very fresh.",
