@@ -1,8 +1,8 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-29T23:38:19.947Z",
-  "reviewCount": 110,
-  "qualifyingReviewCount": 110,
+  "processedAt": "2026-04-30T01:23:59.857Z",
+  "reviewCount": 113,
+  "qualifyingReviewCount": 113,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,62 +30,62 @@
     },
     {
       "rank": 4,
-      "server": "Kayla",
+      "server": "Ewan",
       "count": 6
     },
     {
       "rank": 5,
+      "server": "Kayla",
+      "count": 6
+    },
+    {
+      "rank": 6,
       "server": "Akiko",
       "count": 5
     },
     {
-      "rank": 6,
-      "server": "Ewan",
-      "count": 5
-    },
-    {
       "rank": 7,
-      "server": "Meklit",
+      "server": "Maria",
       "count": 4
     },
     {
       "rank": 8,
-      "server": "Mia",
+      "server": "Meklit",
       "count": 4
     },
     {
       "rank": 9,
+      "server": "Mia",
+      "count": 4
+    },
+    {
+      "rank": 10,
       "server": "Carolina",
       "count": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Christina",
       "count": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Danielle",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Eli",
       "count": 3
     },
     {
-      "rank": 13,
-      "server": "Maria",
+      "rank": 14,
+      "server": "Kaitlyn M",
       "count": 3
     },
     {
-      "rank": 14,
-      "server": "Annabel",
-      "count": 2
-    },
-    {
       "rank": 15,
-      "server": "Kaitlyn M",
+      "server": "Annabel",
       "count": 2
     },
     {
@@ -370,8 +370,14 @@
     },
     {
       "server": "Maria",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Madison Lamontagne",
+          "text": "such an amazing experience! everyone was so friendly and the vibes are always incredible!! highly recommend :) shoutout to Kaitlyn and Maria, they’re the best",
+          "date": "2026-04-30",
+          "rating": 5
+        },
         {
           "reviewer": "Mona Jamshidi",
           "text": "Maria serviced our table and she was amazing! Very friendly! Highly recommend this place",
@@ -424,8 +430,14 @@
     },
     {
       "server": "Ewan",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Daniya Mortensen",
+          "text": "Ewan provided excellent service, he was kind, friendly, and very attentive. His positive attitude made the experience enjoyable, and he went the extra mile to make sure everything was perfect.",
+          "date": "2026-04-30",
+          "rating": 5
+        },
         {
           "reviewer": "Matt Wilson",
           "text": "Great spot for the family.\nEwan was excellent!",
@@ -760,8 +772,14 @@
     },
     {
       "server": "Kaitlyn M",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Madison Lamontagne",
+          "text": "such an amazing experience! everyone was so friendly and the vibes are always incredible!! highly recommend :) shoutout to Kaitlyn and Maria, they’re the best",
+          "date": "2026-04-30",
+          "rating": 5
+        },
         {
           "reviewer": "Kelly Gill",
           "text": "Regularly go to the Local Leaside. Great place, food and fantastic service. Shout out to Kaitlyn M. who always makes good suggestions for brunch on Sunday mornings.",
