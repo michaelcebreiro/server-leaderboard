@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-01T23:59:48.663Z",
-  "reviewCount": 3,
-  "qualifyingReviewCount": 3,
+  "processedAt": "2026-05-02T03:45:11.840Z",
+  "reviewCount": 8,
+  "qualifyingReviewCount": 8,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,117 +15,117 @@
   "standings": [
     {
       "rank": 1,
+      "server": "Maria",
+      "count": 3
+    },
+    {
+      "rank": 2,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 22,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 23,
-      "server": "Maria",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -174,5 +174,30 @@
       "count": 0
     }
   ],
-  "mentions": []
+  "mentions": [
+    {
+      "server": "Maria",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "Joshua Goordat",
+          "text": "Amazing vibe ambience and drinks! Maria was super friendly and great with recommendations!",
+          "date": "2026-05-02",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ethan Baillie",
+          "text": "Maria was great",
+          "date": "2026-05-02",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adam Vani",
+          "text": "Maria was awesome will be back",
+          "date": "2026-05-02",
+          "rating": 5
+        }
+      ]
+    }
+  ]
 }

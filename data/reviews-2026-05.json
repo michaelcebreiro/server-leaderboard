@@ -1,8 +1,48 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-01T23:59:48.577Z",
-  "reviewCount": 3,
+  "fetchedAt": "2026-05-02T03:45:11.777Z",
+  "reviewCount": 8,
   "reviews": [
+    {
+      "reviewId": "5526429635455904516",
+      "reviewer": "Taylor Kronick",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-05-02T03:11:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5526428885455904441",
+      "reviewer": "Joshua Goordat",
+      "rating": 5,
+      "text": "Amazing vibe ambience and drinks! Maria was super friendly and great with recommendations!",
+      "reviewDate": "2026-05-02T03:10:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5526411585455902718",
+      "reviewer": "Colby Karges",
+      "rating": 5,
+      "text": "Cold beers",
+      "reviewDate": "2026-05-02T02:45:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5526411615455902721",
+      "reviewer": "Ethan Baillie",
+      "rating": 5,
+      "text": "Maria was great",
+      "reviewDate": "2026-05-02T02:45:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5526411185455902678",
+      "reviewer": "Adam Vani",
+      "rating": 5,
+      "text": "Maria was awesome will be back",
+      "reviewDate": "2026-05-02T02:45:18.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5525966124455858454",
       "reviewer": "DanielV",
