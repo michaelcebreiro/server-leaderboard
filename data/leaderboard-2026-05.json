@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-02T17:51:19.844Z",
-  "reviewCount": 10,
-  "qualifyingReviewCount": 10,
+  "processedAt": "2026-05-02T19:07:29.473Z",
+  "reviewCount": 11,
+  "qualifyingReviewCount": 11,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Ewan",
-      "count": 1
+      "count": 2
     },
     {
       "rank": 3,
@@ -207,8 +207,14 @@
     },
     {
       "server": "Ewan",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Dawn Palin",
+          "text": "Such a great atmosphere, wonderful staff (Ewan and his wonderful colleagues), and amazing food. What more could you want?!? 🤩",
+          "date": "2026-05-02",
+          "rating": 5
+        },
         {
           "reviewer": "Zarah Benedicto",
           "text": "Ewan was our waiter and he was the best! Personable, kind and funny! The food was also exceeded our expectations. We ordered the bbq rice bowl and the satay chicken salad, both had great layers of flavour and texture. Will definitely order again! A great leaside spot",
