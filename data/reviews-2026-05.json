@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-02T16:55:39.113Z",
-  "reviewCount": 9,
+  "fetchedAt": "2026-05-02T17:51:19.736Z",
+  "reviewCount": 10,
   "reviews": [
+    {
+      "reviewId": "5527309895455992195",
+      "reviewer": "Zarah Benedicto",
+      "rating": 5,
+      "text": "Ewan was our waiter and he was the best! Personable, kind and funny! The food was also exceeded our expectations. We ordered the bbq rice bowl and the satay chicken salad, both had great layers of flavour and texture. Will definitely order again! A great leaside spot",
+      "reviewDate": "2026-05-02T16:58:52.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5526514185455912934",
       "reviewer": "Nigel Vickery",
