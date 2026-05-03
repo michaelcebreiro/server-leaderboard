@@ -1,8 +1,24 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-03T20:07:00.897Z",
-  "reviewCount": 16,
+  "fetchedAt": "2026-05-03T21:04:07.525Z",
+  "reviewCount": 18,
   "reviews": [
+    {
+      "reviewId": "5528676035456128147",
+      "reviewer": "David",
+      "rating": 5,
+      "text": "Great food as always (wings, dumplings, edamame in particular) and awesome service with Ben",
+      "reviewDate": "2026-05-03T20:25:21.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5528676044456128148",
+      "reviewer": "sara",
+      "rating": 4,
+      "text": "Been here a few times but this time the service was super slowwwwwww up until our server changed which unfortunately was the last few minutes of our stay ! From when we got seated until when the server showed up was at least 15 mins we had to keep looking around and finally asked someone ! And again for ordering again we had to keep looking and finding our server ! Some of our friends came later and it took so long that we decided not to order here and go to another bar ! At the end our server changed and she was good ( she had long dark hair ) but it was already at the end of our time there when we wanted to pay and leave !",
+      "reviewDate": "2026-05-03T20:25:21.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5528595175456120106",
       "reviewer": "Lola Notidis",
