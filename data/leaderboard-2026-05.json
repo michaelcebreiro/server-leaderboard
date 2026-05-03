@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-03T18:04:26.894Z",
-  "reviewCount": 15,
-  "qualifyingReviewCount": 15,
+  "processedAt": "2026-05-03T19:19:49.061Z",
+  "reviewCount": 16,
+  "qualifyingReviewCount": 16,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -26,7 +26,7 @@
     {
       "rank": 3,
       "server": "Christina",
-      "count": 1
+      "count": 2
     },
     {
       "rank": 4,
@@ -177,8 +177,14 @@
   "mentions": [
     {
       "server": "Christina",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Lola Notidis",
+          "text": "Christina was so helpful! Lovely and spoke Greek with my family 🥰",
+          "date": "2026-05-03",
+          "rating": 5
+        },
         {
           "reviewer": "Emily Parker",
           "text": "Christina was lovely!!",
