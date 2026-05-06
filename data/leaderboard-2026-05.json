@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-06T22:33:09.525Z",
-  "reviewCount": 21,
-  "qualifyingReviewCount": 21,
+  "processedAt": "2026-05-06T23:36:27.847Z",
+  "reviewCount": 23,
+  "qualifyingReviewCount": 23,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,13 +15,13 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Maria",
+      "server": "Christina",
       "count": 4
     },
     {
       "rank": 2,
-      "server": "Christina",
-      "count": 3
+      "server": "Maria",
+      "count": 4
     },
     {
       "rank": 3,
@@ -177,8 +177,14 @@
   "mentions": [
     {
       "server": "Christina",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Kevin Lucero",
+          "text": "I had such an amazing time I came back twice in a week, Christina provides unparalleled service. I’m already looking forward to my next visit.",
+          "date": "2026-05-06",
+          "rating": 5
+        },
         {
           "reviewer": "Kyle Miranda",
           "text": "Christina took care of our group, amazing customer service!!",
