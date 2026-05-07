@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-07T01:24:39.789Z",
-  "reviewCount": 23,
-  "qualifyingReviewCount": 23,
+  "processedAt": "2026-05-07T04:59:35.479Z",
+  "reviewCount": 27,
+  "qualifyingReviewCount": 27,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,12 +16,12 @@
     {
       "rank": 1,
       "server": "Christina",
-      "count": 4
+      "count": 7
     },
     {
       "rank": 2,
       "server": "Maria",
-      "count": 4
+      "count": 7
     },
     {
       "rank": 3,
@@ -40,107 +40,107 @@
     },
     {
       "rank": 6,
+      "server": "Matteo",
+      "count": 1
+    },
+    {
+      "rank": 7,
+      "server": "Mia",
+      "count": 1
+    },
+    {
+      "rank": 8,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 9,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 10,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 11,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 14,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 15,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 18,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 23,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 24,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 24,
-      "server": "Matteo",
-      "count": 0
-    },
-    {
-      "rank": 25,
-      "server": "Meklit",
-      "count": 0
-    },
-    {
       "rank": 26,
-      "server": "Mia",
+      "server": "Meklit",
       "count": 0
     },
     {
@@ -176,9 +176,39 @@
   ],
   "mentions": [
     {
-      "server": "Christina",
-      "count": 4,
+      "server": "Mia",
+      "count": 1,
       "reviews": [
+        {
+          "reviewer": "Chloe S",
+          "text": "Mia and Matteo were so amazing so friendly and welcome and on top of service never had to wait to order another drink or water would definitely come back because of them",
+          "date": "2026-05-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Christina",
+      "count": 7,
+      "reviews": [
+        {
+          "reviewer": "Riley M",
+          "text": "Maria and Christina did a phenomenal job, best servers I’ve had in a very long time!",
+          "date": "2026-05-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Charlie Cummins",
+          "text": "Maria and Christina were excellent we had a great time!",
+          "date": "2026-05-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "matthew girvan",
+          "text": "Maria and Christina were great as servers",
+          "date": "2026-05-07",
+          "rating": 5
+        },
         {
           "reviewer": "Kevin Lucero",
           "text": "I had such an amazing time I came back twice in a week, Christina provides unparalleled service. I’m already looking forward to my next visit.",
@@ -207,8 +237,26 @@
     },
     {
       "server": "Maria",
-      "count": 4,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Riley M",
+          "text": "Maria and Christina did a phenomenal job, best servers I’ve had in a very long time!",
+          "date": "2026-05-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Charlie Cummins",
+          "text": "Maria and Christina were excellent we had a great time!",
+          "date": "2026-05-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "matthew girvan",
+          "text": "Maria and Christina were great as servers",
+          "date": "2026-05-07",
+          "rating": 5
+        },
         {
           "reviewer": "Nigel Vickery",
           "text": "Maria was absolutely great! Awesome service and recommendations.",
@@ -267,6 +315,18 @@
           "reviewer": "David",
           "text": "Great food as always (wings, dumplings, edamame in particular) and awesome service with Ben",
           "date": "2026-05-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matteo",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Chloe S",
+          "text": "Mia and Matteo were so amazing so friendly and welcome and on top of service never had to wait to order another drink or water would definitely come back because of them",
+          "date": "2026-05-07",
           "rating": 5
         }
       ]
