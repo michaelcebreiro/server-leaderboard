@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-08T01:26:36.126Z",
-  "reviewCount": 26,
+  "fetchedAt": "2026-05-08T04:41:54.239Z",
+  "reviewCount": 27,
   "reviews": [
+    {
+      "reviewId": "5536522485456908144",
+      "reviewer": "Venus C",
+      "rating": 5,
+      "text": "Super yummy food and drinks, cute atmosphere and vibe!",
+      "reviewDate": "2026-05-08T02:51:18.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5534585805456715701",
       "reviewer": "Riley M",
