@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-08T11:22:51.403Z",
-  "reviewCount": 27,
-  "qualifyingReviewCount": 27,
+  "processedAt": "2026-05-08T12:54:30.201Z",
+  "reviewCount": 28,
+  "qualifyingReviewCount": 28,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,12 +30,12 @@
     },
     {
       "rank": 4,
-      "server": "Ben",
-      "count": 1
+      "server": "Jackie G",
+      "count": 2
     },
     {
       "rank": 5,
-      "server": "Jackie G",
+      "server": "Ben",
       "count": 1
     },
     {
@@ -333,8 +333,14 @@
     },
     {
       "server": "Jackie G",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Diane Zufelt",
+          "text": "Jackie G was a great server, she was so pleasant and attentive. Introduced herself to my husband who was having lunch alone this passed Tuesday. Fish and Chips weee great he said. Thanx Mitch",
+          "date": "2026-05-08",
+          "rating": 5
+        },
         {
           "reviewer": "Ezequiel Silva",
           "text": "Our waitress Jackie G was great food was great overall a good experience",
