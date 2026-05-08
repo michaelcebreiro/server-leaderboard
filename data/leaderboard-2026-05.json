@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-08T19:26:09.040Z",
-  "reviewCount": 28,
-  "qualifyingReviewCount": 28,
+  "processedAt": "2026-05-08T20:35:19.465Z",
+  "reviewCount": 30,
+  "qualifyingReviewCount": 30,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,22 +30,22 @@
     },
     {
       "rank": 4,
+      "server": "Mia",
+      "count": 3
+    },
+    {
+      "rank": 5,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 6,
-      "server": "Matteo",
-      "count": 1
-    },
-    {
       "rank": 7,
-      "server": "Mia",
+      "server": "Matteo",
       "count": 1
     },
     {
@@ -177,8 +177,20 @@
   "mentions": [
     {
       "server": "Mia",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Cheri B",
+          "text": "Mia was wonderful! Great service!",
+          "date": "2026-05-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "jj bare",
+          "text": "Mia is the goat !!🙏",
+          "date": "2026-05-08",
+          "rating": 5
+        },
         {
           "reviewer": "Chloe S",
           "text": "Mia and Matteo were so amazing so friendly and welcome and on top of service never had to wait to order another drink or water would definitely come back because of them",
