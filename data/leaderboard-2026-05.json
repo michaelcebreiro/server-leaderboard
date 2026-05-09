@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-09T22:08:47.738Z",
-  "reviewCount": 33,
-  "qualifyingReviewCount": 33,
+  "processedAt": "2026-05-09T23:06:40.769Z",
+  "reviewCount": 35,
+  "qualifyingReviewCount": 35,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -26,7 +26,7 @@
     {
       "rank": 3,
       "server": "Ewan",
-      "count": 4
+      "count": 5
     },
     {
       "rank": 4,
@@ -297,8 +297,14 @@
     },
     {
       "server": "Ewan",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Tom Vanderb",
+          "text": "Ewan killed it on all levels.\nWe’ve been clients for many years… appreciate the new hand… he fits in perfectly",
+          "date": "2026-05-09",
+          "rating": 5
+        },
         {
           "reviewer": "Ni Kalman",
           "text": "Evan was an exceptional server! Will be back",

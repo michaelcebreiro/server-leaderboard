@@ -1,8 +1,24 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-09T22:08:47.687Z",
-  "reviewCount": 33,
+  "fetchedAt": "2026-05-09T23:06:40.615Z",
+  "reviewCount": 35,
   "reviews": [
+    {
+      "reviewId": "5327626035436101115",
+      "reviewer": "Tom Vanderb",
+      "rating": 5,
+      "text": "Ewan killed it on all levels.\nWe’ve been clients for many years… appreciate the new hand… he fits in perfectly",
+      "reviewDate": "2026-05-09T22:20:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5538847285457138997",
+      "reviewer": "Alexis C.",
+      "rating": 5,
+      "text": "Grand lad, pleasant enough. Could do with working out more ‍",
+      "reviewDate": "2026-05-09T22:02:33.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5538805155457134834",
       "reviewer": "Ni Kalman",
