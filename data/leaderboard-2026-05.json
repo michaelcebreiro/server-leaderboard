@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-09T17:06:26.025Z",
-  "reviewCount": 30,
-  "qualifyingReviewCount": 30,
+  "processedAt": "2026-05-09T18:05:59.499Z",
+  "reviewCount": 32,
+  "qualifyingReviewCount": 32,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,47 +45,47 @@
     },
     {
       "rank": 7,
-      "server": "Matteo",
+      "server": "Danielle",
       "count": 1
     },
     {
       "rank": 8,
+      "server": "Matteo",
+      "count": 1
+    },
+    {
+      "rank": 9,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 14,
-      "server": "Daniel",
-      "count": 0
-    },
-    {
       "rank": 15,
-      "server": "Danielle",
+      "server": "Daniel",
       "count": 0
     },
     {
@@ -327,6 +327,18 @@
           "reviewer": "David",
           "text": "Great food as always (wings, dumplings, edamame in particular) and awesome service with Ben",
           "date": "2026-05-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Danielle",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Nate warrillow",
+          "text": "Wow. I am so speechless that I had to type out my thoughts. Danielle was the definition of hospitality. Her relentless effort to bring us never ending diet cokes is unmatched. In all seriousness, she did a wonderful job with everything.",
+          "date": "2026-05-09",
           "rating": 5
         }
       ]
