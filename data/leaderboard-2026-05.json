@@ -1,22 +1,22 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-10T15:15:22.071Z",
-  "reviewCount": 49,
-  "qualifyingReviewCount": 48,
+  "processedAt": "2026-05-10T16:29:43.083Z",
+  "reviewCount": 56,
+  "qualifyingReviewCount": 55,
   "thresholds": {
     "first": 20,
     "second": 15
   },
   "winners": {
     "finalized": false,
-    "first": null,
+    "first": "Ewan",
     "second": null
   },
   "standings": [
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 14
+      "count": 20
     },
     {
       "rank": 2,
@@ -297,8 +297,44 @@
     },
     {
       "server": "Ewan",
-      "count": 14,
+      "count": 20,
       "reviews": [
+        {
+          "reviewer": "Christofer LaGrotta",
+          "text": "Ewen was very friendly and was the perfect post 10k race support",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jack D.",
+          "text": "Ewan the man",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Alexander Damjanovski",
+          "text": "Great spot, our server Ewan was very accommodating and professional",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "mikayla",
+          "text": "Ewan was an awesome server and also the potatoes were so good thx",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Gillian Ford",
+          "text": "Ewan was an amazing server, would recommend 100%!",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Zachary Thorne",
+          "text": "Ewan was great",
+          "date": "2026-05-10",
+          "rating": 4
+        },
         {
           "reviewer": "Zoe Baugh",
           "text": "Ewan was excellent!! He was very helpful and attentive with our special request to split two meals.",
