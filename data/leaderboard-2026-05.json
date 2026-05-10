@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-10T18:39:07.280Z",
-  "reviewCount": 58,
-  "qualifyingReviewCount": 57,
+  "processedAt": "2026-05-10T19:46:40.260Z",
+  "reviewCount": 59,
+  "qualifyingReviewCount": 58,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 21
+      "count": 22
     },
     {
       "rank": 2,
@@ -297,8 +297,14 @@
     },
     {
       "server": "Ewan",
-      "count": 21,
+      "count": 22,
       "reviews": [
+        {
+          "reviewer": "Teamfirst sports",
+          "text": "We came in for Mother’s Day, (my wife’s first) with our baby. Ewan was our server and our experience was fantastic. Made us feel very at home recommended us the best drinks and food! Definitely give this place a try!\n\nEwan thank you for making our first Mother’s Day as a family special!",
+          "date": "2026-05-10",
+          "rating": 5
+        },
         {
           "reviewer": "Christofer LaGrotta",
           "text": "Ewen was very friendly and was the perfect post 10k race support",
