@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-10T00:05:49.049Z",
-  "reviewCount": 38,
-  "qualifyingReviewCount": 38,
+  "processedAt": "2026-05-10T04:16:43.439Z",
+  "reviewCount": 48,
+  "qualifyingReviewCount": 47,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 8
+      "count": 13
     },
     {
       "rank": 2,
@@ -297,8 +297,38 @@
     },
     {
       "server": "Ewan",
-      "count": 8,
+      "count": 13,
       "reviews": [
+        {
+          "reviewer": "Jason Rivers",
+          "text": "Ewen was great, as was the food.",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Thomas Fanjoy",
+          "text": "Music was annoying and food was good but Ewan was great and my friends and I might come back if he's our server again.",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Basil Elefth",
+          "text": "Ewan was fantastic. Personable. Caring. And most of all, went above and beyond to make sure we all had a great time. Also a very humorous person. Enjoyed my time here. Highly recommended.",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tom Moiannou",
+          "text": "The food was excellent! Our server Ewan took great care of us, checking in us regularly and making sure we were always served quickly, 10/10",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Nektario Roussos",
+          "text": "Great experience! Our server Ewan was super friendly and professional!",
+          "date": "2026-05-10",
+          "rating": 5
+        },
         {
           "reviewer": "Rob Miles",
           "text": "Ewan was an awesome server.",
