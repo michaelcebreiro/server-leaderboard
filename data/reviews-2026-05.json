@@ -1,8 +1,24 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-10T20:54:34.484Z",
-  "reviewCount": 59,
+  "fetchedAt": "2026-05-10T21:53:18.231Z",
+  "reviewCount": 61,
   "reviews": [
+    {
+      "reviewId": "5539386875457192458",
+      "reviewer": "Boba B",
+      "rating": 5,
+      "text": "Atmosphere is great and the place looks very nice! Ewan was serving us and he was very kind and professional! Thanks Ewan!",
+      "reviewDate": "2026-05-10T21:04:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5539386165457192388",
+      "reviewer": "Aleksandar Penic",
+      "rating": 5,
+      "text": "Our waiter Ewan was absolutely excellent — professional, attentive, and very friendly throughout the entire evening. He made sure everything was perfect and provided outstanding service. Thank you for making our experience so enjoyable!",
+      "reviewDate": "2026-05-10T21:02:20.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5539310115457184823",
       "reviewer": "Teamfirst sports",
