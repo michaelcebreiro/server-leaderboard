@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-10T16:29:43.083Z",
-  "reviewCount": 56,
-  "qualifyingReviewCount": 55,
+  "processedAt": "2026-05-10T17:31:49.367Z",
+  "reviewCount": 58,
+  "qualifyingReviewCount": 57,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 20
+      "count": 21
     },
     {
       "rank": 2,
@@ -297,7 +297,7 @@
     },
     {
       "server": "Ewan",
-      "count": 20,
+      "count": 21,
       "reviews": [
         {
           "reviewer": "Christofer LaGrotta",
@@ -392,6 +392,12 @@
         {
           "reviewer": "Tom Vanderb",
           "text": "Ewan killed it on all levels.\nWe’ve been clients for many years… appreciate the new hand… he fits in perfectly",
+          "date": "2026-05-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jacob Hanning",
+          "text": "Ewan was very nice and gave us great service!",
           "date": "2026-05-09",
           "rating": 5
         },

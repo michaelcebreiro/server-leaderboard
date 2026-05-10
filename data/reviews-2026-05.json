@@ -1,7 +1,7 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-10T16:29:43.020Z",
-  "reviewCount": 56,
+  "fetchedAt": "2026-05-10T17:31:49.302Z",
+  "reviewCount": 58,
   "reviews": [
     {
       "reviewId": "5539216195457175555",
@@ -124,6 +124,14 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "4420355205345740829",
+      "reviewer": "Graham Pace",
+      "rating": 5,
+      "text": "We love Local! Great vibe, great service and awesome food. Bella was our server. So friendly and attentive. She went out of her way to make my children feel comfortable and included in conversation. We really appreciate her! Cheers.",
+      "reviewDate": "2026-05-10T01:23:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5538952963457149432",
       "reviewer": "Ashley Pengelley",
       "rating": 3,
@@ -183,8 +191,16 @@
       "reviewId": "5538847285457138997",
       "reviewer": "Alexis C.",
       "rating": 5,
-      "text": "Grand lad, pleasant enough. Could do with working out more ‍",
+      "text": "Grand lad, pleasant enough. Could do with working out more 😮‍💨",
       "reviewDate": "2026-05-09T22:02:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4558021535359476623",
+      "reviewer": "Jacob Hanning",
+      "rating": 5,
+      "text": "Ewan was very nice and gave us great service!",
+      "reviewDate": "2026-05-09T21:49:43.000Z",
       "source": "GOOGLE"
     },
     {
