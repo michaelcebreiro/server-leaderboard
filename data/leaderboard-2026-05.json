@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-11T18:59:44.766Z",
-  "reviewCount": 64,
-  "qualifyingReviewCount": 63,
+  "processedAt": "2026-05-11T20:50:51.525Z",
+  "reviewCount": 65,
+  "qualifyingReviewCount": 64,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 28
+      "count": 29
     },
     {
       "rank": 2,
@@ -312,8 +312,14 @@
     },
     {
       "server": "Ewan",
-      "count": 28,
+      "count": 29,
       "reviews": [
+        {
+          "reviewer": "Michael Scofield",
+          "text": "Grabbed a quick bite here yesterday - food was solid and Ewan waiting on us was a great guy\ncheers",
+          "date": "2026-05-11",
+          "rating": 5
+        },
         {
           "reviewer": "Fiona Campbell",
           "text": "We stopped in for a casual meal and ended up genuinely impressed. The atmosphere felt welcoming from the moment we walked in, busy but calm, and our server Ewan handled everything with warmth and professionalism. The Tuna bowl was delicious… we will be back❤️",
