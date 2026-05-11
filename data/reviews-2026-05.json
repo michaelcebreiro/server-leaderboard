@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-10T23:57:13.027Z",
-  "reviewCount": 63,
+  "fetchedAt": "2026-05-11T04:16:11.977Z",
+  "reviewCount": 64,
   "reviews": [
+    {
+      "reviewId": "5539593385457212959",
+      "reviewer": "Fiona Campbell",
+      "rating": 5,
+      "text": "We stopped in for a casual meal and ended up genuinely impressed. The atmosphere felt welcoming from the moment we walked in, busy but calm, and our server Ewan handled everything with warmth and professionalism. The Tuna bowl was delicious… we will be back❤️",
+      "reviewDate": "2026-05-11T03:04:27.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5539461105457199823",
       "reviewer": "Cody Caughers",
