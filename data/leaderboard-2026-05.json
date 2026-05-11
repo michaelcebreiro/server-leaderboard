@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-11T11:37:10.808Z",
+  "processedAt": "2026-05-11T14:09:52.440Z",
   "reviewCount": 64,
   "qualifyingReviewCount": 63,
   "thresholds": {
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 27
+      "count": 28
     },
     {
       "rank": 2,
@@ -297,7 +297,7 @@
     },
     {
       "server": "Ewan",
-      "count": 27,
+      "count": 28,
       "reviews": [
         {
           "reviewer": "Fiona Campbell",
@@ -374,6 +374,12 @@
         {
           "reviewer": "Zoe Baugh",
           "text": "Ewan was excellent!! He was very helpful and attentive with our special request to split two meals.",
+          "date": "2026-05-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Pink Lemonade",
+          "text": "The food here is amazing. I ordered something simple: the breakfast sandwich. I didn't expect much because it's just an egg and bacon sandwich. But, as is known in the culinary industry, the simplest dishes are the greatest test of skill. The egg was cooked to perfection. The bacon was crispy but not overcooked. The sauce was flavourful. Even the side salad struck the perfect balance between sharp cheese and aromatic peppercorns. The food was a delightful pairing with my $5 house lager, which was light and very drinkable.\n\nOur server, Ewin, always made sure we had everything we needed. He even remembered everyone's name in a table of 6! He checked in regularly so I could refill my alcohol at a good pace. His friendly and personable service brightened up the experience.\n\nFinally, the music played here is just one banger after another.  I normally don't like loud music but I loved every song that played here. It makes for an exciting but subtle background to the lively conversation you're surely having with your friends.\n\nI will definitely be coming back.",
           "date": "2026-05-10",
           "rating": 5
         },
