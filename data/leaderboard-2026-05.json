@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-12T15:23:00.020Z",
-  "reviewCount": 66,
-  "qualifyingReviewCount": 65,
+  "processedAt": "2026-05-12T17:33:46.650Z",
+  "reviewCount": 75,
+  "qualifyingReviewCount": 73,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -50,62 +50,62 @@
     },
     {
       "rank": 8,
-      "server": "Isabella",
+      "server": "Harrison",
       "count": 1
     },
     {
       "rank": 9,
-      "server": "Matteo",
+      "server": "Isabella",
       "count": 1
     },
     {
       "rank": 10,
+      "server": "Matteo",
+      "count": 1
+    },
+    {
+      "rank": 11,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 18,
-      "server": "Eli",
-      "count": 0
-    },
-    {
       "rank": 19,
-      "server": "Harrison",
+      "server": "Eli",
       "count": 0
     },
     {
@@ -552,6 +552,18 @@
           "reviewer": "Graham Pace",
           "text": "We love Local! Great vibe, great service and awesome food. Bella was our server. So friendly and attentive. She went out of her way to make my children feel comfortable and included in conversation. We really appreciate her! Cheers.",
           "date": "2026-05-10",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Harrison",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Robin Dickie",
+          "text": "Harrison was a great server!\nyou need blinds for the sun on the 2nd floor…everything was delicious except the LPE greens, needed dressing and cheese - very plain and dry",
+          "date": "2026-05-12",
           "rating": 5
         }
       ]
