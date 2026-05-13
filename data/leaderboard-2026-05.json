@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-13T11:13:04.487Z",
-  "reviewCount": 77,
-  "qualifyingReviewCount": 75,
+  "processedAt": "2026-05-13T13:31:39.182Z",
+  "reviewCount": 79,
+  "qualifyingReviewCount": 77,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,27 +35,27 @@
     },
     {
       "rank": 5,
-      "server": "Jackie G",
+      "server": "Harrison",
       "count": 2
     },
     {
       "rank": 6,
+      "server": "Jackie G",
+      "count": 2
+    },
+    {
+      "rank": 7,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 8,
-      "server": "Danielle",
-      "count": 1
-    },
-    {
       "rank": 9,
-      "server": "Harrison",
+      "server": "Danielle",
       "count": 1
     },
     {
@@ -582,8 +582,14 @@
     },
     {
       "server": "Harrison",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Hassan Deif",
+          "text": "Harrison was an excellent server , very friendly, efficient and sociable",
+          "date": "2026-05-13",
+          "rating": 4
+        },
         {
           "reviewer": "Robin Dickie",
           "text": "Harrison was a great server!\nyou need blinds for the sun on the 2nd floor…everything was delicious except the LPE greens, needed dressing and cheese - very plain and dry",
