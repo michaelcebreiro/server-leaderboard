@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-13T01:30:53.971Z",
-  "reviewCount": 75,
-  "qualifyingReviewCount": 73,
+  "processedAt": "2026-05-13T05:34:52.123Z",
+  "reviewCount": 77,
+  "qualifyingReviewCount": 75,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,102 +45,102 @@
     },
     {
       "rank": 7,
-      "server": "Danielle",
+      "server": "Daniel",
       "count": 1
     },
     {
       "rank": 8,
-      "server": "Harrison",
+      "server": "Danielle",
       "count": 1
     },
     {
       "rank": 9,
-      "server": "Isabella",
+      "server": "Harrison",
       "count": 1
     },
     {
       "rank": 10,
-      "server": "Matteo",
+      "server": "Isabella",
       "count": 1
     },
     {
       "rank": 11,
+      "server": "Kayla",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "server": "Matteo",
+      "count": 1
+    },
+    {
+      "rank": 13,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 14,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 15,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 18,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 17,
-      "server": "Daniel",
-      "count": 0
-    },
-    {
-      "rank": 18,
+      "rank": 19,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 25,
-      "server": "Karina",
-      "count": 0
-    },
-    {
       "rank": 26,
-      "server": "Kayla",
+      "server": "Karina",
       "count": 0
     },
     {
@@ -491,6 +491,18 @@
       ]
     },
     {
+      "server": "Kayla",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Matthew",
+          "text": "Came in with my buddy and Kayla was amazing. Great recommendations and food and vibes were great!",
+          "date": "2026-05-13",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Ben",
       "count": 1,
       "reviews": [
@@ -540,6 +552,18 @@
           "reviewer": "Ezequiel Silva",
           "text": "Our waitress Jackie G was great food was great overall a good experience",
           "date": "2026-05-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Daniel",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Liam Calhoun",
+          "text": "Daniel was an absolute beauty still. Mans took care of everything proper from start to finish, checked in bare times without being over the top, and made sure the whole table was blessed the entire night. Customer service was elite - friendly, quick, and super attentive. You can tell he actually cares about people having a good experience instead of just going through the motions. Big respect to Daniel, real Toronto hospitality fam.",
+          "date": "2026-05-13",
           "rating": 5
         }
       ]

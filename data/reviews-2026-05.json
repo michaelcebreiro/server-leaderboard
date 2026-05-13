@@ -1,8 +1,24 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-13T01:30:53.908Z",
-  "reviewCount": 75,
+  "fetchedAt": "2026-05-13T05:34:52.059Z",
+  "reviewCount": 77,
   "reviews": [
+    {
+      "reviewId": "5542402275457491686",
+      "reviewer": "Matthew",
+      "rating": 5,
+      "text": "Came in with my buddy and Kayla was amazing. Great recommendations and food and vibes were great!",
+      "reviewDate": "2026-05-13T03:05:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5542416305457493079",
+      "reviewer": "Liam Calhoun",
+      "rating": 5,
+      "text": "Daniel was an absolute beauty still. Mans took care of everything proper from start to finish, checked in bare times without being over the top, and made sure the whole table was blessed the entire night. Customer service was elite - friendly, quick, and super attentive. You can tell he actually cares about people having a good experience instead of just going through the motions. Big respect to Daniel, real Toronto hospitality fam.",
+      "reviewDate": "2026-05-13T02:53:01.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5327627535436101265",
       "reviewer": "Robin Dickie",
