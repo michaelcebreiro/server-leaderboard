@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-14T00:16:09.829Z",
-  "reviewCount": 82,
-  "qualifyingReviewCount": 80,
+  "processedAt": "2026-05-14T04:29:14.564Z",
+  "reviewCount": 84,
+  "qualifyingReviewCount": 82,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Christina",
-      "count": 9
+      "count": 11
     },
     {
       "rank": 3,
@@ -216,8 +216,20 @@
     },
     {
       "server": "Christina",
-      "count": 9,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Nicholas Degurse",
+          "text": "Amazing experience from start to finish! Hostesses Kaia and Camille welcomed us so warmly, and our server Christina was fantastic — attentive, friendly, and great with recommendations. These three made our night! We’ll definitely be back.",
+          "date": "2026-05-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Zeeshan Ahmed",
+          "text": "Amazing experience overall. We were greeted by Camille right away and felt welcomed from the moment we walked in. Christina was our server and she was fantastic — super friendly, attentive, and made sure everything was perfect throughout the night.\n\nThe food was delicious and the drinks were great as well. Definitely one of the better restaurant experiences I’ve had recently. Huge thanks to Cam and Christina for the amazing service. Will definitely be back!",
+          "date": "2026-05-14",
+          "rating": 5
+        },
         {
           "reviewer": "Amisha Verma",
           "text": "Christina was super helpful. The food was great, love this place.",
