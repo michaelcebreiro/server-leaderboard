@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-15T00:10:36.033Z",
-  "reviewCount": 86,
-  "qualifyingReviewCount": 84,
+  "processedAt": "2026-05-15T04:19:19.568Z",
+  "reviewCount": 88,
+  "qualifyingReviewCount": 86,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,92 +45,92 @@
     },
     {
       "rank": 7,
+      "server": "Kaitlyn M",
+      "count": 2
+    },
+    {
+      "rank": 8,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Danielle",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Isabella",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Kayla",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 23,
-      "server": "Josh",
-      "count": 0
-    },
-    {
       "rank": 24,
-      "server": "Kaitlyn M",
+      "server": "Josh",
       "count": 0
     },
     {
@@ -588,6 +588,24 @@
           "reviewer": "Liam Calhoun",
           "text": "Daniel was an absolute beauty still. Mans took care of everything proper from start to finish, checked in bare times without being over the top, and made sure the whole table was blessed the entire night. Customer service was elite - friendly, quick, and super attentive. You can tell he actually cares about people having a good experience instead of just going through the motions. Big respect to Daniel, real Toronto hospitality fam.",
           "date": "2026-05-13",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaitlyn M",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Jason August",
+          "text": "Fantastic outstanding service at LOCAL- Kaitlyn S. was our server and was running the bar while serving our table - even though the restaurant was busy and hopping!  Very personable and efficient.\nI can’t say enough nice things about experience and our server .",
+          "date": "2026-05-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andrew Muirhead",
+          "text": "Great spot and staff is terrific. Highly recommend Kaitlyn with and S.  Great service and recommendations.",
+          "date": "2026-05-15",
           "rating": 5
         }
       ]
