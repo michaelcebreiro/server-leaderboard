@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-15T22:11:43.117Z",
-  "reviewCount": 90,
-  "qualifyingReviewCount": 88,
+  "processedAt": "2026-05-15T23:13:49.220Z",
+  "reviewCount": 91,
+  "qualifyingReviewCount": 89,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,17 +35,17 @@
     },
     {
       "rank": 5,
-      "server": "Mia",
+      "server": "Kaitlyn M",
       "count": 3
     },
     {
       "rank": 6,
-      "server": "Jackie G",
-      "count": 2
+      "server": "Mia",
+      "count": 3
     },
     {
       "rank": 7,
-      "server": "Kaitlyn M",
+      "server": "Jackie G",
       "count": 2
     },
     {
@@ -594,8 +594,14 @@
     },
     {
       "server": "Kaitlyn M",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Hannah Wasserman",
+          "text": "Alex and Kaitlyn weee the best",
+          "date": "2026-05-15",
+          "rating": 5
+        },
         {
           "reviewer": "Jason August",
           "text": "Fantastic outstanding service at LOCAL- Kaitlyn S. was our server and was running the bar while serving our table - even though the restaurant was busy and hopping!  Very personable and efficient.\nI can’t say enough nice things about experience and our server .",
