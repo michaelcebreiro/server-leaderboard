@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-16T17:32:26.762Z",
-  "reviewCount": 103,
-  "qualifyingReviewCount": 101,
+  "processedAt": "2026-05-16T18:41:01.559Z",
+  "reviewCount": 104,
+  "qualifyingReviewCount": 102,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -70,57 +70,57 @@
     },
     {
       "rank": 12,
-      "server": "Isabella",
+      "server": "Eli",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Kayla",
+      "server": "Isabella",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Matteo",
+      "server": "Kayla",
       "count": 1
     },
     {
       "rank": 15,
+      "server": "Matteo",
+      "count": 1
+    },
+    {
+      "rank": 16,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 21,
-      "server": "Elaiza",
-      "count": 0
-    },
-    {
       "rank": 22,
-      "server": "Eli",
+      "server": "Elaiza",
       "count": 0
     },
     {
@@ -623,6 +623,18 @@
           "reviewer": "Ezequiel Silva",
           "text": "Our waitress Jackie G was great food was great overall a good experience",
           "date": "2026-05-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Eli",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Donna Smith",
+          "text": "Wonderful service with Kalyn’s and Eli. Delicious food! Can’t wait to come back.",
+          "date": "2026-05-16",
           "rating": 5
         }
       ]
