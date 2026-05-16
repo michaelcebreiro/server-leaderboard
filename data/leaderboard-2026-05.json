@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-16T00:10:42.290Z",
-  "reviewCount": 95,
-  "qualifyingReviewCount": 93,
+  "processedAt": "2026-05-16T04:04:12.438Z",
+  "reviewCount": 102,
+  "qualifyingReviewCount": 100,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,11 +21,11 @@
     {
       "rank": 2,
       "server": "Christina",
-      "count": 11
+      "count": 12
     },
     {
       "rank": 3,
-      "server": "Kaitlyn M",
+      "server": "Kaitlyn S",
       "count": 7
     },
     {
@@ -35,37 +35,37 @@
     },
     {
       "rank": 5,
+      "server": "Danielle",
+      "count": 6
+    },
+    {
+      "rank": 6,
       "server": "Alex",
       "count": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Harrison",
       "count": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Mia",
       "count": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 10,
-      "server": "Daniel",
-      "count": 1
-    },
-    {
       "rank": 11,
-      "server": "Danielle",
+      "server": "Daniel",
       "count": 1
     },
     {
@@ -140,47 +140,47 @@
     },
     {
       "rank": 26,
-      "server": "Kalypsa",
+      "server": "Kaitlyn M",
       "count": 0
     },
     {
       "rank": 27,
-      "server": "Karina",
+      "server": "Kalypsa",
       "count": 0
     },
     {
       "rank": 28,
-      "server": "Kelyse",
+      "server": "Karina",
       "count": 0
     },
     {
       "rank": 29,
-      "server": "Meklit",
+      "server": "Kelyse",
       "count": 0
     },
     {
       "rank": 30,
-      "server": "Nicky",
+      "server": "Meklit",
       "count": 0
     },
     {
       "rank": 31,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 0
     },
     {
       "rank": 32,
-      "server": "Paige",
+      "server": "Nicola",
       "count": 0
     },
     {
       "rank": 33,
-      "server": "Paulveen",
+      "server": "Paige",
       "count": 0
     },
     {
       "rank": 34,
-      "server": "Skelly",
+      "server": "Paulveen",
       "count": 0
     },
     {
@@ -221,8 +221,14 @@
     },
     {
       "server": "Christina",
-      "count": 11,
+      "count": 12,
       "reviews": [
+        {
+          "reviewer": "Mattias Nicholl",
+          "text": "Christina is awesome and I’ll be back for her!",
+          "date": "2026-05-16",
+          "rating": 5
+        },
         {
           "reviewer": "Nicholas Degurse",
           "text": "Amazing experience from start to finish! Hostesses Kaia and Camille welcomed us so warmly, and our server Christina was fantastic — attentive, friendly, and great with recommendations. These three made our night! We’ll definitely be back.",
@@ -545,8 +551,38 @@
     },
     {
       "server": "Danielle",
-      "count": 1,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Matt Nadolny",
+          "text": "Danielle. Great.",
+          "date": "2026-05-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jake Weisz",
+          "text": "Danielle’s like Shakespeare to writing when it comes to drinks",
+          "date": "2026-05-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Natalie Mishko",
+          "text": "Danielle was amazing! So nice and great service",
+          "date": "2026-05-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jamie Bernstein",
+          "text": "Danielle was great",
+          "date": "2026-05-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "John Goldsmith",
+          "text": "Danielle served us amazingly. Great dinner.",
+          "date": "2026-05-16",
+          "rating": 5
+        },
         {
           "reviewer": "Nate warrillow",
           "text": "Wow. I am so speechless that I had to type out my thoughts. Danielle was the definition of hospitality. Her relentless effort to bring us never ending diet cokes is unmatched. In all seriousness, she did a wonderful job with everything.",
@@ -598,7 +634,7 @@
       ]
     },
     {
-      "server": "Kaitlyn M",
+      "server": "Kaitlyn S",
       "count": 7,
       "reviews": [
         {

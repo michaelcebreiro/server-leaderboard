@@ -1,8 +1,56 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-16T00:10:41.871Z",
-  "reviewCount": 95,
+  "fetchedAt": "2026-05-16T04:04:12.356Z",
+  "reviewCount": 102,
   "reviews": [
+    {
+      "reviewId": "5547917925458039887",
+      "reviewer": "Mattias Nicholl",
+      "rating": 5,
+      "text": "Christina is awesome and I’ll be back for her!",
+      "reviewDate": "2026-05-16T02:25:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5547878725458035985",
+      "reviewer": "Matt Nadolny",
+      "rating": 5,
+      "text": "Danielle. Great.",
+      "reviewDate": "2026-05-16T01:52:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5547879125458036025",
+      "reviewer": "Jake Weisz",
+      "rating": 5,
+      "text": "Danielle’s like Shakespeare to writing when it comes to drinks",
+      "reviewDate": "2026-05-16T01:50:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5547878615458035974",
+      "reviewer": "Natalie Mishko",
+      "rating": 5,
+      "text": "Danielle was amazing! So nice and great service",
+      "reviewDate": "2026-05-16T01:48:03.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5547878175458035931",
+      "reviewer": "Jamie Bernstein",
+      "rating": 5,
+      "text": "Danielle was great",
+      "reviewDate": "2026-05-16T01:46:58.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5547861905458034325",
+      "reviewer": "John Goldsmith",
+      "rating": 5,
+      "text": "Danielle served us amazingly. Great dinner.",
+      "reviewDate": "2026-05-16T01:16:40.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5547727405458020927",
       "reviewer": "Naomi Notidis",
@@ -50,6 +98,14 @@
       "text": "It’s a great staple. It’s been my local forever - only reason i’m going 4 stars is that the prices have increased drastically over the last few years.",
       "reviewDate": "2026-05-15T19:08:45.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5547864104458034540",
+      "reviewer": "J",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-05-15T15:46:43.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5546929695457941687",
