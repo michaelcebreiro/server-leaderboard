@@ -1,7 +1,7 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-16T20:55:11.019Z",
-  "reviewCount": 104,
+  "fetchedAt": "2026-05-16T21:54:49.098Z",
+  "reviewCount": 105,
   "reviews": [
     {
       "reviewId": "5548561625458103892",
@@ -10,6 +10,14 @@
       "text": "Wonderful service with Kalyn’s and Eli. Delicious food! Can’t wait to come back.",
       "reviewDate": "2026-05-16T17:27:06.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5548744385458121983",
+      "reviewer": "Erin",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-05-16T13:48:48.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5289168395432262288",
