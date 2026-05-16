@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-16T11:18:30.039Z",
-  "reviewCount": 102,
-  "qualifyingReviewCount": 100,
+  "processedAt": "2026-05-16T12:38:07.261Z",
+  "reviewCount": 103,
+  "qualifyingReviewCount": 101,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Christina",
-      "count": 12
+      "count": 13
     },
     {
       "rank": 3,
@@ -221,8 +221,14 @@
     },
     {
       "server": "Christina",
-      "count": 12,
+      "count": 13,
       "reviews": [
+        {
+          "reviewer": "Dina Vyriotes",
+          "text": "Love christina! Amazing server so attentive!",
+          "date": "2026-05-16",
+          "rating": 5
+        },
         {
           "reviewer": "Mattias Nicholl",
           "text": "Christina is awesome and I’ll be back for her!",
