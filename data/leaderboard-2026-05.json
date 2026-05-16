@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-15T23:13:49.220Z",
-  "reviewCount": 91,
-  "qualifyingReviewCount": 89,
+  "processedAt": "2026-05-16T00:10:42.290Z",
+  "reviewCount": 95,
+  "qualifyingReviewCount": 93,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,166 +25,171 @@
     },
     {
       "rank": 3,
-      "server": "Maria",
+      "server": "Kaitlyn M",
       "count": 7
     },
     {
       "rank": 4,
+      "server": "Maria",
+      "count": 7
+    },
+    {
+      "rank": 5,
+      "server": "Alex",
+      "count": 5
+    },
+    {
+      "rank": 6,
       "server": "Harrison",
       "count": 3
     },
     {
-      "rank": 5,
-      "server": "Kaitlyn M",
-      "count": 3
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "server": "Mia",
       "count": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Danielle",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Isabella",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Kayla",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Skelly",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Zivko",
       "count": 0
     }
@@ -594,8 +599,32 @@
     },
     {
       "server": "Kaitlyn M",
-      "count": 3,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Naomi Notidis",
+          "text": "Dinner with the family. Alex and Kaitlyn on the second floor were fantastic! Excellent and attentive service and great food!  Highly recommended.",
+          "date": "2026-05-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kristina Klipina",
+          "text": "Service was great, Alex & Kaitlyn were the best!",
+          "date": "2026-05-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Seza Kiraz Tolunay",
+          "text": "Alex and Kaitlyn were amazing — super friendly, attentive, and made the whole experience even better. The nachos were absolutely delicious too, fresh, flavorful, and perfect for sharing. Great food and great service, definitely coming back!",
+          "date": "2026-05-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Bruno Zucca Arias-Ponce",
+          "text": "Everything great, service and food&drinks amazing shout out to Alex and Kaitlyn, they were great!",
+          "date": "2026-05-15",
+          "rating": 5
+        },
         {
           "reviewer": "Hannah Wasserman",
           "text": "Alex and Kaitlyn weee the best",
@@ -648,6 +677,42 @@
           "reviewer": "Robin Dickie",
           "text": "Harrison was a great server!\nyou need blinds for the sun on the 2nd floor…everything was delicious except the LPE greens, needed dressing and cheese - very plain and dry",
           "date": "2026-05-12",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Alex",
+      "count": 5,
+      "reviews": [
+        {
+          "reviewer": "Naomi Notidis",
+          "text": "Dinner with the family. Alex and Kaitlyn on the second floor were fantastic! Excellent and attentive service and great food!  Highly recommended.",
+          "date": "2026-05-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kristina Klipina",
+          "text": "Service was great, Alex & Kaitlyn were the best!",
+          "date": "2026-05-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Seza Kiraz Tolunay",
+          "text": "Alex and Kaitlyn were amazing — super friendly, attentive, and made the whole experience even better. The nachos were absolutely delicious too, fresh, flavorful, and perfect for sharing. Great food and great service, definitely coming back!",
+          "date": "2026-05-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Bruno Zucca Arias-Ponce",
+          "text": "Everything great, service and food&drinks amazing shout out to Alex and Kaitlyn, they were great!",
+          "date": "2026-05-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Hannah Wasserman",
+          "text": "Alex and Kaitlyn weee the best",
+          "date": "2026-05-15",
           "rating": 5
         }
       ]
