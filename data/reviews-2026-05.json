@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-17T20:59:00.030Z",
-  "reviewCount": 111,
+  "fetchedAt": "2026-05-17T22:01:48.811Z",
+  "reviewCount": 112,
   "reviews": [
+    {
+      "reviewId": "5549677705458214835",
+      "reviewer": "Katerina Delyannis",
+      "rating": 5,
+      "text": "Christina treated us so well. Amazing experience!",
+      "reviewDate": "2026-05-17T21:19:59.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5549639815458211068",
       "reviewer": "Wayde Miranda",
