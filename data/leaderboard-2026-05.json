@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-17T19:51:59.874Z",
-  "reviewCount": 108,
-  "qualifyingReviewCount": 106,
+  "processedAt": "2026-05-17T20:59:00.223Z",
+  "reviewCount": 111,
+  "qualifyingReviewCount": 109,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -10,7 +10,7 @@
   "winners": {
     "finalized": false,
     "first": "Ewan",
-    "second": null
+    "second": "Christina"
   },
   "standings": [
     {
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Christina",
-      "count": 13
+      "count": 16
     },
     {
       "rank": 3,
@@ -221,8 +221,26 @@
     },
     {
       "server": "Christina",
-      "count": 13,
+      "count": 16,
       "reviews": [
+        {
+          "reviewer": "Wayde Miranda",
+          "text": "Christina was awesome, Super friendly and attentive! Food was amazing, Definitely will come back",
+          "date": "2026-05-17",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jenna C",
+          "text": "Christina was amazing! The food was also incredible. Highly recommend !!!",
+          "date": "2026-05-17",
+          "rating": 5
+        },
+        {
+          "reviewer": "Khepri Nelson",
+          "text": "I came by to visit a friend because she raves about this place all the time and it definitely met my expectations!! Food was amazing but the service was even better. Christina really took care of us and was also really helpful with suggestions. EVERYONE was amazing and very friendly!! Will 100% be returning and recommending",
+          "date": "2026-05-17",
+          "rating": 5
+        },
         {
           "reviewer": "Dina Vyriotes",
           "text": "Love christina! Amazing server so attentive!",
