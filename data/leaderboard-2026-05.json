@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-17T04:13:18.525Z",
-  "reviewCount": 106,
-  "qualifyingReviewCount": 104,
+  "processedAt": "2026-05-17T07:16:28.090Z",
+  "reviewCount": 107,
+  "qualifyingReviewCount": 105,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,47 +60,47 @@
     },
     {
       "rank": 10,
-      "server": "Ben",
-      "count": 1
+      "server": "Matteo",
+      "count": 2
     },
     {
       "rank": 11,
-      "server": "Daniel",
+      "server": "Annabel",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Eli",
+      "server": "Ben",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Isabella",
+      "server": "Daniel",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Kayla",
+      "server": "Eli",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Matteo",
+      "server": "Isabella",
       "count": 1
     },
     {
       "rank": 16,
+      "server": "Kayla",
+      "count": 1
+    },
+    {
+      "rank": 17,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 17,
-      "server": "Alessia",
-      "count": 0
-    },
-    {
       "rank": 18,
-      "server": "Annabel",
+      "server": "Alessia",
       "count": 0
     },
     {
@@ -299,6 +299,18 @@
           "reviewer": "Emily Parker",
           "text": "Christina was lovely!!",
           "date": "2026-05-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Annabel",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "01dipa",
+          "text": "Great vibes from the minute you walk in the door. Playlist is on point, Service was impeccable, and our servers Annabel & Matteo recommended some home run apps and mains. Overall great place for food and drinks.",
+          "date": "2026-05-17",
           "rating": 5
         }
       ]
@@ -599,8 +611,14 @@
     },
     {
       "server": "Matteo",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "01dipa",
+          "text": "Great vibes from the minute you walk in the door. Playlist is on point, Service was impeccable, and our servers Annabel & Matteo recommended some home run apps and mains. Overall great place for food and drinks.",
+          "date": "2026-05-17",
+          "rating": 5
+        },
         {
           "reviewer": "Chloe S",
           "text": "Mia and Matteo were so amazing so friendly and welcome and on top of service never had to wait to order another drink or water would definitely come back because of them",
