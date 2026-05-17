@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-17T17:18:09.296Z",
-  "reviewCount": 107,
-  "qualifyingReviewCount": 105,
+  "processedAt": "2026-05-17T18:35:34.278Z",
+  "reviewCount": 108,
+  "qualifyingReviewCount": 106,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -55,32 +55,32 @@
     },
     {
       "rank": 9,
-      "server": "Jackie G",
+      "server": "Eli",
       "count": 2
     },
     {
       "rank": 10,
-      "server": "Matteo",
+      "server": "Jackie G",
       "count": 2
     },
     {
       "rank": 11,
+      "server": "Matteo",
+      "count": 2
+    },
+    {
+      "rank": 12,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 13,
-      "server": "Daniel",
-      "count": 1
-    },
-    {
       "rank": 14,
-      "server": "Eli",
+      "server": "Daniel",
       "count": 1
     },
     {
@@ -647,8 +647,14 @@
     },
     {
       "server": "Eli",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "John Stephenson",
+          "text": "Eli provided the best service. Super friendly and attentive. Good experience.",
+          "date": "2026-05-17",
+          "rating": 5
+        },
         {
           "reviewer": "Donna Smith",
           "text": "Wonderful service with Kalyn’s and Eli. Delicious food! Can’t wait to come back.",
