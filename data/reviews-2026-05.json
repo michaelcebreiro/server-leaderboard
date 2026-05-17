@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-16T23:57:40.537Z",
-  "reviewCount": 105,
+  "fetchedAt": "2026-05-17T04:13:18.305Z",
+  "reviewCount": 106,
   "reviews": [
+    {
+      "reviewId": "5549107725458158177",
+      "reviewer": "P Sri",
+      "rating": 5,
+      "text": "Great ambience and excellent service by Miklit- very knowledgeable about beers, pours and overall an impressive young lady! She was the highlight of our evening today.\nFood was decent especially the nachos, we ordered a few burgers and some beers.\nAmbience - we sat at the outside patio as we had our dog with us. Would be nice if we can bring him inside too.",
+      "reviewDate": "2026-05-17T01:39:43.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5548561625458103892",
       "reviewer": "Donna Smith",
