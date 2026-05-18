@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-18T00:12:10.646Z",
-  "reviewCount": 113,
-  "qualifyingReviewCount": 111,
+  "processedAt": "2026-05-18T04:44:17.185Z",
+  "reviewCount": 114,
+  "qualifyingReviewCount": 112,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -46,7 +46,7 @@
     {
       "rank": 7,
       "server": "Harrison",
-      "count": 3
+      "count": 4
     },
     {
       "rank": 8,
@@ -773,8 +773,14 @@
     },
     {
       "server": "Harrison",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Victoria Khoury",
+          "text": "Harrison was wonderful! He was very attentive and so friendly. Not only was he was professional he was so personable. When we come back we will definitely be asking to be seated in Harrison’s section!",
+          "date": "2026-05-18",
+          "rating": 5
+        },
         {
           "reviewer": "J & C K & L",
           "text": "Harrison was our server and went above and beyond.",

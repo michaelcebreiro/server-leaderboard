@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-18T00:12:10.589Z",
-  "reviewCount": 113,
+  "fetchedAt": "2026-05-18T04:44:17.013Z",
+  "reviewCount": 114,
   "reviews": [
+    {
+      "reviewId": "5549802805458227263",
+      "reviewer": "Victoria Khoury",
+      "rating": 5,
+      "text": "Harrison was wonderful! He was very attentive and so friendly. Not only was he was professional he was so personable. When we come back we will definitely be asking to be seated in Harrison’s section!",
+      "reviewDate": "2026-05-18T00:37:48.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5549764985458223494",
       "reviewer": "Aurelie Bryce",
