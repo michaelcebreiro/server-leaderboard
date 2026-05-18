@@ -1,8 +1,24 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-18T22:40:58.119Z",
-  "reviewCount": 117,
+  "fetchedAt": "2026-05-18T23:48:09.528Z",
+  "reviewCount": 119,
   "reviews": [
+    {
+      "reviewId": "5551503755458396715",
+      "reviewer": "ak san",
+      "rating": 5,
+      "text": "Kaia was an excellent hostess. She was super attentive and on top of making us feel well taken care of.\nPaulveen was also excellent. She was full of smiles and very hospitable and friendly.",
+      "reviewDate": "2026-05-18T22:48:18.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5551504184458396757",
+      "reviewer": "Calvin Monty",
+      "rating": 4,
+      "text": "Nice staff, good food, the dessert isn’t amazing but the rest of the experience makes up for it",
+      "reviewDate": "2026-05-18T22:44:41.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5550897405458336383",
       "reviewer": "J Besson",
