@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-18T16:03:20.904Z",
-  "reviewCount": 116,
+  "fetchedAt": "2026-05-18T18:12:01.891Z",
+  "reviewCount": 117,
   "reviews": [
+    {
+      "reviewId": "5550897405458336383",
+      "reviewer": "J Besson",
+      "rating": 5,
+      "text": "Bella was friendly and courteous and efficient. We’ll be back!",
+      "reviewDate": "2026-05-18T16:36:58.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5550824055458329084",
       "reviewer": "duffphill",
