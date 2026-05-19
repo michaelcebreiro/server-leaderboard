@@ -195,6 +195,12 @@
     {
       "name": "Kaia",
       "aliases": []
+    },
+    {
+      "name": "Sydney",
+      "aliases": [
+        "Syd"
+      ]
     }
   ],
   "removed": [
