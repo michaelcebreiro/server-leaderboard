@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-19T04:00:11.038Z",
-  "reviewCount": 120,
+  "fetchedAt": "2026-05-19T07:56:58.216Z",
+  "reviewCount": 121,
   "reviews": [
+    {
+      "reviewId": "5552014395458447483",
+      "reviewer": "Fernanda Santilli",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-05-19T07:10:46.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5551597155458405943",
       "reviewer": "Talia Longo",
