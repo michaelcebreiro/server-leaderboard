@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-19T19:26:27.529Z",
+  "processedAt": "2026-05-19T21:04:49.893Z",
   "reviewCount": 121,
   "qualifyingReviewCount": 119,
   "thresholds": {
@@ -60,136 +60,156 @@
     },
     {
       "rank": 10,
-      "server": "Eli",
+      "server": "Camille",
       "count": 2
     },
     {
       "rank": 11,
-      "server": "Jackie G",
+      "server": "Eli",
       "count": 2
     },
     {
       "rank": 12,
-      "server": "Matteo",
+      "server": "Jackie G",
       "count": 2
     },
     {
       "rank": 13,
+      "server": "Kaia",
+      "count": 2
+    },
+    {
+      "rank": 14,
+      "server": "Matteo",
+      "count": 2
+    },
+    {
+      "rank": 15,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 16,
-      "server": "Kayla",
-      "count": 1
-    },
-    {
-      "rank": 17,
-      "server": "Meklit",
-      "count": 1
-    },
-    {
       "rank": 18,
-      "server": "Paulveen",
+      "server": "Derka",
       "count": 1
     },
     {
       "rank": 19,
+      "server": "Kayla",
+      "count": 1
+    },
+    {
+      "rank": 20,
+      "server": "Meklit",
+      "count": 1
+    },
+    {
+      "rank": 21,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 22,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 23,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 24,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 25,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 26,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 27,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 28,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 29,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 30,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 31,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 32,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 33,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 34,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 35,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 36,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 37,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 38,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 39,
+      "server": "Sydney",
+      "count": 0
+    },
+    {
+      "rank": 40,
       "server": "Zivko",
       "count": 0
     }
@@ -857,6 +877,54 @@
           "reviewer": "Hannah Wasserman",
           "text": "Alex and Kaitlyn weee the best",
           "date": "2026-05-15",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Derka",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Aurelie Bryce",
+          "text": "Thanks to the server derks! Super funny and helpful.",
+          "date": "2026-05-17",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Camille",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Nicholas Degurse",
+          "text": "Amazing experience from start to finish! Hostesses Kaia and Camille welcomed us so warmly, and our server Christina was fantastic — attentive, friendly, and great with recommendations. These three made our night! We’ll definitely be back.",
+          "date": "2026-05-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Zeeshan Ahmed",
+          "text": "Amazing experience overall. We were greeted by Camille right away and felt welcomed from the moment we walked in. Christina was our server and she was fantastic — super friendly, attentive, and made sure everything was perfect throughout the night.\n\nThe food was delicious and the drinks were great as well. Definitely one of the better restaurant experiences I’ve had recently. Huge thanks to Cam and Christina for the amazing service. Will definitely be back!",
+          "date": "2026-05-14",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaia",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "ak san",
+          "text": "Kaia was an excellent hostess. She was super attentive and on top of making us feel well taken care of.\nPaulveen was also excellent. She was full of smiles and very hospitable and friendly.",
+          "date": "2026-05-18",
+          "rating": 5
+        },
+        {
+          "reviewer": "Nicholas Degurse",
+          "text": "Amazing experience from start to finish! Hostesses Kaia and Camille welcomed us so warmly, and our server Christina was fantastic — attentive, friendly, and great with recommendations. These three made our night! We’ll definitely be back.",
+          "date": "2026-05-14",
           "rating": 5
         }
       ]
