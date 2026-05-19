@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-19T21:04:49.805Z",
-  "reviewCount": 121,
+  "fetchedAt": "2026-05-19T22:39:02.542Z",
+  "reviewCount": 122,
   "reviews": [
+    {
+      "reviewId": "5553265545458571868",
+      "reviewer": "Winston",
+      "rating": 5,
+      "text": "Kaitlyn S. was great and very accommodating.",
+      "reviewDate": "2026-05-19T22:23:04.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5552014395458447483",
       "reviewer": "Fernanda Santilli",
