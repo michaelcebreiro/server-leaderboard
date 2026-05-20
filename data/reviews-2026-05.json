@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-20T19:30:11.900Z",
-  "reviewCount": 125,
+  "fetchedAt": "2026-05-20T21:19:43.998Z",
+  "reviewCount": 126,
   "reviews": [
+    {
+      "reviewId": "5555494685458793850",
+      "reviewer": "M. Di",
+      "rating": 5,
+      "text": "My good friend and I always hit up the Local on most stat holidays as we can always count on them being open. This past Victoria Day Bella was our server and she did an awesome job making sure we had exactly what we needed. We’ll hopefully be back before the next long weekend! Thanks again, Bella!",
+      "reviewDate": "2026-05-20T19:47:12.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5553644795458609575",
       "reviewer": "Giselle Lo-phi",
