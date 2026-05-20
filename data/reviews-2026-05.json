@@ -1,7 +1,7 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-20T04:01:00.085Z",
-  "reviewCount": 123,
+  "fetchedAt": "2026-05-20T07:56:08.681Z",
+  "reviewCount": 125,
   "reviews": [
     {
       "reviewId": "5553644795458609575",
@@ -18,6 +18,22 @@
       "text": "Kaitlyn S. was great and very accommodating.",
       "reviewDate": "2026-05-19T22:23:04.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5553823255458627346",
+      "reviewer": "Pat",
+      "rating": 5,
+      "text": "Not our first time here.  Food is great.  Service is great.  \nFinally able to sit outside.",
+      "reviewDate": "2026-05-19T15:40:28.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5553823263458627347",
+      "reviewer": "Alex",
+      "rating": 3,
+      "text": "",
+      "reviewDate": "2026-05-19T12:57:25.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5552014395458447483",
