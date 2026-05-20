@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-19T23:46:10.448Z",
-  "reviewCount": 122,
+  "fetchedAt": "2026-05-20T04:01:00.085Z",
+  "reviewCount": 123,
   "reviews": [
+    {
+      "reviewId": "5553644795458609575",
+      "reviewer": "Giselle Lo-phi",
+      "rating": 5,
+      "text": "Amazing vibe. Kayla was so lovely and the food was perfect! Will be back soon. Thank you local and Kayla.",
+      "reviewDate": "2026-05-20T01:38:03.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5553265545458571868",
       "reviewer": "Winston",

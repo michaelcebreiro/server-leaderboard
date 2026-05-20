@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-19T23:46:10.529Z",
-  "reviewCount": 122,
-  "qualifyingReviewCount": 120,
+  "processedAt": "2026-05-20T04:01:00.343Z",
+  "reviewCount": 123,
+  "qualifyingReviewCount": 121,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -80,32 +80,32 @@
     },
     {
       "rank": 14,
-      "server": "Matteo",
+      "server": "Kayla",
       "count": 2
     },
     {
       "rank": 15,
+      "server": "Matteo",
+      "count": 2
+    },
+    {
+      "rank": 16,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 18,
-      "server": "Derka",
-      "count": 1
-    },
-    {
       "rank": 19,
-      "server": "Kayla",
+      "server": "Derka",
       "count": 1
     },
     {
@@ -601,8 +601,14 @@
     },
     {
       "server": "Kayla",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Giselle Lo-phi",
+          "text": "Amazing vibe. Kayla was so lovely and the food was perfect! Will be back soon. Thank you local and Kayla.",
+          "date": "2026-05-20",
+          "rating": 5
+        },
         {
           "reviewer": "Matthew",
           "text": "Came in with my buddy and Kayla was amazing. Great recommendations and food and vibes were great!",
