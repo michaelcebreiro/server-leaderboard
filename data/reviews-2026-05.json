@@ -1,7 +1,7 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-21T19:59:17.275Z",
-  "reviewCount": 127,
+  "fetchedAt": "2026-05-21T21:44:27.456Z",
+  "reviewCount": 129,
   "reviews": [
     {
       "reviewId": "5556972825458940810",
@@ -10,6 +10,22 @@
       "text": "Excellent service from start to finish!\nHarrison was kind, professional, attentive without hovering, and made us feel truly welcomed! We will be back!",
       "reviewDate": "2026-05-21T15:37:07.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5557898365459032966",
+      "reviewer": "Michael",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-05-21T02:44:37.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5557898375459032967",
+      "reviewer": "Alanah",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-05-21T01:24:50.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5555494685458793850",
