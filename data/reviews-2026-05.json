@@ -1,8 +1,40 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-23T03:41:55.587Z",
-  "reviewCount": 134,
+  "fetchedAt": "2026-05-23T06:26:08.586Z",
+  "reviewCount": 138,
   "reviews": [
+    {
+      "reviewId": "5560137985459255558",
+      "reviewer": "HarambeDaGoat",
+      "rating": 5,
+      "text": "Annabel and Dany were exemplary. I’ve never had service like this before; quick and efficient and wonderful. A true treat to be seated at the Local Leaside on this day.",
+      "reviewDate": "2026-05-23T05:01:18.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5560137865459255546",
+      "reviewer": "Malcolm McCarron",
+      "rating": 5,
+      "text": "Danielle and annnabelle were so good, the best servers I have ever had, I couldn’t believe the service at times, I was in disbelief by how quickly they would bring the drinks, I will be coming back solely because they were so excellent.",
+      "reviewDate": "2026-05-23T04:59:20.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5560137695459255529",
+      "reviewer": "Alicia Sanchez",
+      "rating": 5,
+      "text": "Danielle and Annabel were amazing!!",
+      "reviewDate": "2026-05-23T04:59:09.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5560137735459255533",
+      "reviewer": "Ameesha",
+      "rating": 5,
+      "text": "Love it here!! Danielle and Annabel took such great care of us!",
+      "reviewDate": "2026-05-23T04:58:50.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5560063675459248178",
       "reviewer": "Neil McWilliams",
