@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-22T23:52:02.884Z",
-  "reviewCount": 131,
-  "qualifyingReviewCount": 128,
+  "processedAt": "2026-05-23T03:41:55.673Z",
+  "reviewCount": 134,
+  "qualifyingReviewCount": 131,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,18 +25,18 @@
     },
     {
       "rank": 3,
-      "server": "Kaitlyn S",
+      "server": "Danielle",
       "count": 8
     },
     {
       "rank": 4,
-      "server": "Maria",
-      "count": 7
+      "server": "Kaitlyn S",
+      "count": 8
     },
     {
       "rank": 5,
-      "server": "Danielle",
-      "count": 6
+      "server": "Maria",
+      "count": 7
     },
     {
       "rank": 6,
@@ -51,7 +51,7 @@
     {
       "rank": 8,
       "server": "Isabella",
-      "count": 4
+      "count": 5
     },
     {
       "rank": 9,
@@ -643,8 +643,20 @@
     },
     {
       "server": "Danielle",
-      "count": 6,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Neil McWilliams",
+          "text": "Danielle is the best",
+          "date": "2026-05-23",
+          "rating": 5
+        },
+        {
+          "reviewer": "Matthew Nakonecznyj",
+          "text": "Danielle was amazing",
+          "date": "2026-05-23",
+          "rating": 5
+        },
         {
           "reviewer": "Matt Nadolny",
           "text": "Danielle. Great.",
@@ -817,8 +829,14 @@
     },
     {
       "server": "Isabella",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Rory O’Leary",
+          "text": "Always a fabulous time at our favorite LOCAL - shout out to Bella, our new friend ! The O’Leary’s",
+          "date": "2026-05-23",
+          "rating": 5
+        },
         {
           "reviewer": "M. Di",
           "text": "My good friend and I always hit up the Local on most stat holidays as we can always count on them being open. This past Victoria Day Bella was our server and she did an awesome job making sure we had exactly what we needed. We’ll hopefully be back before the next long weekend! Thanks again, Bella!",
