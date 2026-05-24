@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-24T01:48:21.852Z",
-  "reviewCount": 140,
-  "qualifyingReviewCount": 137,
+  "processedAt": "2026-05-24T06:06:13.888Z",
+  "reviewCount": 143,
+  "qualifyingReviewCount": 140,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,12 +16,12 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 29
+      "count": 30
     },
     {
       "rank": 2,
       "server": "Christina",
-      "count": 17
+      "count": 19
     },
     {
       "rank": 3,
@@ -60,27 +60,27 @@
     },
     {
       "rank": 10,
-      "server": "Mia",
+      "server": "Kaia",
       "count": 3
     },
     {
       "rank": 11,
+      "server": "Mia",
+      "count": 3
+    },
+    {
+      "rank": 12,
       "server": "Camille",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 13,
-      "server": "Jackie G",
-      "count": 2
-    },
-    {
       "rank": 14,
-      "server": "Kaia",
+      "server": "Jackie G",
       "count": 2
     },
     {
@@ -241,8 +241,20 @@
     },
     {
       "server": "Christina",
-      "count": 17,
+      "count": 19,
       "reviews": [
+        {
+          "reviewer": "Sam Katsuras",
+          "text": "Christina was a great server! It was my first time here and I am definitely coming back",
+          "date": "2026-05-24",
+          "rating": 5
+        },
+        {
+          "reviewer": "Angelo Veneziano",
+          "text": "Christina was the best. Nobody beats her.",
+          "date": "2026-05-24",
+          "rating": 5
+        },
         {
           "reviewer": "Katerina Delyannis",
           "text": "Christina treated us so well. Amazing experience!",
@@ -439,8 +451,14 @@
     },
     {
       "server": "Ewan",
-      "count": 29,
+      "count": 30,
       "reviews": [
+        {
+          "reviewer": "Hanna Ekrami",
+          "text": "Great food and amazing service from both Kaia and Ewan! They were very attentive and Ewan made sure to check in with the table regularly. Kaia is very friendly and both staff members helped surprise our table with a complementary dessert! Definitely recommend.",
+          "date": "2026-05-24",
+          "rating": 5
+        },
         {
           "reviewer": "Michael Scofield",
           "text": "Grabbed a quick bite here yesterday - food was solid and Ewan waiting on us was a great guy\ncheers",
@@ -1015,8 +1033,14 @@
     },
     {
       "server": "Kaia",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Hanna Ekrami",
+          "text": "Great food and amazing service from both Kaia and Ewan! They were very attentive and Ewan made sure to check in with the table regularly. Kaia is very friendly and both staff members helped surprise our table with a complementary dessert! Definitely recommend.",
+          "date": "2026-05-24",
+          "rating": 5
+        },
         {
           "reviewer": "ak san",
           "text": "Kaia was an excellent hostess. She was super attentive and on top of making us feel well taken care of.\nPaulveen was also excellent. She was full of smiles and very hospitable and friendly.",
