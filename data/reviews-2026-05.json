@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-24T21:02:15.560Z",
-  "reviewCount": 143,
+  "fetchedAt": "2026-05-24T22:12:05.059Z",
+  "reviewCount": 144,
   "reviews": [
+    {
+      "reviewId": "5561739564459414697",
+      "reviewer": "Sabrina Karim",
+      "rating": 4,
+      "text": "Our server Harrison was incredible. Very kind, attentive and great with the kids.",
+      "reviewDate": "2026-05-24T21:24:55.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5561236455459364728",
       "reviewer": "Sam Katsuras",

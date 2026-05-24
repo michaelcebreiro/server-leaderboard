@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-24T21:02:15.645Z",
-  "reviewCount": 143,
-  "qualifyingReviewCount": 140,
+  "processedAt": "2026-05-24T22:12:05.117Z",
+  "reviewCount": 144,
+  "qualifyingReviewCount": 141,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -40,12 +40,12 @@
     },
     {
       "rank": 6,
-      "server": "Alex",
-      "count": 5
+      "server": "Harrison",
+      "count": 6
     },
     {
       "rank": 7,
-      "server": "Harrison",
+      "server": "Alex",
       "count": 5
     },
     {
@@ -931,8 +931,14 @@
     },
     {
       "server": "Harrison",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Sabrina Karim",
+          "text": "Our server Harrison was incredible. Very kind, attentive and great with the kids.",
+          "date": "2026-05-24",
+          "rating": 4
+        },
         {
           "reviewer": "Anne Johnston",
           "text": "Excellent service from start to finish!\nHarrison was kind, professional, attentive without hovering, and made us feel truly welcomed! We will be back!",
