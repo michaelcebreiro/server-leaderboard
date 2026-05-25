@@ -1,7 +1,7 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-25T01:32:21.632Z",
-  "reviewCount": 145,
+  "fetchedAt": "2026-05-25T06:11:05.947Z",
+  "reviewCount": 147,
   "reviews": [
     {
       "reviewId": "5561784005459419104",
@@ -18,6 +18,22 @@
       "text": "Our server Harrison was incredible. Very kind, attentive and great with the kids.",
       "reviewDate": "2026-05-24T21:24:55.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5561975525459438125",
+      "reviewer": "Dave",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-05-24T18:34:55.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5561975535459438126",
+      "reviewer": "Emma",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-05-24T18:31:03.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5561236455459364728",
