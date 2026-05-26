@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-26T04:01:07.670Z",
-  "reviewCount": 150,
-  "qualifyingReviewCount": 147,
+  "processedAt": "2026-05-26T08:01:04.220Z",
+  "reviewCount": 152,
+  "qualifyingReviewCount": 149,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -70,47 +70,47 @@
     },
     {
       "rank": 12,
+      "server": "Kalypsa",
+      "count": 3
+    },
+    {
+      "rank": 13,
       "server": "Camille",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Kayla",
       "count": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Matteo",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 19,
-      "server": "Derka",
-      "count": 1
-    },
-    {
       "rank": 20,
-      "server": "Kalypsa",
+      "server": "Derka",
       "count": 1
     },
     {
@@ -823,8 +823,20 @@
     },
     {
       "server": "Kalypsa",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Brendan Cox",
+          "text": "Kalypsa was very friendly and super fun, she definitely made our night and we will be coming back!",
+          "date": "2026-05-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jeremy Lin",
+          "text": "Kalypsa was fun and friendly, she was a fire server 🔥 🔥 🔥 🔥🔥🔥🔥🔥🔥🔥",
+          "date": "2026-05-26",
+          "rating": 5
+        },
         {
           "reviewer": "Rachel Szlendak",
           "text": "Kalypsa is the best!!! 10/10 Super chatty and enjoyable to be around!",

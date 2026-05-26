@@ -1,8 +1,24 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-26T04:01:07.482Z",
-  "reviewCount": 150,
+  "fetchedAt": "2026-05-26T08:01:04.153Z",
+  "reviewCount": 152,
   "reviews": [
+    {
+      "reviewId": "5564878945459727966",
+      "reviewer": "Brendan Cox",
+      "rating": 5,
+      "text": "Kalypsa was very friendly and super fun, she definitely made our night and we will be coming back!",
+      "reviewDate": "2026-05-26T04:54:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5564873745459727447",
+      "reviewer": "Jeremy Lin",
+      "rating": 5,
+      "text": "Kalypsa was fun and friendly, she was a fire server 🔥 🔥 🔥 🔥🔥🔥🔥🔥🔥🔥",
+      "reviewDate": "2026-05-26T04:52:38.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5564784775459718602",
       "reviewer": "Jaymie Rosen",
