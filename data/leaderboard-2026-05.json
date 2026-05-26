@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-26T17:43:43.869Z",
-  "reviewCount": 152,
-  "qualifyingReviewCount": 149,
+  "processedAt": "2026-05-26T19:48:11.646Z",
+  "reviewCount": 154,
+  "qualifyingReviewCount": 151,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -26,7 +26,7 @@
     {
       "rank": 3,
       "server": "Danielle",
-      "count": 11
+      "count": 13
     },
     {
       "rank": 4,
@@ -130,82 +130,82 @@
     },
     {
       "rank": 24,
+      "server": "Sydney",
+      "count": 1
+    },
+    {
+      "rank": 25,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 38,
-      "server": "Sofie",
-      "count": 0
-    },
-    {
       "rank": 39,
-      "server": "Sydney",
+      "server": "Sofie",
       "count": 0
     },
     {
@@ -685,8 +685,20 @@
     },
     {
       "server": "Danielle",
-      "count": 11,
+      "count": 13,
       "reviews": [
+        {
+          "reviewer": "Ab Bab",
+          "text": "Great location, good food and fantastic service by Danielle.  She’s very attentive. .  Frequent client.",
+          "date": "2026-05-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jack Anderson",
+          "text": "Sydney was a great hostess, very warm and welcoming. Dani was a super server and very friendly. Food was good, fries are 10/10. Would come back",
+          "date": "2026-05-26",
+          "rating": 5
+        },
         {
           "reviewer": "Malcolm McCarron",
           "text": "Danielle and annnabelle were so good, the best servers I have ever had, I couldn’t believe the service at times, I was in disbelief by how quickly they would bring the drinks, I will be coming back solely because they were so excellent.",
@@ -1081,6 +1093,18 @@
           "reviewer": "Nicholas Degurse",
           "text": "Amazing experience from start to finish! Hostesses Kaia and Camille welcomed us so warmly, and our server Christina was fantastic — attentive, friendly, and great with recommendations. These three made our night! We’ll definitely be back.",
           "date": "2026-05-14",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Sydney",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jack Anderson",
+          "text": "Sydney was a great hostess, very warm and welcoming. Dani was a super server and very friendly. Food was good, fries are 10/10. Would come back",
+          "date": "2026-05-26",
           "rating": 5
         }
       ]

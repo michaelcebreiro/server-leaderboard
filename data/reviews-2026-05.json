@@ -1,8 +1,24 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-26T17:43:43.781Z",
-  "reviewCount": 152,
+  "fetchedAt": "2026-05-26T19:48:11.572Z",
+  "reviewCount": 154,
   "reviews": [
+    {
+      "reviewId": "5565620205459801744",
+      "reviewer": "Ab Bab",
+      "rating": 5,
+      "text": "Great location, good food and fantastic service by Danielle.  She’s very attentive. .  Frequent client.",
+      "reviewDate": "2026-05-26T18:18:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5565598205459799570",
+      "reviewer": "Jack Anderson",
+      "rating": 5,
+      "text": "Sydney was a great hostess, very warm and welcoming. Dani was a super server and very friendly. Food was good, fries are 10/10. Would come back",
+      "reviewDate": "2026-05-26T18:00:37.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5564878945459727966",
       "reviewer": "Brendan Cox",
