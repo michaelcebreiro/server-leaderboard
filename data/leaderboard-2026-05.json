@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-25T23:49:07.778Z",
-  "reviewCount": 148,
-  "qualifyingReviewCount": 145,
+  "processedAt": "2026-05-26T04:01:07.670Z",
+  "reviewCount": 150,
+  "qualifyingReviewCount": 147,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,13 +35,13 @@
     },
     {
       "rank": 5,
-      "server": "Maria",
+      "server": "Harrison",
       "count": 7
     },
     {
       "rank": 6,
-      "server": "Harrison",
-      "count": 6
+      "server": "Maria",
+      "count": 7
     },
     {
       "rank": 7,
@@ -937,8 +937,14 @@
     },
     {
       "server": "Harrison",
-      "count": 6,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Fiona",
+          "text": "Great service from Harrison - attentive, cheerful and knowledgeable about the menu. Good food - our group had steaks (done just as requested), truffle burgers (delish), bbq bowl (amazing) and Caesar salad (lovely). We had a few different margaritas - all great. Overall a wonderful experience.",
+          "date": "2026-05-25",
+          "rating": 5
+        },
         {
           "reviewer": "Sabrina Karim",
           "text": "Our server Harrison was incredible. Very kind, attentive and great with the kids.",
