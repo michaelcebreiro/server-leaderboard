@@ -1,8 +1,16 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-27T01:28:28.228Z",
-  "reviewCount": 156,
+  "fetchedAt": "2026-05-27T05:57:01.572Z",
+  "reviewCount": 157,
   "reviews": [
+    {
+      "reviewId": "5566399565459879253",
+      "reviewer": "Joanne Micheal",
+      "rating": 5,
+      "text": "Amazing service from Kayla. She understood my allergies and gave us a great experience. Will be back.",
+      "reviewDate": "2026-05-27T02:06:24.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5565620205459801744",
       "reviewer": "Ab Bab",

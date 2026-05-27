@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-27T01:28:28.571Z",
-  "reviewCount": 156,
-  "qualifyingReviewCount": 153,
+  "processedAt": "2026-05-27T05:57:01.733Z",
+  "reviewCount": 157,
+  "qualifyingReviewCount": 154,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -75,22 +75,22 @@
     },
     {
       "rank": 13,
+      "server": "Kayla",
+      "count": 3
+    },
+    {
+      "rank": 14,
       "server": "Camille",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 15,
-      "server": "Jackie G",
-      "count": 2
-    },
-    {
       "rank": 16,
-      "server": "Kayla",
+      "server": "Jackie G",
       "count": 2
     },
     {
@@ -643,8 +643,14 @@
     },
     {
       "server": "Kayla",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Joanne Micheal",
+          "text": "Amazing service from Kayla. She understood my allergies and gave us a great experience. Will be back.",
+          "date": "2026-05-27",
+          "rating": 5
+        },
         {
           "reviewer": "Giselle Lo-phi",
           "text": "Amazing vibe. Kayla was so lovely and the food was perfect! Will be back soon. Thank you local and Kayla.",
