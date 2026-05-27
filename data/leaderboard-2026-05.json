@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-27T05:57:01.733Z",
-  "reviewCount": 157,
-  "qualifyingReviewCount": 154,
+  "processedAt": "2026-05-27T10:12:54.020Z",
+  "reviewCount": 158,
+  "qualifyingReviewCount": 155,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,17 +60,17 @@
     },
     {
       "rank": 10,
-      "server": "Mia",
+      "server": "Kalypsa",
       "count": 4
     },
     {
       "rank": 11,
-      "server": "Kaia",
-      "count": 3
+      "server": "Mia",
+      "count": 4
     },
     {
       "rank": 12,
-      "server": "Kalypsa",
+      "server": "Kaia",
       "count": 3
     },
     {
@@ -100,77 +100,77 @@
     },
     {
       "rank": 18,
+      "server": "Nicola",
+      "count": 2
+    },
+    {
+      "rank": 19,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Derka",
       "count": 1
     },
     {
-      "rank": 21,
-      "server": "Meklit",
-      "count": 1
-    },
-    {
       "rank": 22,
-      "server": "Nicola",
+      "server": "Jackie N",
       "count": 1
     },
     {
       "rank": 23,
-      "server": "Paulveen",
+      "server": "Meklit",
       "count": 1
     },
     {
       "rank": 24,
-      "server": "Sydney",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 25,
+      "server": "Sydney",
+      "count": 1
+    },
+    {
+      "rank": 26,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 31,
-      "server": "Ivy",
-      "count": 0
-    },
-    {
       "rank": 32,
-      "server": "Jackie N",
+      "server": "Ivy",
       "count": 0
     },
     {
@@ -667,8 +667,14 @@
     },
     {
       "server": "Nicola",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Vinod Karna",
+          "text": "LOCAL PUBLIC EATERY (LPE) is my favourite Pub. I had a great time, as always, this week at their LEASIDE location. Enjoyed the food and wine. Large Menu to choose from. Service was outstanding!! Our server Diana looked after me and my guest. I would highly recommend you trying out LOCAL PUBLIC EATERY. They have 3 locations in Toronto now. Great food and drinks. It’s the people who work there make it special. I will visit soon.\n\nVisited again last Saturday 23rd May with family including 2 year old grandson. Once again a fabulous lunch. Good food. Good service with a smile. Toddler got lot of attention and toys to play with as well. Server Kalypsa was outstanding and really took good care to make us feel at home. I sent a thank you message to the kitchen also for all those who were cooking that afternoon. Manager Ricki made sure we were all looked after. Others who touched the service on our table were Jackie N., Deanna, Amy, Nicola and Alyssa. What a wonderful experience. What a wonderful team. My compliments to all of them. Will certainly visit again soon. Thank you !!!",
+          "date": "2026-05-26",
+          "rating": 5
+        },
         {
           "reviewer": "Brian Court",
           "text": "Stopped in for a drink after work.  Nicola was super attentive and truly elevated the experience.  I will surely be back if this is the norm!",
@@ -810,6 +816,18 @@
       ]
     },
     {
+      "server": "Jackie N",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Vinod Karna",
+          "text": "LOCAL PUBLIC EATERY (LPE) is my favourite Pub. I had a great time, as always, this week at their LEASIDE location. Enjoyed the food and wine. Large Menu to choose from. Service was outstanding!! Our server Diana looked after me and my guest. I would highly recommend you trying out LOCAL PUBLIC EATERY. They have 3 locations in Toronto now. Great food and drinks. It’s the people who work there make it special. I will visit soon.\n\nVisited again last Saturday 23rd May with family including 2 year old grandson. Once again a fabulous lunch. Good food. Good service with a smile. Toddler got lot of attention and toys to play with as well. Server Kalypsa was outstanding and really took good care to make us feel at home. I sent a thank you message to the kitchen also for all those who were cooking that afternoon. Manager Ricki made sure we were all looked after. Others who touched the service on our table were Jackie N., Deanna, Amy, Nicola and Alyssa. What a wonderful experience. What a wonderful team. My compliments to all of them. Will certainly visit again soon. Thank you !!!",
+          "date": "2026-05-26",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Eli",
       "count": 2,
       "reviews": [
@@ -841,8 +859,14 @@
     },
     {
       "server": "Kalypsa",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Vinod Karna",
+          "text": "LOCAL PUBLIC EATERY (LPE) is my favourite Pub. I had a great time, as always, this week at their LEASIDE location. Enjoyed the food and wine. Large Menu to choose from. Service was outstanding!! Our server Diana looked after me and my guest. I would highly recommend you trying out LOCAL PUBLIC EATERY. They have 3 locations in Toronto now. Great food and drinks. It’s the people who work there make it special. I will visit soon.\n\nVisited again last Saturday 23rd May with family including 2 year old grandson. Once again a fabulous lunch. Good food. Good service with a smile. Toddler got lot of attention and toys to play with as well. Server Kalypsa was outstanding and really took good care to make us feel at home. I sent a thank you message to the kitchen also for all those who were cooking that afternoon. Manager Ricki made sure we were all looked after. Others who touched the service on our table were Jackie N., Deanna, Amy, Nicola and Alyssa. What a wonderful experience. What a wonderful team. My compliments to all of them. Will certainly visit again soon. Thank you !!!",
+          "date": "2026-05-26",
+          "rating": 5
+        },
         {
           "reviewer": "Brendan Cox",
           "text": "Kalypsa was very friendly and super fun, she definitely made our night and we will be coming back!",
