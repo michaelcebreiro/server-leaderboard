@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-28T19:28:07.486Z",
-  "reviewCount": 169,
-  "qualifyingReviewCount": 166,
+  "processedAt": "2026-05-28T21:32:42.701Z",
+  "reviewCount": 170,
+  "qualifyingReviewCount": 167,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -70,22 +70,22 @@
     },
     {
       "rank": 12,
-      "server": "Kaia",
+      "server": "Eli",
       "count": 3
     },
     {
       "rank": 13,
-      "server": "Kayla",
+      "server": "Kaia",
       "count": 3
     },
     {
       "rank": 14,
-      "server": "Camille",
-      "count": 2
+      "server": "Kayla",
+      "count": 3
     },
     {
       "rank": 15,
-      "server": "Eli",
+      "server": "Camille",
       "count": 2
     },
     {
@@ -889,8 +889,14 @@
     },
     {
       "server": "Eli",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "B M",
+          "text": "Eli is the bomb.com will be coming back just to see him",
+          "date": "2026-05-28",
+          "rating": 5
+        },
         {
           "reviewer": "John Stephenson",
           "text": "Eli provided the best service. Super friendly and attentive. Good experience.",
