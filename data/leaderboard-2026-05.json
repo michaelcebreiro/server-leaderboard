@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-28T00:14:59.076Z",
-  "reviewCount": 160,
-  "qualifyingReviewCount": 157,
+  "processedAt": "2026-05-28T04:45:55.554Z",
+  "reviewCount": 167,
+  "qualifyingReviewCount": 164,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,12 +16,12 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 32
+      "count": 33
     },
     {
       "rank": 2,
       "server": "Christina",
-      "count": 19
+      "count": 24
     },
     {
       "rank": 3,
@@ -35,12 +35,12 @@
     },
     {
       "rank": 5,
-      "server": "Harrison",
-      "count": 7
+      "server": "Maria",
+      "count": 8
     },
     {
       "rank": 6,
-      "server": "Maria",
+      "server": "Harrison",
       "count": 7
     },
     {
@@ -247,8 +247,38 @@
     },
     {
       "server": "Christina",
-      "count": 19,
+      "count": 24,
       "reviews": [
+        {
+          "reviewer": "Daniel Shpuntov",
+          "text": "Great food. Fantastic Christina!",
+          "date": "2026-05-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "VIBES music",
+          "text": "Christina was amazing, super lovely and great vibes",
+          "date": "2026-05-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Patrick Cederberg",
+          "text": "Love this spot. Christina was fantastic!",
+          "date": "2026-05-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Scott Westwood",
+          "text": "Christina was great!",
+          "date": "2026-05-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Cade Ferguson",
+          "text": "Christina",
+          "date": "2026-05-28",
+          "rating": 5
+        },
         {
           "reviewer": "Sam Katsuras",
           "text": "Christina was a great server! It was my first time here and I am definitely coming back",
@@ -397,8 +427,14 @@
     },
     {
       "server": "Maria",
-      "count": 7,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Emily Scheffel",
+          "text": "We went as a group to watch a PWHL game and our server Maria was amazing! She took a serious dietary restriction at our table very seriously (like above and beyond I’ve ever experienced) and was so helpful to us making sure there was at least one tv we could watch our game on. The food was really great too! I would recommend this location to others even just based on the amazing service she provided to us!",
+          "date": "2026-05-28",
+          "rating": 5
+        },
         {
           "reviewer": "Riley M",
           "text": "Maria and Christina did a phenomenal job, best servers I’ve had in a very long time!",
@@ -457,8 +493,14 @@
     },
     {
       "server": "Ewan",
-      "count": 32,
+      "count": 33,
       "reviews": [
+        {
+          "reviewer": "Jasmine Sohal",
+          "text": "Came here after a team building activity with my colleagues. We were taken care of by Ewan and he was absolutely awesome !",
+          "date": "2026-05-28",
+          "rating": 5
+        },
         {
           "reviewer": "John Fulton",
           "text": "Reliable food & drink every time.\nGreat, shady patio.\nGood guy, Ewan.",

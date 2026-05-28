@@ -1,8 +1,64 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-28T00:14:58.990Z",
-  "reviewCount": 160,
+  "fetchedAt": "2026-05-28T04:45:55.500Z",
+  "reviewCount": 167,
   "reviews": [
+    {
+      "reviewId": "5568469475460085134",
+      "reviewer": "Emily Scheffel",
+      "rating": 5,
+      "text": "We went as a group to watch a PWHL game and our server Maria was amazing! She took a serious dietary restriction at our table very seriously (like above and beyond I’ve ever experienced) and was so helpful to us making sure there was at least one tv we could watch our game on. The food was really great too! I would recommend this location to others even just based on the amazing service she provided to us!",
+      "reviewDate": "2026-05-28T03:11:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5568396385460077858",
+      "reviewer": "Daniel Shpuntov",
+      "rating": 5,
+      "text": "Great food. Fantastic Christina!",
+      "reviewDate": "2026-05-28T01:50:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5568391935460077416",
+      "reviewer": "VIBES music",
+      "rating": 5,
+      "text": "Christina was amazing, super lovely and great vibes",
+      "reviewDate": "2026-05-28T01:48:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5568391835460077406",
+      "reviewer": "Patrick Cederberg",
+      "rating": 5,
+      "text": "Love this spot. Christina was fantastic!",
+      "reviewDate": "2026-05-28T01:48:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5568374505460075694",
+      "reviewer": "Scott Westwood",
+      "rating": 5,
+      "text": "Christina was great!",
+      "reviewDate": "2026-05-28T01:26:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5568374555460075699",
+      "reviewer": "Cade Ferguson",
+      "rating": 5,
+      "text": "Christina",
+      "reviewDate": "2026-05-28T01:26:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5568275035460065791",
+      "reviewer": "Jasmine Sohal",
+      "rating": 5,
+      "text": "Came here after a team building activity with my colleagues. We were taken care of by Ewan and he was absolutely awesome !",
+      "reviewDate": "2026-05-28T00:37:58.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5568088554460047302",
       "reviewer": "John Fulton",
