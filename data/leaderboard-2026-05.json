@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-28T12:32:27.059Z",
-  "reviewCount": 167,
-  "qualifyingReviewCount": 164,
+  "processedAt": "2026-05-28T16:42:59.634Z",
+  "reviewCount": 169,
+  "qualifyingReviewCount": 166,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 33
+      "count": 34
     },
     {
       "rank": 2,
@@ -493,8 +493,14 @@
     },
     {
       "server": "Ewan",
-      "count": 33,
+      "count": 34,
       "reviews": [
+        {
+          "reviewer": "Cherie Morris",
+          "text": "Ewan, our server, made our experience at Local a terrific one. He was helpful, kind and efficient. The food, especially the fish tacos, shrimp dumplings, edamame and chicken peanut noodle salad as well as the chicken sandwich were excellent. Drinks are promptly served and tasty. You will enjoy the experience!",
+          "date": "2026-05-28",
+          "rating": 5
+        },
         {
           "reviewer": "Jasmine Sohal",
           "text": "Came here after a team building activity with my colleagues. We were taken care of by Ewan and he was absolutely awesome !",
