@@ -1,7 +1,7 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-29T05:53:45.813Z",
-  "reviewCount": 170,
+  "fetchedAt": "2026-05-29T10:01:37.141Z",
+  "reviewCount": 171,
   "reviews": [
     {
       "reviewId": "5571304675460367967",
@@ -10,6 +10,14 @@
       "text": "Eli is the bomb.com will be coming back just to see him",
       "reviewDate": "2026-05-28T19:40:05.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5572228345460459748",
+      "reviewer": "Max",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-05-28T18:09:09.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5569152345460153270",
