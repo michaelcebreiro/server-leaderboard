@@ -1,7 +1,7 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-30T04:28:32.941Z",
-  "reviewCount": 174,
+  "fetchedAt": "2026-05-30T07:27:05.864Z",
+  "reviewCount": 175,
   "reviews": [
     {
       "reviewId": "5574103245460646320",
@@ -18,6 +18,14 @@
       "text": "Everything was great! Our server Paige was an absolute delight! We will be back soon!",
       "reviewDate": "2026-05-30T02:52:47.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5574197314460655685",
+      "reviewer": "Justin",
+      "rating": 4,
+      "text": "The discounts during happy hour made this a great lunch. Make sure to try the pork tacos.",
+      "reviewDate": "2026-05-30T01:07:44.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5574009095460636988",
