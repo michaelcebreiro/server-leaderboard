@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-30T00:12:25.075Z",
-  "reviewCount": 171,
-  "qualifyingReviewCount": 168,
+  "processedAt": "2026-05-30T04:28:33.027Z",
+  "reviewCount": 174,
+  "qualifyingReviewCount": 171,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -90,117 +90,117 @@
     },
     {
       "rank": 16,
-      "server": "Jackie G",
+      "server": "Derka",
       "count": 2
     },
     {
       "rank": 17,
-      "server": "Matteo",
+      "server": "Jackie G",
       "count": 2
     },
     {
       "rank": 18,
-      "server": "Nicola",
+      "server": "Matteo",
       "count": 2
     },
     {
       "rank": 19,
+      "server": "Nicola",
+      "count": 2
+    },
+    {
+      "rank": 20,
+      "server": "Paige",
+      "count": 2
+    },
+    {
+      "rank": 21,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 21,
-      "server": "Derka",
-      "count": 1
-    },
-    {
-      "rank": 22,
+      "rank": 23,
       "server": "Jackie N",
       "count": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Meklit",
       "count": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Paulveen",
       "count": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Sydney",
       "count": 1
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 37,
-      "server": "Nicky",
-      "count": 0
-    },
-    {
       "rank": 38,
-      "server": "Paige",
+      "server": "Nicky",
       "count": 0
     },
     {
@@ -1104,6 +1104,24 @@
       ]
     },
     {
+      "server": "Paige",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Zac Hadden",
+          "text": "Paige was a fantastic and personable server. Probably would have left a lot earlier if not for her.",
+          "date": "2026-05-30",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kurt Menze",
+          "text": "Everything was great! Our server Paige was an absolute delight! We will be back soon!",
+          "date": "2026-05-30",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Alex",
       "count": 5,
       "reviews": [
@@ -1141,8 +1159,14 @@
     },
     {
       "server": "Derka",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Charlie Sullivan",
+          "text": "Our waitress Derks was fantastic tonight. She was enthusiastic and made great recommendations. Overall great service",
+          "date": "2026-05-30",
+          "rating": 5
+        },
         {
           "reviewer": "Aurelie Bryce",
           "text": "Thanks to the server derks! Super funny and helpful.",
