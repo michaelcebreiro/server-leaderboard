@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-30T23:44:17.830Z",
-  "reviewCount": 176,
-  "qualifyingReviewCount": 173,
+  "processedAt": "2026-05-31T01:55:05.003Z",
+  "reviewCount": 177,
+  "qualifyingReviewCount": 174,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -85,32 +85,32 @@
     },
     {
       "rank": 15,
+      "server": "Paige",
+      "count": 3
+    },
+    {
+      "rank": 16,
       "server": "Camille",
       "count": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Derka",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Matteo",
       "count": 2
     },
     {
-      "rank": 19,
-      "server": "Nicola",
-      "count": 2
-    },
-    {
       "rank": 20,
-      "server": "Paige",
+      "server": "Nicola",
       "count": 2
     },
     {
@@ -1111,8 +1111,14 @@
     },
     {
       "server": "Paige",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Christine Papadakos",
+          "text": "Paige was delightful!  Food was great.",
+          "date": "2026-05-31",
+          "rating": 5
+        },
         {
           "reviewer": "Zac Hadden",
           "text": "Paige was a fantastic and personable server. Probably would have left a lot earlier if not for her.",
