@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "processedAt": "2026-05-31T12:58:19.107Z",
-  "reviewCount": 186,
-  "qualifyingReviewCount": 183,
+  "processedAt": "2026-05-31T14:52:16.027Z",
+  "reviewCount": 187,
+  "qualifyingReviewCount": 184,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -110,27 +110,27 @@
     },
     {
       "rank": 20,
-      "server": "Nicola",
+      "server": "Meklit",
       "count": 2
     },
     {
       "rank": 21,
+      "server": "Nicola",
+      "count": 2
+    },
+    {
+      "rank": 22,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 23,
-      "server": "Jackie N",
-      "count": 1
-    },
-    {
       "rank": 24,
-      "server": "Meklit",
+      "server": "Jackie N",
       "count": 1
     },
     {
@@ -499,8 +499,14 @@
     },
     {
       "server": "Meklit",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Tina P",
+          "text": "We had such a great experience! The entire team was welcoming, attentive, and genuinely kind from the moment we walked in. A special shout‑out to Meklit, who went above and beyond for our 4‑year‑old son — patient, accommodating, and incredibly thoughtful. It made our visit feel personal and memorable.\n\nThe food was just as impressive. The smash potatoes are an absolute must‑try — crispy, flavourful, and addictive. The nachos and wings were also delicious, perfectly seasoned, and great for sharing.\n\nHighly recommend stopping by if you’re looking for great food paired with truly exceptional customer service.",
+          "date": "2026-05-31",
+          "rating": 5
+        },
         {
           "reviewer": "P Sri",
           "text": "Great ambience and excellent service by Miklit- very knowledgeable about beers, pours and overall an impressive young lady! She was the highlight of our evening today.\nFood was decent especially the nachos, we ordered a few burgers and some beers.\nAmbience - we sat at the outside patio as we had our dog with us. Would be nice if we can bring him inside too.",
