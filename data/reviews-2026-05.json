@@ -1,8 +1,72 @@
 {
   "month": "2026-05",
-  "fetchedAt": "2026-05-31T01:55:04.792Z",
-  "reviewCount": 177,
+  "fetchedAt": "2026-05-31T06:24:00.775Z",
+  "reviewCount": 185,
   "reviews": [
+    {
+      "reviewId": "5575232375460758551",
+      "reviewer": "Sam Walker",
+      "rating": 5,
+      "text": "Evan absolutely slapped. Best Baby Guinness I’ve had in a long time. Friendly, fast service, great banter, and clearly knows what he’s doing behind the bar. If you’re lucky enough to get served by Evan, order a Baby Guinness and thank me later. 5/5.",
+      "reviewDate": "2026-05-31T05:12:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575231345460758448",
+      "reviewer": "Amy Ottley",
+      "rating": 5,
+      "text": "I live in London but I would come to this venue any day to be served by Ewan! Baby Guinness for the win🫶🫶🫶",
+      "reviewDate": "2026-05-31T05:11:27.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575225125460757829",
+      "reviewer": "Trip Videos",
+      "rating": 5,
+      "text": "Top service from Ewan!",
+      "reviewDate": "2026-05-31T04:46:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575224995460757816",
+      "reviewer": "Klaudjo Rama",
+      "rating": 5,
+      "text": "Ewan was great!!",
+      "reviewDate": "2026-05-31T04:45:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575229345460758248",
+      "reviewer": "Reilly Baker",
+      "rating": 5,
+      "text": "This place is great. Great food, great drinks. Ewan is a great worker",
+      "reviewDate": "2026-05-31T04:20:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575193795460754699",
+      "reviewer": "Demitra",
+      "rating": 5,
+      "text": "Christina took care of our table so wonderfully! So kind and caring for our dining experience - Me and my partner shared a burger and she offered to have it split on seperate plates - So Great! I had a nice time at LOCAL tonite!",
+      "reviewDate": "2026-05-31T03:32:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575155225460750877",
+      "reviewer": "Maria Tjimos",
+      "rating": 5,
+      "text": "Christina is always a star server! Love sitting in her section when we come",
+      "reviewDate": "2026-05-31T02:20:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575155075460750862",
+      "reviewer": "dezi stamos",
+      "rating": 5,
+      "text": "Christina was great!",
+      "reviewDate": "2026-05-31T02:20:13.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5575064105460741821",
       "reviewer": "Christine Papadakos",
