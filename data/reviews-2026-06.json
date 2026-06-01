@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-01T10:24:34.409Z",
-  "reviewCount": 4,
+  "fetchedAt": "2026-06-01T16:21:13.128Z",
+  "reviewCount": 5,
   "reviews": [
+    {
+      "reviewId": "5576100354460844779",
+      "reviewer": "Marilynn Kaye",
+      "rating": 4,
+      "text": "We came here to meet friends who frequent the place. There's a shopping parking lot across the street and minimal parking at the Local.\n\nIt's a good size bar/restaurant/pub with a nice patio that has great social vibes.\n\nOur friends ordered the pierogies and shrimp dumplings which looked delicious. My husband ordered fish tacos that he thoroughly enjoyed and I had a good old traditional bacon cheeseburger which if I could make any complaint should've had a larger burger patty.\n\nDrinks were good and service was friendly and attentive.\n\nAn apertivo spritz and a white Russian cost around $15 and the yam fries and side salad were extra with our burger and tacos, we had assumed they came with fries when the waitress asked but the food was good overall.",
+      "reviewDate": "2026-06-01T11:11:17.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5576029185460837713",
       "reviewer": "mohammadkhalvat5",
