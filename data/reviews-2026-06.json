@@ -1,0 +1,23 @@
+{
+  "month": "2026-06",
+  "fetchedAt": "2026-06-01T04:45:11.311Z",
+  "reviewCount": 2,
+  "reviews": [
+    {
+      "reviewId": "5575904625460825297",
+      "reviewer": "Claudia Azouri",
+      "rating": 5,
+      "text": "My husband and I love this place!! Amazing vibes, the first time we went for happy hour the food was delicious and not your typical pub food. They have amazing twists on different dishes. The staff are so friendly and service was great. Shoutout to Derks! She was amazing and provided great recommendations. Definitely coming back with friends all summer long :)",
+      "reviewDate": "2026-06-01T02:51:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575784475460813325",
+      "reviewer": "Maggie Bahler Rizzio",
+      "rating": 5,
+      "text": "Here for a private party and our server, Eliza, was AMAZING!! She knows her cocktails and was incredibly helpful. Made our party great!!",
+      "reviewDate": "2026-06-01T00:24:40.000Z",
+      "source": "GOOGLE"
+    }
+  ]
+}
