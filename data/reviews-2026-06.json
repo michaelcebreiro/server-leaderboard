@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-01T04:45:11.311Z",
-  "reviewCount": 2,
+  "fetchedAt": "2026-06-01T10:24:34.409Z",
+  "reviewCount": 4,
   "reviews": [
+    {
+      "reviewId": "5576029185460837713",
+      "reviewer": "mohammadkhalvat5",
+      "rating": 5,
+      "text": "We had an amazing dining experience, and a huge part of that was thanks to our server, Derks. From the moment we sat down, they were incredibly welcoming, attentive, and friendly. The recommendations were spot on, the food came out perfectly, and Derks made sure we had everything we needed without ever being overbearing. Excellent hospitality all around—do yourself a favor and ask for Derks when you visit!",
+      "reviewDate": "2026-06-01T06:43:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5575968995460831706",
+      "reviewer": "Evan Mckone",
+      "rating": 5,
+      "text": "The service tonight by Derka was amazing. She was very helpful & enjoyable 100% would recommend her for your service.",
+      "reviewDate": "2026-06-01T04:48:09.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5575904625460825297",
       "reviewer": "Claudia Azouri",
