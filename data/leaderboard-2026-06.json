@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-02T09:19:09.028Z",
+  "processedAt": "2026-06-02T17:46:18.111Z",
   "reviewCount": 6,
   "qualifyingReviewCount": 6,
   "thresholds": {
@@ -20,206 +20,201 @@
     },
     {
       "rank": 2,
-      "server": "friendly",
-      "count": 3
-    },
-    {
-      "rank": 3,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 4,
+      "rank": 3,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 5,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 6,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 9,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 10,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 12,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 13,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 14,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 15,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 16,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 17,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 18,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 20,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 21,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 22,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 23,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 24,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 25,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 26,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 27,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 28,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 29,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 30,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 31,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 32,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 33,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 34,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 35,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 36,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 37,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 38,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 39,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 40,
       "server": "Sydney",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 41,
       "server": "Zivko",
       "count": 0
     }
@@ -238,30 +233,6 @@
         {
           "reviewer": "Evan Mckone",
           "text": "The service tonight by Derka was amazing. She was very helpful & enjoyable 100% would recommend her for your service.",
-          "date": "2026-06-01",
-          "rating": 5
-        },
-        {
-          "reviewer": "Claudia Azouri",
-          "text": "My husband and I love this place!! Amazing vibes, the first time we went for happy hour the food was delicious and not your typical pub food. They have amazing twists on different dishes. The staff are so friendly and service was great. Shoutout to Derks! She was amazing and provided great recommendations. Definitely coming back with friends all summer long :)",
-          "date": "2026-06-01",
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "server": "friendly",
-      "count": 3,
-      "reviews": [
-        {
-          "reviewer": "Marilynn Kaye",
-          "text": "We came here to meet friends who frequent the place. There's a shopping parking lot across the street and minimal parking at the Local.\n\nIt's a good size bar/restaurant/pub with a nice patio that has great social vibes.\n\nOur friends ordered the pierogies and shrimp dumplings which looked delicious. My husband ordered fish tacos that he thoroughly enjoyed and I had a good old traditional bacon cheeseburger which if I could make any complaint should've had a larger burger patty.\n\nDrinks were good and service was friendly and attentive.\n\nAn apertivo spritz and a white Russian cost around $15 and the yam fries and side salad were extra with our burger and tacos, we had assumed they came with fries when the waitress asked but the food was good overall.",
-          "date": "2026-06-01",
-          "rating": 4
-        },
-        {
-          "reviewer": "mohammadkhalvat5",
-          "text": "We had an amazing dining experience, and a huge part of that was thanks to our server, Derks. From the moment we sat down, they were incredibly welcoming, attentive, and friendly. The recommendations were spot on, the food came out perfectly, and Derks made sure we had everything we needed without ever being overbearing. Excellent hospitality all around—do yourself a favor and ask for Derks when you visit!",
           "date": "2026-06-01",
           "rating": 5
         },
