@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-02T00:17:16.239Z",
-  "reviewCount": 5,
+  "fetchedAt": "2026-06-02T05:12:02.324Z",
+  "reviewCount": 6,
   "reviews": [
+    {
+      "reviewId": "4677870135371404014",
+      "reviewer": "keerththan suthaharan",
+      "rating": 5,
+      "text": "Our service was amazing. The staff member Rivaldo went above and beyond to accommodate my dietary needs. Will recommend this place to all my friends and my family.",
+      "reviewDate": "2026-06-02T02:04:01.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5576100354460844779",
       "reviewer": "Marilynn Kaye",
