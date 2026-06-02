@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-02T20:54:54.197Z",
-  "reviewCount": 6,
+  "fetchedAt": "2026-06-02T23:04:31.520Z",
+  "reviewCount": 7,
   "reviews": [
+    {
+      "reviewId": "5579550484461188278",
+      "reviewer": "Sam Hibbert",
+      "rating": 4,
+      "text": "Cesar with blackened chicken was so flavorful, lwky best Cesar in the area",
+      "reviewDate": "2026-06-02T22:41:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "4677870135371404014",
       "reviewer": "keerththan suthaharan",
