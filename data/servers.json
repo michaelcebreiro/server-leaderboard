@@ -203,10 +203,6 @@
       ]
     },
     {
-      "name": "friendly",
-      "aliases": []
-    },
-    {
       "name": "Eliza",
       "aliases": []
     }
@@ -216,6 +212,7 @@
     "Qam",
     "Ricki",
     "Rivaldo",
-    "with"
+    "with",
+    "friendly"
   ]
 }
