@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-03T20:37:55.070Z",
-  "reviewCount": 11,
-  "qualifyingReviewCount": 11,
+  "processedAt": "2026-06-03T22:53:45.544Z",
+  "reviewCount": 13,
+  "qualifyingReviewCount": 13,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,77 +25,77 @@
     },
     {
       "rank": 3,
-      "server": "Eliza",
+      "server": "Eli",
       "count": 1
     },
     {
       "rank": 4,
-      "server": "Ewan",
+      "server": "Eliza",
       "count": 1
     },
     {
       "rank": 5,
+      "server": "Ewan",
+      "count": 1
+    },
+    {
+      "rank": 6,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 16,
-      "server": "Elaiza",
-      "count": 0
-    },
-    {
       "rank": 17,
-      "server": "Eli",
+      "server": "Elaiza",
       "count": 0
     },
     {
@@ -239,6 +239,18 @@
         {
           "reviewer": "Joanne Peskin",
           "text": "Ewan was an excellent server. He really helped make the experience so good.",
+          "date": "2026-06-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Eli",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "brian ducheck",
+          "text": "Eli was friendly and very attentive",
           "date": "2026-06-03",
           "rating": 5
         }
