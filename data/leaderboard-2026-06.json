@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-03T12:01:38.661Z",
-  "reviewCount": 8,
-  "qualifyingReviewCount": 8,
+  "processedAt": "2026-06-03T17:18:00.554Z",
+  "reviewCount": 9,
+  "qualifyingReviewCount": 9,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,77 +25,77 @@
     },
     {
       "rank": 3,
+      "server": "Ewan",
+      "count": 1
+    },
+    {
+      "rank": 4,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 16,
-      "server": "Eli",
-      "count": 0
-    },
-    {
       "rank": 17,
-      "server": "Ewan",
+      "server": "Eli",
       "count": 0
     },
     {
@@ -220,6 +220,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Ewan",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Joanne Peskin",
+          "text": "Ewan was an excellent server. He really helped make the experience so good.",
+          "date": "2026-06-03",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Derka",
       "count": 3,
