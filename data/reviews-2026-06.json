@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-03T22:53:45.473Z",
-  "reviewCount": 13,
+  "fetchedAt": "2026-06-04T10:26:04.978Z",
+  "reviewCount": 14,
   "reviews": [
+    {
+      "reviewId": "5584226794461654564",
+      "reviewer": "Parth Patel",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-06-04T00:07:21.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5584082374461640260",
       "reviewer": "SARWAR JAMAL (RUPA)",
