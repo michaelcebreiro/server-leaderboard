@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-05T12:11:21.865Z",
-  "reviewCount": 26,
-  "qualifyingReviewCount": 26,
+  "processedAt": "2026-06-05T15:28:49.255Z",
+  "reviewCount": 29,
+  "qualifyingReviewCount": 29,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,23 +20,23 @@
     },
     {
       "rank": 2,
-      "server": "Karina",
-      "count": 2
+      "server": "Maria",
+      "count": 3
     },
     {
       "rank": 3,
-      "server": "Maria",
+      "server": "Akiko",
       "count": 2
     },
     {
       "rank": 4,
-      "server": "Akiko",
-      "count": 1
+      "server": "Annabel",
+      "count": 2
     },
     {
       "rank": 5,
-      "server": "Annabel",
-      "count": 1
+      "server": "Karina",
+      "count": 2
     },
     {
       "rank": 6,
@@ -222,8 +222,14 @@
   "mentions": [
     {
       "server": "Akiko",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Natalie Vennos",
+          "text": "June 4th. Annabel and Akiko were great servers! Thanks for a fun night!",
+          "date": "2026-06-05",
+          "rating": 5
+        },
         {
           "reviewer": "Sabina Kafarov",
           "text": "Amazing experience celebrating my engagement with my friends! Annabelle and Akiko were excellent servers and made my moment super special!",
@@ -264,8 +270,14 @@
     },
     {
       "server": "Annabel",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Natalie Vennos",
+          "text": "June 4th. Annabel and Akiko were great servers! Thanks for a fun night!",
+          "date": "2026-06-05",
+          "rating": 5
+        },
         {
           "reviewer": "Sabina Kafarov",
           "text": "Amazing experience celebrating my engagement with my friends! Annabelle and Akiko were excellent servers and made my moment super special!",
@@ -276,7 +288,7 @@
     },
     {
       "server": "Maria",
-      "count": 2,
+      "count": 3,
       "reviews": [
         {
           "reviewer": "Lisa Burt",
@@ -287,6 +299,12 @@
         {
           "reviewer": "Tina Solofa",
           "text": "Maria was amazing. She was great at taking care of us.",
+          "date": "2026-06-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Katherine",
+          "text": "Great food and amazing service. Our server Maria was really great. They also are very aware about celiac and have many gluten free options including a separate fryer. Would definitely recommend!",
           "date": "2026-06-04",
           "rating": 5
         }

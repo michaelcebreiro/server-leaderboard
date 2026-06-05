@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-05T12:11:21.793Z",
-  "reviewCount": 26,
+  "fetchedAt": "2026-06-05T15:28:49.187Z",
+  "reviewCount": 29,
   "reviews": [
+    {
+      "reviewId": "5586800645461910521",
+      "reviewer": "Lisa",
+      "rating": 5,
+      "text": "Great local spot!!",
+      "reviewDate": "2026-06-05T13:56:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586791595461909632",
+      "reviewer": "Natalie Vennos",
+      "rating": 5,
+      "text": "June 4th. Annabel and Akiko were great servers! Thanks for a fun night!",
+      "reviewDate": "2026-06-05T13:49:04.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5586424825461873133",
       "reviewer": "Kyle Miletic",
@@ -89,6 +105,14 @@
       "rating": 5,
       "text": "Maria was amazing. She was great at taking care of us.",
       "reviewDate": "2026-06-04T23:24:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "3350195935242752125",
+      "reviewer": "Katherine",
+      "rating": 5,
+      "text": "Great food and amazing service. Our server Maria was really great. They also are very aware about celiac and have many gluten free options including a separate fryer. Would definitely recommend!",
+      "reviewDate": "2026-06-04T17:35:00.000Z",
       "source": "GOOGLE"
     },
     {
