@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-04T21:03:46.528Z",
-  "reviewCount": 14,
-  "qualifyingReviewCount": 14,
+  "processedAt": "2026-06-05T04:50:47.235Z",
+  "reviewCount": 26,
+  "qualifyingReviewCount": 26,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,156 +16,156 @@
     {
       "rank": 1,
       "server": "Derka",
-      "count": 3
+      "count": 8
     },
     {
       "rank": 2,
-      "server": "Christina",
-      "count": 1
+      "server": "Karina",
+      "count": 2
     },
     {
       "rank": 3,
-      "server": "Eli",
-      "count": 1
+      "server": "Maria",
+      "count": 2
     },
     {
       "rank": 4,
-      "server": "Eliza",
+      "server": "Akiko",
       "count": 1
     },
     {
       "rank": 5,
-      "server": "Ewan",
+      "server": "Annabel",
       "count": 1
     },
     {
       "rank": 6,
-      "server": "Akiko",
-      "count": 0
+      "server": "Christina",
+      "count": 1
     },
     {
       "rank": 7,
+      "server": "Eli",
+      "count": 1
+    },
+    {
+      "rank": 8,
+      "server": "Eliza",
+      "count": 1
+    },
+    {
+      "rank": 9,
+      "server": "Ewan",
+      "count": 1
+    },
+    {
+      "rank": 10,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 11,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 9,
-      "server": "Annabel",
-      "count": 0
-    },
-    {
-      "rank": 10,
+      "rank": 12,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 14,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 15,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 18,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 23,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 24,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 26,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 27,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 28,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 29,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 28,
-      "server": "Karina",
-      "count": 0
-    },
-    {
-      "rank": 29,
+      "rank": 30,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 30,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 31,
-      "server": "Maria",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -221,6 +221,36 @@
   ],
   "mentions": [
     {
+      "server": "Akiko",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sabina Kafarov",
+          "text": "Amazing experience celebrating my engagement with my friends! Annabelle and Akiko were excellent servers and made my moment super special!",
+          "date": "2026-06-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Karina",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Brendon Caley",
+          "text": "Georgia and Karina were super attentive and absolutely set the tone and ensured that we had an outstanding experience!",
+          "date": "2026-06-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Robbie C",
+          "text": "Georgia and Karina awesome",
+          "date": "2026-06-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Christina",
       "count": 1,
       "reviews": [
@@ -228,6 +258,36 @@
           "reviewer": "Harrison Way",
           "text": "Christina was very helpful",
           "date": "2026-06-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Annabel",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sabina Kafarov",
+          "text": "Amazing experience celebrating my engagement with my friends! Annabelle and Akiko were excellent servers and made my moment super special!",
+          "date": "2026-06-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Maria",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Lisa Burt",
+          "text": "Maria did an AMAZING job serving, chatting, and suggesting food",
+          "date": "2026-06-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tina Solofa",
+          "text": "Maria was amazing. She was great at taking care of us.",
+          "date": "2026-06-04",
           "rating": 5
         }
       ]
@@ -258,8 +318,38 @@
     },
     {
       "server": "Derka",
-      "count": 3,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Jenna Askari",
+          "text": "go Derks!!",
+          "date": "2026-06-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Gabriella Waite",
+          "text": "Derks was so great and such a good vibe, great overall experience!",
+          "date": "2026-06-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tyler Lang",
+          "text": "Amazing as always - thx Derks!",
+          "date": "2026-06-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Nikki Flowerday",
+          "text": "Excellent service by Derks",
+          "date": "2026-06-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Meredith Weir",
+          "text": "Excellent service.  Derks was attentive and lovely",
+          "date": "2026-06-05",
+          "rating": 5
+        },
         {
           "reviewer": "mohammadkhalvat5",
           "text": "We had an amazing dining experience, and a huge part of that was thanks to our server, Derks. From the moment we sat down, they were incredibly welcoming, attentive, and friendly. The recommendations were spot on, the food came out perfectly, and Derks made sure we had everything we needed without ever being overbearing. Excellent hospitality all around—do yourself a favor and ask for Derks when you visit!",

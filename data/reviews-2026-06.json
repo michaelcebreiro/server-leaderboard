@@ -1,8 +1,104 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-04T21:03:46.454Z",
-  "reviewCount": 14,
+  "fetchedAt": "2026-06-05T04:50:47.039Z",
+  "reviewCount": 26,
   "reviews": [
+    {
+      "reviewId": "5586424825461873133",
+      "reviewer": "Kyle Miletic",
+      "rating": 5,
+      "text": "Great pub, friendly staff, awesome patio, great spot for the summer for a drink or a bite",
+      "reviewDate": "2026-06-05T04:10:32.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586423985461873049",
+      "reviewer": "Brendon Caley",
+      "rating": 5,
+      "text": "Georgia and Karina were super attentive and absolutely set the tone and ensured that we had an outstanding experience!",
+      "reviewDate": "2026-06-05T04:07:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586423945461873045",
+      "reviewer": "Robbie C",
+      "rating": 5,
+      "text": "Georgia and Karina awesome",
+      "reviewDate": "2026-06-05T04:07:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586138545461844671",
+      "reviewer": "Jenna Askari",
+      "rating": 5,
+      "text": "go Derks!!",
+      "reviewDate": "2026-06-05T00:09:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586137585461844575",
+      "reviewer": "Gabriella Waite",
+      "rating": 5,
+      "text": "Derks was so great and such a good vibe, great overall experience!",
+      "reviewDate": "2026-06-05T00:06:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586137125461844529",
+      "reviewer": "Tyler Lang",
+      "rating": 5,
+      "text": "Amazing as always - thx Derks!",
+      "reviewDate": "2026-06-05T00:05:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586137075461844525",
+      "reviewer": "Nikki Flowerday",
+      "rating": 5,
+      "text": "Excellent service by Derks",
+      "reviewDate": "2026-06-05T00:05:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586136825461844501",
+      "reviewer": "Meredith Weir",
+      "rating": 5,
+      "text": "Excellent service.  Derks was attentive and lovely",
+      "reviewDate": "2026-06-05T00:05:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586124035461843236",
+      "reviewer": "Sabina Kafarov",
+      "rating": 5,
+      "text": "Amazing experience celebrating my engagement with my friends! Annabelle and Akiko were excellent servers and made my moment super special!",
+      "reviewDate": "2026-06-04T23:50:44.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586103435461841197",
+      "reviewer": "Lisa Burt",
+      "rating": 5,
+      "text": "Maria did an AMAZING job serving, chatting, and suggesting food",
+      "reviewDate": "2026-06-04T23:26:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586102775461841132",
+      "reviewer": "Tina Solofa",
+      "rating": 5,
+      "text": "Maria was amazing. She was great at taking care of us.",
+      "reviewDate": "2026-06-04T23:24:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5586342695461864956",
+      "reviewer": "Colleen",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-04T12:12:55.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5584226794461654564",
       "reviewer": "Parth Patel",
