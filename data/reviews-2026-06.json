@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-05T22:35:55.652Z",
-  "reviewCount": 33,
+  "fetchedAt": "2026-06-05T23:50:10.321Z",
+  "reviewCount": 34,
   "reviews": [
+    {
+      "reviewId": "5588134415462043271",
+      "reviewer": "Richard Wu",
+      "rating": 5,
+      "text": "Ewan was good ! We will come again.",
+      "reviewDate": "2026-06-05T23:35:12.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5587989405462028856",
       "reviewer": "Colleen Mullen",

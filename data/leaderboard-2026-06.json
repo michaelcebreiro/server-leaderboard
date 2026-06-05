@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-05T22:35:55.729Z",
-  "reviewCount": 33,
-  "qualifyingReviewCount": 33,
+  "processedAt": "2026-06-05T23:50:10.395Z",
+  "reviewCount": 34,
+  "qualifyingReviewCount": 34,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,27 +35,27 @@
     },
     {
       "rank": 5,
-      "server": "Karina",
+      "server": "Ewan",
       "count": 2
     },
     {
       "rank": 6,
+      "server": "Karina",
+      "count": 2
+    },
+    {
+      "rank": 7,
       "server": "Christina",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 8,
-      "server": "Eliza",
-      "count": 1
-    },
-    {
       "rank": 9,
-      "server": "Ewan",
+      "server": "Eliza",
       "count": 1
     },
     {
@@ -312,8 +312,14 @@
     },
     {
       "server": "Ewan",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Richard Wu",
+          "text": "Ewan was good ! We will come again.",
+          "date": "2026-06-05",
+          "rating": 5
+        },
         {
           "reviewer": "Joanne Peskin",
           "text": "Ewan was an excellent server. He really helped make the experience so good.",
