@@ -1,8 +1,32 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-05T17:28:47.782Z",
-  "reviewCount": 29,
+  "fetchedAt": "2026-06-05T22:35:55.652Z",
+  "reviewCount": 33,
   "reviews": [
+    {
+      "reviewId": "5587989405462028856",
+      "reviewer": "Colleen Mullen",
+      "rating": 5,
+      "text": "We loved our Mr waitress Derks and the food was delicious",
+      "reviewDate": "2026-06-05T22:17:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5587967275462026657",
+      "reviewer": "Monika Batko",
+      "rating": 5,
+      "text": "Derks was awesome! She was super friendly and took care of the kiddos too. Involved them with the cash out process. It was super cute :) great atmosphere, food and drinks and the patio is dog friendly !",
+      "reviewDate": "2026-06-05T22:06:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5587966935462026626",
+      "reviewer": "Rob Soliman",
+      "rating": 5,
+      "text": "DERKS 🫡",
+      "reviewDate": "2026-06-05T22:05:31.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5586800645461910521",
       "reviewer": "Lisa",
@@ -18,6 +42,14 @@
       "text": "June 4th. Annabel and Akiko were great servers! Thanks for a fun night!",
       "reviewDate": "2026-06-05T13:49:04.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5587991905462029098",
+      "reviewer": "Pamela",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-05T12:30:05.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5586424825461873133",

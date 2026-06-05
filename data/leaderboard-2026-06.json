@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-05T17:28:47.855Z",
-  "reviewCount": 29,
-  "qualifyingReviewCount": 29,
+  "processedAt": "2026-06-05T22:35:55.729Z",
+  "reviewCount": 33,
+  "qualifyingReviewCount": 33,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Derka",
-      "count": 8
+      "count": 11
     },
     {
       "rank": 2,
@@ -336,8 +336,26 @@
     },
     {
       "server": "Derka",
-      "count": 8,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Colleen Mullen",
+          "text": "We loved our Mr waitress Derks and the food was delicious",
+          "date": "2026-06-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Monika Batko",
+          "text": "Derks was awesome! She was super friendly and took care of the kiddos too. Involved them with the cash out process. It was super cute :) great atmosphere, food and drinks and the patio is dog friendly !",
+          "date": "2026-06-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rob Soliman",
+          "text": "DERKS 🫡",
+          "date": "2026-06-05",
+          "rating": 5
+        },
         {
           "reviewer": "Jenna Askari",
           "text": "go Derks!!",
