@@ -1,8 +1,64 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-05T23:50:10.321Z",
-  "reviewCount": 34,
+  "fetchedAt": "2026-06-06T03:55:30.113Z",
+  "reviewCount": 41,
   "reviews": [
+    {
+      "reviewId": "5588340445462063717",
+      "reviewer": "Warren Doner",
+      "rating": 5,
+      "text": "Christina was the GOAT",
+      "reviewDate": "2026-06-06T03:41:10.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5588338925462063566",
+      "reviewer": "Lavin Hiranandani",
+      "rating": 5,
+      "text": "Excellent place. Derks is amazing! Thank you.",
+      "reviewDate": "2026-06-06T03:35:10.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5588327875462062464",
+      "reviewer": "Charlie Ihamaki",
+      "rating": 5,
+      "text": "Service was great, servers Maria and Kaitlyn.S were excellent. Great atmosphere",
+      "reviewDate": "2026-06-06T03:27:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5085298215411973194",
+      "reviewer": "Max Lecaillon",
+      "rating": 5,
+      "text": "Maria is an amazing server and so is Kaitlyn S!",
+      "reviewDate": "2026-06-06T03:26:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5588319385462061620",
+      "reviewer": "Shahla Sadeghian",
+      "rating": 5,
+      "text": "Derks did amazing job. Thanks Derks🥰",
+      "reviewDate": "2026-06-06T03:10:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5588310934462060779",
+      "reviewer": "Manfred Lam",
+      "rating": 4,
+      "text": "Christina was amazing",
+      "reviewDate": "2026-06-06T02:52:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5588250565462054778",
+      "reviewer": "Taylor Duncan",
+      "rating": 5,
+      "text": "The service by Calypsa and Norah were fantastic. Fast service and very friendly!",
+      "reviewDate": "2026-06-06T01:29:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5588134415462043271",
       "reviewer": "Richard Wu",

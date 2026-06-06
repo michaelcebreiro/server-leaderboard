@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-05T23:50:10.395Z",
-  "reviewCount": 34,
-  "qualifyingReviewCount": 34,
+  "processedAt": "2026-06-06T03:55:30.183Z",
+  "reviewCount": 41,
+  "qualifyingReviewCount": 41,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,141 +16,141 @@
     {
       "rank": 1,
       "server": "Derka",
-      "count": 11
+      "count": 13
     },
     {
       "rank": 2,
       "server": "Maria",
-      "count": 3
+      "count": 5
     },
     {
       "rank": 3,
+      "server": "Christina",
+      "count": 3
+    },
+    {
+      "rank": 4,
       "server": "Akiko",
       "count": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Ewan",
       "count": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "server": "Kaitlyn S",
+      "count": 2
+    },
+    {
+      "rank": 8,
       "server": "Karina",
       "count": 2
     },
     {
-      "rank": 7,
-      "server": "Christina",
-      "count": 1
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 27,
-      "server": "Kaitlyn M",
-      "count": 0
-    },
-    {
       "rank": 28,
-      "server": "Kaitlyn S",
+      "server": "Kaitlyn M",
       "count": 0
     },
     {
@@ -258,8 +258,20 @@
     },
     {
       "server": "Christina",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Warren Doner",
+          "text": "Christina was the GOAT",
+          "date": "2026-06-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Manfred Lam",
+          "text": "Christina was amazing",
+          "date": "2026-06-06",
+          "rating": 4
+        },
         {
           "reviewer": "Harrison Way",
           "text": "Christina was very helpful",
@@ -288,8 +300,20 @@
     },
     {
       "server": "Maria",
-      "count": 3,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Charlie Ihamaki",
+          "text": "Service was great, servers Maria and Kaitlyn.S were excellent. Great atmosphere",
+          "date": "2026-06-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Max Lecaillon",
+          "text": "Maria is an amazing server and so is Kaitlyn S!",
+          "date": "2026-06-06",
+          "rating": 5
+        },
         {
           "reviewer": "Lisa Burt",
           "text": "Maria did an AMAZING job serving, chatting, and suggesting food",
@@ -341,9 +365,39 @@
       ]
     },
     {
-      "server": "Derka",
-      "count": 11,
+      "server": "Kaitlyn S",
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Charlie Ihamaki",
+          "text": "Service was great, servers Maria and Kaitlyn.S were excellent. Great atmosphere",
+          "date": "2026-06-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Max Lecaillon",
+          "text": "Maria is an amazing server and so is Kaitlyn S!",
+          "date": "2026-06-06",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Derka",
+      "count": 13,
+      "reviews": [
+        {
+          "reviewer": "Lavin Hiranandani",
+          "text": "Excellent place. Derks is amazing! Thank you.",
+          "date": "2026-06-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Shahla Sadeghian",
+          "text": "Derks did amazing job. Thanks Derks🥰",
+          "date": "2026-06-06",
+          "rating": 5
+        },
         {
           "reviewer": "Colleen Mullen",
           "text": "We loved our Mr waitress Derks and the food was delicious",
