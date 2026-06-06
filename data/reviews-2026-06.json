@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-06T18:48:21.196Z",
-  "reviewCount": 42,
+  "fetchedAt": "2026-06-06T20:12:53.760Z",
+  "reviewCount": 43,
   "reviews": [
+    {
+      "reviewId": "5588974625462126724",
+      "reviewer": "Anonymous",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-06T18:30:47.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5588319385462061620",
       "reviewer": "Shahla Sadeghian",
