@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-06T03:55:30.113Z",
-  "reviewCount": 41,
+  "fetchedAt": "2026-06-06T06:56:41.007Z",
+  "reviewCount": 42,
   "reviews": [
+    {
+      "reviewId": "5588384185462068082",
+      "reviewer": "Aleer leek",
+      "rating": 5,
+      "text": "Server derks and vico were amazing. This location has great vibes and energy",
+      "reviewDate": "2026-06-06T04:45:14.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5588340445462063717",
       "reviewer": "Warren Doner",
@@ -39,7 +47,7 @@
       "reviewId": "5588319385462061620",
       "reviewer": "Shahla Sadeghian",
       "rating": 5,
-      "text": "Derks did amazing job. Thanks Derks🥰",
+      "text": "Derks did amazing job. Thanks Derks🥰❤️",
       "reviewDate": "2026-06-06T03:10:53.000Z",
       "source": "GOOGLE"
     },

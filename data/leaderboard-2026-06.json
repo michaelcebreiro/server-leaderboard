@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-06T03:55:30.183Z",
-  "reviewCount": 41,
-  "qualifyingReviewCount": 41,
+  "processedAt": "2026-06-06T06:56:41.086Z",
+  "reviewCount": 42,
+  "qualifyingReviewCount": 42,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Derka",
-      "count": 13
+      "count": 14
     },
     {
       "rank": 2,
@@ -384,8 +384,14 @@
     },
     {
       "server": "Derka",
-      "count": 13,
+      "count": 14,
       "reviews": [
+        {
+          "reviewer": "Aleer leek",
+          "text": "Server derks and vico were amazing. This location has great vibes and energy",
+          "date": "2026-06-06",
+          "rating": 5
+        },
         {
           "reviewer": "Lavin Hiranandani",
           "text": "Excellent place. Derks is amazing! Thank you.",
@@ -394,7 +400,7 @@
         },
         {
           "reviewer": "Shahla Sadeghian",
-          "text": "Derks did amazing job. Thanks Derks🥰",
+          "text": "Derks did amazing job. Thanks Derks🥰❤️",
           "date": "2026-06-06",
           "rating": 5
         },
