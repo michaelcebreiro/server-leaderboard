@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-06T11:06:16.784Z",
+  "processedAt": "2026-06-06T12:19:04.838Z",
   "reviewCount": 42,
   "qualifyingReviewCount": 42,
   "thresholds": {
@@ -387,6 +387,12 @@
       "count": 14,
       "reviews": [
         {
+          "reviewer": "Shahla Sadeghian",
+          "text": "Derks did amazing job. Thanks Derks🥰❤️",
+          "date": "2026-06-06",
+          "rating": 5
+        },
+        {
           "reviewer": "Aleer leek",
           "text": "Server derks and vico were amazing. This location has great vibes and energy",
           "date": "2026-06-06",
@@ -395,12 +401,6 @@
         {
           "reviewer": "Lavin Hiranandani",
           "text": "Excellent place. Derks is amazing! Thank you.",
-          "date": "2026-06-06",
-          "rating": 5
-        },
-        {
-          "reviewer": "Shahla Sadeghian",
-          "text": "Derks did amazing job. Thanks Derks🥰❤️",
           "date": "2026-06-06",
           "rating": 5
         },
@@ -418,7 +418,7 @@
         },
         {
           "reviewer": "Rob Soliman",
-          "text": "DERKS 🫡",
+          "text": "DERKS 🫡👍🏻",
           "date": "2026-06-05",
           "rating": 5
         },

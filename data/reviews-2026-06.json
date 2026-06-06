@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-06T11:06:16.711Z",
+  "fetchedAt": "2026-06-06T12:19:04.639Z",
   "reviewCount": 42,
   "reviews": [
+    {
+      "reviewId": "5588319385462061620",
+      "reviewer": "Shahla Sadeghian",
+      "rating": 5,
+      "text": "Derks did amazing job. Thanks Derks🥰❤️",
+      "reviewDate": "2026-06-06T05:10:31.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5588384185462068082",
       "reviewer": "Aleer leek",
@@ -41,14 +49,6 @@
       "rating": 5,
       "text": "Maria is an amazing server and so is Kaitlyn S!",
       "reviewDate": "2026-06-06T03:26:54.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5588319385462061620",
-      "reviewer": "Shahla Sadeghian",
-      "rating": 5,
-      "text": "Derks did amazing job. Thanks Derks🥰❤️",
-      "reviewDate": "2026-06-06T03:10:53.000Z",
       "source": "GOOGLE"
     },
     {
@@ -95,7 +95,7 @@
       "reviewId": "5587966935462026626",
       "reviewer": "Rob Soliman",
       "rating": 5,
-      "text": "DERKS 🫡",
+      "text": "DERKS 🫡👍🏻",
       "reviewDate": "2026-06-05T22:05:31.000Z",
       "source": "GOOGLE"
     },
