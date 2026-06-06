@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-06T20:12:53.760Z",
-  "reviewCount": 43,
+  "fetchedAt": "2026-06-06T21:31:30.206Z",
+  "reviewCount": 44,
   "reviews": [
+    {
+      "reviewId": "5589035625462132775",
+      "reviewer": "Sylphia B",
+      "rating": 5,
+      "text": "The nicest server ever! Made my birthday",
+      "reviewDate": "2026-06-06T21:18:37.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5588974625462126724",
       "reviewer": "Anonymous",
