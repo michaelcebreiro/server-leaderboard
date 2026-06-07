@@ -1,8 +1,72 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-06T23:47:21.933Z",
-  "reviewCount": 44,
+  "fetchedAt": "2026-06-07T04:21:47.275Z",
+  "reviewCount": 52,
   "reviews": [
+    {
+      "reviewId": "5589324195462161455",
+      "reviewer": "Caleb Zhang",
+      "rating": 5,
+      "text": "Christina was great",
+      "reviewDate": "2026-06-07T03:39:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589242894462153357",
+      "reviewer": "Lewis Le",
+      "rating": 4,
+      "text": "Great service Our server Ewan took great care of us and was so nice and caring. Was friendly was kept checking on us to make sure all was well.",
+      "reviewDate": "2026-06-07T01:42:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589161025462145203",
+      "reviewer": "Maria Kyriacou",
+      "rating": 5,
+      "text": "Best server ever Ewan!! He is fabulous.",
+      "reviewDate": "2026-06-07T00:44:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589149855462144099",
+      "reviewer": "Sarah Richardson",
+      "rating": 5,
+      "text": "Derks made my birthday extra special 🥰 What a sweetheart she is and also, an amazing server 🫶 Cheers 🥂",
+      "reviewDate": "2026-06-07T00:19:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589134945462142616",
+      "reviewer": "Dimitri Spadafora",
+      "rating": 5,
+      "text": "Derks was great!",
+      "reviewDate": "2026-06-06T23:56:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589124005462141525",
+      "reviewer": "Mel Dashdorj",
+      "rating": 5,
+      "text": "Derks was amazing! Such hospitality and recommended a bunch of yummy things for me and my boyfriend to try out! It was all so delicious and Derks has the best personality!",
+      "reviewDate": "2026-06-06T23:47:30.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589122805462141406",
+      "reviewer": "James",
+      "rating": 5,
+      "text": "Derks what’s great!",
+      "reviewDate": "2026-06-06T23:43:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589122555462141381",
+      "reviewer": "Damian Spadafora",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-06T23:41:36.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5589035625462132775",
       "reviewer": "Sylphia B",

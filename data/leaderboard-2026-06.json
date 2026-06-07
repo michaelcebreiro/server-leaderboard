@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-06T23:47:21.980Z",
-  "reviewCount": 44,
-  "qualifyingReviewCount": 44,
+  "processedAt": "2026-06-07T04:21:47.505Z",
+  "reviewCount": 52,
+  "qualifyingReviewCount": 52,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -10,13 +10,13 @@
   "winners": {
     "finalized": false,
     "first": null,
-    "second": null
+    "second": "Derka"
   },
   "standings": [
     {
       "rank": 1,
       "server": "Derka",
-      "count": 14
+      "count": 18
     },
     {
       "rank": 2,
@@ -26,195 +26,200 @@
     {
       "rank": 3,
       "server": "Christina",
-      "count": 3
+      "count": 4
     },
     {
       "rank": 4,
+      "server": "Ewan",
+      "count": 4
+    },
+    {
+      "rank": 5,
+      "server": "ever",
+      "count": 3
+    },
+    {
+      "rank": 6,
       "server": "Akiko",
       "count": 2
     },
     {
-      "rank": 5,
+      "rank": 7,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 6,
-      "server": "Ewan",
-      "count": 2
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "server": "Kaitlyn S",
       "count": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Karina",
       "count": 2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Sydney",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Zivko",
       "count": 0
     }
@@ -258,8 +263,14 @@
     },
     {
       "server": "Christina",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Caleb Zhang",
+          "text": "Christina was great",
+          "date": "2026-06-07",
+          "rating": 5
+        },
         {
           "reviewer": "Warren Doner",
           "text": "Christina was the GOAT",
@@ -336,8 +347,20 @@
     },
     {
       "server": "Ewan",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Lewis Le",
+          "text": "Great service Our server Ewan took great care of us and was so nice and caring. Was friendly was kept checking on us to make sure all was well.",
+          "date": "2026-06-07",
+          "rating": 4
+        },
+        {
+          "reviewer": "Maria Kyriacou",
+          "text": "Best server ever Ewan!! He is fabulous.",
+          "date": "2026-06-07",
+          "rating": 5
+        },
         {
           "reviewer": "Richard Wu",
           "text": "Ewan was good ! We will come again.",
@@ -384,8 +407,32 @@
     },
     {
       "server": "Derka",
-      "count": 14,
+      "count": 18,
       "reviews": [
+        {
+          "reviewer": "Sarah Richardson",
+          "text": "Derks made my birthday extra special 🥰 What a sweetheart she is and also, an amazing server 🫶 Cheers 🥂",
+          "date": "2026-06-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Dimitri Spadafora",
+          "text": "Derks was great!",
+          "date": "2026-06-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "Mel Dashdorj",
+          "text": "Derks was amazing! Such hospitality and recommended a bunch of yummy things for me and my boyfriend to try out! It was all so delicious and Derks has the best personality!",
+          "date": "2026-06-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "James",
+          "text": "Derks what’s great!",
+          "date": "2026-06-06",
+          "rating": 5
+        },
         {
           "reviewer": "Shahla Sadeghian",
           "text": "Derks did amazing job. Thanks Derks🥰❤️",
@@ -479,6 +526,30 @@
         {
           "reviewer": "Maggie Bahler Rizzio",
           "text": "Here for a private party and our server, Eliza, was AMAZING!! She knows her cocktails and was incredibly helpful. Made our party great!!",
+          "date": "2026-06-01",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "ever",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "Maria Kyriacou",
+          "text": "Best server ever Ewan!! He is fabulous.",
+          "date": "2026-06-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sylphia B",
+          "text": "The nicest server ever! Made my birthday",
+          "date": "2026-06-06",
+          "rating": 5
+        },
+        {
+          "reviewer": "mohammadkhalvat5",
+          "text": "We had an amazing dining experience, and a huge part of that was thanks to our server, Derks. From the moment we sat down, they were incredibly welcoming, attentive, and friendly. The recommendations were spot on, the food came out perfectly, and Derks made sure we had everything we needed without ever being overbearing. Excellent hospitality all around—do yourself a favor and ask for Derks when you visit!",
           "date": "2026-06-01",
           "rating": 5
         }

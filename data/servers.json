@@ -206,6 +206,10 @@
     {
       "name": "Eliza",
       "aliases": []
+    },
+    {
+      "name": "ever",
+      "aliases": []
     }
   ],
   "removed": [
