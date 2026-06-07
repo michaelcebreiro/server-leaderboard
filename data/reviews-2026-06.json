@@ -1,7 +1,7 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-07T14:22:13.003Z",
-  "reviewCount": 55,
+  "fetchedAt": "2026-06-07T15:52:03.054Z",
+  "reviewCount": 56,
   "reviews": [
     {
       "reviewId": "5589437265462172730",
@@ -82,6 +82,14 @@
       "text": "",
       "reviewDate": "2026-06-06T23:41:36.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589655344462194378",
+      "reviewer": "Jozsef",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-06-06T21:36:39.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5589035625462132775",
