@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-07T04:21:47.505Z",
-  "reviewCount": 52,
-  "qualifyingReviewCount": 52,
+  "processedAt": "2026-06-07T10:36:19.866Z",
+  "reviewCount": 55,
+  "qualifyingReviewCount": 55,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,13 +20,13 @@
     },
     {
       "rank": 2,
-      "server": "Maria",
-      "count": 5
+      "server": "Christina",
+      "count": 6
     },
     {
       "rank": 3,
-      "server": "Christina",
-      "count": 4
+      "server": "Maria",
+      "count": 5
     },
     {
       "rank": 4,
@@ -263,8 +263,20 @@
     },
     {
       "server": "Christina",
-      "count": 4,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Simon Yuan",
+          "text": "Christina was great. Felt very welcome there and she was incredibly friendly. My friends and I will definitely be making regular trips to Local for good drinks, good vibes thanks to the friendly welcoming staff.",
+          "date": "2026-06-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jason Sotiroff",
+          "text": "Christina was great, keeping our glasses full! loved the vibes! She’s amazing.",
+          "date": "2026-06-07",
+          "rating": 5
+        },
         {
           "reviewer": "Caleb Zhang",
           "text": "Christina was great",
@@ -411,7 +423,7 @@
       "reviews": [
         {
           "reviewer": "Sarah Richardson",
-          "text": "Derks made my birthday extra special 🥰 What a sweetheart she is and also, an amazing server 🫶 Cheers 🥂",
+          "text": "Derks made my birthday extra special 🎉🥰🙌 What a sweetheart she is and also, an amazing server 🫶 Cheers 🥂",
           "date": "2026-06-07",
           "rating": 5
         },

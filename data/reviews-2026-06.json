@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-07T04:21:47.275Z",
-  "reviewCount": 52,
+  "fetchedAt": "2026-06-07T10:36:19.790Z",
+  "reviewCount": 55,
   "reviews": [
+    {
+      "reviewId": "5589437265462172730",
+      "reviewer": "Simon Yuan",
+      "rating": 5,
+      "text": "Christina was great. Felt very welcome there and she was incredibly friendly. My friends and I will definitely be making regular trips to Local for good drinks, good vibes thanks to the friendly welcoming staff.",
+      "reviewDate": "2026-06-07T06:56:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4461111135349809471",
+      "reviewer": "Jason Sotiroff",
+      "rating": 5,
+      "text": "Christina was great, keeping our glasses full! loved the vibes! She’s amazing.",
+      "reviewDate": "2026-06-07T06:08:44.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5589324195462161455",
       "reviewer": "Caleb Zhang",
@@ -31,7 +47,7 @@
       "reviewId": "5589149855462144099",
       "reviewer": "Sarah Richardson",
       "rating": 5,
-      "text": "Derks made my birthday extra special 🥰 What a sweetheart she is and also, an amazing server 🫶 Cheers 🥂",
+      "text": "Derks made my birthday extra special 🎉🥰🙌 What a sweetheart she is and also, an amazing server 🫶 Cheers 🥂",
       "reviewDate": "2026-06-07T00:19:11.000Z",
       "source": "GOOGLE"
     },
@@ -82,6 +98,14 @@
       "text": "",
       "reviewDate": "2026-06-06T18:30:47.000Z",
       "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "4126443744316544058",
+      "reviewer": "Emre Bilgin",
+      "rating": 4,
+      "text": "the quality of food must match the quality of beers. \"steak & fries\" main course is too small 😬 lively patio w/sunset and people-watching. indoors is too loud 🔊  especially when a game is on. the clientele is young and their kids are welcome. intimate service. clean WC. fair Q/P",
+      "reviewDate": "2026-06-06T14:23:11.000Z",
+      "source": "GOOGLE"
     },
     {
       "reviewId": "5588319385462061620",
