@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-07T18:49:29.453Z",
-  "reviewCount": 60,
+  "fetchedAt": "2026-06-07T20:15:55.442Z",
+  "reviewCount": 61,
   "reviews": [
+    {
+      "reviewId": "5589900665462218811",
+      "reviewer": "George Antziletos",
+      "rating": 5,
+      "text": "Danielle was great! Food and drinks were amazing",
+      "reviewDate": "2026-06-07T19:08:40.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5589757205462204490",
       "reviewer": "Megan Haley",

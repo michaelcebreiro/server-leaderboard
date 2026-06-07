@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-07T18:49:29.527Z",
-  "reviewCount": 60,
-  "qualifyingReviewCount": 60,
+  "processedAt": "2026-06-07T20:15:55.515Z",
+  "reviewCount": 61,
+  "qualifyingReviewCount": 61,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,13 +25,13 @@
     },
     {
       "rank": 3,
-      "server": "Maria",
+      "server": "Danielle",
       "count": 5
     },
     {
       "rank": 4,
-      "server": "Danielle",
-      "count": 4
+      "server": "Maria",
+      "count": 5
     },
     {
       "rank": 5,
@@ -389,8 +389,14 @@
     },
     {
       "server": "Danielle",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "George Antziletos",
+          "text": "Danielle was great! Food and drinks were amazing",
+          "date": "2026-06-07",
+          "rating": 5
+        },
         {
           "reviewer": "Megan Haley",
           "text": "Danielle was amazing!",
