@@ -1,8 +1,40 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-07T17:22:57.715Z",
-  "reviewCount": 56,
+  "fetchedAt": "2026-06-07T18:49:29.453Z",
+  "reviewCount": 60,
   "reviews": [
+    {
+      "reviewId": "5589757205462204490",
+      "reviewer": "Megan Haley",
+      "rating": 5,
+      "text": "Danielle was amazing!",
+      "reviewDate": "2026-06-07T17:52:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589747955462203567",
+      "reviewer": "Ashish Francis",
+      "rating": 5,
+      "text": "Danielle",
+      "reviewDate": "2026-06-07T17:50:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589746915462203464",
+      "reviewer": "Anupam Menon",
+      "rating": 5,
+      "text": "Danielle took great care of us! We thank you so much Danielle. Loved the Beermosas!",
+      "reviewDate": "2026-06-07T17:50:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5589746625462203436",
+      "reviewer": "Tanya Sharma",
+      "rating": 5,
+      "text": "Danielle was a wonderful host and we had a lovely time!",
+      "reviewDate": "2026-06-07T17:50:20.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5589437265462172730",
       "reviewer": "Simon Yuan",

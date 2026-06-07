@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-07T17:22:57.787Z",
-  "reviewCount": 56,
-  "qualifyingReviewCount": 56,
+  "processedAt": "2026-06-07T18:49:29.527Z",
+  "reviewCount": 60,
+  "qualifyingReviewCount": 60,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,87 +30,87 @@
     },
     {
       "rank": 4,
-      "server": "Ewan",
+      "server": "Danielle",
       "count": 4
     },
     {
       "rank": 5,
+      "server": "Ewan",
+      "count": 4
+    },
+    {
+      "rank": 6,
       "server": "ever",
       "count": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Akiko",
       "count": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Kaitlyn S",
       "count": 2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Karina",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 19,
-      "server": "Daniel",
-      "count": 0
-    },
-    {
       "rank": 20,
-      "server": "Danielle",
+      "server": "Daniel",
       "count": 0
     },
     {
@@ -383,6 +383,36 @@
           "reviewer": "Joanne Peskin",
           "text": "Ewan was an excellent server. He really helped make the experience so good.",
           "date": "2026-06-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Danielle",
+      "count": 4,
+      "reviews": [
+        {
+          "reviewer": "Megan Haley",
+          "text": "Danielle was amazing!",
+          "date": "2026-06-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ashish Francis",
+          "text": "Danielle",
+          "date": "2026-06-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Anupam Menon",
+          "text": "Danielle took great care of us! We thank you so much Danielle. Loved the Beermosas!",
+          "date": "2026-06-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tanya Sharma",
+          "text": "Danielle was a wonderful host and we had a lovely time!",
+          "date": "2026-06-07",
           "rating": 5
         }
       ]
