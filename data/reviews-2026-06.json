@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-08T21:53:18.155Z",
-  "reviewCount": 62,
+  "fetchedAt": "2026-06-08T23:14:35.763Z",
+  "reviewCount": 63,
   "reviews": [
+    {
+      "reviewId": "5507982745454071363",
+      "reviewer": "Alex",
+      "rating": 5,
+      "text": "Great place in Leaside, patio in the summer is a must.",
+      "reviewDate": "2026-06-08T15:56:03.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5590477234462276198",
       "reviewer": "Veronica",
