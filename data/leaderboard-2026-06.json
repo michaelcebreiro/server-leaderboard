@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-09T00:17:08.394Z",
-  "reviewCount": 65,
-  "qualifyingReviewCount": 65,
+  "processedAt": "2026-06-09T04:46:20.087Z",
+  "reviewCount": 67,
+  "qualifyingReviewCount": 67,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,12 +25,12 @@
     },
     {
       "rank": 3,
-      "server": "Danielle",
-      "count": 5
+      "server": "Maria",
+      "count": 6
     },
     {
       "rank": 4,
-      "server": "Maria",
+      "server": "Danielle",
       "count": 5
     },
     {
@@ -323,8 +323,14 @@
     },
     {
       "server": "Maria",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "John Mitchell",
+          "text": "The food is always good, and the atmosphere is very comfortable. The service from Maria was outstanding!",
+          "date": "2026-06-09",
+          "rating": 5
+        },
         {
           "reviewer": "Charlie Ihamaki",
           "text": "Service was great, servers Maria and Kaitlyn.S were excellent. Great atmosphere",

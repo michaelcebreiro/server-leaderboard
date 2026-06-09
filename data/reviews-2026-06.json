@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-09T00:17:08.320Z",
-  "reviewCount": 65,
+  "fetchedAt": "2026-06-09T04:46:20.012Z",
+  "reviewCount": 67,
   "reviews": [
+    {
+      "reviewId": "5591992875462427145",
+      "reviewer": "John Mitchell",
+      "rating": 5,
+      "text": "The food is always good, and the atmosphere is very comfortable. The service from Maria was outstanding!",
+      "reviewDate": "2026-06-09T00:46:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5591977455462425625",
+      "reviewer": "Dylan Zivojinovich",
+      "rating": 5,
+      "text": "Marina was super helpful and nice",
+      "reviewDate": "2026-06-09T00:16:35.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5591956575462423579",
       "reviewer": "Mojgan Faraghi",
