@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-09T23:19:36.017Z",
-  "reviewCount": 67,
-  "qualifyingReviewCount": 67,
+  "processedAt": "2026-06-10T01:36:51.605Z",
+  "reviewCount": 69,
+  "qualifyingReviewCount": 69,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -55,102 +55,102 @@
     },
     {
       "rank": 9,
-      "server": "Kaitlyn S",
+      "server": "Kaia",
       "count": 2
     },
     {
       "rank": 10,
-      "server": "Karina",
+      "server": "Kaitlyn S",
       "count": 2
     },
     {
       "rank": 11,
+      "server": "Karina",
+      "count": 2
+    },
+    {
+      "rank": 12,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 27,
-      "server": "Josh",
-      "count": 0
-    },
-    {
       "rank": 28,
-      "server": "Kaia",
+      "server": "Josh",
       "count": 0
     },
     {
@@ -569,6 +569,24 @@
           "reviewer": "Claudia Azouri",
           "text": "My husband and I love this place!! Amazing vibes, the first time we went for happy hour the food was delicious and not your typical pub food. They have amazing twists on different dishes. The staff are so friendly and service was great. Shoutout to Derks! She was amazing and provided great recommendations. Definitely coming back with friends all summer long :)",
           "date": "2026-06-01",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaia",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Nabeel Shamsi",
+          "text": "Kaia was awesome",
+          "date": "2026-06-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adam Hemi",
+          "text": "Kaia",
+          "date": "2026-06-10",
           "rating": 5
         }
       ]

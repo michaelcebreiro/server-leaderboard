@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-09T23:19:35.826Z",
-  "reviewCount": 67,
+  "fetchedAt": "2026-06-10T01:36:51.336Z",
+  "reviewCount": 69,
   "reviews": [
+    {
+      "reviewId": "5593917965462618833",
+      "reviewer": "Nabeel Shamsi",
+      "rating": 5,
+      "text": "Kaia was awesome",
+      "reviewDate": "2026-06-10T00:22:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5593915695462618616",
+      "reviewer": "Adam Hemi",
+      "rating": 5,
+      "text": "Kaia",
+      "reviewDate": "2026-06-10T00:17:55.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5591992875462427145",
       "reviewer": "John Mitchell",
