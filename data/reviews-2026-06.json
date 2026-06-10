@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-10T17:34:59.867Z",
-  "reviewCount": 69,
+  "fetchedAt": "2026-06-10T19:58:17.459Z",
+  "reviewCount": 70,
   "reviews": [
+    {
+      "reviewId": "5595073135462733595",
+      "reviewer": "David Tweneboah",
+      "rating": 5,
+      "text": "Eliaza was amazing. 10 out of 10 service",
+      "reviewDate": "2026-06-10T19:42:49.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5593917965462618833",
       "reviewer": "Nabeel Shamsi",
