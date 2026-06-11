@@ -1,8 +1,32 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-10T23:51:43.603Z",
-  "reviewCount": 71,
+  "fetchedAt": "2026-06-11T04:22:37.920Z",
+  "reviewCount": 74,
   "reviews": [
+    {
+      "reviewId": "5595476505462773589",
+      "reviewer": "Caitlyn Flux",
+      "rating": 5,
+      "text": "Great service from Kaia and Sydney!!!",
+      "reviewDate": "2026-06-11T00:52:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5595475235462773463",
+      "reviewer": "Madelyn Sergnese",
+      "rating": 5,
+      "text": "Awesome service from Kaia and Sydney, super nice girls!",
+      "reviewDate": "2026-06-11T00:51:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5595469005462772862",
+      "reviewer": "Gus K",
+      "rating": 5,
+      "text": "Akiko was great!",
+      "reviewDate": "2026-06-11T00:37:32.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5595343665462760412",
       "reviewer": "Carlye",
