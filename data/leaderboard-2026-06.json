@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-11T16:57:29.662Z",
-  "reviewCount": 74,
-  "qualifyingReviewCount": 74,
+  "processedAt": "2026-06-11T19:38:52.044Z",
+  "reviewCount": 76,
+  "qualifyingReviewCount": 76,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Derka",
-      "count": 18
+      "count": 19
     },
     {
       "rank": 2,
@@ -467,8 +467,14 @@
     },
     {
       "server": "Derka",
-      "count": 18,
+      "count": 19,
       "reviews": [
+        {
+          "reviewer": "Mark Morrison",
+          "text": "back again, Derks helped me out today and she was lovely, very kind and great conversationalist. Whole staff is a treat and one of the reasons I keep coming back. Thank you Derks! Will be seeing you soon",
+          "date": "2026-06-11",
+          "rating": 5
+        },
         {
           "reviewer": "Sarah Richardson",
           "text": "Derks made my birthday extra special 🎉🥰🙌 What a sweetheart she is and also, an amazing server 🫶 Cheers 🥂",
