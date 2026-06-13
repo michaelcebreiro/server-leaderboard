@@ -1,8 +1,64 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-13T00:23:27.731Z",
-  "reviewCount": 76,
+  "fetchedAt": "2026-06-13T05:05:19.402Z",
+  "reviewCount": 83,
   "reviews": [
+    {
+      "reviewId": "5599351745463159053",
+      "reviewer": "Jasmine Jardine",
+      "rating": 5,
+      "text": "Alessia was soooooo sweet and kind!!",
+      "reviewDate": "2026-06-13T03:23:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5599349075463158787",
+      "reviewer": "Kirsten Farrell",
+      "rating": 5,
+      "text": "Qam is a princess and recommended the best drinks!! Sure thing every time we love the local <333",
+      "reviewDate": "2026-06-13T03:13:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5599282045463152135",
+      "reviewer": "Isabel Talmage",
+      "rating": 5,
+      "text": "Local is a classic spot for good food and drinks. This place is never a let down. Shout out to Derks for phenomenal service",
+      "reviewDate": "2026-06-13T01:15:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5599280985463152030",
+      "reviewer": "Alexandra Athanaselos",
+      "rating": 5,
+      "text": "Had a lovely time for dinner and drinks at local Leaside. Derks was amazing and took excellent care of us! Will definitely return",
+      "reviewDate": "2026-06-13T01:12:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5599277445463151680",
+      "reviewer": "Ryan L",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-13T01:07:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5599277155463151652",
+      "reviewer": "J J",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-13T01:07:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5599277085463151645",
+      "reviewer": "Sean Kim",
+      "rating": 5,
+      "text": "Derks was great",
+      "reviewDate": "2026-06-13T01:06:56.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5457458225449038862",
       "reviewer": "Mark Morrison",

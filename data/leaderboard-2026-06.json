@@ -1,22 +1,22 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-13T00:23:27.800Z",
-  "reviewCount": 76,
-  "qualifyingReviewCount": 76,
+  "processedAt": "2026-06-13T05:05:19.471Z",
+  "reviewCount": 83,
+  "qualifyingReviewCount": 83,
   "thresholds": {
     "first": 20,
     "second": 15
   },
   "winners": {
     "finalized": false,
-    "first": null,
-    "second": "Derka"
+    "first": "Derka",
+    "second": null
   },
   "standings": [
     {
       "rank": 1,
       "server": "Derka",
-      "count": 19
+      "count": 22
     },
     {
       "rank": 2,
@@ -75,18 +75,18 @@
     },
     {
       "rank": 13,
-      "server": "Eli",
+      "server": "Alessia",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Eliza",
+      "server": "Eli",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Alessia",
-      "count": 0
+      "server": "Eliza",
+      "count": 1
     },
     {
       "rank": 16,
@@ -436,6 +436,18 @@
       ]
     },
     {
+      "server": "Alessia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jasmine Jardine",
+          "text": "Alessia was soooooo sweet and kind!!",
+          "date": "2026-06-13",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Eli",
       "count": 1,
       "reviews": [
@@ -467,8 +479,26 @@
     },
     {
       "server": "Derka",
-      "count": 19,
+      "count": 22,
       "reviews": [
+        {
+          "reviewer": "Isabel Talmage",
+          "text": "Local is a classic spot for good food and drinks. This place is never a let down. Shout out to Derks for phenomenal service",
+          "date": "2026-06-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Alexandra Athanaselos",
+          "text": "Had a lovely time for dinner and drinks at local Leaside. Derks was amazing and took excellent care of us! Will definitely return",
+          "date": "2026-06-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sean Kim",
+          "text": "Derks was great",
+          "date": "2026-06-13",
+          "rating": 5
+        },
         {
           "reviewer": "Mark Morrison",
           "text": "back again, Derks helped me out today and she was lovely, very kind and great conversationalist. Whole staff is a treat and one of the reasons I keep coming back. Thank you Derks! Will be seeing you soon",
