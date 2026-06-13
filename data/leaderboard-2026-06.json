@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-13T16:48:23.707Z",
-  "reviewCount": 85,
-  "qualifyingReviewCount": 85,
+  "processedAt": "2026-06-13T18:12:30.193Z",
+  "reviewCount": 86,
+  "qualifyingReviewCount": 86,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,27 +60,27 @@
     },
     {
       "rank": 10,
-      "server": "Kaitlyn S",
+      "server": "Eli",
       "count": 2
     },
     {
       "rank": 11,
-      "server": "Karina",
+      "server": "Kaitlyn S",
       "count": 2
     },
     {
       "rank": 12,
-      "server": "Sydney",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 13,
-      "server": "Alessia",
-      "count": 1
+      "server": "Sydney",
+      "count": 2
     },
     {
       "rank": 14,
-      "server": "Eli",
+      "server": "Alessia",
       "count": 1
     },
     {
@@ -449,8 +449,14 @@
     },
     {
       "server": "Eli",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Joanne Maxwell",
+          "text": "Eli was terrific from the moment we arrived. Excellent service!",
+          "date": "2026-06-13",
+          "rating": 5
+        },
         {
           "reviewer": "brian ducheck",
           "text": "Eli was friendly and very attentive",

@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-13T16:48:23.518Z",
-  "reviewCount": 85,
+  "fetchedAt": "2026-06-13T18:12:30.118Z",
+  "reviewCount": 86,
   "reviews": [
+    {
+      "reviewId": "5599748785463198505",
+      "reviewer": "Joanne Maxwell",
+      "rating": 5,
+      "text": "Eli was terrific from the moment we arrived. Excellent service!",
+      "reviewDate": "2026-06-13T16:50:31.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5599351745463159053",
       "reviewer": "Jasmine Jardine",
