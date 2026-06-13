@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-13T19:55:31.915Z",
-  "reviewCount": 87,
-  "qualifyingReviewCount": 87,
+  "processedAt": "2026-06-13T21:20:56.840Z",
+  "reviewCount": 89,
+  "qualifyingReviewCount": 89,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -90,127 +90,127 @@
     },
     {
       "rank": 16,
+      "server": "Josh",
+      "count": 1
+    },
+    {
+      "rank": 17,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 18,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 23,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 24,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 26,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 27,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 28,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 29,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 30,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 29,
-      "server": "Josh",
-      "count": 0
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 39,
-      "server": "Paige",
-      "count": 0
-    },
-    {
       "rank": 40,
-      "server": "Paulveen",
+      "server": "Paige",
       "count": 0
     },
     {
@@ -448,6 +448,18 @@
       ]
     },
     {
+      "server": "Josh",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Cathy Erbe",
+          "text": "Our waiter Josh, is so attentive and helpful. Made our lunch that much more enjoyable",
+          "date": "2026-06-13",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Eli",
       "count": 2,
       "reviews": [
@@ -461,6 +473,18 @@
           "reviewer": "brian ducheck",
           "text": "Eli was friendly and very attentive",
           "date": "2026-06-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Paulveen",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Spencer Gibbens",
+          "text": "Fantastic lunch stop and our server Paulveen was excellent, friendly and helpful",
+          "date": "2026-06-13",
           "rating": 5
         }
       ]

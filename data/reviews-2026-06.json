@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-13T19:55:31.837Z",
-  "reviewCount": 87,
+  "fetchedAt": "2026-06-13T21:20:56.771Z",
+  "reviewCount": 89,
   "reviews": [
+    {
+      "reviewId": "5599924945463215941",
+      "reviewer": "Cathy Erbe",
+      "rating": 5,
+      "text": "Our waiter Josh, is so attentive and helpful. Made our lunch that much more enjoyable",
+      "reviewDate": "2026-06-13T20:54:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5599886275463212114",
+      "reviewer": "Spencer Gibbens",
+      "rating": 5,
+      "text": "Fantastic lunch stop and our server Paulveen was excellent, friendly and helpful",
+      "reviewDate": "2026-06-13T19:51:10.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5599880265463211519",
       "reviewer": "Matthew Wilson",
