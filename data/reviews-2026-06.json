@@ -1,7 +1,7 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-13T11:02:36.467Z",
-  "reviewCount": 83,
+  "fetchedAt": "2026-06-13T12:58:17.814Z",
+  "reviewCount": 85,
   "reviews": [
     {
       "reviewId": "5599351745463159053",
@@ -58,6 +58,22 @@
       "text": "Derks was great",
       "reviewDate": "2026-06-13T01:06:56.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5599551815463178995",
+      "reviewer": "Ayda",
+      "rating": 5,
+      "text": "Great experience and service, nice staff, also the food is really good.",
+      "reviewDate": "2026-06-13T00:04:32.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5599551824463178996",
+      "reviewer": "Erika",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-06-12T21:40:47.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5457458225449038862",
