@@ -1,7 +1,7 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-14T08:34:48.323Z",
-  "reviewCount": 91,
+  "fetchedAt": "2026-06-14T11:16:31.645Z",
+  "reviewCount": 92,
   "reviews": [
     {
       "reviewId": "5600124385463235772",
@@ -50,6 +50,14 @@
       "text": "Eli was terrific from the moment we arrived. Excellent service!",
       "reviewDate": "2026-06-13T16:50:31.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5600336775463256962",
+      "reviewer": "Anonymous",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-13T16:42:40.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5599351745463159053",
