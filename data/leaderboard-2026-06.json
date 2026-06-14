@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-14T13:14:45.405Z",
-  "reviewCount": 92,
-  "qualifyingReviewCount": 92,
+  "processedAt": "2026-06-14T15:21:16.013Z",
+  "reviewCount": 93,
+  "qualifyingReviewCount": 93,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -55,171 +55,176 @@
     },
     {
       "rank": 9,
+      "server": "Georgia",
+      "count": 3
+    },
+    {
+      "rank": 10,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Kaitlyn S",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Karina",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Paige",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Sydney",
       "count": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Alessia",
       "count": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Josh",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Paulveen",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Zivko",
       "count": 0
     }
@@ -743,6 +748,30 @@
           "reviewer": "mohammadkhalvat5",
           "text": "We had an amazing dining experience, and a huge part of that was thanks to our server, Derks. From the moment we sat down, they were incredibly welcoming, attentive, and friendly. The recommendations were spot on, the food came out perfectly, and Derks made sure we had everything we needed without ever being overbearing. Excellent hospitality all around—do yourself a favor and ask for Derks when you visit!",
           "date": "2026-06-01",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Georgia",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "Hizir Tiftikci",
+          "text": "We had a great experience! Our server Georgia was incredibly sweet, friendly, and attentive throughout our visit. She made us feel welcome from the moment we arrived and always checked in to make sure everything was perfect. Her positive attitude and excellent service made our meal even more enjoyable. We’ll definitely be back!",
+          "date": "2026-06-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Brendon Caley",
+          "text": "Georgia and Karina were super attentive and absolutely set the tone and ensured that we had an outstanding experience!",
+          "date": "2026-06-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Robbie C",
+          "text": "Georgia and Karina awesome",
+          "date": "2026-06-05",
           "rating": 5
         }
       ]

@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-14T13:14:45.327Z",
-  "reviewCount": 92,
+  "fetchedAt": "2026-06-14T15:21:15.920Z",
+  "reviewCount": 93,
   "reviews": [
+    {
+      "reviewId": "5600490465463272253",
+      "reviewer": "Hizir Tiftikci",
+      "rating": 5,
+      "text": "We had a great experience! Our server Georgia was incredibly sweet, friendly, and attentive throughout our visit. She made us feel welcome from the moment we arrived and always checked in to make sure everything was perfect. Her positive attitude and excellent service made our meal even more enjoyable. We’ll definitely be back!",
+      "reviewDate": "2026-06-14T14:09:50.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5600124385463235772",
       "reviewer": "Mia Beaty",
