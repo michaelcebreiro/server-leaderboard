@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-13T23:48:21.458Z",
-  "reviewCount": 89,
-  "qualifyingReviewCount": 89,
+  "processedAt": "2026-06-14T04:41:32.291Z",
+  "reviewCount": 91,
+  "qualifyingReviewCount": 91,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -75,142 +75,142 @@
     },
     {
       "rank": 13,
-      "server": "Sydney",
+      "server": "Paige",
       "count": 2
     },
     {
       "rank": 14,
+      "server": "Sydney",
+      "count": 2
+    },
+    {
+      "rank": 15,
       "server": "Alessia",
       "count": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Josh",
       "count": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Paulveen",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 39,
-      "server": "Nicola",
-      "count": 0
-    },
-    {
       "rank": 40,
-      "server": "Paige",
+      "server": "Nicola",
       "count": 0
     },
     {
@@ -503,6 +503,24 @@
           "reviewer": "Max Lecaillon",
           "text": "Maria is an amazing server and so is Kaitlyn S!",
           "date": "2026-06-06",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Paige",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Mia Beaty",
+          "text": "The food here was absolutely fantastic, I got the trophy burger and it was absolutely to die for. Our server was Paige and she was absolutely amazing. She provided us with Incredible service all night long with a great energy that brightened up the room. All the other staff that assisted us were amazing as well! I will definitely be back, this place will for sure become a regular spot for my friends and I!!!",
+          "date": "2026-06-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rachel Edwards",
+          "text": "The food was so incredible here, I got the chicken sandwich which was such a great recommendation by Paige! She was such an incredibly energetic and attentive server which made our experience that much better! All the staff were so kind in passing, definitely will be coming back to this location especially!",
+          "date": "2026-06-14",
           "rating": 5
         }
       ]

@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-13T23:48:21.282Z",
-  "reviewCount": 89,
+  "fetchedAt": "2026-06-14T04:41:32.216Z",
+  "reviewCount": 91,
   "reviews": [
+    {
+      "reviewId": "5600124385463235772",
+      "reviewer": "Mia Beaty",
+      "rating": 5,
+      "text": "The food here was absolutely fantastic, I got the trophy burger and it was absolutely to die for. Our server was Paige and she was absolutely amazing. She provided us with Incredible service all night long with a great energy that brightened up the room. All the other staff that assisted us were amazing as well! I will definitely be back, this place will for sure become a regular spot for my friends and I!!!",
+      "reviewDate": "2026-06-14T01:39:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5600123385463235673",
+      "reviewer": "Rachel Edwards",
+      "rating": 5,
+      "text": "The food was so incredible here, I got the chicken sandwich which was such a great recommendation by Paige! She was such an incredibly energetic and attentive server which made our experience that much better! All the staff were so kind in passing, definitely will be coming back to this location especially!",
+      "reviewDate": "2026-06-14T01:38:28.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5599924945463215941",
       "reviewer": "Cathy Erbe",
