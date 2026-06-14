@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-14T18:18:37.767Z",
-  "reviewCount": 93,
-  "qualifyingReviewCount": 93,
+  "processedAt": "2026-06-14T20:06:48.538Z",
+  "reviewCount": 98,
+  "qualifyingReviewCount": 98,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,147 +45,147 @@
     },
     {
       "rank": 7,
+      "server": "Kayla",
+      "count": 4
+    },
+    {
+      "rank": 8,
       "server": "Akiko",
       "count": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "ever",
       "count": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Georgia",
       "count": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "server": "Sydney",
+      "count": 3
+    },
+    {
+      "rank": 12,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 11,
+      "rank": 13,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 14,
       "server": "Kaitlyn S",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 15,
       "server": "Karina",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Paige",
       "count": 2
     },
     {
-      "rank": 15,
-      "server": "Sydney",
-      "count": 2
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "server": "Alessia",
       "count": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Josh",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Paulveen",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 34,
-      "server": "Kalypsa",
-      "count": 0
-    },
-    {
       "rank": 35,
-      "server": "Kayla",
+      "server": "Kalypsa",
       "count": 0
     },
     {
@@ -400,6 +400,36 @@
           "reviewer": "Joanne Peskin",
           "text": "Ewan was an excellent server. He really helped make the experience so good.",
           "date": "2026-06-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kayla",
+      "count": 4,
+      "reviews": [
+        {
+          "reviewer": "Michael Boutros",
+          "text": "Food was great and service was top notch. The recommendations were amazing!!! Thank you Kayla and local!",
+          "date": "2026-06-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sandy Dief",
+          "text": "Kayla is amazing! She was very attentive to our tables needs and efficient and sweet. Food very good. Will be back.",
+          "date": "2026-06-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Mariam Romani",
+          "text": "Kayla was so friendly! Food was good, vibes were good. Would recommend",
+          "date": "2026-06-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Mariam Siha",
+          "text": "Kayla was a great server! She was pleasant and paid attention to all the details to make the experience unforgettable!",
+          "date": "2026-06-14",
           "rating": 5
         }
       ]
@@ -700,8 +730,14 @@
     },
     {
       "server": "Sydney",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Shelley Macdonell",
+          "text": "We arrived at about 12:30 were greeted by a friendly young lady and seated right away..Sydney Peel was the manager that made sure our table was changed to make it more suitable for us..she was friendly knowledgeable and very professional always with a beautiful smile! Our server was (Mat) or Mathew he was super..served us with a smile and circled back several times to make sure we were happy or did we need anything more..great service from everyone..we loved our lunch! The staff is outstanding here and food is awesome! Thank you!!",
+          "date": "2026-06-14",
+          "rating": 5
+        },
         {
           "reviewer": "Caitlyn Flux",
           "text": "Great service from Kaia and Sydney!!!",

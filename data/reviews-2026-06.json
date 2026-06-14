@@ -1,8 +1,48 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-14T18:18:37.550Z",
-  "reviewCount": 93,
+  "fetchedAt": "2026-06-14T20:06:48.459Z",
+  "reviewCount": 98,
   "reviews": [
+    {
+      "reviewId": "5600677575463290799",
+      "reviewer": "Michael Boutros",
+      "rating": 5,
+      "text": "Food was great and service was top notch. The recommendations were amazing!!! Thank you Kayla and local!",
+      "reviewDate": "2026-06-14T19:26:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5600677585463290800",
+      "reviewer": "Sandy Dief",
+      "rating": 5,
+      "text": "Kayla is amazing! She was very attentive to our tables needs and efficient and sweet. Food very good. Will be back.",
+      "reviewDate": "2026-06-14T19:25:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5600677595463290801",
+      "reviewer": "Mariam Romani",
+      "rating": 5,
+      "text": "Kayla was so friendly! Food was good, vibes were good. Would recommend",
+      "reviewDate": "2026-06-14T19:25:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5600677605463290802",
+      "reviewer": "Mariam Siha",
+      "rating": 5,
+      "text": "Kayla was a great server! She was pleasant and paid attention to all the details to make the experience unforgettable!",
+      "reviewDate": "2026-06-14T19:25:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5600667675463289818",
+      "reviewer": "Shelley Macdonell",
+      "rating": 5,
+      "text": "We arrived at about 12:30 were greeted by a friendly young lady and seated right away..Sydney Peel was the manager that made sure our table was changed to make it more suitable for us..she was friendly knowledgeable and very professional always with a beautiful smile! Our server was (Mat) or Mathew he was super..served us with a smile and circled back several times to make sure we were happy or did we need anything more..great service from everyone..we loved our lunch! The staff is outstanding here and food is awesome! Thank you!!",
+      "reviewDate": "2026-06-14T19:02:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5600490465463272253",
       "reviewer": "Hizir Tiftikci",
