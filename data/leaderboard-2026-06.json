@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-15T11:35:16.513Z",
-  "reviewCount": 100,
-  "qualifyingReviewCount": 100,
+  "processedAt": "2026-06-15T16:32:32.927Z",
+  "reviewCount": 101,
+  "qualifyingReviewCount": 101,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,23 +35,23 @@
     },
     {
       "rank": 5,
-      "server": "Ewan",
+      "server": "Akiko",
       "count": 4
     },
     {
       "rank": 6,
-      "server": "Kaia",
+      "server": "Ewan",
       "count": 4
     },
     {
       "rank": 7,
-      "server": "Kayla",
+      "server": "Kaia",
       "count": 4
     },
     {
       "rank": 8,
-      "server": "Akiko",
-      "count": 3
+      "server": "Kayla",
+      "count": 4
     },
     {
       "rank": 9,
@@ -110,92 +110,92 @@
     },
     {
       "rank": 20,
-      "server": "Paulveen",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 21,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 22,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 36,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 37,
-      "server": "Matteo",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -232,8 +232,14 @@
   "mentions": [
     {
       "server": "Akiko",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Anna Moskovchenko",
+          "text": "Akiko and Matteo were amazing and made our experience a great one! The food was super tasty and the service was unmatched. Thank you!",
+          "date": "2026-06-15",
+          "rating": 5
+        },
         {
           "reviewer": "Gus K",
           "text": "Akiko was great!",
@@ -466,6 +472,18 @@
           "reviewer": "Tanya Sharma",
           "text": "Danielle was a wonderful host and we had a lovely time!",
           "date": "2026-06-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matteo",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Anna Moskovchenko",
+          "text": "Akiko and Matteo were amazing and made our experience a great one! The food was super tasty and the service was unmatched. Thank you!",
+          "date": "2026-06-15",
           "rating": 5
         }
       ]

@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-15T11:35:16.440Z",
-  "reviewCount": 100,
+  "fetchedAt": "2026-06-15T16:32:32.853Z",
+  "reviewCount": 101,
   "reviews": [
+    {
+      "reviewId": "5096911885413128266",
+      "reviewer": "Anna Moskovchenko",
+      "rating": 5,
+      "text": "Akiko and Matteo were amazing and made our experience a great one! The food was super tasty and the service was unmatched. Thank you!",
+      "reviewDate": "2026-06-15T15:16:56.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5600993364463322236",
       "reviewer": "Karen",
