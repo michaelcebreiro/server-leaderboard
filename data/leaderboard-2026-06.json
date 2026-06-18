@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-18T01:44:19.753Z",
-  "reviewCount": 105,
-  "qualifyingReviewCount": 105,
+  "processedAt": "2026-06-18T06:31:44.978Z",
+  "reviewCount": 106,
+  "qualifyingReviewCount": 106,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,13 +30,13 @@
     },
     {
       "rank": 4,
-      "server": "Danielle",
+      "server": "Akiko",
       "count": 5
     },
     {
       "rank": 5,
-      "server": "Akiko",
-      "count": 4
+      "server": "Danielle",
+      "count": 5
     },
     {
       "rank": 6,
@@ -232,8 +232,14 @@
   "mentions": [
     {
       "server": "Akiko",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "David Huang",
+          "text": "Akiko was awesome. Great place to chill",
+          "date": "2026-06-18",
+          "rating": 5
+        },
         {
           "reviewer": "Anna Moskovchenko",
           "text": "Akiko and Matteo were amazing and made our experience a great one! The food was super tasty and the service was unmatched. Thank you!",

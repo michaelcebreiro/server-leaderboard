@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-18T01:44:19.677Z",
-  "reviewCount": 105,
+  "fetchedAt": "2026-06-18T06:31:44.780Z",
+  "reviewCount": 106,
   "reviews": [
+    {
+      "reviewId": "5605930855463813040",
+      "reviewer": "David Huang",
+      "rating": 5,
+      "text": "Akiko was awesome. Great place to chill",
+      "reviewDate": "2026-06-18T03:06:50.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5605830125463803101",
       "reviewer": "Eduardo Torres",
