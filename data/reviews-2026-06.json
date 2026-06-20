@@ -1,8 +1,48 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-20T01:28:47.140Z",
-  "reviewCount": 108,
+  "fetchedAt": "2026-06-20T05:59:01.005Z",
+  "reviewCount": 113,
   "reviews": [
+    {
+      "reviewId": "5608363815464054251",
+      "reviewer": "Insha Ladha",
+      "rating": 5,
+      "text": "It was a great vibe and the food was good too. Sydney was amazing and checked in on us regularly despite the restaurant being fully booked out. Would definitely recommend it",
+      "reviewDate": "2026-06-20T04:17:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5608363635464054233",
+      "reviewer": "Fiza Ladha",
+      "rating": 5,
+      "text": "Had so much fun here!! Sydney was our server and she was amazinggg < 3",
+      "reviewDate": "2026-06-20T04:16:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5608331265464051021",
+      "reviewer": "raven rhodenizer",
+      "rating": 5,
+      "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
+      "reviewDate": "2026-06-20T03:25:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5608319565464049858",
+      "reviewer": "student account",
+      "rating": 5,
+      "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
+      "reviewDate": "2026-06-20T02:59:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5608319505464049852",
+      "reviewer": "Carter Briggs",
+      "rating": 5,
+      "text": "Had an amazing night as always, Sydney was our waitress, she was super helpful and fast. Always the go to spot!",
+      "reviewDate": "2026-06-20T02:59:21.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5607411955463959927",
       "reviewer": "Matt",

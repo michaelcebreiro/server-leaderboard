@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-20T01:28:47.327Z",
-  "reviewCount": 108,
-  "qualifyingReviewCount": 108,
+  "processedAt": "2026-06-20T05:59:01.080Z",
+  "reviewCount": 113,
+  "qualifyingReviewCount": 113,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,52 +20,52 @@
     },
     {
       "rank": 2,
+      "server": "Sydney",
+      "count": 8
+    },
+    {
+      "rank": 3,
       "server": "Christina",
       "count": 6
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Maria",
       "count": 6
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Akiko",
       "count": 5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Danielle",
       "count": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "server": "ever",
+      "count": 5
+    },
+    {
+      "rank": 8,
       "server": "Ewan",
       "count": 4
     },
     {
-      "rank": 7,
+      "rank": 9,
       "server": "Kaia",
       "count": 4
     },
     {
-      "rank": 8,
+      "rank": 10,
       "server": "Kayla",
       "count": 4
     },
     {
-      "rank": 9,
-      "server": "ever",
-      "count": 3
-    },
-    {
-      "rank": 10,
-      "server": "Georgia",
-      "count": 3
-    },
-    {
       "rank": 11,
-      "server": "Sydney",
+      "server": "Georgia",
       "count": 3
     },
     {
@@ -754,8 +754,38 @@
     },
     {
       "server": "Sydney",
-      "count": 3,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Insha Ladha",
+          "text": "It was a great vibe and the food was good too. Sydney was amazing and checked in on us regularly despite the restaurant being fully booked out. Would definitely recommend it",
+          "date": "2026-06-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Fiza Ladha",
+          "text": "Had so much fun here!! Sydney was our server and she was amazinggg < 3",
+          "date": "2026-06-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "raven rhodenizer",
+          "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
+          "date": "2026-06-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "student account",
+          "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
+          "date": "2026-06-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Carter Briggs",
+          "text": "Had an amazing night as always, Sydney was our waitress, she was super helpful and fast. Always the go to spot!",
+          "date": "2026-06-20",
+          "rating": 5
+        },
         {
           "reviewer": "Shelley Macdonell",
           "text": "We arrived at about 12:30 were greeted by a friendly young lady and seated right away..Sydney Peel was the manager that made sure our table was changed to make it more suitable for us..she was friendly knowledgeable and very professional always with a beautiful smile! Our server was (Mat) or Mathew he was super..served us with a smile and circled back several times to make sure we were happy or did we need anything more..great service from everyone..we loved our lunch! The staff is outstanding here and food is awesome! Thank you!!",
@@ -790,8 +820,20 @@
     },
     {
       "server": "ever",
-      "count": 3,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "raven rhodenizer",
+          "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
+          "date": "2026-06-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "student account",
+          "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
+          "date": "2026-06-20",
+          "rating": 5
+        },
         {
           "reviewer": "Maria Kyriacou",
           "text": "Best server ever Ewan!! He is fabulous.",
