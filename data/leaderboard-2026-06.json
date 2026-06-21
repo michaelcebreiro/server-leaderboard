@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-21T21:44:13.417Z",
-  "reviewCount": 124,
-  "qualifyingReviewCount": 123,
+  "processedAt": "2026-06-21T22:52:12.745Z",
+  "reviewCount": 125,
+  "qualifyingReviewCount": 124,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,12 +20,12 @@
     },
     {
       "rank": 2,
-      "server": "Danielle",
-      "count": 9
+      "server": "Sydney",
+      "count": 10
     },
     {
       "rank": 3,
-      "server": "Sydney",
+      "server": "Danielle",
       "count": 9
     },
     {
@@ -826,8 +826,14 @@
     },
     {
       "server": "Sydney",
-      "count": 9,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "Lacrosse Admin",
+          "text": "Syd was awesome",
+          "date": "2026-06-21",
+          "rating": 5
+        },
         {
           "reviewer": "Joe Gorham",
           "text": "Sydney was a great server. Couldn’t even possible think of a bad thing to say even if I wanted to",
