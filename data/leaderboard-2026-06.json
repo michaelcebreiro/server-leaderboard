@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-21T01:41:22.911Z",
-  "reviewCount": 116,
-  "qualifyingReviewCount": 115,
+  "processedAt": "2026-06-21T06:32:03.022Z",
+  "reviewCount": 123,
+  "qualifyingReviewCount": 122,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,27 +20,27 @@
     },
     {
       "rank": 2,
-      "server": "Sydney",
+      "server": "Danielle",
       "count": 9
     },
     {
       "rank": 3,
+      "server": "Sydney",
+      "count": 9
+    },
+    {
+      "rank": 4,
       "server": "Christina",
       "count": 6
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Maria",
       "count": 6
     },
     {
-      "rank": 5,
-      "server": "Akiko",
-      "count": 5
-    },
-    {
       "rank": 6,
-      "server": "Danielle",
+      "server": "Akiko",
       "count": 5
     },
     {
@@ -70,147 +70,147 @@
     },
     {
       "rank": 12,
-      "server": "Annabel",
+      "server": "Alessia",
       "count": 2
     },
     {
       "rank": 13,
-      "server": "Eli",
+      "server": "Annabel",
       "count": 2
     },
     {
       "rank": 14,
-      "server": "Kaitlyn S",
+      "server": "Eli",
       "count": 2
     },
     {
       "rank": 15,
-      "server": "Karina",
+      "server": "Jackie G",
       "count": 2
     },
     {
       "rank": 16,
-      "server": "Paige",
+      "server": "Kaitlyn S",
       "count": 2
     },
     {
       "rank": 17,
-      "server": "Alessia",
-      "count": 1
+      "server": "Karina",
+      "count": 2
     },
     {
       "rank": 18,
+      "server": "Paige",
+      "count": 2
+    },
+    {
+      "rank": 19,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Josh",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
+      "server": "Mia",
+      "count": 1
+    },
+    {
+      "rank": 23,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 24,
       "server": "Paulveen",
       "count": 1
     },
     {
-      "rank": 22,
+      "rank": 25,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 26,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 27,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 28,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 29,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 30,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 31,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 32,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 33,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 34,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 35,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 33,
-      "server": "Jackie G",
-      "count": 0
-    },
-    {
-      "rank": 34,
+      "rank": 36,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 37,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 38,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 39,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 38,
-      "server": "Meklit",
-      "count": 0
-    },
-    {
-      "rank": 39,
-      "server": "Mia",
-      "count": 0
-    },
-    {
       "rank": 40,
-      "server": "Nicky",
+      "server": "Meklit",
       "count": 0
     },
     {
@@ -230,6 +230,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Mia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Paul Filipopoulos",
+          "text": "Mia served us tonight and she is just the best we adore her! Also love her trivia nights! Nicky and Alessia are some of our regular servers and we love them as well. They all always keep our drinks full and bring the best vibes.",
+          "date": "2026-06-21",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Akiko",
       "count": 5,
@@ -447,9 +459,45 @@
       ]
     },
     {
-      "server": "Danielle",
-      "count": 5,
+      "server": "Nicky",
+      "count": 1,
       "reviews": [
+        {
+          "reviewer": "Paul Filipopoulos",
+          "text": "Mia served us tonight and she is just the best we adore her! Also love her trivia nights! Nicky and Alessia are some of our regular servers and we love them as well. They all always keep our drinks full and bring the best vibes.",
+          "date": "2026-06-21",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Danielle",
+      "count": 9,
+      "reviews": [
+        {
+          "reviewer": "Anna May",
+          "text": "DANIELLE THE GOAT",
+          "date": "2026-06-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tabatha Bull",
+          "text": "Danielle was amazing! Jackie also was awesome!",
+          "date": "2026-06-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Christianna Ferguson",
+          "text": "Our group had the best time at the Local celebrating a bride to be. Danielle, our server was an absolute rock star and went out of her way to make it a special evening. Thank you!",
+          "date": "2026-06-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tracy Primeau",
+          "text": "Danielle was the best!",
+          "date": "2026-06-21",
+          "rating": 5
+        },
         {
           "reviewer": "George Antziletos",
           "text": "Danielle was great! Food and drinks were amazing",
@@ -496,8 +544,14 @@
     },
     {
       "server": "Alessia",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Paul Filipopoulos",
+          "text": "Mia served us tonight and she is just the best we adore her! Also love her trivia nights! Nicky and Alessia are some of our regular servers and we love them as well. They all always keep our drinks full and bring the best vibes.",
+          "date": "2026-06-21",
+          "rating": 5
+        },
         {
           "reviewer": "Jasmine Jardine",
           "text": "Alessia was soooooo sweet and kind!!",
@@ -514,6 +568,24 @@
           "reviewer": "Cathy Erbe",
           "text": "Our waiter Josh, is so attentive and helpful. Made our lunch that much more enjoyable 👍",
           "date": "2026-06-13",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Jackie G",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Captain Barbosa",
+          "text": "Planned a group outing of around 20 people for a surprise birthday party. Super accommodating with having separate bills and with us bringing our own cake and birthday decorations. Our main server for the evening (Jackie) was extremely kind, attentive, and professional in making sure our group was taken care of. I would 100% recommend this place for a laid back time with good company, and to Jackie thank you and the staff for making our night come together effortlessly!",
+          "date": "2026-06-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tabatha Bull",
+          "text": "Danielle was amazing! Jackie also was awesome!",
+          "date": "2026-06-21",
           "rating": 5
         }
       ]

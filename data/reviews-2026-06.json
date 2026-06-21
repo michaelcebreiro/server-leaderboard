@@ -1,8 +1,64 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-21T01:41:22.743Z",
-  "reviewCount": 116,
+  "fetchedAt": "2026-06-21T06:32:02.945Z",
+  "reviewCount": 123,
   "reviews": [
+    {
+      "reviewId": "5609908645464208134",
+      "reviewer": "Paul Filipopoulos",
+      "rating": 5,
+      "text": "Mia served us tonight and she is just the best we adore her! Also love her trivia nights! Nicky and Alessia are some of our regular servers and we love them as well. They all always keep our drinks full and bring the best vibes.",
+      "reviewDate": "2026-06-21T06:11:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5609893615464206632",
+      "reviewer": "Captain Barbosa",
+      "rating": 5,
+      "text": "Planned a group outing of around 20 people for a surprise birthday party. Super accommodating with having separate bills and with us bringing our own cake and birthday decorations. Our main server for the evening (Jackie) was extremely kind, attentive, and professional in making sure our group was taken care of. I would 100% recommend this place for a laid back time with good company, and to Jackie thank you and the staff for making our night come together effortlessly!",
+      "reviewDate": "2026-06-21T05:31:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5609744755464191798",
+      "reviewer": "Anna May",
+      "rating": 5,
+      "text": "DANIELLE THE GOAT",
+      "reviewDate": "2026-06-21T01:49:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5609742245464191550",
+      "reviewer": "Tabatha Bull",
+      "rating": 5,
+      "text": "Danielle was amazing! Jackie also was awesome!",
+      "reviewDate": "2026-06-21T01:40:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5609742235464191549",
+      "reviewer": "Christianna Ferguson",
+      "rating": 5,
+      "text": "Our group had the best time at the Local celebrating a bride to be. Danielle, our server was an absolute rock star and went out of her way to make it a special evening. Thank you!",
+      "reviewDate": "2026-06-21T01:39:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5609741745464191501",
+      "reviewer": "Tracy Primeau",
+      "rating": 5,
+      "text": "Danielle was the best!",
+      "reviewDate": "2026-06-21T01:38:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5609801695464197471",
+      "reviewer": "Linda",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-20T17:02:02.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5608397665464057616",
       "reviewer": "Joe Gorham",
