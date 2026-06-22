@@ -1,7 +1,7 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-21T22:52:12.667Z",
-  "reviewCount": 125,
+  "fetchedAt": "2026-06-22T00:16:02.063Z",
+  "reviewCount": 128,
   "reviews": [
     {
       "reviewId": "5610652415464282209",
@@ -18,6 +18,30 @@
       "text": "Great food but extremely disorganized kitchen. I eat here often and the kitchen has forgotten my orders a few times, which gets even worse with takeout/delivery, resulting in extremely long waits (1hr+). I keep coming back for the great food though. Make sure you order with lots of time to spare lol.",
       "reviewDate": "2026-06-21T18:53:03.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5610700015464286946",
+      "reviewer": "Tabatha",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-21T18:07:43.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5610700025464286947",
+      "reviewer": "Pooneh",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-21T16:34:52.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5610700035464286948",
+      "reviewer": "Sidd",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-21T15:19:22.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5609908645464208134",
