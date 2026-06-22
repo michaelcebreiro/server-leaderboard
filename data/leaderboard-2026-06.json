@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-22T16:11:00.881Z",
-  "reviewCount": 128,
-  "qualifyingReviewCount": 127,
+  "processedAt": "2026-06-22T19:48:17.509Z",
+  "reviewCount": 130,
+  "qualifyingReviewCount": 129,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -100,27 +100,27 @@
     },
     {
       "rank": 18,
-      "server": "Paige",
+      "server": "Mia",
       "count": 2
     },
     {
       "rank": 19,
+      "server": "Paige",
+      "count": 2
+    },
+    {
+      "rank": 20,
       "server": "Eliza",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Josh",
       "count": 1
     },
     {
-      "rank": 21,
-      "server": "Matteo",
-      "count": 1
-    },
-    {
       "rank": 22,
-      "server": "Mia",
+      "server": "Matteo",
       "count": 1
     },
     {
@@ -232,8 +232,14 @@
   "mentions": [
     {
       "server": "Mia",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Holly Mckee",
+          "text": "Thank you Mia for a lovely lunch!",
+          "date": "2026-06-22",
+          "rating": 5
+        },
         {
           "reviewer": "Paul Filipopoulos",
           "text": "Mia served us tonight and she is just the best we adore her! Also love her trivia nights! Nicky and Alessia are some of our regular servers and we love them as well. They all always keep our drinks full and bring the best vibes.",
