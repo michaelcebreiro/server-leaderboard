@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-23T12:47:31.372Z",
-  "reviewCount": 132,
+  "fetchedAt": "2026-06-23T15:53:09.525Z",
+  "reviewCount": 133,
   "reviews": [
+    {
+      "reviewId": "5614412935464657209",
+      "reviewer": "Karen Liu",
+      "rating": 5,
+      "text": "We had a wonderful experience dining here on a Friday afternoon. The patio was open and the weather was great, so we opted to sit outdoors. We were seated at a super spacious table with an umbrella to provide shade!\n\nWe started off with two drinks, both of which were tasty and a good size. We ordered the beef and onion burger, as well as the spicy chicken sandwich. They were both just okay, but the fries were amazing! The service was also great, no complaints.\n\nOverall, we had a nice meal and although I may not come back because of the distance, I recommend it to anyone looking for a casual pub-style meal!",
+      "reviewDate": "2026-06-23T14:05:01.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5614282345464644263",
       "reviewer": "Henry",
