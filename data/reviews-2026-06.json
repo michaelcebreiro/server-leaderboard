@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-23T10:04:27.586Z",
-  "reviewCount": 131,
+  "fetchedAt": "2026-06-23T12:47:31.372Z",
+  "reviewCount": 132,
   "reviews": [
+    {
+      "reviewId": "5614282345464644263",
+      "reviewer": "Henry",
+      "rating": 5,
+      "text": "The best food, specially their Burgers ,the servers are welcoming and friendly.",
+      "reviewDate": "2026-06-23T10:44:59.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5612811885464497753",
       "reviewer": "Cynthia Shipley",
