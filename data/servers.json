@@ -204,10 +204,6 @@
       ]
     },
     {
-      "name": "Eliza",
-      "aliases": []
-    },
-    {
       "name": "Georgia",
       "aliases": []
     },
@@ -223,6 +219,7 @@
     "Rivaldo",
     "with",
     "friendly",
-    "ever"
+    "ever",
+    "Eliza"
   ]
 }
