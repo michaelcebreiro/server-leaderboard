@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-24T14:41:13.653Z",
+  "processedAt": "2026-06-24T16:55:31.046Z",
   "reviewCount": 137,
   "qualifyingReviewCount": 135,
   "thresholds": {
@@ -30,12 +30,12 @@
     },
     {
       "rank": 4,
-      "server": "Christina",
-      "count": 6
+      "server": "Maria",
+      "count": 7
     },
     {
       "rank": 5,
-      "server": "Maria",
+      "server": "Christina",
       "count": 6
     },
     {
@@ -45,186 +45,181 @@
     },
     {
       "rank": 7,
-      "server": "ever",
-      "count": 5
-    },
-    {
-      "rank": 8,
       "server": "Ewan",
       "count": 4
     },
     {
-      "rank": 9,
+      "rank": 8,
       "server": "Kaia",
       "count": 4
     },
     {
-      "rank": 10,
+      "rank": 9,
       "server": "Kayla",
       "count": 4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "server": "Georgia",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 11,
       "server": "Alessia",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 12,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 13,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 15,
+      "rank": 14,
       "server": "Harrison",
       "count": 2
     },
     {
-      "rank": 16,
+      "rank": 15,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "server": "Kaitlyn S",
       "count": 2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "server": "Karina",
       "count": 2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "server": "Mia",
       "count": 2
     },
     {
-      "rank": 20,
+      "rank": 19,
       "server": "Paige",
       "count": 2
     },
     {
-      "rank": 21,
-      "server": "Eliza",
-      "count": 1
-    },
-    {
-      "rank": 22,
+      "rank": 20,
       "server": "Josh",
       "count": 1
     },
     {
-      "rank": 23,
+      "rank": 21,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 24,
+      "rank": 22,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 25,
+      "rank": 23,
+      "server": "Nina",
+      "count": 1
+    },
+    {
+      "rank": 24,
       "server": "Paulveen",
       "count": 1
     },
     {
-      "rank": 26,
+      "rank": 25,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 26,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 27,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 28,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 29,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 30,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 31,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 32,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 33,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 34,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 35,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 36,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 37,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 38,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 39,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 40,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 41,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 42,
       "server": "Zivko",
       "count": 0
     }
@@ -364,11 +359,17 @@
     },
     {
       "server": "Maria",
-      "count": 6,
+      "count": 7,
       "reviews": [
         {
           "reviewer": "John Mitchell",
           "text": "The food is always good, and the atmosphere is very comfortable. The service from Maria was outstanding!",
+          "date": "2026-06-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Dylan Zivojinovich",
+          "text": "Marina was super helpful and nice",
           "date": "2026-06-09",
           "rating": 5
         },
@@ -915,54 +916,6 @@
       ]
     },
     {
-      "server": "Eliza",
-      "count": 1,
-      "reviews": [
-        {
-          "reviewer": "Maggie Bahler Rizzio",
-          "text": "Here for a private party and our server, Eliza, was AMAZING!! She knows her cocktails and was incredibly helpful. Made our party great!!",
-          "date": "2026-06-01",
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "server": "ever",
-      "count": 5,
-      "reviews": [
-        {
-          "reviewer": "raven rhodenizer",
-          "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
-          "date": "2026-06-20",
-          "rating": 5
-        },
-        {
-          "reviewer": "student account",
-          "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
-          "date": "2026-06-20",
-          "rating": 5
-        },
-        {
-          "reviewer": "Maria Kyriacou",
-          "text": "Best server ever Ewan!! He is fabulous.",
-          "date": "2026-06-07",
-          "rating": 5
-        },
-        {
-          "reviewer": "Sylphia B",
-          "text": "The nicest server ever! Made my birthday",
-          "date": "2026-06-06",
-          "rating": 5
-        },
-        {
-          "reviewer": "mohammadkhalvat5",
-          "text": "We had an amazing dining experience, and a huge part of that was thanks to our server, Derks. From the moment we sat down, they were incredibly welcoming, attentive, and friendly. The recommendations were spot on, the food came out perfectly, and Derks made sure we had everything we needed without ever being overbearing. Excellent hospitality all around—do yourself a favor and ask for Derks when you visit!",
-          "date": "2026-06-01",
-          "rating": 5
-        }
-      ]
-    },
-    {
       "server": "Georgia",
       "count": 3,
       "reviews": [
@@ -982,6 +935,18 @@
           "reviewer": "Robbie C",
           "text": "Georgia and Karina awesome",
           "date": "2026-06-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Nina",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Eduardo Torres",
+          "text": "My god nina was the best she is the best of that place",
+          "date": "2026-06-18",
           "rating": 5
         }
       ]
