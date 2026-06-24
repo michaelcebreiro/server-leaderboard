@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-24T16:55:31.046Z",
-  "reviewCount": 137,
-  "qualifyingReviewCount": 135,
+  "processedAt": "2026-06-24T18:54:22.131Z",
+  "reviewCount": 136,
+  "qualifyingReviewCount": 134,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,12 +20,12 @@
     },
     {
       "rank": 2,
-      "server": "Sydney",
-      "count": 10
+      "server": "Danielle",
+      "count": 9
     },
     {
       "rank": 3,
-      "server": "Danielle",
+      "server": "Sydney",
       "count": 9
     },
     {
@@ -851,7 +851,7 @@
     },
     {
       "server": "Sydney",
-      "count": 10,
+      "count": 9,
       "reviews": [
         {
           "reviewer": "Lacrosse Admin",
@@ -879,12 +879,6 @@
         },
         {
           "reviewer": "raven rhodenizer",
-          "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
-          "date": "2026-06-20",
-          "rating": 5
-        },
-        {
-          "reviewer": "student account",
           "text": "Always have an amazing night at the local!!!\nThe waitress Sydney is absolutely amazing, sweetest person ever! Lucky to have her as our waitress <3 Love her!!!",
           "date": "2026-06-20",
           "rating": 5
