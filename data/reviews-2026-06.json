@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-23T23:15:31.336Z",
-  "reviewCount": 133,
+  "fetchedAt": "2026-06-24T01:26:03.487Z",
+  "reviewCount": 134,
   "reviews": [
+    {
+      "reviewId": "5615400865464755429",
+      "reviewer": "Valerie Cooke",
+      "rating": 5,
+      "text": "Harrison was amazing",
+      "reviewDate": "2026-06-23T23:50:13.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5614412935464657209",
       "reviewer": "Karen Liu",

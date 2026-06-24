@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-23T23:15:31.587Z",
-  "reviewCount": 133,
-  "qualifyingReviewCount": 131,
+  "processedAt": "2026-06-24T01:26:03.687Z",
+  "reviewCount": 134,
+  "qualifyingReviewCount": 132,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -115,67 +115,67 @@
     },
     {
       "rank": 21,
-      "server": "Josh",
+      "server": "Harrison",
       "count": 1
     },
     {
       "rank": 22,
-      "server": "Matteo",
+      "server": "Josh",
       "count": 1
     },
     {
       "rank": 23,
-      "server": "Nicky",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 24,
-      "server": "Paulveen",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 25,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 26,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 32,
-      "server": "Elaiza",
-      "count": 0
-    },
-    {
       "rank": 33,
-      "server": "Harrison",
+      "server": "Elaiza",
       "count": 0
     },
     {
@@ -640,6 +640,18 @@
           "reviewer": "Max Lecaillon",
           "text": "Maria is an amazing server and so is Kaitlyn S!",
           "date": "2026-06-06",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Harrison",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Valerie Cooke",
+          "text": "Harrison was amazing",
+          "date": "2026-06-23",
           "rating": 5
         }
       ]
