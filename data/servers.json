@@ -208,10 +208,6 @@
       "aliases": []
     },
     {
-      "name": "ever",
-      "aliases": []
-    },
-    {
       "name": "Georgia",
       "aliases": []
     }
@@ -222,6 +218,7 @@
     "Ricki",
     "Rivaldo",
     "with",
-    "friendly"
+    "friendly",
+    "ever"
   ]
 }
