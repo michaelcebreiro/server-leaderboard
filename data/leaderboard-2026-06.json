@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-24T01:26:03.687Z",
-  "reviewCount": 134,
-  "qualifyingReviewCount": 132,
+  "processedAt": "2026-06-24T05:43:57.164Z",
+  "reviewCount": 135,
+  "qualifyingReviewCount": 133,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -85,37 +85,37 @@
     },
     {
       "rank": 15,
-      "server": "Jackie G",
+      "server": "Harrison",
       "count": 2
     },
     {
       "rank": 16,
-      "server": "Kaitlyn S",
+      "server": "Jackie G",
       "count": 2
     },
     {
       "rank": 17,
-      "server": "Karina",
+      "server": "Kaitlyn S",
       "count": 2
     },
     {
       "rank": 18,
-      "server": "Mia",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 19,
-      "server": "Paige",
+      "server": "Mia",
       "count": 2
     },
     {
       "rank": 20,
-      "server": "Eliza",
-      "count": 1
+      "server": "Paige",
+      "count": 2
     },
     {
       "rank": 21,
-      "server": "Harrison",
+      "server": "Eliza",
       "count": 1
     },
     {
@@ -646,8 +646,14 @@
     },
     {
       "server": "Harrison",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Tuğçe Y",
+          "text": "It was a great evening! Harrison, who was particularly interested in us, was incredibly friendly and caring!",
+          "date": "2026-06-24",
+          "rating": 5
+        },
         {
           "reviewer": "Valerie Cooke",
           "text": "Harrison was amazing",

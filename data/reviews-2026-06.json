@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-24T01:26:03.487Z",
-  "reviewCount": 134,
+  "fetchedAt": "2026-06-24T05:43:57.086Z",
+  "reviewCount": 135,
   "reviews": [
+    {
+      "reviewId": "5615701935464785433",
+      "reviewer": "Tuğçe Y",
+      "rating": 5,
+      "text": "It was a great evening! Harrison, who was particularly interested in us, was incredibly friendly and caring!",
+      "reviewDate": "2026-06-24T02:30:12.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5615400865464755429",
       "reviewer": "Valerie Cooke",
