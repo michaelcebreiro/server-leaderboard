@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-26T20:11:17.349Z",
-  "reviewCount": 144,
-  "qualifyingReviewCount": 142,
+  "processedAt": "2026-06-26T21:41:34.377Z",
+  "reviewCount": 149,
+  "qualifyingReviewCount": 147,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,72 +35,72 @@
     },
     {
       "rank": 5,
+      "server": "Mia",
+      "count": 7
+    },
+    {
+      "rank": 6,
       "server": "Christina",
       "count": 6
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Akiko",
       "count": 5
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Ewan",
       "count": 5
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Georgia",
       "count": 4
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Kaia",
       "count": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Kayla",
       "count": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Kaitlyn S",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Alessia",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Harrison",
       "count": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 17,
-      "server": "Karina",
-      "count": 2
-    },
-    {
       "rank": 18,
-      "server": "Mia",
+      "server": "Karina",
       "count": 2
     },
     {
@@ -227,8 +227,38 @@
   "mentions": [
     {
       "server": "Mia",
-      "count": 2,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Jade Borlinha",
+          "text": "Considerate, kind, great service thanks Mia!",
+          "date": "2026-06-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jenna Maunu",
+          "text": "Mia was great!",
+          "date": "2026-06-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sarah Anderson",
+          "text": "Mia at the Leaside location was super friendly and the service was excellent",
+          "date": "2026-06-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Corey Maunu",
+          "text": "Thanks Mia!",
+          "date": "2026-06-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Magnus Jakopsohn",
+          "text": "Our waiter Mia, was absolutely excellent! We’re more than happy to recommend both her and the Local as a great venue!",
+          "date": "2026-06-26",
+          "rating": 5
+        },
         {
           "reviewer": "Holly Mckee",
           "text": "Thank you Mia for a lovely lunch!",

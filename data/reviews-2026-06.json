@@ -1,8 +1,48 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-26T20:11:17.120Z",
-  "reviewCount": 144,
+  "fetchedAt": "2026-06-26T21:41:34.296Z",
+  "reviewCount": 149,
   "reviews": [
+    {
+      "reviewId": "5621587475465371208",
+      "reviewer": "Jade Borlinha",
+      "rating": 5,
+      "text": "Considerate, kind, great service thanks Mia!",
+      "reviewDate": "2026-06-26T21:13:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5621513255465363838",
+      "reviewer": "Jenna Maunu",
+      "rating": 5,
+      "text": "Mia was great!",
+      "reviewDate": "2026-06-26T20:06:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5621512355465363749",
+      "reviewer": "Sarah Anderson",
+      "rating": 5,
+      "text": "Mia at the Leaside location was super friendly and the service was excellent",
+      "reviewDate": "2026-06-26T20:04:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5621512315465363745",
+      "reviewer": "Corey Maunu",
+      "rating": 5,
+      "text": "Thanks Mia!",
+      "reviewDate": "2026-06-26T20:04:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5621511835465363698",
+      "reviewer": "Magnus Jakopsohn",
+      "rating": 5,
+      "text": "Our waiter Mia, was absolutely excellent! We’re more than happy to recommend both her and the Local as a great venue!",
+      "reviewDate": "2026-06-26T20:02:46.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5621167525465329517",
       "reviewer": "Bella Prodan",
