@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-26T00:16:16.708Z",
-  "reviewCount": 139,
-  "qualifyingReviewCount": 137,
+  "processedAt": "2026-06-26T04:50:36.056Z",
+  "reviewCount": 141,
+  "qualifyingReviewCount": 139,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -31,7 +31,7 @@
     {
       "rank": 4,
       "server": "Maria",
-      "count": 7
+      "count": 8
     },
     {
       "rank": 5,
@@ -46,7 +46,7 @@
     {
       "rank": 7,
       "server": "Ewan",
-      "count": 4
+      "count": 5
     },
     {
       "rank": 8,
@@ -65,32 +65,32 @@
     },
     {
       "rank": 11,
+      "server": "Kaitlyn S",
+      "count": 3
+    },
+    {
+      "rank": 12,
       "server": "Alessia",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Harrison",
       "count": 2
     },
     {
-      "rank": 15,
-      "server": "Jackie G",
-      "count": 2
-    },
-    {
       "rank": 16,
-      "server": "Kaitlyn S",
+      "server": "Jackie G",
       "count": 2
     },
     {
@@ -359,8 +359,14 @@
     },
     {
       "server": "Maria",
-      "count": 7,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "hello there",
+          "text": "Excellent service. If you get Kaitlyn S or Maria, you’re set. They were friendly and had the best suggestions! I’ll be back!!",
+          "date": "2026-06-26",
+          "rating": 5
+        },
         {
           "reviewer": "John Mitchell",
           "text": "The food is always good, and the atmosphere is very comfortable. The service from Maria was outstanding!",
@@ -407,8 +413,14 @@
     },
     {
       "server": "Ewan",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Lucas Karalis",
+          "text": "Another amazing night at the local. Ewan was my server today and I was over the moon with how well he took care of us. My glass was never empty and my smile was always full. If you come here, make sure to ask for Ewan as he was pure class!",
+          "date": "2026-06-26",
+          "rating": 5
+        },
         {
           "reviewer": "Lewis Le",
           "text": "Great service Our server Ewan took great care of us and was so nice and caring. Was friendly was kept checking on us to make sure all was well.",
@@ -629,8 +641,14 @@
     },
     {
       "server": "Kaitlyn S",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "hello there",
+          "text": "Excellent service. If you get Kaitlyn S or Maria, you’re set. They were friendly and had the best suggestions! I’ll be back!!",
+          "date": "2026-06-26",
+          "rating": 5
+        },
         {
           "reviewer": "Charlie Ihamaki",
           "text": "Service was great, servers Maria and Kaitlyn.S were excellent. Great atmosphere",

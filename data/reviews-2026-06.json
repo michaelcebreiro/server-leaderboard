@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-26T00:16:16.628Z",
-  "reviewCount": 139,
+  "fetchedAt": "2026-06-26T04:50:35.968Z",
+  "reviewCount": 141,
   "reviews": [
+    {
+      "reviewId": "5439320005447233333",
+      "reviewer": "Lucas Karalis",
+      "rating": 5,
+      "text": "Another amazing night at the local. Ewan was my server today and I was over the moon with how well he took care of us. My glass was never empty and my smile was always full. If you come here, make sure to ask for Ewan as he was pure class!",
+      "reviewDate": "2026-06-26T03:09:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5620453705465258516",
+      "reviewer": "hello there",
+      "rating": 5,
+      "text": "Excellent service. If you get Kaitlyn S or Maria, you’re set. They were friendly and had the best suggestions! I’ll be back!!",
+      "reviewDate": "2026-06-26T02:25:49.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5618925485465106645",
       "reviewer": "Craig",
