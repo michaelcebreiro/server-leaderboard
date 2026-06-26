@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-26T16:20:20.893Z",
-  "reviewCount": 143,
+  "fetchedAt": "2026-06-26T18:10:11.750Z",
+  "reviewCount": 144,
   "reviews": [
+    {
+      "reviewId": "5621167525465329517",
+      "reviewer": "Bella Prodan",
+      "rating": 5,
+      "text": "Last night, a friend and I had dinner at Local Restaurant, and once again, it did not disappoint! The food was amazing, the atmosphere was fantastic, and the service was absolutely top-notch.\n\nA huge shoutout to Georgia, who made our evening even more enjoyable. From the moment we walked in, she welcomed us with such genuine warmth and a big smile. She was friendly, attentive, knowledgeable, and checked in on us throughout our meal without ever being overbearing. She truly made us feel like valued guests.\n\nOne thing I absolutely love about Local Restaurant is that they consistently hire incredible people. Every staff member is welcoming, fun, and genuinely seems happy to be there—and it really shows. It’s the kind of place that keeps you coming back, not just for the delicious food, but for the outstanding hospitality.\n\nThank you, Georgia, for making our night so memorable. We’ll definitely be back!",
+      "reviewDate": "2026-06-26T16:14:06.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5621009664465313840",
       "reviewer": "Kasra Baharloo",
