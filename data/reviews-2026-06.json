@@ -1,8 +1,40 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-27T00:12:46.720Z",
-  "reviewCount": 149,
+  "fetchedAt": "2026-06-27T04:28:12.273Z",
+  "reviewCount": 155,
   "reviews": [
+    {
+      "reviewId": "5621927175465404929",
+      "reviewer": "Emilia Logan",
+      "rating": 5,
+      "text": "W Maria",
+      "reviewDate": "2026-06-27T03:25:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5621880305465400246",
+      "reviewer": "EX",
+      "rating": 5,
+      "text": "Maria made the experience amazing! Food and drinks were great",
+      "reviewDate": "2026-06-27T03:10:24.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5621840065465396227",
+      "reviewer": "Alex Garcia",
+      "rating": 5,
+      "text": "Maria was great!",
+      "reviewDate": "2026-06-27T02:50:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5621825155465394745",
+      "reviewer": "Timmy",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-27T00:14:43.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5621587475465371208",
       "reviewer": "Jade Borlinha",
@@ -50,6 +82,22 @@
       "text": "Last night, a friend and I had dinner at Local Restaurant, and once again, it did not disappoint! The food was amazing, the atmosphere was fantastic, and the service was absolutely top-notch.\n\nA huge shoutout to Georgia, who made our evening even more enjoyable. From the moment we walked in, she welcomed us with such genuine warmth and a big smile. She was friendly, attentive, knowledgeable, and checked in on us throughout our meal without ever being overbearing. She truly made us feel like valued guests.\n\nOne thing I absolutely love about Local Restaurant is that they consistently hire incredible people. Every staff member is welcoming, fun, and genuinely seems happy to be there—and it really shows. It’s the kind of place that keeps you coming back, not just for the delicious food, but for the outstanding hospitality.\n\nThank you, Georgia, for making our night so memorable. We’ll definitely be back!",
       "reviewDate": "2026-06-26T16:14:06.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5621825165465394746",
+      "reviewer": "gail",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-26T15:57:23.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5621825174465394747",
+      "reviewer": "matt",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-06-26T15:56:09.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5621009664465313840",

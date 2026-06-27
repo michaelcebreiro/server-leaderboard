@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-27T00:12:46.803Z",
-  "reviewCount": 149,
-  "qualifyingReviewCount": 147,
+  "processedAt": "2026-06-27T04:28:12.352Z",
+  "reviewCount": 155,
+  "qualifyingReviewCount": 153,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,18 +20,18 @@
     },
     {
       "rank": 2,
+      "server": "Maria",
+      "count": 11
+    },
+    {
+      "rank": 3,
       "server": "Danielle",
       "count": 9
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Sydney",
       "count": 9
-    },
-    {
-      "rank": 4,
-      "server": "Maria",
-      "count": 8
     },
     {
       "rank": 5,
@@ -389,8 +389,26 @@
     },
     {
       "server": "Maria",
-      "count": 8,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Emilia Logan",
+          "text": "W Maria",
+          "date": "2026-06-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "EX",
+          "text": "Maria made the experience amazing! Food and drinks were great",
+          "date": "2026-06-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Alex Garcia",
+          "text": "Maria was great!",
+          "date": "2026-06-27",
+          "rating": 5
+        },
         {
           "reviewer": "hello there",
           "text": "Excellent service. If you get Kaitlyn S or Maria, you’re set. They were friendly and had the best suggestions! I’ll be back!!",
