@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-27T23:44:35.496Z",
-  "reviewCount": 157,
-  "qualifyingReviewCount": 155,
+  "processedAt": "2026-06-28T01:55:50.904Z",
+  "reviewCount": 160,
+  "qualifyingReviewCount": 158,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Derka",
-      "count": 22
+      "count": 23
     },
     {
       "rank": 2,
@@ -110,92 +110,92 @@
     },
     {
       "rank": 20,
-      "server": "Josh",
+      "server": "Daniel",
       "count": 1
     },
     {
       "rank": 21,
-      "server": "Matteo",
+      "server": "Josh",
       "count": 1
     },
     {
       "rank": 22,
-      "server": "Nicky",
+      "server": "Kalypsa",
       "count": 1
     },
     {
       "rank": 23,
-      "server": "Nina",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 24,
-      "server": "Paulveen",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 25,
+      "server": "Nina",
+      "count": 1
+    },
+    {
+      "rank": 26,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 27,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 28,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 29,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 30,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 31,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 32,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 31,
-      "server": "Daniel",
-      "count": 0
-    },
-    {
-      "rank": 32,
+      "rank": 33,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 36,
-      "server": "Kaitlyn M",
-      "count": 0
-    },
-    {
       "rank": 37,
-      "server": "Kalypsa",
+      "server": "Kaitlyn M",
       "count": 0
     },
     {
@@ -688,6 +688,30 @@
       ]
     },
     {
+      "server": "Kalypsa",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "KAY MEILLEUR",
+          "text": "Kalypsa was amazing!!!  Derks too!!",
+          "date": "2026-06-28",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Daniel",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Harrison Meneray",
+          "text": "I have been going to this spot for over ten years, and have never been provided a better service experience than I was today by Daniel. The service was amazing. He went above and beyond to make sure everything was perfect, paying attention to the little details that truly make a difference. After a decade of coming here, it’s safe to say Daniel has officially raised the bar. If you visit, do yourself a favor and ask for him.",
+          "date": "2026-06-28",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Kaitlyn S",
       "count": 3,
       "reviews": [
@@ -749,8 +773,14 @@
     },
     {
       "server": "Derka",
-      "count": 22,
+      "count": 23,
       "reviews": [
+        {
+          "reviewer": "KAY MEILLEUR",
+          "text": "Kalypsa was amazing!!!  Derks too!!",
+          "date": "2026-06-28",
+          "rating": 5
+        },
         {
           "reviewer": "Isabel Talmage",
           "text": "Local is a classic spot for good food and drinks. This place is never a let down. Shout out to Derks for phenomenal service",

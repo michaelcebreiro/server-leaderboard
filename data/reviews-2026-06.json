@@ -1,8 +1,32 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-27T23:44:35.418Z",
-  "reviewCount": 157,
+  "fetchedAt": "2026-06-28T01:55:50.830Z",
+  "reviewCount": 160,
   "reviews": [
+    {
+      "reviewId": "5623682395465579922",
+      "reviewer": "Jeff Appleby",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-28T01:10:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5623661575465577850",
+      "reviewer": "KAY MEILLEUR",
+      "rating": 5,
+      "text": "Kalypsa was amazing!!!  Derks too!!",
+      "reviewDate": "2026-06-28T00:48:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5623634045465575119",
+      "reviewer": "Harrison Meneray",
+      "rating": 5,
+      "text": "I have been going to this spot for over ten years, and have never been provided a better service experience than I was today by Daniel. The service was amazing. He went above and beyond to make sure everything was perfect, paying attention to the little details that truly make a difference. After a decade of coming here, it’s safe to say Daniel has officially raised the bar. If you visit, do yourself a favor and ask for him.",
+      "reviewDate": "2026-06-28T00:03:56.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5623572345465568987",
       "reviewer": "Helia",
