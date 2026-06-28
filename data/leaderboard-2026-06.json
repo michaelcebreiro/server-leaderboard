@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-28T14:52:59.675Z",
-  "reviewCount": 160,
-  "qualifyingReviewCount": 158,
+  "processedAt": "2026-06-28T16:15:38.539Z",
+  "reviewCount": 161,
+  "qualifyingReviewCount": 159,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -85,33 +85,33 @@
     },
     {
       "rank": 15,
-      "server": "Eli",
+      "server": "Daniel",
       "count": 2
     },
     {
       "rank": 16,
-      "server": "Harrison",
+      "server": "Eli",
       "count": 2
     },
     {
       "rank": 17,
-      "server": "Jackie G",
+      "server": "Harrison",
       "count": 2
     },
     {
       "rank": 18,
-      "server": "Karina",
+      "server": "Jackie G",
       "count": 2
     },
     {
       "rank": 19,
-      "server": "Paige",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 20,
-      "server": "Daniel",
-      "count": 1
+      "server": "Paige",
+      "count": 2
     },
     {
       "rank": 21,
@@ -701,8 +701,14 @@
     },
     {
       "server": "Daniel",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Graham Meneray",
+          "text": "Have been coming to Local Leaside since it opened, and while the menu has changed, the service has not; this location is truly a gem in the Joey group portfolio for service. Today we had Daniel who was unbelievable; we are not an easy table, multiple young kids, multiple modifications, a servers nightmare.  Daniel went above and beyond, not just the usual check-in and making sure we had everything on a timely basis, but also ensuring the kitchen got everything correct and engaged with my kids to make sure that their orders were correct as they had their first bites.  Put this guy in my section every time, and if you try to move him to one of the downtown locations, I will be furious!  Five stars and flowers across the board for Daniel.",
+          "date": "2026-06-28",
+          "rating": 5
+        },
         {
           "reviewer": "Harrison Meneray",
           "text": "I have been going to this spot for over ten years, and have never been provided a better service experience than I was today by Daniel. The service was amazing. He went above and beyond to make sure everything was perfect, paying attention to the little details that truly make a difference. After a decade of coming here, it’s safe to say Daniel has officially raised the bar. If you visit, do yourself a favor and ask for him.",
