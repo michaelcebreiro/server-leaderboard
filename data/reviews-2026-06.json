@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-29T00:19:32.050Z",
-  "reviewCount": 161,
+  "fetchedAt": "2026-06-29T05:13:03.598Z",
+  "reviewCount": 163,
   "reviews": [
+    {
+      "reviewId": "5624637385465674966",
+      "reviewer": "Riley Dan",
+      "rating": 5,
+      "text": "Love coming here!! Came in today to watch the Soccer game! Good vibes!! Kayla was spectacular, so friendly and gave us top notch service, honestly best service I’ve had. Definitely come here to watch the game! Played sound also !",
+      "reviewDate": "2026-06-29T03:30:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5267111175430065608",
+      "reviewer": "Harmeet Ahuja",
+      "rating": 5,
+      "text": "Great service!  Annabel really helped make everyone feel comfortable and made sure we got the food on time even when the place was busy for the hockey game!",
+      "reviewDate": "2026-06-29T01:22:10.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "4984584075401948814",
       "reviewer": "Graham Meneray",

@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-29T00:19:32.227Z",
-  "reviewCount": 161,
-  "qualifyingReviewCount": 159,
+  "processedAt": "2026-06-29T05:13:03.679Z",
+  "reviewCount": 163,
+  "qualifyingReviewCount": 161,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -55,32 +55,32 @@
     },
     {
       "rank": 9,
+      "server": "Kayla",
+      "count": 5
+    },
+    {
+      "rank": 10,
       "server": "Georgia",
       "count": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Kaia",
       "count": 4
     },
     {
-      "rank": 11,
-      "server": "Kayla",
-      "count": 4
-    },
-    {
       "rank": 12,
-      "server": "Kaitlyn S",
+      "server": "Annabel",
       "count": 3
     },
     {
       "rank": 13,
-      "server": "Alessia",
-      "count": 2
+      "server": "Kaitlyn S",
+      "count": 3
     },
     {
       "rank": 14,
-      "server": "Annabel",
+      "server": "Alessia",
       "count": 2
     },
     {
@@ -371,8 +371,14 @@
     },
     {
       "server": "Annabel",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Harmeet Ahuja",
+          "text": "Great service!  Annabel really helped make everyone feel comfortable and made sure we got the food on time even when the place was busy for the hockey game!",
+          "date": "2026-06-29",
+          "rating": 5
+        },
         {
           "reviewer": "Natalie Vennos",
           "text": "June 4th. Annabel and Akiko were great servers! Thanks for a fun night!",
@@ -497,8 +503,14 @@
     },
     {
       "server": "Kayla",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Riley Dan",
+          "text": "Love coming here!! Came in today to watch the Soccer game! Good vibes!! Kayla was spectacular, so friendly and gave us top notch service, honestly best service I’ve had. Definitely come here to watch the game! Played sound also !",
+          "date": "2026-06-29",
+          "rating": 5
+        },
         {
           "reviewer": "Michael Boutros",
           "text": "Food was great and service was top notch. The recommendations were amazing!!! Thank you Kayla and local!",
