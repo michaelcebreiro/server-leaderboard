@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-29T19:21:21.954Z",
-  "reviewCount": 166,
-  "qualifyingReviewCount": 164,
+  "processedAt": "2026-06-29T21:09:17.713Z",
+  "reviewCount": 167,
+  "qualifyingReviewCount": 165,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,17 +60,17 @@
     },
     {
       "rank": 10,
+      "server": "Paige",
+      "count": 5
+    },
+    {
+      "rank": 11,
       "server": "Georgia",
       "count": 4
     },
     {
-      "rank": 11,
-      "server": "Kaia",
-      "count": 4
-    },
-    {
       "rank": 12,
-      "server": "Paige",
+      "server": "Kaia",
       "count": 4
     },
     {
@@ -773,8 +773,14 @@
     },
     {
       "server": "Paige",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Elle Jay",
+          "text": "Incredible experience with our server, Paige! The food was amazing and Paige was incredible with her recommendations and upbeat personality! :)",
+          "date": "2026-06-29",
+          "rating": 5
+        },
         {
           "reviewer": "Mika Damianos",
           "text": "We had a lovely restaurant experience with Paige. She was very attentive,, Helpful and a pleasure",

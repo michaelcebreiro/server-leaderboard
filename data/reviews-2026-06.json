@@ -1,8 +1,16 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-29T19:21:21.750Z",
-  "reviewCount": 166,
+  "fetchedAt": "2026-06-29T21:09:17.485Z",
+  "reviewCount": 167,
   "reviews": [
+    {
+      "reviewId": "5626055415465816386",
+      "reviewer": "Elle Jay",
+      "rating": 5,
+      "text": "Incredible experience with our server, Paige! The food was amazing and Paige was incredible with her recommendations and upbeat personality! :)",
+      "reviewDate": "2026-06-29T19:48:52.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5625885805465799524",
       "reviewer": "Mika Damianos",
