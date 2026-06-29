@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-29T17:16:55.126Z",
-  "reviewCount": 164,
-  "qualifyingReviewCount": 162,
+  "processedAt": "2026-06-29T19:21:21.954Z",
+  "reviewCount": 166,
+  "qualifyingReviewCount": 164,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -70,47 +70,47 @@
     },
     {
       "rank": 12,
+      "server": "Paige",
+      "count": 4
+    },
+    {
+      "rank": 13,
       "server": "Annabel",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Kaitlyn S",
       "count": 3
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Alessia",
       "count": 2
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Daniel",
       "count": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Harrison",
       "count": 2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 19,
-      "server": "Karina",
-      "count": 2
-    },
-    {
       "rank": 20,
-      "server": "Paige",
+      "server": "Karina",
       "count": 2
     },
     {
@@ -773,8 +773,20 @@
     },
     {
       "server": "Paige",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Mika Damianos",
+          "text": "We had a lovely restaurant experience with Paige. She was very attentive,, Helpful and a pleasure",
+          "date": "2026-06-29",
+          "rating": 5
+        },
+        {
+          "reviewer": "David Choules",
+          "text": "Today we were served by a wonderful waitress named Paige",
+          "date": "2026-06-29",
+          "rating": 5
+        },
         {
           "reviewer": "Mia Beaty",
           "text": "The food here was absolutely fantastic, I got the trophy burger and it was absolutely to die for. Our server was Paige and she was absolutely amazing. She provided us with Incredible service all night long with a great energy that brightened up the room. All the other staff that assisted us were amazing as well! I will definitely be back, this place will for sure become a regular spot for my friends and I!!!",
