@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-29T23:42:34.438Z",
-  "reviewCount": 167,
-  "qualifyingReviewCount": 165,
+  "processedAt": "2026-06-30T01:51:40.735Z",
+  "reviewCount": 169,
+  "qualifyingReviewCount": 167,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -80,17 +80,17 @@
     },
     {
       "rank": 14,
-      "server": "Kaitlyn S",
+      "server": "Daniel",
       "count": 3
     },
     {
       "rank": 15,
-      "server": "Alessia",
-      "count": 2
+      "server": "Kaitlyn S",
+      "count": 3
     },
     {
       "rank": 16,
-      "server": "Daniel",
+      "server": "Alessia",
       "count": 2
     },
     {
@@ -713,8 +713,14 @@
     },
     {
       "server": "Daniel",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Hayden Wessley",
+          "text": "Great food and drinks, and even better price. Daniel is awesome! Can be a bit crowded. Would definitely recommend the patio.",
+          "date": "2026-06-30",
+          "rating": 4
+        },
         {
           "reviewer": "Graham Meneray",
           "text": "Have been coming to Local Leaside since it opened, and while the menu has changed, the service has not; this location is truly a gem in the Joey group portfolio for service. Today we had Daniel who was unbelievable; we are not an easy table, multiple young kids, multiple modifications, a servers nightmare.  Daniel went above and beyond, not just the usual check-in and making sure we had everything on a timely basis, but also ensuring the kitchen got everything correct and engaged with my kids to make sure that their orders were correct as they had their first bites.  Put this guy in my section every time, and if you try to move him to one of the downtown locations, I will be furious!  Five stars and flowers across the board for Daniel.",

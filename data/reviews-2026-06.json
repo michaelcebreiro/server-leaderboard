@@ -1,8 +1,24 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-29T23:42:34.358Z",
-  "reviewCount": 167,
+  "fetchedAt": "2026-06-30T01:51:40.497Z",
+  "reviewCount": 169,
   "reviews": [
+    {
+      "reviewId": "5626424075465852891",
+      "reviewer": "Niloufar Norouzi",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-30T01:09:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5626378184465848336",
+      "reviewer": "Hayden Wessley",
+      "rating": 4,
+      "text": "Great food and drinks, and even better price. Daniel is awesome! Can be a bit crowded. Would definitely recommend the patio.",
+      "reviewDate": "2026-06-30T00:30:23.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5626055415465816386",
       "reviewer": "Elle Jay",
