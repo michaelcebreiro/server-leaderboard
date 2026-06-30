@@ -1,8 +1,40 @@
 {
   "month": "2026-06",
-  "fetchedAt": "2026-06-30T01:51:40.497Z",
-  "reviewCount": 169,
+  "fetchedAt": "2026-06-30T06:16:41.610Z",
+  "reviewCount": 174,
   "reviews": [
+    {
+      "reviewId": "5626547725465865171",
+      "reviewer": "Alisha Pirani",
+      "rating": 5,
+      "text": "Our server was Paulveen and she was just amazing. She was kind, attentive and checked on us often enough. She also provided great recommendations on the food options. A great experience made better by great staff!",
+      "reviewDate": "2026-06-30T04:38:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5626514105465861822",
+      "reviewer": "Emanuel Vaccaro",
+      "rating": 5,
+      "text": "God bless Christina. What an honour being seated in her section. The best service I’ve ever had. Would definitely come back again!!!!",
+      "reviewDate": "2026-06-30T03:19:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5626511785465861591",
+      "reviewer": "kaden Seguin",
+      "rating": 5,
+      "text": "Christina was lovely",
+      "reviewDate": "2026-06-30T03:16:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5626511635465861576",
+      "reviewer": "Cam Scott",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-06-30T03:16:02.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5626424075465852891",
       "reviewer": "Niloufar Norouzi",
@@ -25,6 +57,14 @@
       "rating": 5,
       "text": "Incredible experience with our server, Paige! The food was amazing and Paige was incredible with her recommendations and upbeat personality! :)",
       "reviewDate": "2026-06-29T19:48:52.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4661073405369736103",
+      "reviewer": "Jake Hunter",
+      "rating": 5,
+      "text": "Jackie is a fantastic bartender best in the neighborhood",
+      "reviewDate": "2026-06-29T19:42:35.000Z",
       "source": "GOOGLE"
     },
     {

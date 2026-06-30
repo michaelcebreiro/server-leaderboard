@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-30T01:51:40.735Z",
-  "reviewCount": 169,
-  "qualifyingReviewCount": 167,
+  "processedAt": "2026-06-30T06:16:41.690Z",
+  "reviewCount": 174,
+  "qualifyingReviewCount": 172,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,13 +35,13 @@
     },
     {
       "rank": 5,
-      "server": "Mia",
-      "count": 7
+      "server": "Christina",
+      "count": 8
     },
     {
       "rank": 6,
-      "server": "Christina",
-      "count": 6
+      "server": "Mia",
+      "count": 7
     },
     {
       "rank": 7,
@@ -85,27 +85,27 @@
     },
     {
       "rank": 15,
-      "server": "Kaitlyn S",
+      "server": "Jackie G",
       "count": 3
     },
     {
       "rank": 16,
+      "server": "Kaitlyn S",
+      "count": 3
+    },
+    {
+      "rank": 17,
       "server": "Alessia",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Eli",
       "count": 2
     },
     {
-      "rank": 18,
-      "server": "Harrison",
-      "count": 2
-    },
-    {
       "rank": 19,
-      "server": "Jackie G",
+      "server": "Harrison",
       "count": 2
     },
     {
@@ -115,32 +115,32 @@
     },
     {
       "rank": 21,
+      "server": "Paulveen",
+      "count": 2
+    },
+    {
+      "rank": 22,
       "server": "Josh",
       "count": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Kalypsa",
       "count": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 25,
-      "server": "Nina",
-      "count": 1
-    },
-    {
       "rank": 26,
-      "server": "Paulveen",
+      "server": "Nina",
       "count": 1
     },
     {
@@ -329,8 +329,20 @@
     },
     {
       "server": "Christina",
-      "count": 6,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Emanuel Vaccaro",
+          "text": "God bless Christina. What an honour being seated in her section. The best service I’ve ever had. Would definitely come back again!!!!",
+          "date": "2026-06-30",
+          "rating": 5
+        },
+        {
+          "reviewer": "kaden Seguin",
+          "text": "Christina was lovely",
+          "date": "2026-06-30",
+          "rating": 5
+        },
         {
           "reviewer": "Simon Yuan",
           "text": "Christina was great. Felt very welcome there and she was incredibly friendly. My friends and I will definitely be making regular trips to Local for good drinks, good vibes thanks to the friendly welcoming staff.",
@@ -653,8 +665,14 @@
     },
     {
       "server": "Jackie G",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Jake Hunter",
+          "text": "Jackie is a fantastic bartender best in the neighborhood",
+          "date": "2026-06-29",
+          "rating": 5
+        },
         {
           "reviewer": "Captain Barbosa",
           "text": "Planned a group outing of around 20 people for a surprise birthday party. Super accommodating with having separate bills and with us bringing our own cake and birthday decorations. Our main server for the evening (Jackie) was extremely kind, attentive, and professional in making sure our group was taken care of. I would 100% recommend this place for a laid back time with good company, and to Jackie thank you and the staff for making our night come together effortlessly!",
@@ -689,8 +707,14 @@
     },
     {
       "server": "Paulveen",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Alisha Pirani",
+          "text": "Our server was Paulveen and she was just amazing. She was kind, attentive and checked on us often enough. She also provided great recommendations on the food options. A great experience made better by great staff!",
+          "date": "2026-06-30",
+          "rating": 5
+        },
         {
           "reviewer": "Spencer Gibbens",
           "text": "Fantastic lunch stop and our server Paulveen was excellent, friendly and helpful",
