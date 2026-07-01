@@ -1,6 +1,39 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-01T17:24:09.852Z",
-  "reviewCount": 0,
-  "reviews": []
+  "fetchedAt": "2026-07-01T19:18:27.322Z",
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "reviewId": "5630153715466224210",
+      "reviewer": "jacob fluxgold",
+      "rating": 5,
+      "text": "Our server Danielle was exceptional. She made the dining experience incredible! The food and service was amazing, I highly recommend bringing everyone you know here",
+      "reviewDate": "2026-07-01T18:38:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5630153725466224211",
+      "reviewer": "Brandon Cooper",
+      "rating": 5,
+      "text": "The food and service was incredible. We watched the England game here and the atmosphere was amazing. Danielle was so friendly and a great server.",
+      "reviewDate": "2026-07-01T18:38:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5630121084466220985",
+      "reviewer": "Carmen Villafranca",
+      "rating": 4,
+      "text": "Eliza was the nicest waitress I’ve ever had. Amazing.",
+      "reviewDate": "2026-07-01T18:10:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5630054445466214378",
+      "reviewer": "Stephanea Fanuzzi",
+      "rating": 5,
+      "text": "Always amazing service and especially Paige and Hazmile working on Canada in 40 plus degrees! Kudos to the chefs also! All together 5 star experience always!\nHappy Canada Day The Local Staff!!!",
+      "reviewDate": "2026-07-01T17:18:01.000Z",
+      "source": "GOOGLE"
+    }
+  ]
 }
