@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-01T23:56:27.274Z",
-  "reviewCount": 4,
+  "fetchedAt": "2026-07-02T04:13:55.321Z",
+  "reviewCount": 5,
   "reviews": [
+    {
+      "reviewId": "5631233065466331798",
+      "reviewer": "Kushhy",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-02T00:41:41.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5630153715466224210",
       "reviewer": "jacob fluxgold",
