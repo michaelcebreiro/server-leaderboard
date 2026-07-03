@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-03T16:57:13.106Z",
-  "reviewCount": 9,
-  "qualifyingReviewCount": 9,
+  "processedAt": "2026-07-03T18:19:06.270Z",
+  "reviewCount": 11,
+  "qualifyingReviewCount": 11,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,137 +20,137 @@
     },
     {
       "rank": 2,
+      "server": "Derka",
+      "count": 2
+    },
+    {
+      "rank": 3,
+      "server": "Kaitlyn S",
+      "count": 2
+    },
+    {
+      "rank": 4,
       "server": "Paige",
       "count": 1
     },
     {
-      "rank": 3,
+      "rank": 5,
       "server": "Sydney",
       "count": 1
     },
     {
-      "rank": 4,
+      "rank": 6,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 7,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 8,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 9,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 10,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 11,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 14,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 15,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 15,
-      "server": "Derka",
-      "count": 0
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 27,
-      "server": "Kaitlyn M",
-      "count": 0
-    },
-    {
       "rank": 28,
-      "server": "Kaitlyn S",
+      "server": "Kaitlyn M",
       "count": 0
     },
     {
@@ -244,6 +244,24 @@
       ]
     },
     {
+      "server": "Kaitlyn S",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Tianna",
+          "text": "Me and my bestie came to local to watch a fifa match, got placed upstairs on the rooftop bar, and the seats were perfect, right in front of the tv, food was great, our bartenders were so incredibly sweet, so shout out to Kaitlyn and Derka for making the experience so much better, very attentive, checking in on us every so often, overall we had such a great time and will be back!  🥹",
+          "date": "2026-07-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Casey Deleon",
+          "text": "My roommate and I came to Local Leaside to watch the FIFA World Cup and had the BEST time. We were up on the rooftop and the whole vibe was unreal. Huge shoutout to Kaitlyn S and Derka, their energy made the experience even better. They were so welcoming, fun, and really brought the atmosphere to life. Between the game, the crowd, and the service, everything was on point. Definitely one of those nights you don’t forget. Can’t wait to come back!",
+          "date": "2026-07-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Paige",
       "count": 1,
       "reviews": [
@@ -251,6 +269,24 @@
           "reviewer": "Stephanea Fanuzzi",
           "text": "Always amazing service and especially Paige and Hazmile working on Canada in 40 plus degrees! Kudos to the chefs also! All together 5 star experience always!\nHappy Canada Day The Local Staff!!!",
           "date": "2026-07-01",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Derka",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Tianna",
+          "text": "Me and my bestie came to local to watch a fifa match, got placed upstairs on the rooftop bar, and the seats were perfect, right in front of the tv, food was great, our bartenders were so incredibly sweet, so shout out to Kaitlyn and Derka for making the experience so much better, very attentive, checking in on us every so often, overall we had such a great time and will be back!  🥹",
+          "date": "2026-07-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Casey Deleon",
+          "text": "My roommate and I came to Local Leaside to watch the FIFA World Cup and had the BEST time. We were up on the rooftop and the whole vibe was unreal. Huge shoutout to Kaitlyn S and Derka, their energy made the experience even better. They were so welcoming, fun, and really brought the atmosphere to life. Between the game, the crowd, and the service, everything was on point. Definitely one of those nights you don’t forget. Can’t wait to come back!",
+          "date": "2026-07-03",
           "rating": 5
         }
       ]

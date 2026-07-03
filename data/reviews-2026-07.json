@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-03T16:57:12.721Z",
-  "reviewCount": 9,
+  "fetchedAt": "2026-07-03T18:19:06.065Z",
+  "reviewCount": 11,
   "reviews": [
+    {
+      "reviewId": "5633822285466589334",
+      "reviewer": "Tianna",
+      "rating": 5,
+      "text": "Me and my bestie came to local to watch a fifa match, got placed upstairs on the rooftop bar, and the seats were perfect, right in front of the tv, food was great, our bartenders were so incredibly sweet, so shout out to Kaitlyn and Derka for making the experience so much better, very attentive, checking in on us every so often, overall we had such a great time and will be back!  🥹",
+      "reviewDate": "2026-07-03T16:56:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5633822085466589314",
+      "reviewer": "Casey Deleon",
+      "rating": 5,
+      "text": "My roommate and I came to Local Leaside to watch the FIFA World Cup and had the BEST time. We were up on the rooftop and the whole vibe was unreal. Huge shoutout to Kaitlyn S and Derka, their energy made the experience even better. They were so welcoming, fun, and really brought the atmosphere to life. Between the game, the crowd, and the service, everything was on point. Definitely one of those nights you don’t forget. Can’t wait to come back!",
+      "reviewDate": "2026-07-03T16:55:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5633163535466523762",
       "reviewer": "Lewawit Alemayehu",
