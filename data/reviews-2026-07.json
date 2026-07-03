@@ -1,7 +1,7 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-03T21:17:34.135Z",
-  "reviewCount": 11,
+  "fetchedAt": "2026-07-03T22:34:31.836Z",
+  "reviewCount": 12,
   "reviews": [
     {
       "reviewId": "5633822285466589334",
@@ -18,6 +18,14 @@
       "text": "My roommate and I came to Local Leaside to watch the FIFA World Cup and had the BEST time. We were up on the rooftop and the whole vibe was unreal. Huge shoutout to Kaitlyn S and Derka, their energy made the experience even better. They were so welcoming, fun, and really brought the atmosphere to life. Between the game, the crowd, and the service, everything was on point. Definitely one of those nights you don’t forget. Can’t wait to come back!",
       "reviewDate": "2026-07-03T16:55:51.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5634064084466613272",
+      "reviewer": "Karen",
+      "rating": 4,
+      "text": "Staff were great, however I found the prices were at little high for what you got but that won't stop me from going again",
+      "reviewDate": "2026-07-03T15:53:31.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5633163535466523762",
