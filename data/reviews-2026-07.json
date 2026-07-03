@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-03T01:04:02.529Z",
-  "reviewCount": 7,
+  "fetchedAt": "2026-07-03T04:57:59.248Z",
+  "reviewCount": 9,
   "reviews": [
+    {
+      "reviewId": "5633163535466523762",
+      "reviewer": "Lewawit Alemayehu",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-03T04:07:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5633072875466514760",
+      "reviewer": "Annissa M",
+      "rating": 5,
+      "text": "First time at Local and it was great! Big shout out to Sydney for amazing service. She was attentive, asked us how our food was and refilled our drinks. Will definitely come back",
+      "reviewDate": "2026-07-03T01:38:08.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5631233065466331798",
       "reviewer": "Kushhy",
