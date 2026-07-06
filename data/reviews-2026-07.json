@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-06T21:11:13.895Z",
-  "reviewCount": 21,
+  "fetchedAt": "2026-07-06T22:39:53.577Z",
+  "reviewCount": 22,
   "reviews": [
+    {
+      "reviewId": "5642179685467423559",
+      "reviewer": "Audrey M",
+      "rating": 5,
+      "text": "Celebrated my birthday here and reserved the patio for my party of ~40ppl. We had such a great time! Special thanks to Ben, Vico, and Sophie for taking cafe of us and accommodating all of our requests. The food and drinks were delicious (especially the steak and margaritas) and all came with good timing. My group was able to have separate bills and the team did a great job at keeping everything organized. Lovely team to communicate and plan with beforehand (shoutout Nicky!), the night couldn't have gone any better!!",
+      "reviewDate": "2026-07-06T21:25:38.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5641258985467331691",
       "reviewer": "AJ D",
