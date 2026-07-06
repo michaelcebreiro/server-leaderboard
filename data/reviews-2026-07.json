@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-05T23:36:16.880Z",
-  "reviewCount": 18,
+  "fetchedAt": "2026-07-06T01:24:32.704Z",
+  "reviewCount": 19,
   "reviews": [
+    {
+      "reviewId": "5639832075467189266",
+      "reviewer": "Enas Abdalla",
+      "rating": 5,
+      "text": "We had a great experience. Daniel was our server and he was incredibly attentive, friendly and accommodating of us with our toddler at the table. Highly recommend asking for him !",
+      "reviewDate": "2026-07-06T00:02:21.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5639583735467164560",
       "reviewer": "Matt",
