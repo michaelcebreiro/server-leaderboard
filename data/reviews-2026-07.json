@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-06T14:36:46.245Z",
-  "reviewCount": 20,
+  "fetchedAt": "2026-07-06T17:28:38.898Z",
+  "reviewCount": 21,
   "reviews": [
+    {
+      "reviewId": "5641258985467331691",
+      "reviewer": "AJ D",
+      "rating": 5,
+      "text": "Great low key place with exceptional service",
+      "reviewDate": "2026-07-06T17:15:56.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5639894545467195485",
       "reviewer": "Christopher Muir",
