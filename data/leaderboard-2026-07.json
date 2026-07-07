@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-06T23:46:16.809Z",
-  "reviewCount": 22,
-  "qualifyingReviewCount": 22,
+  "processedAt": "2026-07-07T03:50:48.879Z",
+  "reviewCount": 24,
+  "qualifyingReviewCount": 24,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,167 +35,167 @@
     },
     {
       "rank": 5,
+      "server": "Sydney",
+      "count": 2
+    },
+    {
+      "rank": 6,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 6,
-      "server": "Nicky",
-      "count": 1
-    },
-    {
       "rank": 7,
-      "server": "Paige",
+      "server": "Meklit",
       "count": 1
     },
     {
       "rank": 8,
-      "server": "Sofie",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 9,
-      "server": "Sydney",
+      "server": "Paige",
       "count": 1
     },
     {
       "rank": 10,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 11,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 36,
-      "server": "Matteo",
-      "count": 0
-    },
-    {
       "rank": 37,
-      "server": "Meklit",
+      "server": "Matteo",
       "count": 0
     },
     {
@@ -225,6 +225,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Meklit",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Carlos Escobar",
+          "text": "Had an amazing experience at Local Public Eatery!! I was served by Meklit who was very nice and went through the menu with us , since it was my and I’s first time there. After dinner Qam came by and gave us a desert on the house which was absolutely delicious.  Strongly recommend this place. Great food and good vibes!!!",
+          "date": "2026-07-07",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Nicky",
       "count": 1,
@@ -347,8 +359,14 @@
     },
     {
       "server": "Sydney",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Robert Abbass",
+          "text": "Had the most amazing time at Local today, was in for the soccer game on a very busy patio and our server was Sydney. She handle the rush with ease and made sure our drinks were always full and she was very knowledgeable about the whole menu when we were deciding what to eat. Food and drinks were 10/10 as always. One of the best restaurant experiences I’ve ever had. Will definitely be back and will be requesting Sydney in the future!",
+          "date": "2026-07-07",
+          "rating": 5
+        },
         {
           "reviewer": "Annissa M",
           "text": "First time at Local and it was great! Big shout out to Sydney for amazing service. She was attentive, asked us how our food was and refilled our drinks. Will definitely come back",

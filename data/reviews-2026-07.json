@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-06T23:46:16.733Z",
-  "reviewCount": 22,
+  "fetchedAt": "2026-07-07T03:50:48.801Z",
+  "reviewCount": 24,
   "reviews": [
+    {
+      "reviewId": "5643052855467510626",
+      "reviewer": "Carlos Escobar",
+      "rating": 5,
+      "text": "Had an amazing experience at Local Public Eatery!! I was served by Meklit who was very nice and went through the menu with us , since it was my and I’s first time there. After dinner Qam came by and gave us a desert on the house which was absolutely delicious.  Strongly recommend this place. Great food and good vibes!!!",
+      "reviewDate": "2026-07-07T02:14:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4961935935399693083",
+      "reviewer": "Robert Abbass",
+      "rating": 5,
+      "text": "Had the most amazing time at Local today, was in for the soccer game on a very busy patio and our server was Sydney. She handle the rush with ease and made sure our drinks were always full and she was very knowledgeable about the whole menu when we were deciding what to eat. Food and drinks were 10/10 as always. One of the best restaurant experiences I’ve ever had. Will definitely be back and will be requesting Sydney in the future!",
+      "reviewDate": "2026-07-07T01:57:19.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5642179685467423559",
       "reviewer": "Audrey M",
