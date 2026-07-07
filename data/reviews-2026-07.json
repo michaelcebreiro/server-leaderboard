@@ -1,7 +1,7 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-07T07:43:39.203Z",
-  "reviewCount": 24,
+  "fetchedAt": "2026-07-07T10:40:01.822Z",
+  "reviewCount": 26,
   "reviews": [
     {
       "reviewId": "5643052855467510626",
@@ -28,12 +28,28 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "5643957454467601017",
+      "reviewer": "Greg",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-07-06T21:07:11.000Z",
+      "source": "OPENTABLE"
+    },
+    {
       "reviewId": "5641258985467331691",
       "reviewer": "AJ D",
       "rating": 5,
       "text": "Great low key place with exceptional service",
       "reviewDate": "2026-07-06T17:15:56.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5643957465467601018",
+      "reviewer": "Tijana",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-06T14:39:00.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5639894545467195485",
