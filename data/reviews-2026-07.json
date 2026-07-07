@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-07T18:04:35.150Z",
+  "fetchedAt": "2026-07-07T20:15:53.589Z",
   "reviewCount": 26,
   "reviews": [
+    {
+      "reviewId": "5642179685467423559",
+      "reviewer": "Audrey M",
+      "rating": 5,
+      "text": "Celebrated my birthday here and reserved the patio for my party of ~40ppl. We had such a great time! Special thanks to Ben, Vico, and Sophie for taking care of us and accommodating all of our requests. The food and drinks were delicious (especially the steak and margaritas) and all came with good timing. My group was able to have separate bills and the team did a great job at keeping everything organized. Lovely team to communicate and plan with beforehand (shoutout Nicky!), the night couldn't have gone any better!!",
+      "reviewDate": "2026-07-07T16:38:44.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5643052855467510626",
       "reviewer": "Carlos Escobar",
@@ -17,14 +25,6 @@
       "rating": 5,
       "text": "Had the most amazing time at Local today, was in for the soccer game on a very busy patio and our server was Sydney. She handle the rush with ease and made sure our drinks were always full and she was very knowledgeable about the whole menu when we were deciding what to eat. Food and drinks were 10/10 as always. One of the best restaurant experiences I’ve ever had. Will definitely be back and will be requesting Sydney in the future!",
       "reviewDate": "2026-07-07T01:57:19.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5642179685467423559",
-      "reviewer": "Audrey M",
-      "rating": 5,
-      "text": "Celebrated my birthday here and reserved the patio for my party of ~40ppl. We had such a great time! Special thanks to Ben, Vico, and Sophie for taking cafe of us and accommodating all of our requests. The food and drinks were delicious (especially the steak and margaritas) and all came with good timing. My group was able to have separate bills and the team did a great job at keeping everything organized. Lovely team to communicate and plan with beforehand (shoutout Nicky!), the night couldn't have gone any better!!",
-      "reviewDate": "2026-07-06T21:25:38.000Z",
       "source": "GOOGLE"
     },
     {
