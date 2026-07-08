@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-08T17:10:34.649Z",
-  "reviewCount": 32,
+  "fetchedAt": "2026-07-08T18:47:46.736Z",
+  "reviewCount": 33,
   "reviews": [
+    {
+      "reviewId": "5646324394467836453",
+      "reviewer": "Rosita Chung Sang",
+      "rating": 4,
+      "text": "Food was good but found it little overpriced for what I had. I had fish and chips, the fish was a little on the small side good thing I had ordered a second piece with the meal.",
+      "reviewDate": "2026-07-08T18:30:43.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5645858755467790338",
       "reviewer": "Noel Samson",
