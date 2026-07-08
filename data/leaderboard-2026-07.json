@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-08T13:07:37.053Z",
-  "reviewCount": 27,
-  "qualifyingReviewCount": 27,
+  "processedAt": "2026-07-08T15:35:23.422Z",
+  "reviewCount": 32,
+  "qualifyingReviewCount": 32,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,122 +15,122 @@
   "standings": [
     {
       "rank": 1,
+      "server": "Harrison",
+      "count": 4
+    },
+    {
+      "rank": 2,
       "server": "Daniel",
       "count": 2
     },
     {
-      "rank": 2,
+      "rank": 3,
       "server": "Danielle",
       "count": 2
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Derka",
       "count": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Kaitlyn S",
       "count": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Sydney",
       "count": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Meklit",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Paige",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Sofie",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 23,
-      "server": "Georgia",
-      "count": 0
-    },
-    {
       "rank": 24,
-      "server": "Harrison",
+      "server": "Georgia",
       "count": 0
     },
     {
@@ -323,6 +323,36 @@
           "reviewer": "Casey Deleon",
           "text": "My roommate and I came to Local Leaside to watch the FIFA World Cup and had the BEST time. We were up on the rooftop and the whole vibe was unreal. Huge shoutout to Kaitlyn S and Derka, their energy made the experience even better. They were so welcoming, fun, and really brought the atmosphere to life. Between the game, the crowd, and the service, everything was on point. Definitely one of those nights you don’t forget. Can’t wait to come back!",
           "date": "2026-07-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Harrison",
+      "count": 4,
+      "reviews": [
+        {
+          "reviewer": "Noel Samson",
+          "text": "Harrison is by far the best waiter I’ve ever had",
+          "date": "2026-07-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adanech Bonger",
+          "text": "Had a great time here! Food was great and portioned well. Prices are good! But it was our waiter Harrison who ELEVATED our experience. He was very kind and accommodating! best waiter I’ve ever had.",
+          "date": "2026-07-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Elisabeth Gebremedhin",
+          "text": "Food was great. Harrison was a wonderful waiter. He was very informed on the menu, and provided such great service. So fun to talk to!",
+          "date": "2026-07-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Eden Aklilu",
+          "text": "The food was great! Harrison was so welcoming, made great conversation and provided amazing service. Would definitely come again!",
+          "date": "2026-07-08",
           "rating": 5
         }
       ]

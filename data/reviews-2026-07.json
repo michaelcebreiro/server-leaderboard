@@ -1,8 +1,48 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-08T13:07:36.976Z",
-  "reviewCount": 27,
+  "fetchedAt": "2026-07-08T15:35:23.345Z",
+  "reviewCount": 32,
   "reviews": [
+    {
+      "reviewId": "5645858755467790338",
+      "reviewer": "Noel Samson",
+      "rating": 5,
+      "text": "Harrison is by far the best waiter I’ve ever had",
+      "reviewDate": "2026-07-08T01:40:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5645858535467790316",
+      "reviewer": "Adanech Bonger",
+      "rating": 5,
+      "text": "Had a great time here! Food was great and portioned well. Prices are good! But it was our waiter Harrison who ELEVATED our experience. He was very kind and accommodating! best waiter I’ve ever had.",
+      "reviewDate": "2026-07-08T01:35:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5645858735467790336",
+      "reviewer": "Elisabeth Gebremedhin",
+      "rating": 5,
+      "text": "Food was great. Harrison was a wonderful waiter. He was very informed on the menu, and provided such great service. So fun to talk to!",
+      "reviewDate": "2026-07-08T01:35:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5645858505467790313",
+      "reviewer": "Eden Aklilu",
+      "rating": 5,
+      "text": "The food was great! Harrison was so welcoming, made great conversation and provided amazing service. Would definitely come again!",
+      "reviewDate": "2026-07-08T01:33:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5645858485467790311",
+      "reviewer": "Austin Mathew",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-08T01:21:45.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5645424445467747002",
       "reviewer": "Catalina",
