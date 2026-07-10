@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-10T01:15:57.570Z",
-  "reviewCount": 38,
-  "qualifyingReviewCount": 38,
+  "processedAt": "2026-07-10T05:39:34.769Z",
+  "reviewCount": 39,
+  "qualifyingReviewCount": 39,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -65,152 +65,152 @@
     },
     {
       "rank": 11,
-      "server": "Paige",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Sofie",
+      "server": "Paige",
       "count": 1
     },
     {
       "rank": 13,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 14,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 39,
-      "server": "Mia",
-      "count": 0
-    },
-    {
       "rank": 40,
-      "server": "Nicola",
+      "server": "Mia",
       "count": 0
     },
     {
@@ -238,6 +238,18 @@
           "reviewer": "Carlos Escobar",
           "text": "Had an amazing experience at Local Public Eatery!! I was served by Meklit who was very nice and went through the menu with us , since it was my and I’s first time there. After dinner Qam came by and gave us a desert on the house which was absolutely delicious.  Strongly recommend this place. Great food and good vibes!!!",
           "date": "2026-07-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Nicola",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Rishi Sethi",
+          "text": "Food was excellent. Recommend asking for the ceaser salad cut instead of a wedge. Burgers are delicious. Nicola is an amazing server.",
+          "date": "2026-07-10",
           "rating": 5
         }
       ]

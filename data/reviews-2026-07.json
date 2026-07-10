@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-10T01:15:57.216Z",
-  "reviewCount": 38,
+  "fetchedAt": "2026-07-10T05:39:34.694Z",
+  "reviewCount": 39,
   "reviews": [
+    {
+      "reviewId": "5648929425468095458",
+      "reviewer": "Rishi Sethi",
+      "rating": 5,
+      "text": "Food was excellent. Recommend asking for the ceaser salad cut instead of a wedge. Burgers are delicious. Nicola is an amazing server.",
+      "reviewDate": "2026-07-10T03:51:04.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5648762765468078900",
       "reviewer": "Tim Marshall",
