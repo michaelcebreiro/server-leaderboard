@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-10T19:58:51.605Z",
-  "reviewCount": 39,
-  "qualifyingReviewCount": 39,
+  "processedAt": "2026-07-10T21:14:30.723Z",
+  "reviewCount": 40,
+  "qualifyingReviewCount": 40,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Daniel",
-      "count": 4
+      "count": 5
     },
     {
       "rank": 2,
@@ -310,8 +310,14 @@
     },
     {
       "server": "Daniel",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Sam Novac",
+          "text": "We decided to come for dinner for the first time in quite a while, and had such a great time. We had Daniel as our server and couldn't have had a better experience. He helped us out with the menu making great recommendations and making sure we had everything we needed throughout our night. If you decide to come to local, make sure you're asking for Daniel!",
+          "date": "2026-07-10",
+          "rating": 5
+        },
         {
           "reviewer": "Avery Steeves",
           "text": "Daniel our server made our night! Super quick and attentive service, seems like a total pro.",

@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-10T19:58:51.326Z",
-  "reviewCount": 39,
+  "fetchedAt": "2026-07-10T21:14:30.569Z",
+  "reviewCount": 40,
   "reviews": [
+    {
+      "reviewId": "5651207795468322711",
+      "reviewer": "Sam Novac",
+      "rating": 5,
+      "text": "We decided to come for dinner for the first time in quite a while, and had such a great time. We had Daniel as our server and couldn't have had a better experience. He helped us out with the menu making great recommendations and making sure we had everything we needed throughout our night. If you decide to come to local, make sure you're asking for Daniel!",
+      "reviewDate": "2026-07-10T20:14:59.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5648929425468095458",
       "reviewer": "Rishi Sethi",
