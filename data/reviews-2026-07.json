@@ -1,7 +1,7 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-10T21:14:30.569Z",
-  "reviewCount": 40,
+  "fetchedAt": "2026-07-10T22:27:35.694Z",
+  "reviewCount": 41,
   "reviews": [
     {
       "reviewId": "5651207795468322711",
@@ -10,6 +10,14 @@
       "text": "We decided to come for dinner for the first time in quite a while, and had such a great time. We had Daniel as our server and couldn't have had a better experience. He helped us out with the menu making great recommendations and making sure we had everything we needed throughout our night. If you decide to come to local, make sure you're asking for Daniel!",
       "reviewDate": "2026-07-10T20:14:59.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5651163704468318304",
+      "reviewer": "Allan",
+      "rating": 4,
+      "text": "I enjoy the vibe at this place. The food is very good. I especially like the tuna poke bowl.  Service is always friendly with a smile and you leave the place with a smile on your face. A very good experience.",
+      "reviewDate": "2026-07-10T20:13:11.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "5648929425468095458",
