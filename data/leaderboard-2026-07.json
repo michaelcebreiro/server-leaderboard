@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-09T23:37:22.763Z",
-  "reviewCount": 34,
-  "qualifyingReviewCount": 34,
+  "processedAt": "2026-07-10T01:15:57.570Z",
+  "reviewCount": 38,
+  "qualifyingReviewCount": 38,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,211 +15,216 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Harrison",
+      "server": "Daniel",
       "count": 4
     },
     {
       "rank": 2,
-      "server": "Daniel",
-      "count": 2
+      "server": "Harrison",
+      "count": 4
     },
     {
       "rank": 3,
+      "server": "Kaitlyn S",
+      "count": 4
+    },
+    {
+      "rank": 4,
       "server": "Danielle",
       "count": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Derka",
       "count": 2
     },
     {
-      "rank": 5,
-      "server": "Kaitlyn S",
-      "count": 2
-    },
-    {
       "rank": 6,
-      "server": "Sydney",
+      "server": "Norah",
       "count": 2
     },
     {
       "rank": 7,
+      "server": "Sydney",
+      "count": 2
+    },
+    {
+      "rank": 8,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Meklit",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Paige",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Sofie",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Zivko",
       "count": 0
     }
@@ -293,8 +298,20 @@
     },
     {
       "server": "Daniel",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Avery Steeves",
+          "text": "Daniel our server made our night! Super quick and attentive service, seems like a total pro.",
+          "date": "2026-07-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Liam Wolfe",
+          "text": "Daniel the man",
+          "date": "2026-07-10",
+          "rating": 5
+        },
         {
           "reviewer": "Christopher Muir",
           "text": "Daniel are server was brilliant. Top guy and food and drinks great.",
@@ -311,8 +328,20 @@
     },
     {
       "server": "Kaitlyn S",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Tim Marshall",
+          "text": "Norah and Kaitlyn were fantastic and were very impressed with their service.",
+          "date": "2026-07-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tracy Hall",
+          "text": "Norah and Kaitlyn were wonderful!!!!!!",
+          "date": "2026-07-10",
+          "rating": 5
+        },
         {
           "reviewer": "Tianna",
           "text": "Me and my bestie came to local to watch a fifa match, got placed upstairs on the rooftop bar, and the seats were perfect, right in front of the tv, food was great, our bartenders were so incredibly sweet, so shout out to Kaitlyn and Derka for making the experience so much better, very attentive, checking in on us every so often, overall we had such a great time and will be back!  🥹",
@@ -401,6 +430,24 @@
           "reviewer": "Annissa M",
           "text": "First time at Local and it was great! Big shout out to Sydney for amazing service. She was attentive, asked us how our food was and refilled our drinks. Will definitely come back",
           "date": "2026-07-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Norah",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Tim Marshall",
+          "text": "Norah and Kaitlyn were fantastic and were very impressed with their service.",
+          "date": "2026-07-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tracy Hall",
+          "text": "Norah and Kaitlyn were wonderful!!!!!!",
+          "date": "2026-07-10",
           "rating": 5
         }
       ]

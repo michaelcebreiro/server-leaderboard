@@ -1,8 +1,40 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-09T23:37:22.685Z",
-  "reviewCount": 34,
+  "fetchedAt": "2026-07-10T01:15:57.216Z",
+  "reviewCount": 38,
   "reviews": [
+    {
+      "reviewId": "5648762765468078900",
+      "reviewer": "Tim Marshall",
+      "rating": 5,
+      "text": "Norah and Kaitlyn were fantastic and were very impressed with their service.",
+      "reviewDate": "2026-07-10T00:39:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5648762735468078897",
+      "reviewer": "Tracy Hall",
+      "rating": 5,
+      "text": "Norah and Kaitlyn were wonderful!!!!!!",
+      "reviewDate": "2026-07-10T00:39:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5648744015468077050",
+      "reviewer": "Avery Steeves",
+      "rating": 5,
+      "text": "Daniel our server made our night! Super quick and attentive service, seems like a total pro.",
+      "reviewDate": "2026-07-10T00:19:20.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5648743615468077011",
+      "reviewer": "Liam Wolfe",
+      "rating": 5,
+      "text": "Daniel the man",
+      "reviewDate": "2026-07-10T00:18:24.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5646324394467836453",
       "reviewer": "Rosita Chung Sang",
