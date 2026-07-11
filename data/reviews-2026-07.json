@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-10T23:31:51.240Z",
-  "reviewCount": 41,
+  "fetchedAt": "2026-07-11T01:09:52.822Z",
+  "reviewCount": 42,
   "reviews": [
+    {
+      "reviewId": "5651719395468373685",
+      "reviewer": "Keira Brown",
+      "rating": 5,
+      "text": "Aijia was so welcoming! Thank you for such great service!",
+      "reviewDate": "2026-07-10T23:38:27.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5651207795468322711",
       "reviewer": "Sam Novac",
