@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-11T21:54:37.627Z",
-  "reviewCount": 49,
-  "qualifyingReviewCount": 49,
+  "processedAt": "2026-07-11T22:55:03.562Z",
+  "reviewCount": 50,
+  "qualifyingReviewCount": 50,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,22 +45,22 @@
     },
     {
       "rank": 7,
-      "server": "Norah",
+      "server": "Meklit",
       "count": 2
     },
     {
       "rank": 8,
-      "server": "Sydney",
+      "server": "Norah",
       "count": 2
     },
     {
       "rank": 9,
-      "server": "Ben",
-      "count": 1
+      "server": "Sydney",
+      "count": 2
     },
     {
       "rank": 10,
-      "server": "Meklit",
+      "server": "Ben",
       "count": 1
     },
     {
@@ -280,8 +280,14 @@
     },
     {
       "server": "Meklit",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Alexis C",
+          "text": "My mom and I went for lunch and it was a great time! The food was really tasty and Meklit was so accommodating and sweet to us!",
+          "date": "2026-07-11",
+          "rating": 5
+        },
         {
           "reviewer": "Carlos Escobar",
           "text": "Had an amazing experience at Local Public Eatery!! I was served by Meklit who was very nice and went through the menu with us , since it was my and I’s first time there. After dinner Qam came by and gave us a desert on the house which was absolutely delicious.  Strongly recommend this place. Great food and good vibes!!!",
