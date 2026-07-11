@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-11T01:09:53.037Z",
-  "reviewCount": 42,
-  "qualifyingReviewCount": 42,
+  "processedAt": "2026-07-11T04:29:20.578Z",
+  "reviewCount": 48,
+  "qualifyingReviewCount": 48,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,192 +15,192 @@
   "standings": [
     {
       "rank": 1,
+      "server": "Maria",
+      "count": 6
+    },
+    {
+      "rank": 2,
       "server": "Daniel",
       "count": 5
     },
     {
-      "rank": 2,
+      "rank": 3,
       "server": "Harrison",
       "count": 4
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Kaitlyn S",
       "count": 4
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Danielle",
       "count": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Derka",
       "count": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Norah",
       "count": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Sydney",
       "count": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Meklit",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Nicola",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Paige",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Sofie",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 37,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 38,
-      "server": "Maria",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -230,6 +230,48 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Maria",
+      "count": 6,
+      "reviews": [
+        {
+          "reviewer": "Hannah Kacira",
+          "text": "Maria is an amazing server 10/10, will come back because of her!!!",
+          "date": "2026-07-11",
+          "rating": 5
+        },
+        {
+          "reviewer": "Owen Neish",
+          "text": "Maria is the best! Absolutely classy and amazing to me and my friends.",
+          "date": "2026-07-11",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kathleen Fu",
+          "text": "Maria took care of our large group and remembered all of our names and orders so well.",
+          "date": "2026-07-11",
+          "rating": 5
+        },
+        {
+          "reviewer": "Symon Tiansay",
+          "text": "Maria was an amazing waitress! She took care of our large group",
+          "date": "2026-07-11",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adeline C",
+          "text": "thanks maria !",
+          "date": "2026-07-11",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jonathan S",
+          "text": "Maria was awesome!",
+          "date": "2026-07-11",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Meklit",
       "count": 1,

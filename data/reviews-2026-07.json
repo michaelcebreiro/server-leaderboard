@@ -1,8 +1,56 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-11T01:09:52.822Z",
-  "reviewCount": 42,
+  "fetchedAt": "2026-07-11T04:29:20.502Z",
+  "reviewCount": 48,
   "reviews": [
+    {
+      "reviewId": "5652034875468405100",
+      "reviewer": "Hannah Kacira",
+      "rating": 5,
+      "text": "Maria is an amazing server 10/10, will come back because of her!!!",
+      "reviewDate": "2026-07-11T03:19:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4948267715398331950",
+      "reviewer": "Owen Neish",
+      "rating": 5,
+      "text": "Maria is the best! Absolutely classy and amazing to me and my friends.",
+      "reviewDate": "2026-07-11T03:12:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5652006615468402287",
+      "reviewer": "Kathleen Fu",
+      "rating": 5,
+      "text": "Maria took care of our large group and remembered all of our names and orders so well.",
+      "reviewDate": "2026-07-11T02:20:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5652006355468402262",
+      "reviewer": "Symon Tiansay",
+      "rating": 5,
+      "text": "Maria was an amazing waitress! She took care of our large group",
+      "reviewDate": "2026-07-11T02:20:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5652006435468402269",
+      "reviewer": "Adeline C",
+      "rating": 5,
+      "text": "thanks maria !",
+      "reviewDate": "2026-07-11T02:20:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5652006095468402236",
+      "reviewer": "Jonathan S",
+      "rating": 5,
+      "text": "Maria was awesome!",
+      "reviewDate": "2026-07-11T02:19:26.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5651719395468373685",
       "reviewer": "Keira Brown",
