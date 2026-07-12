@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-11T22:55:03.360Z",
-  "reviewCount": 50,
+  "fetchedAt": "2026-07-12T00:00:00.798Z",
+  "reviewCount": 52,
   "reviews": [
+    {
+      "reviewId": "5652964935468497582",
+      "reviewer": "John-Paul Di Fazio",
+      "rating": 5,
+      "text": "Derks was very nice and friendly! Great experience",
+      "reviewDate": "2026-07-11T23:48:15.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5652933305468494443",
+      "reviewer": "Alejandra",
+      "rating": 5,
+      "text": "Baby friendly - great food and service! The staff was very kind and accommodating since we went with our 1 year old son. The food was good and the ambience was nice!",
+      "reviewDate": "2026-07-11T22:59:11.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5652849905468486139",
       "reviewer": "Alexis C",

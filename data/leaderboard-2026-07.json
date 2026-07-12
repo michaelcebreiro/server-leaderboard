@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-11T22:55:03.562Z",
-  "reviewCount": 50,
-  "qualifyingReviewCount": 50,
+  "processedAt": "2026-07-12T00:00:00.882Z",
+  "reviewCount": 52,
+  "qualifyingReviewCount": 52,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,12 +35,12 @@
     },
     {
       "rank": 5,
-      "server": "Danielle",
-      "count": 2
+      "server": "Derka",
+      "count": 3
     },
     {
       "rank": 6,
-      "server": "Derka",
+      "server": "Danielle",
       "count": 2
     },
     {
@@ -472,8 +472,14 @@
     },
     {
       "server": "Derka",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "John-Paul Di Fazio",
+          "text": "Derks was very nice and friendly! Great experience",
+          "date": "2026-07-11",
+          "rating": 5
+        },
         {
           "reviewer": "Tianna",
           "text": "Me and my bestie came to local to watch a fifa match, got placed upstairs on the rooftop bar, and the seats were perfect, right in front of the tv, food was great, our bartenders were so incredibly sweet, so shout out to Kaitlyn and Derka for making the experience so much better, very attentive, checking in on us every so often, overall we had such a great time and will be back!  🥹",
