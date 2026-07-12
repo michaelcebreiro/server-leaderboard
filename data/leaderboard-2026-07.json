@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-12T21:56:40.777Z",
-  "reviewCount": 52,
-  "qualifyingReviewCount": 52,
+  "processedAt": "2026-07-12T22:58:05.349Z",
+  "reviewCount": 53,
+  "qualifyingReviewCount": 53,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -26,7 +26,7 @@
     {
       "rank": 3,
       "server": "Harrison",
-      "count": 4
+      "count": 5
     },
     {
       "rank": 4,
@@ -430,8 +430,14 @@
     },
     {
       "server": "Harrison",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Eve Cosentino",
+          "text": "Harrison was amazing , attentive to everyone that he engaged from Yonge told\nGreat job!!!  Top service.  Thank you 🙏",
+          "date": "2026-07-12",
+          "rating": 5
+        },
         {
           "reviewer": "Noel Samson",
           "text": "Harrison is by far the best waiter I’ve ever had",
