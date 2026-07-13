@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-13T00:02:59.763Z",
-  "reviewCount": 53,
+  "fetchedAt": "2026-07-13T04:02:18.574Z",
+  "reviewCount": 55,
   "reviews": [
+    {
+      "reviewId": "5653969015468597482",
+      "reviewer": "Avery",
+      "rating": 5,
+      "text": "Came here for some drinks and food and the service was amazing. Kayla was awesome!!",
+      "reviewDate": "2026-07-13T03:46:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5653894525468590065",
+      "reviewer": "Ena",
+      "rating": 5,
+      "text": "We really enjoy going to the Local the food is fantastic and the service is great!",
+      "reviewDate": "2026-07-13T00:50:02.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5653790435468579704",
       "reviewer": "Eve Cosentino",

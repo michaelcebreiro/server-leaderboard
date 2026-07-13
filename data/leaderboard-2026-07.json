@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-13T00:02:59.960Z",
-  "reviewCount": 53,
-  "qualifyingReviewCount": 53,
+  "processedAt": "2026-07-13T04:02:18.629Z",
+  "reviewCount": 55,
+  "qualifyingReviewCount": 55,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -65,137 +65,137 @@
     },
     {
       "rank": 11,
-      "server": "Nicky",
+      "server": "Kayla",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Paige",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Sofie",
+      "server": "Paige",
       "count": 1
     },
     {
       "rank": 15,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 16,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 36,
-      "server": "Karina",
-      "count": 0
-    },
-    {
       "rank": 37,
-      "server": "Kayla",
+      "server": "Karina",
       "count": 0
     },
     {
@@ -292,6 +292,18 @@
           "reviewer": "Carlos Escobar",
           "text": "Had an amazing experience at Local Public Eatery!! I was served by Meklit who was very nice and went through the menu with us , since it was my and I’s first time there. After dinner Qam came by and gave us a desert on the house which was absolutely delicious.  Strongly recommend this place. Great food and good vibes!!!",
           "date": "2026-07-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kayla",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Avery",
+          "text": "Came here for some drinks and food and the service was amazing. Kayla was awesome!!",
+          "date": "2026-07-13",
           "rating": 5
         }
       ]
