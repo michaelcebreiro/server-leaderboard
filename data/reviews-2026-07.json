@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-13T18:01:52.388Z",
-  "reviewCount": 55,
+  "fetchedAt": "2026-07-13T19:49:56.171Z",
+  "reviewCount": 56,
   "reviews": [
+    {
+      "reviewId": "5655021985468702468",
+      "reviewer": "Sarah",
+      "rating": 5,
+      "text": "Local Leaside is our go to, especially when my elderly parents are in town, and the location and staff are so accommodating to people with mobility issues. It is one of only a handful of places in the east end that has a bathroom on the ground floor (vs the basement). And, as always, the food is amazing and the staff are so nice!",
+      "reviewDate": "2026-07-13T18:57:59.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5653969015468597482",
       "reviewer": "Avery",
