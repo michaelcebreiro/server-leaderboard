@@ -1,8 +1,32 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-14T00:10:02.237Z",
-  "reviewCount": 56,
+  "fetchedAt": "2026-07-14T03:35:18.177Z",
+  "reviewCount": 59,
   "reviews": [
+    {
+      "reviewId": "5656339335468833811",
+      "reviewer": "Elizabeth Beecroft",
+      "rating": 5,
+      "text": "Maria was an amazing server!! Had a great experience.",
+      "reviewDate": "2026-07-14T02:47:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5656338995468833779",
+      "reviewer": "bella powell",
+      "rating": 5,
+      "text": "maría was amazing!!!",
+      "reviewDate": "2026-07-14T02:46:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5656338975468833777",
+      "reviewer": "Rosemary G",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-14T02:46:37.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5655021985468702468",
       "reviewer": "Sarah",

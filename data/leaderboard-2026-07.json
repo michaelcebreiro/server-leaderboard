@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-14T00:10:02.427Z",
-  "reviewCount": 56,
-  "qualifyingReviewCount": 56,
+  "processedAt": "2026-07-14T03:35:18.376Z",
+  "reviewCount": 59,
+  "qualifyingReviewCount": 59,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 7
+      "count": 8
     },
     {
       "rank": 2,
@@ -232,8 +232,14 @@
   "mentions": [
     {
       "server": "Maria",
-      "count": 7,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Elizabeth Beecroft",
+          "text": "Maria was an amazing server!! Had a great experience.",
+          "date": "2026-07-14",
+          "rating": 5
+        },
         {
           "reviewer": "Victoria Sabovitch",
           "text": "maria was absolutely incredible, she was so accommodating and kind - she made our experience amazing",
