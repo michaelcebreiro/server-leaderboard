@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-14T10:17:43.738Z",
-  "reviewCount": 60,
+  "fetchedAt": "2026-07-14T11:55:41.799Z",
+  "reviewCount": 61,
   "reviews": [
+    {
+      "reviewId": "5656540065468853809",
+      "reviewer": "Stephen Carter",
+      "rating": 5,
+      "text": "Had such a fantastic time visiting this spot recently. The atmosphere is wonderful, especially when sitting outside under the umbrellas on a nice day. It is the perfect place to relax with friends.\n\nEverything we ordered was delicious. We especially enjoyed the espresso martini, which came topped with those three perfect coffee beans. We will definitely be back again soon.",
+      "reviewDate": "2026-07-14T10:11:57.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5656369535468836807",
       "reviewer": "Vina Hama",
