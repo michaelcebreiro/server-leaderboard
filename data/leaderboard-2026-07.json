@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-14T16:52:25.044Z",
-  "reviewCount": 62,
-  "qualifyingReviewCount": 62,
+  "processedAt": "2026-07-14T18:07:08.950Z",
+  "reviewCount": 63,
+  "qualifyingReviewCount": 63,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -65,72 +65,72 @@
     },
     {
       "rank": 11,
-      "server": "Kayla",
+      "server": "Carolina",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Nicky",
+      "server": "Kayla",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Paige",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Paulveen",
+      "server": "Paige",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 17,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 18,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 23,
-      "server": "Camille",
-      "count": 0
-    },
-    {
       "rank": 24,
-      "server": "Carolina",
+      "server": "Camille",
       "count": 0
     },
     {
@@ -430,6 +430,18 @@
           "reviewer": "Enas Abdalla",
           "text": "We had a great experience. Daniel was our server and he was incredibly attentive, friendly and accommodating of us with our toddler at the table. Highly recommend asking for him !",
           "date": "2026-07-06",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Carolina",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "without prejudice",
+          "text": "I've been several times, and have always enjoyed the experience. I honestly cannot think of a time I didn't enjoy it.\n\nAs for staff, great. Typically very friendly and fun. (I say typically because everyone has off days, so no grudges on once or twice with shortness from service)\n\nTo note; Carolina was very personable as far as a bar tender, with solid recommendations. I actually promised to write this review a year ago because I loved her service, forgot, had her again and immediately remembered. (She did not ask for the record out of brazen humility)\n\nDefinitely worth checking out in Leaside.",
+          "date": "2026-07-14",
           "rating": 5
         }
       ]
