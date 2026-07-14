@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-14T03:35:18.177Z",
-  "reviewCount": 59,
+  "fetchedAt": "2026-07-14T05:57:37.718Z",
+  "reviewCount": 60,
   "reviews": [
+    {
+      "reviewId": "5656369535468836807",
+      "reviewer": "Vina Hama",
+      "rating": 5,
+      "text": "Maria was such an attentive server made sure we were well taken care of the entire night (plus the SA Deanna), highly recommend!!!!!",
+      "reviewDate": "2026-07-14T03:55:33.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5656339335468833811",
       "reviewer": "Elizabeth Beecroft",
