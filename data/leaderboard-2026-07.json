@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-16T00:13:28.100Z",
-  "reviewCount": 67,
-  "qualifyingReviewCount": 67,
+  "processedAt": "2026-07-16T03:42:17.791Z",
+  "reviewCount": 72,
+  "qualifyingReviewCount": 72,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,13 +15,13 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Maria",
+      "server": "Daniel",
       "count": 9
     },
     {
       "rank": 2,
-      "server": "Daniel",
-      "count": 5
+      "server": "Maria",
+      "count": 9
     },
     {
       "rank": 3,
@@ -55,37 +55,37 @@
     },
     {
       "rank": 9,
-      "server": "Sydney",
+      "server": "Paige",
       "count": 2
     },
     {
       "rank": 10,
+      "server": "Sydney",
+      "count": 2
+    },
+    {
+      "rank": 11,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Carolina",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Kayla",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 14,
-      "server": "Nicola",
-      "count": 1
-    },
-    {
       "rank": 15,
-      "server": "Paige",
+      "server": "Nicola",
       "count": 1
     },
     {
@@ -400,8 +400,32 @@
     },
     {
       "server": "Daniel",
-      "count": 5,
+      "count": 9,
       "reviews": [
+        {
+          "reviewer": "Nardos Mollaligne",
+          "text": "Daniel was such a great server & took great care of my sister and I during a busy rush! Will definitely be coming back!",
+          "date": "2026-07-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jen Hastings",
+          "text": "The food and our server Daniel were great",
+          "date": "2026-07-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rob",
+          "text": "Daniel did a great job.",
+          "date": "2026-07-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Noah Guerin",
+          "text": "Daniel was great!",
+          "date": "2026-07-16",
+          "rating": 5
+        },
         {
           "reviewer": "Sam Novac",
           "text": "We decided to come for dinner for the first time in quite a while, and had such a great time. We had Daniel as our server and couldn't have had a better experience. He helped us out with the menu making great recommendations and making sure we had everything we needed throughout our night. If you decide to come to local, make sure you're asking for Daniel!",
@@ -514,8 +538,14 @@
     },
     {
       "server": "Paige",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Aly Virji",
+          "text": "Great food! Exceptional service!! I have been to many, many restaurants and I can honestly say that the service provided by Paige and the team was absolutely amazing!!! The food and drinks were delicious. The only “hiccup” we had was a mix up in the kitchen and they made a mistake on one of our meals. Paige immediately addressed it and took full responsibility for the mistake (even thought I don’t think it was actually her fault). Between Paige and the managers they not only “made it right” they actually went above and beyond to make sure that we had a super positive experience. I look forward to enjoying many more meals here and hoping that Paige will be our server again.",
+          "date": "2026-07-16",
+          "rating": 5
+        },
         {
           "reviewer": "Stephanea Fanuzzi",
           "text": "Always amazing service and especially Paige and Hazmile working on Canada in 40 plus degrees! Kudos to the chefs also! All together 5 star experience always!\nHappy Canada Day The Local Staff!!!",

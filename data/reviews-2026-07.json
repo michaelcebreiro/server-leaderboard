@@ -1,8 +1,48 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-16T00:13:27.915Z",
-  "reviewCount": 67,
+  "fetchedAt": "2026-07-16T03:42:17.345Z",
+  "reviewCount": 72,
   "reviews": [
+    {
+      "reviewId": "5662973245469495217",
+      "reviewer": "Nardos Mollaligne",
+      "rating": 5,
+      "text": "Daniel was such a great server & took great care of my sister and I during a busy rush! Will definitely be coming back!",
+      "reviewDate": "2026-07-16T01:54:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5662916445469489554",
+      "reviewer": "Aly Virji",
+      "rating": 5,
+      "text": "Great food! Exceptional service!! I have been to many, many restaurants and I can honestly say that the service provided by Paige and the team was absolutely amazing!!! The food and drinks were delicious. The only “hiccup” we had was a mix up in the kitchen and they made a mistake on one of our meals. Paige immediately addressed it and took full responsibility for the mistake (even thought I don’t think it was actually her fault). Between Paige and the managers they not only “made it right” they actually went above and beyond to make sure that we had a super positive experience. I look forward to enjoying many more meals here and hoping that Paige will be our server again.",
+      "reviewDate": "2026-07-16T01:28:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5662843655469482357",
+      "reviewer": "Jen Hastings",
+      "rating": 5,
+      "text": "The food and our server Daniel were great",
+      "reviewDate": "2026-07-16T00:05:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5662844645469482455",
+      "reviewer": "Rob",
+      "rating": 5,
+      "text": "Daniel did a great job.",
+      "reviewDate": "2026-07-16T00:02:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5662843495469482341",
+      "reviewer": "Noah Guerin",
+      "rating": 5,
+      "text": "Daniel was great!",
+      "reviewDate": "2026-07-16T00:00:27.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5662841115469482105",
       "reviewer": "Isiah Hall",
