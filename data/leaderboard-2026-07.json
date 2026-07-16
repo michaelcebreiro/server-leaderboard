@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-16T20:04:27.175Z",
-  "reviewCount": 75,
-  "qualifyingReviewCount": 75,
+  "processedAt": "2026-07-16T21:17:19.390Z",
+  "reviewCount": 77,
+  "qualifyingReviewCount": 77,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Daniel",
-      "count": 9
+      "count": 10
     },
     {
       "rank": 2,
@@ -65,166 +65,181 @@
     },
     {
       "rank": 11,
-      "server": "Ben",
+      "server": "Aisia",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Carolina",
+      "server": "Ben",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Kayla",
+      "server": "Carolina",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Nicky",
+      "server": "Kayla",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Nicola",
+      "server": "named",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Paulveen",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 17,
-      "server": "Sofie",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 18,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 19,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 20,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 23,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 24,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 26,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 27,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 28,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 29,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 30,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 31,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 32,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 33,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 34,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 35,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 36,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 37,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 38,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 39,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 40,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 41,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 40,
-      "server": "Matteo",
-      "count": 0
-    },
-    {
-      "rank": 41,
-      "server": "Mia",
-      "count": 0
-    },
-    {
       "rank": 42,
-      "server": "Nina",
+      "server": "Mackenzie",
       "count": 0
     },
     {
       "rank": 43,
+      "server": "Matteo",
+      "count": 0
+    },
+    {
+      "rank": 44,
+      "server": "Mia",
+      "count": 0
+    },
+    {
+      "rank": 45,
+      "server": "Nina",
+      "count": 0
+    },
+    {
+      "rank": 46,
       "server": "Zivko",
       "count": 0
     }
@@ -400,8 +415,14 @@
     },
     {
       "server": "Daniel",
-      "count": 9,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "Alim Esmail",
+          "text": "We were served by an awesome waiter named Daniel!  Well done for your first few shifts.  Your rocked dude!",
+          "date": "2026-07-16",
+          "rating": 5
+        },
         {
           "reviewer": "Nardos Mollaligne",
           "text": "Daniel was such a great server & took great care of my sister and I during a busy rush! Will definitely be coming back!",
@@ -610,6 +631,30 @@
           "reviewer": "Tracy Hall",
           "text": "Norah and Kaitlyn were wonderful!!!!!!",
           "date": "2026-07-10",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Aisia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Keira Brown",
+          "text": "Aijia was so welcoming! Thank you for such great service!",
+          "date": "2026-07-10",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "named",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Alim Esmail",
+          "text": "We were served by an awesome waiter named Daniel!  Well done for your first few shifts.  Your rocked dude!",
+          "date": "2026-07-16",
           "rating": 5
         }
       ]
