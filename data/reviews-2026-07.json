@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-16T17:40:51.306Z",
-  "reviewCount": 72,
+  "fetchedAt": "2026-07-16T18:47:39.082Z",
+  "reviewCount": 74,
   "reviews": [
+    {
+      "reviewId": "5664329755469630347",
+      "reviewer": "gabi dias",
+      "rating": 5,
+      "text": "I always get the tuna bowl to go and it's fresh every single time. Really nice staff too:) I appreciate the treat !!!",
+      "reviewDate": "2026-07-16T18:28:20.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5664259835469623407",
+      "reviewer": "Ashot",
+      "rating": 5,
+      "text": "Went to watch Argentina vs England game with a friend. The staff was amazing and always available despite both floors being packed due to the game. The food was amazing, my rare stake was out of this world, I ordered rare. $40 was totally justified. Accidentally spilled my beer in the heat of the game, asked for another pint even though the one I spilled was almost done. Was only charged for one. Will be back most definitely.",
+      "reviewDate": "2026-07-16T18:02:48.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5662973245469495217",
       "reviewer": "Nardos Mollaligne",
