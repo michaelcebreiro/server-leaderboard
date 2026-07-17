@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "processedAt": "2026-03-31T07:18:46.007Z",
+  "processedAt": "2026-07-17T04:46:07.619Z",
   "reviewCount": 122,
   "qualifyingReviewCount": 122,
   "thresholds": {
@@ -8,7 +8,7 @@
     "second": 15
   },
   "winners": {
-    "finalized": false,
+    "finalized": true,
     "first": "Mia",
     "second": null
   },
@@ -45,37 +45,37 @@
     },
     {
       "rank": 7,
-      "server": "Karina",
+      "server": "Jackie G",
       "count": 5
     },
     {
       "rank": 8,
-      "server": "Matteo",
+      "server": "Karina",
       "count": 5
     },
     {
       "rank": 9,
+      "server": "Matteo",
+      "count": 5
+    },
+    {
+      "rank": 10,
       "server": "Ben",
       "count": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Meklit",
       "count": 4
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Nicola",
       "count": 4
     },
     {
-      "rank": 12,
-      "server": "Danielle",
-      "count": 3
-    },
-    {
       "rank": 13,
-      "server": "Jackie",
+      "server": "Danielle",
       "count": 3
     },
     {
@@ -95,27 +95,27 @@
     },
     {
       "rank": 17,
-      "server": "Jackie G",
-      "count": 2
-    },
-    {
-      "rank": 18,
       "server": "Josh",
       "count": 2
     },
     {
-      "rank": 19,
-      "server": "Ricki",
-      "count": 2
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "server": "Sofie",
       "count": 2
     },
     {
-      "rank": 21,
+      "rank": 19,
       "server": "Alessia",
+      "count": 1
+    },
+    {
+      "rank": 20,
+      "server": "Blake",
+      "count": 1
+    },
+    {
+      "rank": 21,
+      "server": "Carolina",
       "count": 1
     },
     {
@@ -140,13 +140,108 @@
     },
     {
       "rank": 26,
-      "server": "Qam",
-      "count": 1
+      "server": "Aisia",
+      "count": 0
     },
     {
       "rank": 27,
-      "server": "Rivaldo",
-      "count": 1
+      "server": "Alex",
+      "count": 0
+    },
+    {
+      "rank": 28,
+      "server": "Brooke",
+      "count": 0
+    },
+    {
+      "rank": 29,
+      "server": "Camille",
+      "count": 0
+    },
+    {
+      "rank": 30,
+      "server": "Daniel",
+      "count": 0
+    },
+    {
+      "rank": 31,
+      "server": "Derka",
+      "count": 0
+    },
+    {
+      "rank": 32,
+      "server": "Elaiza",
+      "count": 0
+    },
+    {
+      "rank": 33,
+      "server": "Georgia",
+      "count": 0
+    },
+    {
+      "rank": 34,
+      "server": "Harrison",
+      "count": 0
+    },
+    {
+      "rank": 35,
+      "server": "Isabella",
+      "count": 0
+    },
+    {
+      "rank": 36,
+      "server": "Kaia",
+      "count": 0
+    },
+    {
+      "rank": 37,
+      "server": "Kaitlyn M",
+      "count": 0
+    },
+    {
+      "rank": 38,
+      "server": "Kaitlyn S",
+      "count": 0
+    },
+    {
+      "rank": 39,
+      "server": "Kelyse",
+      "count": 0
+    },
+    {
+      "rank": 40,
+      "server": "Mackenzie",
+      "count": 0
+    },
+    {
+      "rank": 41,
+      "server": "Matthew",
+      "count": 0
+    },
+    {
+      "rank": 42,
+      "server": "Nina",
+      "count": 0
+    },
+    {
+      "rank": 43,
+      "server": "Norah",
+      "count": 0
+    },
+    {
+      "rank": 44,
+      "server": "Paige",
+      "count": 0
+    },
+    {
+      "rank": 45,
+      "server": "Sydney",
+      "count": 0
+    },
+    {
+      "rank": 46,
+      "server": "Zivko",
+      "count": 0
     }
   ],
   "mentions": [
@@ -721,24 +816,6 @@
       ]
     },
     {
-      "server": "Ricki",
-      "count": 2,
-      "reviews": [
-        {
-          "reviewer": "Laura Petracca",
-          "text": "This place was so incredibly welcoming. Ricki gave us first pick at any table, which was sweet. She made us feel like we belong\n\nOur server Karina knew exactly what we wanted to drink and shared her favourites on the menu. Everything was delicious! The food and drinks are top notch here, you won’t be disappointed in a thing.\n\nWe are new regulars and can’t wait to be back.",
-          "date": "2026-03-01",
-          "rating": 5
-        },
-        {
-          "reviewer": "Megan Penney",
-          "text": "Had the absolute BEST experience at Local Public Eatery thanks to Ricki and Karina! From the moment we walked in, they made us feel genuinely welcomed —  you can tell they truly love what they do.\nRicki and Karina are absolute gems — give them a raise 👏✨ Can’t wait to come back!",
-          "date": "2026-03-01",
-          "rating": 5
-        }
-      ]
-    },
-    {
       "server": "Matteo",
       "count": 5,
       "reviews": [
@@ -805,13 +882,25 @@
       ]
     },
     {
-      "server": "Jackie",
-      "count": 3,
+      "server": "Jackie G",
+      "count": 5,
       "reviews": [
         {
           "reviewer": "Colin Castle",
           "text": "Jackie was a fantastic server. Very personable and friendly.",
           "date": "2026-03-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jennifer Fortin",
+          "text": "Jackie G was amazing! Exceptional service amazing food can’t wait to come again!",
+          "date": "2026-03-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Melissa Li",
+          "text": "Jackie G was great - exceptional service.",
+          "date": "2026-03-13",
           "rating": 5
         },
         {
@@ -824,24 +913,6 @@
           "reviewer": "Reza Shaffaf",
           "text": "We’ve been coming here for years but I guess I havent written a review yet. Local is one of our favourite places to stop when we need to chill and grab a meal after a long day. Jackie + Ben made our recent visit great by being fun, attentive, friendly, and for changing the TV channel for us!",
           "date": "2026-03-07",
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "server": "Jackie G",
-      "count": 2,
-      "reviews": [
-        {
-          "reviewer": "Jennifer Fortin",
-          "text": "Jackie G was amazing! Exceptional service amazing food can’t wait to come again!",
-          "date": "2026-03-13",
-          "rating": 5
-        },
-        {
-          "reviewer": "Melissa Li",
-          "text": "Jackie G was great - exceptional service.",
-          "date": "2026-03-13",
           "rating": 5
         }
       ]
@@ -919,25 +990,25 @@
       ]
     },
     {
-      "server": "Rivaldo",
+      "server": "Blake",
       "count": 1,
       "reviews": [
         {
-          "reviewer": "Rodrigo Lopes",
-          "text": "I used to order here via doordash but I was missing a lot from this awesome atmosphere.  In particular,  the team of waitresses really cover each other and they don't let your table unattended.\n\nThx Christina + Rivaldo + Marti for awesome work.",
-          "date": "2026-03-15",
+          "reviewer": "Curtis Cockburn",
+          "text": "Love this place! Been a regular here for the past 10 years or more. My go-to for good food, good drinks, good vibes, great place to watch a game, and to hang with staff and other patrons who are incredible down to the last one. Have met many over the years but currently, I need to shout out to Jacquie, Maria, Jackie (sp?), Blake, Carolina, Ben, Zee (sp?), and more (apologies if I forgot anyone). Whoever does the hiring for LPE, they are amazing!\n\nJust one request - bring back the Diablo Burger pls! :)",
+          "date": "2026-03-09",
           "rating": 5
         }
       ]
     },
     {
-      "server": "Qam",
+      "server": "Carolina",
       "count": 1,
       "reviews": [
         {
-          "reviewer": "John Beauchamp",
-          "text": "Had a great time at Local in Leaside.  Big thank you to Nicola and Qam - our servers.  It was incredibly busy, and they were both so attentive.  Great job.",
-          "date": "2026-03-06",
+          "reviewer": "Curtis Cockburn",
+          "text": "Love this place! Been a regular here for the past 10 years or more. My go-to for good food, good drinks, good vibes, great place to watch a game, and to hang with staff and other patrons who are incredible down to the last one. Have met many over the years but currently, I need to shout out to Jacquie, Maria, Jackie (sp?), Blake, Carolina, Ben, Zee (sp?), and more (apologies if I forgot anyone). Whoever does the hiring for LPE, they are amazing!\n\nJust one request - bring back the Diablo Burger pls! :)",
+          "date": "2026-03-09",
           "rating": 5
         }
       ]

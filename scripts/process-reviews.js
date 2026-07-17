@@ -142,6 +142,7 @@ const NAME_PATTERNS = [
   /\b([A-Z][a-z]{2,})\s+(?:was|is|were)\s+(?:a\s+)?(?:great|amazing|awesome|fantastic|wonderful|lovely|excellent|exceptional|phenomenal|incredible|attentive|friendly|professional|charming|knowledgeable|accommodating|helpful|efficient|pleasant|sweet|personable|the best|new but great|so\s+(?:kind|nice|helpful|friendly|sweet|professional|attentive|lovely|great|fun|good))/gi,
   /(?:our|my|the)\s+(?:server|waitress|waiter|host|hostess|bartender)[,\s]+([A-Z][a-z]{2,})/gi,
   /(?:served by|shoutout to|thanks? to|thank you to|big thank you to)\s+([A-Z][a-z]{2,})/gi,
+  /\bnamed\s+([A-Z][a-z]{2,})/gi,
   /(?:server|waitress|waiter|host|hostess|bartender)\s+([A-Z][a-z]{2,})\b/gi,
   /\b([A-Z][a-z]{2,})\s+(?:made our|gave us|kept our|took care|brought out|checked in|remembered|provided|hosted|killed it|absolutely killed)/gi,
   /\b([A-Z][a-z]{2,})\s+(?:and|&|\+)\s+[A-Z][a-z]{2,}\s+(?:were|was|both|perfect)/gi,
@@ -161,6 +162,7 @@ const STOP_WORDS = new Set([
   'january','february','march','april','may','june','july','august','september','october','november','december',
   'fish','staff','today','yesterday','care','attention','level','vibe','selection','recommendations',
   'kindness','patience','experience','quality','portion','portions','price','prices','decor','ambiance',
+  'named','called','guy','girl','lady','man','woman','gentleman','person','team','crew',
 ]);
 
 function discoverNewServers(servers, removed) {

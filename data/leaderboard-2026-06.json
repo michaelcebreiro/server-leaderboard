@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "processedAt": "2026-06-30T22:50:55.847Z",
+  "processedAt": "2026-07-17T04:46:07.635Z",
   "reviewCount": 174,
   "qualifyingReviewCount": 172,
   "thresholds": {
@@ -8,7 +8,7 @@
     "second": 15
   },
   "winners": {
-    "finalized": false,
+    "finalized": true,
     "first": "Derka",
     "second": null
   },
@@ -25,18 +25,18 @@
     },
     {
       "rank": 3,
-      "server": "Danielle",
+      "server": "Christina",
       "count": 9
     },
     {
       "rank": 4,
-      "server": "Sydney",
+      "server": "Danielle",
       "count": 9
     },
     {
       "rank": 5,
-      "server": "Christina",
-      "count": 8
+      "server": "Sydney",
+      "count": 9
     },
     {
       "rank": 6,
@@ -110,22 +110,22 @@
     },
     {
       "rank": 20,
-      "server": "Karina",
+      "server": "Kalypsa",
       "count": 2
     },
     {
       "rank": 21,
-      "server": "Paulveen",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 22,
-      "server": "Josh",
-      "count": 1
+      "server": "Paulveen",
+      "count": 2
     },
     {
       "rank": 23,
-      "server": "Kalypsa",
+      "server": "Josh",
       "count": 1
     },
     {
@@ -135,91 +135,111 @@
     },
     {
       "rank": 25,
-      "server": "Nicky",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 26,
-      "server": "Nina",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 27,
-      "server": "Alex",
-      "count": 0
+      "server": "Nina",
+      "count": 1
     },
     {
       "rank": 28,
-      "server": "Ben",
-      "count": 0
+      "server": "Norah",
+      "count": 1
     },
     {
       "rank": 29,
-      "server": "Blake",
+      "server": "Aisia",
       "count": 0
     },
     {
       "rank": 30,
-      "server": "Brooke",
+      "server": "Alex",
       "count": 0
     },
     {
       "rank": 31,
-      "server": "Camille",
+      "server": "Ben",
       "count": 0
     },
     {
       "rank": 32,
-      "server": "Carolina",
+      "server": "Blake",
       "count": 0
     },
     {
       "rank": 33,
-      "server": "Elaiza",
+      "server": "Brooke",
       "count": 0
     },
     {
       "rank": 34,
-      "server": "Isabella",
+      "server": "Camille",
       "count": 0
     },
     {
       "rank": 35,
-      "server": "Ivy",
+      "server": "Carolina",
       "count": 0
     },
     {
       "rank": 36,
-      "server": "Jackie N",
+      "server": "Elaiza",
       "count": 0
     },
     {
       "rank": 37,
-      "server": "Kaitlyn M",
+      "server": "Isabella",
       "count": 0
     },
     {
       "rank": 38,
-      "server": "Kelyse",
+      "server": "Ivy",
       "count": 0
     },
     {
       "rank": 39,
-      "server": "Meklit",
+      "server": "Jackie N",
       "count": 0
     },
     {
       "rank": 40,
-      "server": "Nicola",
+      "server": "Kaitlyn M",
       "count": 0
     },
     {
       "rank": 41,
-      "server": "Sofie",
+      "server": "Kelyse",
       "count": 0
     },
     {
       "rank": 42,
+      "server": "Mackenzie",
+      "count": 0
+    },
+    {
+      "rank": 43,
+      "server": "Meklit",
+      "count": 0
+    },
+    {
+      "rank": 44,
+      "server": "Nicola",
+      "count": 0
+    },
+    {
+      "rank": 45,
+      "server": "Sofie",
+      "count": 0
+    },
+    {
+      "rank": 46,
       "server": "Zivko",
       "count": 0
     }
@@ -329,7 +349,7 @@
     },
     {
       "server": "Christina",
-      "count": 8,
+      "count": 9,
       "reviews": [
         {
           "reviewer": "Emanuel Vaccaro",
@@ -372,6 +392,12 @@
           "text": "Christina was amazing",
           "date": "2026-06-06",
           "rating": 4
+        },
+        {
+          "reviewer": "Adrian Edwards",
+          "text": "Christiana was an amazing server. I hope to get her again next time I go.",
+          "date": "2026-06-03",
+          "rating": 5
         },
         {
           "reviewer": "Harrison Way",
@@ -725,12 +751,18 @@
     },
     {
       "server": "Kalypsa",
-      "count": 1,
+      "count": 2,
       "reviews": [
         {
           "reviewer": "KAY MEILLEUR",
           "text": "Kalypsa was amazing!!!  Derks too!!",
           "date": "2026-06-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Taylor Duncan",
+          "text": "The service by Calypsa and Norah were fantastic. Fast service and very friendly!",
+          "date": "2026-06-06",
           "rating": 5
         }
       ]
@@ -1109,6 +1141,30 @@
           "reviewer": "Eduardo Torres",
           "text": "My god nina was the best she is the best of that place",
           "date": "2026-06-18",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Norah",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Taylor Duncan",
+          "text": "The service by Calypsa and Norah were fantastic. Fast service and very friendly!",
+          "date": "2026-06-06",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matthew",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Kathy Roberts",
+          "text": "Matthew was a fantastic server. As good as it gets.",
+          "date": "2026-06-14",
           "rating": 5
         }
       ]

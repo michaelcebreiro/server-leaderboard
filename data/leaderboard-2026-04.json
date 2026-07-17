@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "processedAt": "2026-04-30T23:12:08.671Z",
+  "processedAt": "2026-07-17T04:46:07.623Z",
   "reviewCount": 116,
   "qualifyingReviewCount": 116,
   "thresholds": {
@@ -8,7 +8,7 @@
     "second": 15
   },
   "winners": {
-    "finalized": false,
+    "finalized": true,
     "first": null,
     "second": null
   },
@@ -25,12 +25,12 @@
     },
     {
       "rank": 3,
-      "server": "Elaiza",
-      "count": 6
+      "server": "Ewan",
+      "count": 7
     },
     {
       "rank": 4,
-      "server": "Ewan",
+      "server": "Elaiza",
       "count": 6
     },
     {
@@ -50,122 +50,197 @@
     },
     {
       "rank": 8,
-      "server": "Kaitlyn M",
-      "count": 5
-    },
-    {
-      "rank": 9,
       "server": "Meklit",
       "count": 4
     },
     {
-      "rank": 10,
+      "rank": 9,
       "server": "Mia",
       "count": 4
     },
     {
-      "rank": 11,
+      "rank": 10,
       "server": "Carolina",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 11,
       "server": "Christina",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 12,
       "server": "Danielle",
       "count": 3
     },
     {
-      "rank": 14,
+      "rank": 13,
       "server": "Eli",
       "count": 3
     },
     {
+      "rank": 14,
+      "server": "Kaitlyn S",
+      "count": 3
+    },
+    {
       "rank": 15,
+      "server": "Zivko",
+      "count": 3
+    },
+    {
+      "rank": 16,
       "server": "Annabel",
       "count": 2
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Jackie G",
       "count": 2
     },
     {
-      "rank": 17,
-      "server": "Kalypsa",
-      "count": 2
-    },
-    {
       "rank": 18,
-      "server": "Zivko",
+      "server": "Kaitlyn M",
       "count": 2
     },
     {
       "rank": 19,
+      "server": "Kalypsa",
+      "count": 2
+    },
+    {
+      "rank": 20,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Daniel",
       "count": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 23,
-      "server": "Alessia",
-      "count": 0
-    },
-    {
       "rank": 24,
-      "server": "Brooke",
+      "server": "Aisia",
       "count": 0
     },
     {
       "rank": 25,
-      "server": "Ivy",
+      "server": "Alessia",
       "count": 0
     },
     {
       "rank": 26,
-      "server": "Jackie N",
+      "server": "Alex",
       "count": 0
     },
     {
       "rank": 27,
-      "server": "Josh",
+      "server": "Brooke",
       "count": 0
     },
     {
       "rank": 28,
-      "server": "Kelyse",
+      "server": "Camille",
       "count": 0
     },
     {
       "rank": 29,
-      "server": "Nicola",
+      "server": "Derka",
       "count": 0
     },
     {
       "rank": 30,
-      "server": "Paulveen",
+      "server": "Georgia",
       "count": 0
     },
     {
       "rank": 31,
+      "server": "Harrison",
+      "count": 0
+    },
+    {
+      "rank": 32,
+      "server": "Isabella",
+      "count": 0
+    },
+    {
+      "rank": 33,
+      "server": "Ivy",
+      "count": 0
+    },
+    {
+      "rank": 34,
+      "server": "Jackie N",
+      "count": 0
+    },
+    {
+      "rank": 35,
+      "server": "Josh",
+      "count": 0
+    },
+    {
+      "rank": 36,
+      "server": "Kaia",
+      "count": 0
+    },
+    {
+      "rank": 37,
+      "server": "Kelyse",
+      "count": 0
+    },
+    {
+      "rank": 38,
+      "server": "Mackenzie",
+      "count": 0
+    },
+    {
+      "rank": 39,
+      "server": "Matthew",
+      "count": 0
+    },
+    {
+      "rank": 40,
+      "server": "Nicola",
+      "count": 0
+    },
+    {
+      "rank": 41,
+      "server": "Nina",
+      "count": 0
+    },
+    {
+      "rank": 42,
+      "server": "Norah",
+      "count": 0
+    },
+    {
+      "rank": 43,
+      "server": "Paige",
+      "count": 0
+    },
+    {
+      "rank": 44,
+      "server": "Paulveen",
+      "count": 0
+    },
+    {
+      "rank": 45,
       "server": "Sofie",
+      "count": 0
+    },
+    {
+      "rank": 46,
+      "server": "Sydney",
       "count": 0
     }
   ],
@@ -442,11 +517,17 @@
     },
     {
       "server": "Ewan",
-      "count": 6,
+      "count": 7,
       "reviews": [
         {
           "reviewer": "Daniya Mortensen",
           "text": "Ewan provided excellent service, he was kind, friendly, and very attentive. His positive attitude made the experience enjoyable, and he went the extra mile to make sure everything was perfect.",
+          "date": "2026-04-30",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ardit Peni",
+          "text": "Come here all the time. Evan has been a great host",
           "date": "2026-04-30",
           "rating": 5
         },
@@ -736,8 +817,14 @@
     },
     {
       "server": "Zivko",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Chinedu Ezemenari",
+          "text": "The food was great — I had the Panang prawn curry rice bowl and really enjoyed it. Our server, Sivko, was excellent and took great care of us throughout.\nThe only issue we ran into was with our reservation. We had booked well in advance and were expecting to be seated upstairs together as a group. When we arrived, we were instead seated downstairs and had to be split up between booths and high-top tables, which took away from the intimacy we were hoping for.\nThat said, we made the best of it and still had a good experience overall. The food was strong enough that I’d definitely come back — I’d just hope for a bit more consistency between what’s booked and what’s delivered next time",
+          "date": "2026-04-28",
+          "rating": 4
+        },
         {
           "reviewer": "Graham Coleman",
           "text": "No food.\nZ our waiter was so personable. Nice introduction and compared stories. Attentive. Added to the innate ambience of the location.\nNice patio. Next time upstairs when windows are open\n\nWe will be back!",
@@ -790,7 +877,25 @@
     },
     {
       "server": "Kaitlyn M",
-      "count": 5,
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Kelly Gill",
+          "text": "Regularly go to the Local Leaside. Great place, food and fantastic service. Shout out to Kaitlyn M. who always makes good suggestions for brunch on Sunday mornings.",
+          "date": "2026-04-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Pete Robic",
+          "text": "This place is awesome Kaitlyn M is amzing she serves us brunch every week…she is always super happy and friendly and the service is fantastic…love this place",
+          "date": "2026-04-26",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaitlyn S",
+      "count": 3,
       "reviews": [
         {
           "reviewer": "Madison Lamontagne",
@@ -808,18 +913,6 @@
           "reviewer": "Meghan Hunter",
           "text": "Had a great meal… the vibes were correct!!!! Kaitlyn and Maria were amazing! Would recommend!",
           "date": "2026-04-30",
-          "rating": 5
-        },
-        {
-          "reviewer": "Kelly Gill",
-          "text": "Regularly go to the Local Leaside. Great place, food and fantastic service. Shout out to Kaitlyn M. who always makes good suggestions for brunch on Sunday mornings.",
-          "date": "2026-04-26",
-          "rating": 5
-        },
-        {
-          "reviewer": "Pete Robic",
-          "text": "This place is awesome Kaitlyn M is amzing she serves us brunch every week…she is always super happy and friendly and the service is fantastic…love this place",
-          "date": "2026-04-26",
           "rating": 5
         }
       ]

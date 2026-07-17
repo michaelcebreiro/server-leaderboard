@@ -22,12 +22,12 @@
         </div>
         <h1>Local Public Eatery</h1>
       </div>
-      <p class="subtitle">Server Recognition Leaderboard</p>
+      <p class="subtitle">Partner Recognition Leaderboard</p>
       <span class="location-badge">Leaside</span>
       <nav class="tabs">
         <button class="tab active" data-tab="leaderboard">Leaderboard</button>
         <button class="tab" data-tab="process">Process Reviews</button>
-        <button class="tab" data-tab="servers">Manage Servers</button>
+        <button class="tab" data-tab="servers">Manage Partners</button>
         <button class="tab" data-tab="history">History</button>
         <button class="tab" data-tab="update">Weekly Update</button>
       </nav>
@@ -82,11 +82,11 @@
         </div>
         <div class="stat">
           <span class="stat-value" id="total-mentions">0</span>
-          <span class="stat-label">Server Mentions</span>
+          <span class="stat-label">Partner Mentions</span>
         </div>
         <div class="stat">
           <span class="stat-value" id="active-servers">0</span>
-          <span class="stat-label">Active Servers</span>
+          <span class="stat-label">Active Partners</span>
         </div>
       </div>
     </section>
@@ -115,10 +115,10 @@
       </div>
     </section>
 
-    <!-- Manage Servers Tab -->
+    <!-- Manage Partners Tab -->
     <section id="tab-servers" class="tab-content">
-      <h2>Server List</h2>
-      <p class="help-text">Server names used for matching mentions in reviews. Add, rename, or remove servers below. Changes are saved directly to the repository and take effect on the next nightly review processing.</p>
+      <h2>Partner List</h2>
+      <p class="help-text">Partner names used for matching mentions in reviews. Add, rename, or remove partners below. Changes are saved directly to the repository and take effect on the next nightly review processing.</p>
 
       <div id="token-panel" class="token-panel">
         <!-- Filled in by JS based on token state -->
@@ -126,9 +126,9 @@
 
       <div id="servers-editor" class="hidden">
         <form id="add-server-form" class="add-server-form">
-          <input type="text" id="new-server-name" placeholder="Server name" autocomplete="off" required>
+          <input type="text" id="new-server-name" placeholder="Partner name" autocomplete="off" required>
           <input type="text" id="new-server-aliases" placeholder="Aliases (comma-separated, optional)" autocomplete="off">
-          <button type="submit" class="btn btn-primary">Add Server</button>
+          <button type="submit" class="btn btn-primary">Add Partner</button>
         </form>
 
         <div id="server-status" class="server-status hidden"></div>

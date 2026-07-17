@@ -11,7 +11,7 @@ test.describe('Server Leaderboard', () => {
   test('page loads with correct branding', async ({ page }) => {
     await page.goto('/');
     await expect(page.locator('h1')).toHaveText('Local Public Eatery');
-    await expect(page.locator('.subtitle')).toHaveText('Server Recognition Leaderboard');
+    await expect(page.locator('.subtitle')).toHaveText('Partner Recognition Leaderboard');
     await expect(page.locator('.location-badge')).toHaveText('Leaside');
   });
 
@@ -259,7 +259,7 @@ test.describe('Server Leaderboard', () => {
     await page.locator('#generate-update-btn').click();
 
     const value = await page.locator('#update-text').inputValue();
-    expect(value).toContain('Server Leaderboard Update');
+    expect(value).toContain('Partner Leaderboard Update');
     expect(value).toContain('Sarah');
     expect(value).toContain('day');
     expect(value).toContain('Positions can still change');

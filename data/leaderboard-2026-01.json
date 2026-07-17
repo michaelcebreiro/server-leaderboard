@@ -1,6 +1,6 @@
 {
   "month": "2026-01",
-  "processedAt": "2026-03-29T22:28:57.919Z",
+  "processedAt": "2026-07-17T04:46:07.610Z",
   "reviewCount": 95,
   "qualifyingReviewCount": 93,
   "thresholds": {
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Maria",
-      "count": 11
+      "count": 12
     },
     {
       "rank": 3,
@@ -30,7 +30,7 @@
     },
     {
       "rank": 4,
-      "server": "Jackie",
+      "server": "Jackie G",
       "count": 8
     },
     {
@@ -80,72 +80,167 @@
     },
     {
       "rank": 14,
-      "server": "Jackie N",
+      "server": "Brooke",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Nicola",
+      "server": "Camille",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Ben",
-      "count": 0
+      "server": "Jackie N",
+      "count": 1
     },
     {
       "rank": 17,
-      "server": "Ivy",
-      "count": 0
+      "server": "Kaitlyn S",
+      "count": 1
     },
     {
       "rank": 18,
-      "server": "Jackie G",
-      "count": 0
+      "server": "Nicola",
+      "count": 1
     },
     {
       "rank": 19,
-      "server": "Josh",
+      "server": "Aisia",
       "count": 0
     },
     {
       "rank": 20,
-      "server": "Kalypsa",
+      "server": "Alex",
       "count": 0
     },
     {
       "rank": 21,
-      "server": "Kayla",
+      "server": "Ben",
       "count": 0
     },
     {
       "rank": 22,
-      "server": "Matteo",
+      "server": "Blake",
       "count": 0
     },
     {
       "rank": 23,
-      "server": "Paulveen",
+      "server": "Carolina",
       "count": 0
     },
     {
       "rank": 24,
-      "server": "Qam",
+      "server": "Daniel",
       "count": 0
     },
     {
       "rank": 25,
-      "server": "Ricki",
+      "server": "Derka",
       "count": 0
     },
     {
       "rank": 26,
-      "server": "Rivaldo",
+      "server": "Elaiza",
       "count": 0
     },
     {
       "rank": 27,
+      "server": "Georgia",
+      "count": 0
+    },
+    {
+      "rank": 28,
+      "server": "Harrison",
+      "count": 0
+    },
+    {
+      "rank": 29,
+      "server": "Isabella",
+      "count": 0
+    },
+    {
+      "rank": 30,
+      "server": "Ivy",
+      "count": 0
+    },
+    {
+      "rank": 31,
+      "server": "Josh",
+      "count": 0
+    },
+    {
+      "rank": 32,
+      "server": "Kaia",
+      "count": 0
+    },
+    {
+      "rank": 33,
+      "server": "Kaitlyn M",
+      "count": 0
+    },
+    {
+      "rank": 34,
+      "server": "Kalypsa",
+      "count": 0
+    },
+    {
+      "rank": 35,
+      "server": "Kayla",
+      "count": 0
+    },
+    {
+      "rank": 36,
+      "server": "Kelyse",
+      "count": 0
+    },
+    {
+      "rank": 37,
+      "server": "Mackenzie",
+      "count": 0
+    },
+    {
+      "rank": 38,
+      "server": "Matteo",
+      "count": 0
+    },
+    {
+      "rank": 39,
+      "server": "Matthew",
+      "count": 0
+    },
+    {
+      "rank": 40,
+      "server": "Nina",
+      "count": 0
+    },
+    {
+      "rank": 41,
+      "server": "Norah",
+      "count": 0
+    },
+    {
+      "rank": 42,
+      "server": "Paige",
+      "count": 0
+    },
+    {
+      "rank": 43,
+      "server": "Paulveen",
+      "count": 0
+    },
+    {
+      "rank": 44,
       "server": "Sofie",
+      "count": 0
+    },
+    {
+      "rank": 45,
+      "server": "Sydney",
+      "count": 0
+    },
+    {
+      "rank": 46,
+      "server": "Zivko",
       "count": 0
     }
   ],
@@ -368,7 +463,7 @@
     },
     {
       "server": "Maria",
-      "count": 11,
+      "count": 12,
       "reviews": [
         {
           "reviewer": "Natalie Chue",
@@ -429,6 +524,12 @@
           "text": "Wonderful service from Maria. Great burger. Fries could use some seasoning tho. Altogether great place to watch the game.",
           "date": "2026-01-11",
           "rating": 5
+        },
+        {
+          "reviewer": "Ben Lawson",
+          "text": "Good service, nice atmosphere! Marina was so friendly.",
+          "date": "2026-01-09",
+          "rating": 4
         },
         {
           "reviewer": "Shruti Srivastava",
@@ -613,7 +714,7 @@
       ]
     },
     {
-      "server": "Jackie",
+      "server": "Jackie G",
       "count": 8,
       "reviews": [
         {
@@ -692,6 +793,42 @@
           "reviewer": "Jeffron personal email",
           "text": "Great spot! Great food! Great service ~ thanks Eli!",
           "date": "2026-01-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Brooke",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Ritvik Sharma",
+          "text": "came here for some chill drinks and snacks it was lovely! amy was an absolute sweetheart and totally saved the night as they were very busy! shout out amy :) brooke was also just a superstar awesome service!!!",
+          "date": "2026-01-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaitlyn S",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Grant Ferneyhough",
+          "text": "Kaitlyn and Maria were awesome, fast, professional. Great atmosphere",
+          "date": "2026-01-17",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Camille",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "allie ahmed",
+          "text": "Service, atmosphere and drinks all 10/10! Shoutout to server Kam or Cam & Christina!",
+          "date": "2026-01-24",
           "rating": 5
         }
       ]

@@ -477,7 +477,7 @@ document.getElementById('reprocess-btn').addEventListener('click', async () => {
     document.getElementById('process-summary').innerHTML = `
       <strong>${reviews.length}</strong> reviews |
       <strong>${qualifying.length}</strong> qualifying (4-5 stars) |
-      <strong>${withMentions.length}</strong> with server mentions
+      <strong>${withMentions.length}</strong> with partner mentions
     `;
 
     const container = document.getElementById('process-review-list');
@@ -487,7 +487,7 @@ document.getElementById('reprocess-btn').addEventListener('click', async () => {
       if (r.mentionedServers.length > 0) {
         mentionHtml = '<span class="mention-found">Mentions: ' + r.mentionedServers.map(esc).join(', ') + '</span>';
       } else {
-        mentionHtml = '<span class="no-mention">No server name found</span>';
+        mentionHtml = '<span class="no-mention">No partner name found</span>';
       }
       const snippet = r.text.length > 120 ? r.text.slice(0, 120) + '...' : r.text;
       const dateStr = r.reviewDate ? new Date(r.reviewDate).toISOString().slice(0, 10) + ' ' : '';
@@ -708,11 +708,11 @@ function renderServerList() {
     return;
   }
   if (!serverState.loaded) {
-    container.innerHTML = '<p class="empty-state">Loading servers...</p>';
+    container.innerHTML = '<p class="empty-state">Loading partners...</p>';
     return;
   }
   if (serverState.servers.length === 0) {
-    container.innerHTML = '<p class="empty-state">No servers configured yet. Add one above.</p>';
+    container.innerHTML = '<p class="empty-state">No partners configured yet. Add one above.</p>';
     return;
   }
 
@@ -945,7 +945,7 @@ document.getElementById('generate-update-btn').addEventListener('click', async (
   const lastDay = new Date(y, mo, 0).getDate();
   const daysLeft = Math.max(0, lastDay - dayOfMonth);
 
-  let text = `Server Leaderboard Update\n`;
+  let text = `Partner Leaderboard Update\n`;
   text += `${monthLabel} — Week ${weekNum}\n`;
   text += `${'─'.repeat(36)}\n\n`;
 
