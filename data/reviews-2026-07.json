@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-16T23:30:36.427Z",
-  "reviewCount": 77,
+  "fetchedAt": "2026-07-17T01:12:35.172Z",
+  "reviewCount": 79,
   "reviews": [
+    {
+      "reviewId": "5665820265469779062",
+      "reviewer": "Adam Rivard",
+      "rating": 5,
+      "text": "Ewan provided great service on the upper patio. Kind and caring with our kids",
+      "reviewDate": "2026-07-16T23:31:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5665819914469779027",
+      "reviewer": "Matthew Rivard",
+      "rating": 4,
+      "text": "Ewan is great on the upper patio.",
+      "reviewDate": "2026-07-16T23:31:04.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5664554695469652675",
       "reviewer": "Qendresa",
