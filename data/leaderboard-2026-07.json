@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-17T14:16:34.880Z",
-  "reviewCount": 83,
-  "qualifyingReviewCount": 83,
+  "processedAt": "2026-07-17T15:56:38.680Z",
+  "reviewCount": 85,
+  "qualifyingReviewCount": 85,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -85,117 +85,117 @@
     },
     {
       "rank": 15,
-      "server": "Karina",
+      "server": "Kaia",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Kayla",
+      "server": "Karina",
       "count": 1
     },
     {
       "rank": 17,
-      "server": "Nicky",
+      "server": "Kayla",
       "count": 1
     },
     {
       "rank": 18,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 19,
-      "server": "Paulveen",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 20,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 21,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 22,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 36,
-      "server": "Josh",
-      "count": 0
-    },
-    {
       "rank": 37,
-      "server": "Kaia",
+      "server": "Josh",
       "count": 0
     },
     {
@@ -631,6 +631,18 @@
           "reviewer": "Casey Deleon",
           "text": "My roommate and I came to Local Leaside to watch the FIFA World Cup and had the BEST time. We were up on the rooftop and the whole vibe was unreal. Huge shoutout to Kaitlyn S and Derka, their energy made the experience even better. They were so welcoming, fun, and really brought the atmosphere to life. Between the game, the crowd, and the service, everything was on point. Definitely one of those nights you don’t forget. Can’t wait to come back!",
           "date": "2026-07-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Duane Rendle",
+          "text": "Kaia was our server last night and she was excellent. I hope I get seated in her section. The next time I come.",
+          "date": "2026-07-17",
           "rating": 5
         }
       ]

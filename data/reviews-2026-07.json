@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-17T14:16:34.633Z",
-  "reviewCount": 83,
+  "fetchedAt": "2026-07-17T15:56:38.606Z",
+  "reviewCount": 85,
   "reviews": [
+    {
+      "reviewId": "5666551414469851697",
+      "reviewer": "Gani",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-07-17T15:43:56.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5666440315469840678",
+      "reviewer": "Duane Rendle",
+      "rating": 5,
+      "text": "Kaia was our server last night and she was excellent. I hope I get seated in her section. The next time I come.",
+      "reviewDate": "2026-07-17T14:23:26.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5666212794469818078",
       "reviewer": "f0od¡e",
