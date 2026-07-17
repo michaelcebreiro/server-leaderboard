@@ -234,10 +234,6 @@
       "aliases": []
     },
     {
-      "name": "named",
-      "aliases": []
-    },
-    {
       "name": "Matthew",
       "aliases": []
     }
@@ -250,6 +246,7 @@
     "with",
     "friendly",
     "ever",
-    "Eliza"
+    "Eliza",
+    "named"
   ]
 }
