@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-17T01:12:35.172Z",
-  "reviewCount": 79,
+  "fetchedAt": "2026-07-17T04:27:42.815Z",
+  "reviewCount": 81,
   "reviews": [
+    {
+      "reviewId": "5665964025469793291",
+      "reviewer": "Jeff Dams",
+      "rating": 5,
+      "text": "Derks was awesome. All of her recommendations were great",
+      "reviewDate": "2026-07-17T02:43:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5665952435469792145",
+      "reviewer": "thetorontorealtor",
+      "rating": 5,
+      "text": "Our table had an amazing experience tonight, and a big part of that was our incredible server, Karina. She was warm, attentive, friendly, and made sure everything was perfect throughout our meal.\n\nOur group of friends gets together once a month, and this time we decided to try somewhere different from our usual neighborhood spot. We're so glad we did! The food was great, but Karina's outstanding service truly made the evening special.\n\nBy the time we left, everyone at the table was talking about how wonderful she was. She made us feel welcome, took great care of us, and helped make our night one to remember. We will definitely be back and hope to see Karina again. Thank you for such a fantastic dining experience!\nCLUB - A happy group of 7-20 usually !",
+      "reviewDate": "2026-07-17T02:16:28.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5665820265469779062",
       "reviewer": "Adam Rivard",
