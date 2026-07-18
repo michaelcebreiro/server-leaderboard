@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-17T23:09:19.183Z",
-  "reviewCount": 87,
-  "qualifyingReviewCount": 87,
+  "processedAt": "2026-07-18T00:10:07.454Z",
+  "reviewCount": 89,
+  "qualifyingReviewCount": 89,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Maria",
-      "count": 9
+      "count": 10
     },
     {
       "rank": 3,
@@ -259,8 +259,14 @@
     },
     {
       "server": "Maria",
-      "count": 9,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "Morgan McDonald",
+          "text": "Maria our waitress was super sweet and accommodating",
+          "date": "2026-07-17",
+          "rating": 5
+        },
         {
           "reviewer": "Vina Hama",
           "text": "Maria was such an attentive server made sure we were well taken care of the entire night (plus the SA Deanna), highly recommend!!!!!",

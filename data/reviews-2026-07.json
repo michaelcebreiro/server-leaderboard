@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-17T23:09:19.098Z",
-  "reviewCount": 87,
+  "fetchedAt": "2026-07-18T00:10:07.396Z",
+  "reviewCount": 89,
   "reviews": [
+    {
+      "reviewId": "5668387234470034734",
+      "reviewer": "Catherine",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-07-18T00:01:54.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5668358795470031933",
+      "reviewer": "Morgan McDonald",
+      "rating": 5,
+      "text": "Maria our waitress was super sweet and accommodating",
+      "reviewDate": "2026-07-17T23:21:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5603659325463587340",
       "reviewer": "Ambie Edgar-Chana",
