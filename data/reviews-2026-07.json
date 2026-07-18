@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-18T16:37:27.370Z",
-  "reviewCount": 95,
+  "fetchedAt": "2026-07-18T17:41:21.898Z",
+  "reviewCount": 96,
   "reviews": [
+    {
+      "reviewId": "5669113925470107016",
+      "reviewer": "Shivang",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-18T16:33:25.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5669075565470103205",
       "reviewer": "matthew",
