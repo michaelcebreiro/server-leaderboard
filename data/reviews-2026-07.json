@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-18T03:33:10.881Z",
-  "reviewCount": 93,
+  "fetchedAt": "2026-07-18T05:51:56.901Z",
+  "reviewCount": 94,
   "reviews": [
+    {
+      "reviewId": "5668631125470058982",
+      "reviewer": "Evelyn M",
+      "rating": 5,
+      "text": "Maria was friendly, warm, and attentive from start to finish.",
+      "reviewDate": "2026-07-18T04:30:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5668591325470055044",
       "reviewer": "Riley Rogers",

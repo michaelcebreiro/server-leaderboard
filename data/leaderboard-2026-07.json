@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-18T03:33:11.059Z",
-  "reviewCount": 93,
-  "qualifyingReviewCount": 93,
+  "processedAt": "2026-07-18T05:51:56.983Z",
+  "reviewCount": 94,
+  "qualifyingReviewCount": 94,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,12 +15,12 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Daniel",
-      "count": 10
+      "server": "Maria",
+      "count": 11
     },
     {
       "rank": 2,
-      "server": "Maria",
+      "server": "Daniel",
       "count": 10
     },
     {
@@ -277,8 +277,14 @@
     },
     {
       "server": "Maria",
-      "count": 10,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Evelyn M",
+          "text": "Maria was friendly, warm, and attentive from start to finish.",
+          "date": "2026-07-18",
+          "rating": 5
+        },
         {
           "reviewer": "Morgan McDonald",
           "text": "Maria our waitress was super sweet and accommodating",
