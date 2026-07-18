@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-18T17:41:21.898Z",
-  "reviewCount": 96,
+  "fetchedAt": "2026-07-18T18:38:15.036Z",
+  "reviewCount": 100,
   "reviews": [
+    {
+      "reviewId": "5669247425470120279",
+      "reviewer": "Symon",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-18T18:29:22.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5669204045470115992",
+      "reviewer": "Diane",
+      "rating": 5,
+      "text": "Excellent food. Servers great and the outside patio was lovely.",
+      "reviewDate": "2026-07-18T17:47:52.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5669113925470107016",
       "reviewer": "Shivang",
@@ -44,6 +60,14 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "4801795765383742389",
+      "reviewer": "Andrew",
+      "rating": 5,
+      "text": "Maria is the best server I’ve ever had.",
+      "reviewDate": "2026-07-18T02:25:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5327622425436100753",
       "reviewer": "Leo Popelas",
       "rating": 5,
@@ -66,6 +90,14 @@
       "text": "",
       "reviewDate": "2026-07-18T00:01:54.000Z",
       "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5669228225470118389",
+      "reviewer": "Dan McDonald",
+      "rating": 5,
+      "text": "Maria our waitress was amazing",
+      "reviewDate": "2026-07-17T23:23:08.000Z",
+      "source": "GOOGLE"
     },
     {
       "reviewId": "5668358795470031933",

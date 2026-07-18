@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-18T17:41:21.977Z",
-  "reviewCount": 96,
-  "qualifyingReviewCount": 96,
+  "processedAt": "2026-07-18T18:38:15.269Z",
+  "reviewCount": 100,
+  "qualifyingReviewCount": 100,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 11
+      "count": 13
     },
     {
       "rank": 2,
@@ -277,12 +277,24 @@
     },
     {
       "server": "Maria",
-      "count": 11,
+      "count": 13,
       "reviews": [
         {
           "reviewer": "Evelyn M",
           "text": "Maria was friendly, warm, and attentive from start to finish.",
           "date": "2026-07-18",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andrew",
+          "text": "Maria is the best server I’ve ever had.",
+          "date": "2026-07-18",
+          "rating": 5
+        },
+        {
+          "reviewer": "Dan McDonald",
+          "text": "Maria our waitress was amazing",
+          "date": "2026-07-17",
           "rating": 5
         },
         {
