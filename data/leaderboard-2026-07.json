@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-18T00:10:07.454Z",
-  "reviewCount": 89,
-  "qualifyingReviewCount": 89,
+  "processedAt": "2026-07-18T03:33:11.059Z",
+  "reviewCount": 93,
+  "qualifyingReviewCount": 93,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -50,142 +50,142 @@
     },
     {
       "rank": 8,
-      "server": "Meklit",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 9,
-      "server": "Norah",
+      "server": "Meklit",
       "count": 2
     },
     {
       "rank": 10,
-      "server": "Paige",
+      "server": "Norah",
       "count": 2
     },
     {
       "rank": 11,
-      "server": "Sydney",
+      "server": "Paige",
       "count": 2
     },
     {
       "rank": 12,
+      "server": "Sydney",
+      "count": 2
+    },
+    {
+      "rank": 13,
       "server": "Aisia",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Carolina",
       "count": 1
     },
     {
-      "rank": 15,
-      "server": "Kaia",
-      "count": 1
-    },
-    {
       "rank": 16,
-      "server": "Karina",
+      "server": "Christina",
       "count": 1
     },
     {
       "rank": 17,
-      "server": "Kayla",
+      "server": "Jackie G",
       "count": 1
     },
     {
       "rank": 18,
-      "server": "Nicky",
+      "server": "Kaia",
       "count": 1
     },
     {
       "rank": 19,
-      "server": "Nicola",
+      "server": "Kayla",
       "count": 1
     },
     {
       "rank": 20,
-      "server": "Paulveen",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 21,
-      "server": "Sofie",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 22,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 23,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 24,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 26,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 27,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 28,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 29,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 30,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 29,
-      "server": "Christina",
-      "count": 0
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 34,
-      "server": "Ivy",
-      "count": 0
-    },
-    {
       "rank": 35,
-      "server": "Jackie G",
+      "server": "Ivy",
       "count": 0
     },
     {
@@ -247,12 +247,30 @@
   "mentions": [
     {
       "server": "Karina",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Leo Popelas",
+          "text": "Karina is the best waitress",
+          "date": "2026-07-18",
+          "rating": 5
+        },
         {
           "reviewer": "thetorontorealtor",
           "text": "Our table had an amazing experience tonight, and a big part of that was our incredible server, Karina. She was warm, attentive, friendly, and made sure everything was perfect throughout our meal.\n\nOur group of friends gets together once a month, and this time we decided to try somewhere different from our usual neighborhood spot. We're so glad we did! The food was great, but Karina's outstanding service truly made the evening special.\n\nBy the time we left, everyone at the table was talking about how wonderful she was. She made us feel welcome, took great care of us, and helped make our night one to remember. We will definitely be back and hope to see Karina again. Thank you for such a fantastic dining experience!\n❤️CLUB - A happy group of 7-20 usually !",
           "date": "2026-07-17",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Christina",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jacob Lidstone",
+          "text": "Everything about this place is great. The food, the service, the vibe - we love coming here! Matt, Christina, Nikola, Jackie and Jackson always make a point to say hello and take good care of us!",
+          "date": "2026-07-18",
           "rating": 5
         }
       ]
@@ -433,6 +451,18 @@
           "reviewer": "Audrey M",
           "text": "Celebrated my birthday here and reserved the patio for my party of ~40ppl. We had such a great time! Special thanks to Ben, Vico, and Sophie for taking care of us and accommodating all of our requests. The food and drinks were delicious (especially the steak and margaritas) and all came with good timing. My group was able to have separate bills and the team did a great job at keeping everything organized. Lovely team to communicate and plan with beforehand (shoutout Nicky!), the night couldn't have gone any better!!",
           "date": "2026-07-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Jackie G",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jacob Lidstone",
+          "text": "Everything about this place is great. The food, the service, the vibe - we love coming here! Matt, Christina, Nikola, Jackie and Jackson always make a point to say hello and take good care of us!",
+          "date": "2026-07-18",
           "rating": 5
         }
       ]

@@ -1,8 +1,40 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-18T00:10:07.396Z",
-  "reviewCount": 89,
+  "fetchedAt": "2026-07-18T03:33:10.881Z",
+  "reviewCount": 93,
   "reviews": [
+    {
+      "reviewId": "5668591325470055044",
+      "reviewer": "Riley Rogers",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-18T03:11:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5668590315470054943",
+      "reviewer": "justin mcintyre",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-18T03:09:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622425436100753",
+      "reviewer": "Leo Popelas",
+      "rating": 5,
+      "text": "Karina is the best waitress",
+      "reviewDate": "2026-07-18T02:24:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5668442025470040200",
+      "reviewer": "Jacob Lidstone",
+      "rating": 5,
+      "text": "Everything about this place is great. The food, the service, the vibe - we love coming here! Matt, Christina, Nikola, Jackie and Jackson always make a point to say hello and take good care of us!",
+      "reviewDate": "2026-07-18T00:17:39.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5668387234470034734",
       "reviewer": "Catherine",
