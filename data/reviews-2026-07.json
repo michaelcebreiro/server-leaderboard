@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-18T22:54:51.003Z",
-  "reviewCount": 101,
+  "fetchedAt": "2026-07-18T23:57:36.424Z",
+  "reviewCount": 102,
   "reviews": [
+    {
+      "reviewId": "5669909605470186311",
+      "reviewer": "Mark Kiyonaga",
+      "rating": 5,
+      "text": "Great dinner. Kid friendly. Maria & Annabel provided impeccable service. Highly recommend for anyone in the area.",
+      "reviewDate": "2026-07-18T23:28:26.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5669756354470171068",
       "reviewer": "Zoya",

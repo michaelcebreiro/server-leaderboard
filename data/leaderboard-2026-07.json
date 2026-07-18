@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-18T22:54:51.085Z",
-  "reviewCount": 101,
-  "qualifyingReviewCount": 101,
+  "processedAt": "2026-07-18T23:57:36.514Z",
+  "reviewCount": 102,
+  "qualifyingReviewCount": 102,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 13
+      "count": 14
     },
     {
       "rank": 2,
@@ -80,72 +80,72 @@
     },
     {
       "rank": 14,
-      "server": "Ben",
+      "server": "Annabel",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Carolina",
+      "server": "Ben",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Christina",
+      "server": "Carolina",
       "count": 1
     },
     {
       "rank": 17,
-      "server": "Jackie G",
+      "server": "Christina",
       "count": 1
     },
     {
       "rank": 18,
-      "server": "Kaia",
+      "server": "Jackie G",
       "count": 1
     },
     {
       "rank": 19,
-      "server": "Kayla",
+      "server": "Kaia",
       "count": 1
     },
     {
       "rank": 20,
-      "server": "Nicky",
+      "server": "Kayla",
       "count": 1
     },
     {
       "rank": 21,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 22,
-      "server": "Paulveen",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 23,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 24,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 25,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 26,
-      "server": "Alex",
-      "count": 0
-    },
-    {
       "rank": 27,
-      "server": "Annabel",
+      "server": "Alex",
       "count": 0
     },
     {
@@ -276,9 +276,27 @@
       ]
     },
     {
-      "server": "Maria",
-      "count": 13,
+      "server": "Annabel",
+      "count": 1,
       "reviews": [
+        {
+          "reviewer": "Mark Kiyonaga",
+          "text": "Great dinner. Kid friendly. Maria & Annabel provided impeccable service. Highly recommend for anyone in the area.",
+          "date": "2026-07-18",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Maria",
+      "count": 14,
+      "reviews": [
+        {
+          "reviewer": "Mark Kiyonaga",
+          "text": "Great dinner. Kid friendly. Maria & Annabel provided impeccable service. Highly recommend for anyone in the area.",
+          "date": "2026-07-18",
+          "rating": 5
+        },
         {
           "reviewer": "Evelyn M",
           "text": "Maria was friendly, warm, and attentive from start to finish.",
