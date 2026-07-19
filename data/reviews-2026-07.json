@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-19T03:39:58.721Z",
-  "reviewCount": 103,
+  "fetchedAt": "2026-07-19T06:15:53.283Z",
+  "reviewCount": 105,
   "reviews": [
+    {
+      "reviewId": "5670147405470210013",
+      "reviewer": "Caitlin Galliera",
+      "rating": 5,
+      "text": "Love the Local. Great atmosphere and amazing drinks. Derks is the best server 10/10 service will definitely come back!!",
+      "reviewDate": "2026-07-19T03:53:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5670132445470208522",
+      "reviewer": "Lauren Tigert",
+      "rating": 5,
+      "text": "Derks was AMAZING. 10/10 service and beyond",
+      "reviewDate": "2026-07-19T03:52:41.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5669949335470190262",
       "reviewer": "Peter Baugh",

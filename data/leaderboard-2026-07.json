@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-19T03:39:58.948Z",
-  "reviewCount": 103,
-  "qualifyingReviewCount": 103,
+  "processedAt": "2026-07-19T06:15:53.497Z",
+  "reviewCount": 105,
+  "qualifyingReviewCount": 105,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,13 +25,13 @@
     },
     {
       "rank": 3,
-      "server": "Harrison",
-      "count": 5
+      "server": "Derka",
+      "count": 6
     },
     {
       "rank": 4,
-      "server": "Derka",
-      "count": 4
+      "server": "Harrison",
+      "count": 5
     },
     {
       "rank": 5,
@@ -679,8 +679,20 @@
     },
     {
       "server": "Derka",
-      "count": 4,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Caitlin Galliera",
+          "text": "Love the Local. Great atmosphere and amazing drinks. Derks is the best server 10/10 service will definitely come back!!",
+          "date": "2026-07-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lauren Tigert",
+          "text": "Derks was AMAZING. 10/10 service and beyond",
+          "date": "2026-07-19",
+          "rating": 5
+        },
         {
           "reviewer": "Jeff Dams",
           "text": "Derks was awesome. All of her recommendations were great",
