@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-19T15:17:40.111Z",
-  "reviewCount": 105,
-  "qualifyingReviewCount": 105,
+  "processedAt": "2026-07-19T16:26:59.857Z",
+  "reviewCount": 106,
+  "qualifyingReviewCount": 106,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -31,7 +31,7 @@
     {
       "rank": 4,
       "server": "Harrison",
-      "count": 5
+      "count": 6
     },
     {
       "rank": 5,
@@ -115,107 +115,107 @@
     },
     {
       "rank": 21,
-      "server": "Nicky",
+      "server": "Mackenzie",
       "count": 1
     },
     {
       "rank": 22,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 23,
-      "server": "Paulveen",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 24,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 25,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 26,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 40,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 41,
-      "server": "Mackenzie",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -625,8 +625,14 @@
     },
     {
       "server": "Harrison",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Isabella Farag",
+          "text": "Amazing service by Mackenzie and Harrison!",
+          "date": "2026-07-19",
+          "rating": 5
+        },
         {
           "reviewer": "Eve Cosentino",
           "text": "Harrison was amazing , attentive to everyone that he engaged from Yonge told\nGreat job!!!  Top service.  Thank you 🙏",
@@ -775,6 +781,18 @@
           "reviewer": "Keira Brown",
           "text": "Aijia was so welcoming! Thank you for such great service!",
           "date": "2026-07-10",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Mackenzie",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Isabella Farag",
+          "text": "Amazing service by Mackenzie and Harrison!",
+          "date": "2026-07-19",
           "rating": 5
         }
       ]

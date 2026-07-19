@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-19T15:17:40.030Z",
-  "reviewCount": 105,
+  "fetchedAt": "2026-07-19T16:26:59.785Z",
+  "reviewCount": 106,
   "reviews": [
+    {
+      "reviewId": "5670425705470237730",
+      "reviewer": "Isabella Farag",
+      "rating": 5,
+      "text": "Amazing service by Mackenzie and Harrison!",
+      "reviewDate": "2026-07-19T15:20:58.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5670147405470210013",
       "reviewer": "Caitlin Galliera",
