@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-19T16:26:59.785Z",
-  "reviewCount": 106,
+  "fetchedAt": "2026-07-19T17:33:08.053Z",
+  "reviewCount": 107,
   "reviews": [
+    {
+      "reviewId": "5670460515470241181",
+      "reviewer": "Megan Farah",
+      "rating": 5,
+      "text": "We’re long time customers and every time we are always happy with the level of customer service and how delicious the food is. Matthew was also such a great guy and wonderful server. Thanks as always to the staff!",
+      "reviewDate": "2026-07-19T16:21:42.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5670425705470237730",
       "reviewer": "Isabella Farag",
