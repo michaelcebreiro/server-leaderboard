@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-19T21:58:07.853Z",
-  "reviewCount": 107,
+  "fetchedAt": "2026-07-19T23:01:28.993Z",
+  "reviewCount": 108,
   "reviews": [
+    {
+      "reviewId": "5670714825470266448",
+      "reviewer": "Shruti Ravi",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-19T22:45:35.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5670460515470241181",
       "reviewer": "Megan Farah",
