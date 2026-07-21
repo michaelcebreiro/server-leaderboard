@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-21T12:01:08.182Z",
-  "reviewCount": 110,
+  "fetchedAt": "2026-07-21T14:23:29.255Z",
+  "reviewCount": 111,
   "reviews": [
+    {
+      "reviewId": "5673459444470539887",
+      "reviewer": "Steve",
+      "rating": 4,
+      "text": "Friendly quick service. Good atmosphere.",
+      "reviewDate": "2026-07-21T12:36:20.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5673093905470503609",
       "reviewer": "Peter Notidis",
