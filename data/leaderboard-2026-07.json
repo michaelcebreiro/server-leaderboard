@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-20T23:41:17.340Z",
-  "reviewCount": 109,
-  "qualifyingReviewCount": 109,
+  "processedAt": "2026-07-21T01:10:43.107Z",
+  "reviewCount": 110,
+  "qualifyingReviewCount": 110,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,12 +25,12 @@
     },
     {
       "rank": 3,
-      "server": "Derka",
-      "count": 6
+      "server": "Harrison",
+      "count": 7
     },
     {
       "rank": 4,
-      "server": "Harrison",
+      "server": "Derka",
       "count": 6
     },
     {
@@ -625,8 +625,14 @@
     },
     {
       "server": "Harrison",
-      "count": 6,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Peter Notidis",
+          "text": "Had the pleasure of being served by Harrison. Did a great job!  Attentive and helpful with great suggestions and a good attitude. Made for a very enjoyable experience.",
+          "date": "2026-07-21",
+          "rating": 5
+        },
         {
           "reviewer": "Isabella Farag",
           "text": "Amazing service by Mackenzie and Harrison!",
