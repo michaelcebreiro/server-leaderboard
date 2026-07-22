@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-21T23:12:51.282Z",
-  "reviewCount": 111,
-  "qualifyingReviewCount": 111,
+  "processedAt": "2026-07-22T00:09:49.265Z",
+  "reviewCount": 112,
+  "qualifyingReviewCount": 112,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Daniel",
-      "count": 10
+      "count": 11
     },
     {
       "rank": 3,
@@ -517,8 +517,14 @@
     },
     {
       "server": "Daniel",
-      "count": 10,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Beth Eshete",
+          "text": "Daniel was our server and he did a fantastic job. Courteous, respectful and very kind. All the staff here are great. Will definitely be back!",
+          "date": "2026-07-21",
+          "rating": 5
+        },
         {
           "reviewer": "Alim Esmail",
           "text": "We were served by an awesome waiter named Daniel!  Well done for your first few shifts.  Your rocked dude!",

@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-21T23:12:51.196Z",
-  "reviewCount": 111,
+  "fetchedAt": "2026-07-22T00:09:49.186Z",
+  "reviewCount": 112,
   "reviews": [
+    {
+      "reviewId": "5674559935470649277",
+      "reviewer": "Beth Eshete",
+      "rating": 5,
+      "text": "Daniel was our server and he did a fantastic job. Courteous, respectful and very kind. All the staff here are great. Will definitely be back!",
+      "reviewDate": "2026-07-21T22:58:44.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5673459444470539887",
       "reviewer": "Steve",
