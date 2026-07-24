@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-24T01:11:33.249Z",
-  "reviewCount": 112,
+  "fetchedAt": "2026-07-24T04:34:31.143Z",
+  "reviewCount": 113,
   "reviews": [
+    {
+      "reviewId": "5678872285471078148",
+      "reviewer": "Vanessa Robinson",
+      "rating": 5,
+      "text": "We had Tomi as our server… And can I tell you she was such a delight! She recommended great food and a delicious rosé and her vibe was 💯\n\nWe will  totally come back… We love local and love the team that works there… Especially her.!",
+      "reviewDate": "2026-07-24T01:12:01.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5674559935470649277",
       "reviewer": "Beth Eshete",
