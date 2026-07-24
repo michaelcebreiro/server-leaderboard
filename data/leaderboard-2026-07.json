@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-24T21:38:08.226Z",
-  "reviewCount": 114,
-  "qualifyingReviewCount": 114,
+  "processedAt": "2026-07-24T22:43:00.732Z",
+  "reviewCount": 115,
+  "qualifyingReviewCount": 115,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -10,13 +10,13 @@
   "winners": {
     "finalized": false,
     "first": null,
-    "second": null
+    "second": "Maria"
   },
   "standings": [
     {
       "rank": 1,
       "server": "Maria",
-      "count": 14
+      "count": 15
     },
     {
       "rank": 2,
@@ -289,8 +289,14 @@
     },
     {
       "server": "Maria",
-      "count": 14,
+      "count": 15,
       "reviews": [
+        {
+          "reviewer": "Bhupen Yadav",
+          "text": "Maria was great, always ask for her",
+          "date": "2026-07-24",
+          "rating": 5
+        },
         {
           "reviewer": "Mark Kiyonaga",
           "text": "Great dinner. Kid friendly. Maria & Annabel provided impeccable service. Highly recommend for anyone in the area.",
