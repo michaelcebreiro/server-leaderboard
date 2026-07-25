@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-25T03:11:46.583Z",
-  "reviewCount": 125,
-  "qualifyingReviewCount": 125,
+  "processedAt": "2026-07-25T05:57:24.625Z",
+  "reviewCount": 127,
+  "qualifyingReviewCount": 127,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,62 +60,62 @@
     },
     {
       "rank": 10,
-      "server": "Danielle",
+      "server": "Akiko",
       "count": 2
     },
     {
       "rank": 11,
-      "server": "Karina",
+      "server": "Danielle",
       "count": 2
     },
     {
       "rank": 12,
-      "server": "Max",
+      "server": "Kaia",
       "count": 2
     },
     {
       "rank": 13,
-      "server": "Meklit",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 14,
-      "server": "Norah",
+      "server": "Max",
       "count": 2
     },
     {
       "rank": 15,
-      "server": "Paige",
+      "server": "Meklit",
       "count": 2
     },
     {
       "rank": 16,
-      "server": "Akiko",
-      "count": 1
+      "server": "Norah",
+      "count": 2
     },
     {
       "rank": 17,
+      "server": "Paige",
+      "count": 2
+    },
+    {
+      "rank": 18,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Carolina",
       "count": 1
     },
     {
-      "rank": 20,
-      "server": "Christina",
-      "count": 1
-    },
-    {
       "rank": 21,
-      "server": "Kaia",
+      "server": "Christina",
       "count": 1
     },
     {
@@ -130,107 +130,107 @@
     },
     {
       "rank": 24,
-      "server": "Matthew",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 25,
-      "server": "Nicky",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 26,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 27,
-      "server": "Paulveen",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 28,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 29,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 30,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 43,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 44,
-      "server": "Matteo",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -252,8 +252,14 @@
   "mentions": [
     {
       "server": "Akiko",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Stefan Mondovski",
+          "text": "Akiko and Matteo provided excellent service. We were happy with all aspects of our visit.",
+          "date": "2026-07-25",
+          "rating": 5
+        },
         {
           "reviewer": "Filip Pusov",
           "text": "Akiko was amazing. Great and efficient service! Will definitely come back",
@@ -551,6 +557,18 @@
       ]
     },
     {
+      "server": "Matteo",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Stefan Mondovski",
+          "text": "Akiko and Matteo provided excellent service. We were happy with all aspects of our visit.",
+          "date": "2026-07-25",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Jackie G",
       "count": 6,
       "reviews": [
@@ -828,8 +846,14 @@
     },
     {
       "server": "Kaia",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Celine McMahon",
+          "text": "Kaia was a wonderful server!!",
+          "date": "2026-07-25",
+          "rating": 5
+        },
         {
           "reviewer": "Duane Rendle",
           "text": "Kaia was our server last night and she was excellent. I hope I get seated in her section. The next time I come.",

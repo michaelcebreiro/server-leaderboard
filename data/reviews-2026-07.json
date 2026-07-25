@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-25T03:11:46.501Z",
-  "reviewCount": 125,
+  "fetchedAt": "2026-07-25T05:57:24.333Z",
+  "reviewCount": 127,
   "reviews": [
+    {
+      "reviewId": "5680631955471253074",
+      "reviewer": "Stefan Mondovski",
+      "rating": 5,
+      "text": "Akiko and Matteo provided excellent service. We were happy with all aspects of our visit.",
+      "reviewDate": "2026-07-25T03:33:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680622025471252087",
+      "reviewer": "Celine McMahon",
+      "rating": 5,
+      "text": "Kaia was a wonderful server!!",
+      "reviewDate": "2026-07-25T03:09:05.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5680598105471249713",
       "reviewer": "Filip Pusov",
