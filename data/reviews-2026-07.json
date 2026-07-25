@@ -1,8 +1,88 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-24T23:46:26.171Z",
-  "reviewCount": 115,
+  "fetchedAt": "2026-07-25T03:11:46.501Z",
+  "reviewCount": 125,
   "reviews": [
+    {
+      "reviewId": "5680598105471249713",
+      "reviewer": "Filip Pusov",
+      "rating": 5,
+      "text": "Akiko was amazing. Great and efficient service! Will definitely come back",
+      "reviewDate": "2026-07-25T02:18:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680585195471248439",
+      "reviewer": "Jamie Hollins",
+      "rating": 5,
+      "text": "Our waitress Sydney was the best we’ve ever had. Unbelievable service",
+      "reviewDate": "2026-07-25T01:52:24.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680584435471248364",
+      "reviewer": "Kelly Cloutier",
+      "rating": 5,
+      "text": "Our server; Sydney was amazing. She highly recommended the blackened chicken sandwich. It was outstanding! Thank you, Sydney!",
+      "reviewDate": "2026-07-25T01:50:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680553555471245311",
+      "reviewer": "Nate",
+      "rating": 5,
+      "text": "Jackie, Ewan and Max were on top of everything. Great service from them 3",
+      "reviewDate": "2026-07-25T00:57:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680552575471245215",
+      "reviewer": "CJ Bandayrel-Tufino",
+      "rating": 5,
+      "text": "Jackie, Ewan and max are top tier!!",
+      "reviewDate": "2026-07-25T00:54:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680535075471243467",
+      "reviewer": "Addy Bulger",
+      "rating": 5,
+      "text": "Ewan and Jackie were amazing so welcoming and amazing!!!",
+      "reviewDate": "2026-07-25T00:44:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680534845471243445",
+      "reviewer": "Kai PQ",
+      "rating": 5,
+      "text": "Ewan and Jackie were great",
+      "reviewDate": "2026-07-25T00:43:30.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680534835471243444",
+      "reviewer": "Luca Mags",
+      "rating": 5,
+      "text": "Ewan and Jackie were great!!!",
+      "reviewDate": "2026-07-25T00:43:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680533915471243353",
+      "reviewer": "Scar",
+      "rating": 5,
+      "text": "So nice people are so cooperative here food is delicious Aisia was our waiter and she was the best! overall experience was really good would recommend going here!",
+      "reviewDate": "2026-07-25T00:41:10.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5680530265471242993",
+      "reviewer": "Glenda Jairam",
+      "rating": 5,
+      "text": "Maria - thank you!!!",
+      "reviewDate": "2026-07-25T00:30:44.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5680362865471226394",
       "reviewer": "Bhupen Yadav",
