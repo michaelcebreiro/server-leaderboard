@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-25T14:21:34.789Z",
-  "reviewCount": 127,
+  "fetchedAt": "2026-07-25T15:41:28.585Z",
+  "reviewCount": 128,
   "reviews": [
+    {
+      "reviewId": "5680997045471289446",
+      "reviewer": "Emmanuel Kone",
+      "rating": 5,
+      "text": "malgre le temps d attente c'etait incroyable service impeccable rien a dire",
+      "reviewDate": "2026-07-25T14:13:27.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5680631955471253074",
       "reviewer": "Stefan Mondovski",
