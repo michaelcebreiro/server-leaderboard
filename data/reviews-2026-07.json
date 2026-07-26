@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-26T21:13:17.921Z",
-  "reviewCount": 129,
+  "fetchedAt": "2026-07-26T22:15:11.214Z",
+  "reviewCount": 131,
   "reviews": [
+    {
+      "reviewId": "5682211925471410259",
+      "reviewer": "Olga Frazer",
+      "rating": 5,
+      "text": "We celebrated my daughter’s birthday here and had such an amazing experience! We sat upstairs on the rooftop, which made the evening even more special. Our server, Kayla, was incredible, she was so attentive, friendly, and handled our food allergies with such care and confidence, which made us feel completely at ease. The service was smooth from start to finish, and she made sure everything was perfect. A special thank you as well to Mackenzie, the host, who was so welcoming and kind from the moment we arrived. Both of them helped make my daughter’s birthday memorable. We’ll definitely be back and highly recommend this place!",
+      "reviewDate": "2026-07-26T21:46:17.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5682187815471407862",
+      "reviewer": "selsela naseri",
+      "rating": 5,
+      "text": "I had a great experience at LOCAL Public Eatery Leaside! The chicken sandwich was delicious, fresh, and full of flavour. The atmosphere was welcoming, and the service was friendly and professional.\nThank you to the entire team for your kindness and excellent hospitality. You made my visit enjoyable and memorable. I will definitely be back and highly recommend this place.",
+      "reviewDate": "2026-07-26T21:14:24.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5682152685471404362",
       "reviewer": "Elyse Vdl",
