@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-26T20:12:15.412Z",
-  "reviewCount": 128,
-  "qualifyingReviewCount": 128,
+  "processedAt": "2026-07-26T21:13:18.084Z",
+  "reviewCount": 129,
+  "qualifyingReviewCount": 129,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -80,47 +80,47 @@
     },
     {
       "rank": 14,
-      "server": "Max",
+      "server": "Kayla",
       "count": 2
     },
     {
       "rank": 15,
-      "server": "Meklit",
+      "server": "Max",
       "count": 2
     },
     {
       "rank": 16,
-      "server": "Norah",
+      "server": "Meklit",
       "count": 2
     },
     {
       "rank": 17,
-      "server": "Paige",
+      "server": "Norah",
       "count": 2
     },
     {
       "rank": 18,
+      "server": "Paige",
+      "count": 2
+    },
+    {
+      "rank": 19,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Carolina",
       "count": 1
     },
     {
-      "rank": 21,
-      "server": "Christina",
-      "count": 1
-    },
-    {
       "rank": 22,
-      "server": "Kayla",
+      "server": "Christina",
       "count": 1
     },
     {
@@ -480,8 +480,14 @@
     },
     {
       "server": "Kayla",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Elyse Vdl",
+          "text": "Kayla was great!",
+          "date": "2026-07-26",
+          "rating": 5
+        },
         {
           "reviewer": "Avery",
           "text": "Came here for some drinks and food and the service was amazing. Kayla was awesome!!",
