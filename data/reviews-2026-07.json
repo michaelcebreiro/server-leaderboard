@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-26T23:30:04.436Z",
-  "reviewCount": 132,
+  "fetchedAt": "2026-07-27T01:13:28.950Z",
+  "reviewCount": 133,
   "reviews": [
+    {
+      "reviewId": "5682310625471420056",
+      "reviewer": "Geneviève Ryan",
+      "rating": 5,
+      "text": "Thanks for the great service Maria!",
+      "reviewDate": "2026-07-27T00:49:53.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5682234433471412502",
       "reviewer": "Nima Ahmadieh",

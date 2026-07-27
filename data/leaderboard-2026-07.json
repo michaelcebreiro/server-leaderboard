@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-26T23:30:04.520Z",
-  "reviewCount": 132,
-  "qualifyingReviewCount": 131,
+  "processedAt": "2026-07-27T01:13:29.006Z",
+  "reviewCount": 133,
+  "qualifyingReviewCount": 132,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 16
+      "count": 17
     },
     {
       "rank": 2,
@@ -312,8 +312,14 @@
     },
     {
       "server": "Maria",
-      "count": 16,
+      "count": 17,
       "reviews": [
+        {
+          "reviewer": "Geneviève Ryan",
+          "text": "Thanks for the great service Maria!",
+          "date": "2026-07-27",
+          "rating": 5
+        },
         {
           "reviewer": "Glenda Jairam",
           "text": "Maria - thank you!!!",
