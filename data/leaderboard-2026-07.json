@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-27T01:13:29.006Z",
-  "reviewCount": 133,
-  "qualifyingReviewCount": 132,
+  "processedAt": "2026-07-27T04:55:10.744Z",
+  "reviewCount": 134,
+  "qualifyingReviewCount": 133,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,32 +60,32 @@
     },
     {
       "rank": 10,
+      "server": "Mackenzie",
+      "count": 3
+    },
+    {
+      "rank": 11,
       "server": "Aisia",
       "count": 2
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Akiko",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Danielle",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Kaia",
       "count": 2
     },
     {
-      "rank": 14,
-      "server": "Karina",
-      "count": 2
-    },
-    {
       "rank": 15,
-      "server": "Mackenzie",
+      "server": "Karina",
       "count": 2
     },
     {
@@ -948,8 +948,14 @@
     },
     {
       "server": "Mackenzie",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Olga Malyuk",
+          "text": "We celebrated our daughter’s birthday at The Local Leaside. She had 7 friends with her, all the kids were with special needs. Mackenzie, the hostess, set us up on the patio on the second floor, which was all ours. This way kids had their special space and it was not noisy or too overwhelming. Kayley was our server and she was so attentive and kind. We had a few people with allergies and Kayley made sure there would be no issues. All in all, the party was a success, the food was fresh and tasty. And kids had a great time. Few parents who stayed were very happy with the food and had a chance to relax on the other side of the patio, while the kids felt very grown up dining in their own. I am personally grateful to all the staff at The Local for their amazing customer service. You made my girl’s day a very special one indeed.",
+          "date": "2026-07-27",
+          "rating": 5
+        },
         {
           "reviewer": "Olga Frazer",
           "text": "We celebrated my daughter’s birthday here and had such an amazing experience! We sat upstairs on the rooftop, which made the evening even more special. Our server, Kayla, was incredible, she was so attentive, friendly, and handled our food allergies with such care and confidence, which made us feel completely at ease. The service was smooth from start to finish, and she made sure everything was perfect. A special thank you as well to Mackenzie, the host, who was so welcoming and kind from the moment we arrived. Both of them helped make my daughter’s birthday memorable. We’ll definitely be back and highly recommend this place!",

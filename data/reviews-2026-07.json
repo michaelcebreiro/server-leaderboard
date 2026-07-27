@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-27T01:13:28.950Z",
-  "reviewCount": 133,
+  "fetchedAt": "2026-07-27T04:55:10.661Z",
+  "reviewCount": 134,
   "reviews": [
+    {
+      "reviewId": "5682389285471427900",
+      "reviewer": "Olga Malyuk",
+      "rating": 5,
+      "text": "We celebrated our daughter’s birthday at The Local Leaside. She had 7 friends with her, all the kids were with special needs. Mackenzie, the hostess, set us up on the patio on the second floor, which was all ours. This way kids had their special space and it was not noisy or too overwhelming. Kayley was our server and she was so attentive and kind. We had a few people with allergies and Kayley made sure there would be no issues. All in all, the party was a success, the food was fresh and tasty. And kids had a great time. Few parents who stayed were very happy with the food and had a chance to relax on the other side of the patio, while the kids felt very grown up dining in their own. I am personally grateful to all the staff at The Local for their amazing customer service. You made my girl’s day a very special one indeed.",
+      "reviewDate": "2026-07-27T03:19:54.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5682310625471420056",
       "reviewer": "Geneviève Ryan",
