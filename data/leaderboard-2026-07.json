@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-27T23:47:40.271Z",
-  "reviewCount": 134,
-  "qualifyingReviewCount": 133,
+  "processedAt": "2026-07-28T02:50:33.936Z",
+  "reviewCount": 135,
+  "qualifyingReviewCount": 134,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 17
+      "count": 18
     },
     {
       "rank": 2,
@@ -312,8 +312,14 @@
     },
     {
       "server": "Maria",
-      "count": 17,
+      "count": 18,
       "reviews": [
+        {
+          "reviewer": "Hannah Tunney",
+          "text": "Had dinner here tonight and had a great experience! Maria was our server and was very sweet and attentive! Highly recommend!",
+          "date": "2026-07-28",
+          "rating": 5
+        },
         {
           "reviewer": "Geneviève Ryan",
           "text": "Thanks for the great service Maria!",
