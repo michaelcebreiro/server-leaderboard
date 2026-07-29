@@ -1,8 +1,24 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-28T23:43:01.719Z",
-  "reviewCount": 136,
+  "fetchedAt": "2026-07-29T01:10:53.694Z",
+  "reviewCount": 138,
   "reviews": [
+    {
+      "reviewId": "5686542015471841572",
+      "reviewer": "Jocelyn Smith",
+      "rating": 5,
+      "text": "Kayla was so kind and attentive with our big group of 12, thanks for everything!",
+      "reviewDate": "2026-07-29T00:42:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5686541695471841540",
+      "reviewer": "Jessie Benoliel",
+      "rating": 5,
+      "text": "We came during trivia night and had the best time!! Our server Kayla was amazing! We will definitely be back!!",
+      "reviewDate": "2026-07-29T00:41:43.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5685078425471695847",
       "reviewer": "Yalda Mousavi",
