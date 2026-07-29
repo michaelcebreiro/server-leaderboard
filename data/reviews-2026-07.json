@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-29T22:40:39.115Z",
-  "reviewCount": 140,
+  "fetchedAt": "2026-07-29T23:43:54.857Z",
+  "reviewCount": 141,
   "reviews": [
+    {
+      "reviewId": "5688584475472044902",
+      "reviewer": "Trish Taylor",
+      "rating": 5,
+      "text": "Our server, Daniel, was lovely. Attentive but not in your face.  Hoping we see you again soon Daniel!",
+      "reviewDate": "2026-07-29T22:44:19.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5687272535471914398",
       "reviewer": "Mic",

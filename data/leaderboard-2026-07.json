@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-29T22:40:39.312Z",
-  "reviewCount": 140,
-  "qualifyingReviewCount": 139,
+  "processedAt": "2026-07-29T23:43:54.928Z",
+  "reviewCount": 141,
+  "qualifyingReviewCount": 140,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Daniel",
-      "count": 11
+      "count": 12
     },
     {
       "rank": 3,
@@ -660,8 +660,14 @@
     },
     {
       "server": "Daniel",
-      "count": 11,
+      "count": 12,
       "reviews": [
+        {
+          "reviewer": "Trish Taylor",
+          "text": "Our server, Daniel, was lovely. Attentive but not in your face.  Hoping we see you again soon Daniel!",
+          "date": "2026-07-29",
+          "rating": 5
+        },
         {
           "reviewer": "Beth Eshete",
           "text": "Daniel was our server and he did a fantastic job. Courteous, respectful and very kind. All the staff here are great. Will definitely be back!",
