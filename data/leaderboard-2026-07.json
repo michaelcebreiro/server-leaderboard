@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-29T12:30:08.866Z",
-  "reviewCount": 139,
-  "qualifyingReviewCount": 138,
+  "processedAt": "2026-07-29T14:55:31.558Z",
+  "reviewCount": 140,
+  "qualifyingReviewCount": 139,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,12 +25,12 @@
     },
     {
       "rank": 3,
-      "server": "Ewan",
-      "count": 7
+      "server": "Harrison",
+      "count": 8
     },
     {
       "rank": 4,
-      "server": "Harrison",
+      "server": "Ewan",
       "count": 7
     },
     {
@@ -774,8 +774,14 @@
     },
     {
       "server": "Harrison",
-      "count": 7,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Mic",
+          "text": "Harrison was our server, and he was fantastic! We sat on the patio on a beautiful summer night, and from the moment we arrived, he made us feel welcome. We were a group of 13, and I was genuinely impressed that he remembered each of our names throughout the evening. He was energetic, friendly, made excellent recommendations, and was incredibly prompt and attentive despite how busy the restaurant was. His service made the experience even more enjoyable. We’ll definitely be back!",
+          "date": "2026-07-29",
+          "rating": 5
+        },
         {
           "reviewer": "Peter Notidis",
           "text": "Had the pleasure of being served by Harrison. Did a great job!  Attentive and helpful with great suggestions and a good attitude. Made for a very enjoyable experience.",

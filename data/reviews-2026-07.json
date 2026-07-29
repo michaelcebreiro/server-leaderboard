@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-29T12:30:08.786Z",
-  "reviewCount": 139,
+  "fetchedAt": "2026-07-29T14:55:31.346Z",
+  "reviewCount": 140,
   "reviews": [
+    {
+      "reviewId": "5687272535471914398",
+      "reviewer": "Mic",
+      "rating": 5,
+      "text": "Harrison was our server, and he was fantastic! We sat on the patio on a beautiful summer night, and from the moment we arrived, he made us feel welcome. We were a group of 13, and I was genuinely impressed that he remembered each of our names throughout the evening. He was energetic, friendly, made excellent recommendations, and was incredibly prompt and attentive despite how busy the restaurant was. His service made the experience even more enjoyable. We’ll definitely be back!",
+      "reviewDate": "2026-07-29T12:56:46.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5686607145471848046",
       "reviewer": "Gil Dagan",
