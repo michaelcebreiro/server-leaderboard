@@ -1,13 +1,21 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-31T15:01:46.930Z",
-  "reviewCount": 151,
+  "fetchedAt": "2026-07-31T16:57:24.226Z",
+  "reviewCount": 153,
   "reviews": [
+    {
+      "reviewId": "5692295685472414357",
+      "reviewer": "Claire Bartok",
+      "rating": 5,
+      "text": "Just had an amazing experience here with our server Matthew. Thanks Matthew for providing amazing service!",
+      "reviewDate": "2026-07-31T16:29:44.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5691655035472350548",
       "reviewer": "Afarin Fard",
       "rating": 5,
-      "text": "Yummy Yummy Cheese burger and Delicious Caesar drinks",
+      "text": "Yummy Yummy Cheese burger and Delicious Caesar drinks 🍹",
       "reviewDate": "2026-07-31T12:21:37.000Z",
       "source": "GOOGLE"
     },
@@ -23,7 +31,7 @@
       "reviewId": "5691154135472300581",
       "reviewer": "Maziyar Shakourzadeh",
       "rating": 5,
-      "text": "Have been going to Local since the first day it opened.\nThe quality, service and atmosphere has been the best since day one and has always been consistently excellent.\nAll personnel are always friendly and helpful, specially, Alessia, who is a very hardworking waitress and always pleasant and friendly.\nI love going to this place",
+      "text": "Have been going to Local since the first day it opened.\nThe quality, service and atmosphere has been the best since day one and has always been consistently excellent.\nAll personnel are always friendly and helpful, specially, Alessia, who is a very hardworking waitress and always pleasant and friendly.\nI love going to this place 👍👍👍",
       "reviewDate": "2026-07-31T03:35:04.000Z",
       "source": "GOOGLE"
     },
@@ -73,6 +81,14 @@
       "rating": 5,
       "text": "Derks was a wonderful server. We just moved to Toronto from Minneapolis and she did such a wonderful job of being hospitable and welcoming.",
       "reviewDate": "2026-07-31T00:08:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4411703815344880950",
+      "reviewer": "LV Rael",
+      "rating": 5,
+      "text": "Our Local spot. The vibe is lively. The food is consistently delicious. Our server, Mia, was outstanding, friendly and a stellar host.\n\nWhether Hubby and I are without kids around or taking the whole family with us, Local will always be our go-to.",
+      "reviewDate": "2026-07-30T23:45:01.000Z",
       "source": "GOOGLE"
     },
     {

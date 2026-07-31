@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-31T15:01:47.104Z",
-  "reviewCount": 151,
-  "qualifyingReviewCount": 150,
+  "processedAt": "2026-07-31T16:57:24.449Z",
+  "reviewCount": 153,
+  "qualifyingReviewCount": 152,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -90,152 +90,152 @@
     },
     {
       "rank": 16,
-      "server": "Max",
+      "server": "Matthew",
       "count": 2
     },
     {
       "rank": 17,
-      "server": "Meklit",
+      "server": "Max",
       "count": 2
     },
     {
       "rank": 18,
-      "server": "Norah",
+      "server": "Meklit",
       "count": 2
     },
     {
       "rank": 19,
-      "server": "Paige",
+      "server": "Norah",
       "count": 2
     },
     {
       "rank": 20,
+      "server": "Paige",
+      "count": 2
+    },
+    {
+      "rank": 21,
       "server": "Alessia",
       "count": 1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ben",
       "count": 1
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Carolina",
       "count": 1
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Christina",
       "count": 1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 26,
-      "server": "Matthew",
-      "count": 1
-    },
-    {
       "rank": 27,
-      "server": "Nicky",
+      "server": "Mia",
       "count": 1
     },
     {
       "rank": 28,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 29,
-      "server": "Paulveen",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 30,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 31,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 32,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 44,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 44,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
       "rank": 45,
-      "server": "Mia",
+      "server": "Kelyse",
       "count": 0
     },
     {
@@ -250,6 +250,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Mia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "LV Rael",
+          "text": "Our Local spot. The vibe is lively. The food is consistently delicious. Our server, Mia, was outstanding, friendly and a stellar host.\n\nWhether Hubby and I are without kids around or taking the whole family with us, Local will always be our go-to.",
+          "date": "2026-07-30",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Akiko",
       "count": 2,
@@ -616,7 +628,7 @@
       "reviews": [
         {
           "reviewer": "Maziyar Shakourzadeh",
-          "text": "Have been going to Local since the first day it opened.\nThe quality, service and atmosphere has been the best since day one and has always been consistently excellent.\nAll personnel are always friendly and helpful, specially, Alessia, who is a very hardworking waitress and always pleasant and friendly.\nI love going to this place",
+          "text": "Have been going to Local since the first day it opened.\nThe quality, service and atmosphere has been the best since day one and has always been consistently excellent.\nAll personnel are always friendly and helpful, specially, Alessia, who is a very hardworking waitress and always pleasant and friendly.\nI love going to this place 👍👍👍",
           "date": "2026-07-31",
           "rating": 5
         }
@@ -1038,8 +1050,14 @@
     },
     {
       "server": "Matthew",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Claire Bartok",
+          "text": "Just had an amazing experience here with our server Matthew. Thanks Matthew for providing amazing service!",
+          "date": "2026-07-31",
+          "rating": 5
+        },
         {
           "reviewer": "Megan Farah",
           "text": "We’re long time customers and every time we are always happy with the level of customer service and how delicious the food is. Matthew was also such a great guy and wonderful server. Thanks as always to the staff!",
