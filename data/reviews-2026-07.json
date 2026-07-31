@@ -1,8 +1,40 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-30T23:18:12.558Z",
-  "reviewCount": 142,
+  "fetchedAt": "2026-07-31T01:05:34.052Z",
+  "reviewCount": 146,
   "reviews": [
+    {
+      "reviewId": "5691026015472287865",
+      "reviewer": "Santiago Echeverry Aguirre",
+      "rating": 5,
+      "text": "Kaitlyn S was very friendly and attentive. She recommended an excellent beer and a delicious dish, and both were great choices. I really appreciated her recommendations and her great service. Thank you, Kaitlyns!",
+      "reviewDate": "2026-07-31T00:43:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5691025155472287781",
+      "reviewer": "Sebastián Rodriguez",
+      "rating": 5,
+      "text": "I loved the place, the living and the food, I hope to return, Kaitlyn S was the best, her service is perfect.",
+      "reviewDate": "2026-07-31T00:41:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5690996665472284969",
+      "reviewer": "Oliver Matt",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-07-31T00:14:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5690993785472284682",
+      "reviewer": "Maki Ashe Pendergast",
+      "rating": 5,
+      "text": "Derks was a wonderful server. We just moved to Toronto from Minneapolis and she did such a wonderful job of being hospitable and welcoming.",
+      "reviewDate": "2026-07-31T00:08:19.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5689969305472182638",
       "reviewer": "Paul Pacheco",

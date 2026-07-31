@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-30T23:18:12.642Z",
-  "reviewCount": 142,
-  "qualifyingReviewCount": 141,
+  "processedAt": "2026-07-31T01:05:34.141Z",
+  "reviewCount": 146,
+  "qualifyingReviewCount": 145,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,13 +30,13 @@
     },
     {
       "rank": 4,
-      "server": "Ewan",
+      "server": "Derka",
       "count": 7
     },
     {
       "rank": 5,
-      "server": "Derka",
-      "count": 6
+      "server": "Ewan",
+      "count": 7
     },
     {
       "rank": 6,
@@ -45,13 +45,13 @@
     },
     {
       "rank": 7,
-      "server": "Kayla",
-      "count": 5
+      "server": "Kaitlyn S",
+      "count": 6
     },
     {
       "rank": 8,
-      "server": "Kaitlyn S",
-      "count": 4
+      "server": "Kayla",
+      "count": 5
     },
     {
       "rank": 9,
@@ -750,8 +750,20 @@
     },
     {
       "server": "Kaitlyn S",
-      "count": 4,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Santiago Echeverry Aguirre",
+          "text": "Kaitlyn S was very friendly and attentive. She recommended an excellent beer and a delicious dish, and both were great choices. I really appreciated her recommendations and her great service. Thank you, Kaitlyns!",
+          "date": "2026-07-31",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sebastián Rodriguez",
+          "text": "I loved the place, the living and the food, I hope to return, Kaitlyn S was the best, her service is perfect.",
+          "date": "2026-07-31",
+          "rating": 5
+        },
         {
           "reviewer": "Tim Marshall",
           "text": "Norah and Kaitlyn were fantastic and were very impressed with their service.",
@@ -852,8 +864,14 @@
     },
     {
       "server": "Derka",
-      "count": 6,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Maki Ashe Pendergast",
+          "text": "Derks was a wonderful server. We just moved to Toronto from Minneapolis and she did such a wonderful job of being hospitable and welcoming.",
+          "date": "2026-07-31",
+          "rating": 5
+        },
         {
           "reviewer": "Caitlin Galliera",
           "text": "Love the Local. Great atmosphere and amazing drinks. Derks is the best server 10/10 service will definitely come back!!",
