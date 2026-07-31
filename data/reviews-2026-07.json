@@ -1,8 +1,40 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-31T01:05:34.052Z",
-  "reviewCount": 146,
+  "fetchedAt": "2026-07-31T04:42:50.145Z",
+  "reviewCount": 150,
   "reviews": [
+    {
+      "reviewId": "5691155405472300707",
+      "reviewer": "Charlie Fahlenbock",
+      "rating": 5,
+      "text": "Alyssa, the hostess, went above and beyond to help us.  Our team of 10 people arrived without warning and she found us a great table on the patio asking a table to shift a little to accommodate us.  Well done Alyssa.  Thank you!",
+      "reviewDate": "2026-07-31T03:41:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5691154135472300581",
+      "reviewer": "Maziyar Shakourzadeh",
+      "rating": 5,
+      "text": "Have been going to Local since the first day it opened.\nThe quality, service and atmosphere has been the best since day one and has always been consistently excellent.\nAll personnel are always friendly and helpful, specially, Alessia, who is a very hardworking waitress and always pleasant and friendly.\nI love going to this place",
+      "reviewDate": "2026-07-31T03:35:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5691082065472293409",
+      "reviewer": "Reese Gaghadar",
+      "rating": 5,
+      "text": "Alyssa and the Local team were fantastic. They were friendly and generous. The food was tasty and out quickly. I would be happy to come back here.",
+      "reviewDate": "2026-07-31T02:02:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5691054995472290724",
+      "reviewer": "Amanda",
+      "rating": 5,
+      "text": "I was served by Maria recently and she killed it!!! provided excellent service, made us feel so welcomed and took great care of our group. Will be more than happy to come back just to be served by her!",
+      "reviewDate": "2026-07-31T01:24:15.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5691026015472287865",
       "reviewer": "Santiago Echeverry Aguirre",

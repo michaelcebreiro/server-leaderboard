@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-31T01:05:34.141Z",
-  "reviewCount": 146,
-  "qualifyingReviewCount": 145,
+  "processedAt": "2026-07-31T04:42:50.392Z",
+  "reviewCount": 150,
+  "qualifyingReviewCount": 149,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 18
+      "count": 19
     },
     {
       "rank": 2,
@@ -110,58 +110,58 @@
     },
     {
       "rank": 20,
-      "server": "Annabel",
+      "server": "Alessia",
       "count": 1
     },
     {
       "rank": 21,
-      "server": "Ben",
+      "server": "Annabel",
       "count": 1
     },
     {
       "rank": 22,
-      "server": "Carolina",
+      "server": "Ben",
       "count": 1
     },
     {
       "rank": 23,
-      "server": "Christina",
+      "server": "Carolina",
       "count": 1
     },
     {
       "rank": 24,
-      "server": "Matteo",
+      "server": "Christina",
       "count": 1
     },
     {
       "rank": 25,
-      "server": "Matthew",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 26,
-      "server": "Nicky",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 27,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 28,
-      "server": "Paulveen",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 29,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 30,
-      "server": "Alessia",
-      "count": 0
+      "server": "Sofie",
+      "count": 1
     },
     {
       "rank": 31,
@@ -312,8 +312,14 @@
     },
     {
       "server": "Maria",
-      "count": 18,
+      "count": 19,
       "reviews": [
+        {
+          "reviewer": "Amanda",
+          "text": "I was served by Maria recently and she killed it!!! provided excellent service, made us feel so welcomed and took great care of our group. Will be more than happy to come back just to be served by her!",
+          "date": "2026-07-31",
+          "rating": 5
+        },
         {
           "reviewer": "Hannah Tunney",
           "text": "Had dinner here tonight and had a great experience! Maria was our server and was very sweet and attentive! Highly recommend!",
@@ -600,6 +606,18 @@
           "reviewer": "Stefan Mondovski",
           "text": "Akiko and Matteo provided excellent service. We were happy with all aspects of our visit.",
           "date": "2026-07-25",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Alessia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Maziyar Shakourzadeh",
+          "text": "Have been going to Local since the first day it opened.\nThe quality, service and atmosphere has been the best since day one and has always been consistently excellent.\nAll personnel are always friendly and helpful, specially, Alessia, who is a very hardworking waitress and always pleasant and friendly.\nI love going to this place",
+          "date": "2026-07-31",
           "rating": 5
         }
       ]
