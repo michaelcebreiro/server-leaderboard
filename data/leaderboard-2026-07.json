@@ -1,22 +1,22 @@
 {
   "month": "2026-07",
-  "processedAt": "2026-07-31T18:25:22.994Z",
-  "reviewCount": 156,
-  "qualifyingReviewCount": 155,
+  "processedAt": "2026-07-31T20:03:18.766Z",
+  "reviewCount": 157,
+  "qualifyingReviewCount": 156,
   "thresholds": {
     "first": 20,
     "second": 15
   },
   "winners": {
     "finalized": false,
-    "first": null,
-    "second": "Maria"
+    "first": "Maria",
+    "second": null
   },
   "standings": [
     {
       "rank": 1,
       "server": "Maria",
-      "count": 19
+      "count": 20
     },
     {
       "rank": 2,
@@ -324,8 +324,14 @@
     },
     {
       "server": "Maria",
-      "count": 19,
+      "count": 20,
       "reviews": [
+        {
+          "reviewer": "Trevor Teodorescu",
+          "text": "Maria was a great server! She was friendly, attentive, and made sure we had everything we needed. She made our visit even better with her positive attitude and excellent service. We'll definitely be back!",
+          "date": "2026-07-31",
+          "rating": 5
+        },
         {
           "reviewer": "Amanda",
           "text": "I was served by Maria recently and she killed it!!! provided excellent service, made us feel so welcomed and took great care of our group. Will be more than happy to come back just to be served by her!",

@@ -1,8 +1,16 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-31T18:25:22.782Z",
-  "reviewCount": 156,
+  "fetchedAt": "2026-07-31T20:03:18.683Z",
+  "reviewCount": 157,
   "reviews": [
+    {
+      "reviewId": "5692697135472454271",
+      "reviewer": "Trevor Teodorescu",
+      "rating": 5,
+      "text": "Maria was a great server! She was friendly, attentive, and made sure we had everything we needed. She made our visit even better with her positive attitude and excellent service. We'll definitely be back!",
+      "reviewDate": "2026-07-31T19:22:10.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5692453255472429994",
       "reviewer": "Maya Didas",
