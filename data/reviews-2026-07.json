@@ -1,8 +1,32 @@
 {
   "month": "2026-07",
-  "fetchedAt": "2026-07-31T16:57:24.226Z",
-  "reviewCount": 153,
+  "fetchedAt": "2026-07-31T18:25:22.782Z",
+  "reviewCount": 156,
   "reviews": [
+    {
+      "reviewId": "5692453255472429994",
+      "reviewer": "Maya Didas",
+      "rating": 5,
+      "text": "We stipped by for the first time and were genuinely impressed!! We'll definitely be back for happy hour soon.",
+      "reviewDate": "2026-07-31T17:52:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5692367425472421467",
+      "reviewer": "jill oliver (jillojello)",
+      "rating": 5,
+      "text": "I've enjoyed the Local for years. They always have great food and an excellent selection of tap. Mathew was very attentive and polite today. Overall, great food at a great place.",
+      "reviewDate": "2026-07-31T17:00:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5692369694472421689",
+      "reviewer": "Rachel",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-07-31T16:55:31.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5692295685472414357",
       "reviewer": "Claire Bartok",
