@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-01T01:18:03.012Z",
-  "reviewCount": 4,
-  "qualifyingReviewCount": 4,
+  "processedAt": "2026-08-01T04:54:11.407Z",
+  "reviewCount": 9,
+  "qualifyingReviewCount": 9,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,13 +15,13 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Derka",
-      "count": 2
+      "server": "Daniel",
+      "count": 5
     },
     {
       "rank": 2,
-      "server": "Daniel",
-      "count": 1
+      "server": "Derka",
+      "count": 2
     },
     {
       "rank": 3,
@@ -252,8 +252,32 @@
   "mentions": [
     {
       "server": "Daniel",
-      "count": 1,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Adam Da Barp",
+          "text": "Daniel is the best server I’ve ever had in my life. Like ever. Beer was never empty, food was never cold. I love Daniel.",
+          "date": "2026-08-01",
+          "rating": 5
+        },
+        {
+          "reviewer": "Julian Del Greco",
+          "text": "Daniel was amazing. I was always taken care of and he made sure we had a good time.\nDaniel deserves it all!",
+          "date": "2026-08-01",
+          "rating": 5
+        },
+        {
+          "reviewer": "Eleonora",
+          "text": "Had such a great time with my family at Local. Our server Daniel was amazing and made sure we had everything we needed and more!",
+          "date": "2026-08-01",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rein Dieperink",
+          "text": "Daniel was great",
+          "date": "2026-08-01",
+          "rating": 5
+        },
         {
           "reviewer": "Lindsay Witton",
           "text": "Thanks to Daniel for great serving!",

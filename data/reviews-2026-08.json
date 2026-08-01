@@ -1,8 +1,48 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-01T01:18:02.938Z",
-  "reviewCount": 4,
+  "fetchedAt": "2026-08-01T04:54:11.162Z",
+  "reviewCount": 9,
   "reviews": [
+    {
+      "reviewId": "5693755785472559778",
+      "reviewer": "Adam Da Barp",
+      "rating": 5,
+      "text": "Daniel is the best server I’ve ever had in my life. Like ever. Beer was never empty, food was never cold. I love Daniel.",
+      "reviewDate": "2026-08-01T03:15:24.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5693753585472559558",
+      "reviewer": "Riccardo Del Greco",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-08-01T03:13:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5693755345472559734",
+      "reviewer": "Julian Del Greco",
+      "rating": 5,
+      "text": "Daniel was amazing. I was always taken care of and he made sure we had a good time.\nDaniel deserves it all!",
+      "reviewDate": "2026-08-01T03:13:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5693755215472559721",
+      "reviewer": "Eleonora",
+      "rating": 5,
+      "text": "Had such a great time with my family at Local. Our server Daniel was amazing and made sure we had everything we needed and more!",
+      "reviewDate": "2026-08-01T03:12:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5693708715472555086",
+      "reviewer": "Rein Dieperink",
+      "rating": 5,
+      "text": "Daniel was great",
+      "reviewDate": "2026-08-01T02:06:17.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5693666115472550866",
       "reviewer": "Lindsay Witton",
