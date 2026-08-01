@@ -1,0 +1,39 @@
+{
+  "month": "2026-08",
+  "fetchedAt": "2026-08-01T01:18:02.938Z",
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "reviewId": "5693666115472550866",
+      "reviewer": "Lindsay Witton",
+      "rating": 5,
+      "text": "Thanks to Daniel for great serving!",
+      "reviewDate": "2026-08-01T00:53:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5693652654472549521",
+      "reviewer": "James Meloche",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-08-01T00:52:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5693630285472547310",
+      "reviewer": "Enid Shatner",
+      "rating": 5,
+      "text": "Derks is an amazing server. Huge smile, friendly, and great attitude. Awesome fish tacos with a very nice patio.",
+      "reviewDate": "2026-08-01T00:17:10.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5693619715472546263",
+      "reviewer": "Terry Shatner",
+      "rating": 5,
+      "text": "Derks is an amazing server. Friendly, knowledgeable, and recommend ex the Ahi Tina Pole Bowl which was awesome. Great brand ambassador for your restaurant.",
+      "reviewDate": "2026-08-01T00:06:05.000Z",
+      "source": "GOOGLE"
+    }
+  ]
+}
