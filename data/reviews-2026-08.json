@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-01T21:02:19.578Z",
-  "reviewCount": 9,
+  "fetchedAt": "2026-08-01T22:11:21.756Z",
+  "reviewCount": 11,
   "reviews": [
+    {
+      "reviewId": "5695445203472728236",
+      "reviewer": "Anonymous",
+      "rating": 3,
+      "text": "",
+      "reviewDate": "2026-08-01T21:30:36.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5695279955472711733",
+      "reviewer": "Airic",
+      "rating": 5,
+      "text": "The staff at the Local, especially Alyssa, went above and beyond for our big group of 10 people on Thursday night. Alyssa made an effort to find us a perfect table on the patio by asking a small group to shift to a smaller table beside them. Alyssa provided excellent customer service to my friends and I, including my friend's two dogs! The fish and chips are also consistently delicious.",
+      "reviewDate": "2026-08-01T21:01:13.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5693755785472559778",
       "reviewer": "Adam Da Barp",

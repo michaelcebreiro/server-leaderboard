@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-01T21:02:19.659Z",
-  "reviewCount": 9,
-  "qualifyingReviewCount": 9,
+  "processedAt": "2026-08-01T22:11:21.842Z",
+  "reviewCount": 11,
+  "qualifyingReviewCount": 10,
   "thresholds": {
     "first": 20,
     "second": 15
