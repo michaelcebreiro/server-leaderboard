@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-02T22:10:30.766Z",
-  "reviewCount": 11,
-  "qualifyingReviewCount": 10,
+  "processedAt": "2026-08-02T23:13:11.385Z",
+  "reviewCount": 12,
+  "qualifyingReviewCount": 11,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,77 +25,77 @@
     },
     {
       "rank": 3,
+      "server": "Ewan",
+      "count": 1
+    },
+    {
+      "rank": 4,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 16,
-      "server": "Eli",
-      "count": 0
-    },
-    {
       "rank": 17,
-      "server": "Ewan",
+      "server": "Eli",
       "count": 0
     },
     {
@@ -250,6 +250,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Ewan",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Luis Autie",
+          "text": "Ewan was great! He was able to accommodate every single ask we had in no time and always with a smile.",
+          "date": "2026-08-02",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Daniel",
       "count": 5,
