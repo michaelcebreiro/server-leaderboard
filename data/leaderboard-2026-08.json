@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-03T16:32:59.731Z",
-  "reviewCount": 17,
-  "qualifyingReviewCount": 16,
+  "processedAt": "2026-08-03T18:27:28.149Z",
+  "reviewCount": 18,
+  "qualifyingReviewCount": 17,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Ewan",
-      "count": 3
+      "count": 4
     },
     {
       "rank": 3,
@@ -270,8 +270,14 @@
     },
     {
       "server": "Ewan",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Laura Moreton",
+          "text": "Ewan was fantastic!\nVery friendly, knowledgeable and attentive.",
+          "date": "2026-08-03",
+          "rating": 5
+        },
         {
           "reviewer": "dianne diniz",
           "text": "Ewan was a great server today for us and made great small talk",
