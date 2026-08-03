@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-02T23:13:11.385Z",
-  "reviewCount": 12,
-  "qualifyingReviewCount": 11,
+  "processedAt": "2026-08-03T00:15:04.006Z",
+  "reviewCount": 15,
+  "qualifyingReviewCount": 14,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,92 +20,92 @@
     },
     {
       "rank": 2,
+      "server": "Ewan",
+      "count": 3
+    },
+    {
+      "rank": 3,
       "server": "Derka",
       "count": 2
     },
     {
-      "rank": 3,
-      "server": "Ewan",
+      "rank": 4,
+      "server": "Harrison",
       "count": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 18,
-      "server": "Georgia",
-      "count": 0
-    },
-    {
       "rank": 19,
-      "server": "Harrison",
+      "server": "Georgia",
       "count": 0
     },
     {
@@ -252,8 +252,20 @@
   "mentions": [
     {
       "server": "Ewan",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "dianne diniz",
+          "text": "Ewan was a great server today for us and made great small talk",
+          "date": "2026-08-02",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jessica Diniz",
+          "text": "Ewan and Michael were incredible servers tonight. One of our best experiences at Local. Ewan asked each guest their name and used it throughout the night. Michael checked in regularly to see if we had everything. Local is such a great spot.",
+          "date": "2026-08-02",
+          "rating": 5
+        },
         {
           "reviewer": "Luis Autie",
           "text": "Ewan was great! He was able to accommodate every single ask we had in no time and always with a smile.",
@@ -294,6 +306,18 @@
           "reviewer": "Lindsay Witton",
           "text": "Thanks to Daniel for great serving!",
           "date": "2026-08-01",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Harrison",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "DplusK",
+          "text": "Our server Harrison was great, kept checking out table and was very kind to the kids!",
+          "date": "2026-08-02",
           "rating": 5
         }
       ]

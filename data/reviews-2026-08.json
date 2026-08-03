@@ -1,8 +1,32 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-02T23:13:11.306Z",
-  "reviewCount": 12,
+  "fetchedAt": "2026-08-03T00:15:03.791Z",
+  "reviewCount": 15,
   "reviews": [
+    {
+      "reviewId": "5697567775472940067",
+      "reviewer": "dianne diniz",
+      "rating": 5,
+      "text": "Ewan was a great server today for us and made great small talk",
+      "reviewDate": "2026-08-02T23:40:03.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4825851585386137498",
+      "reviewer": "Jessica Diniz",
+      "rating": 5,
+      "text": "Ewan and Michael were incredible servers tonight. One of our best experiences at Local. Ewan asked each guest their name and used it throughout the night. Michael checked in regularly to see if we had everything. Local is such a great spot.",
+      "reviewDate": "2026-08-02T23:38:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5697549365472938237",
+      "reviewer": "DplusK",
+      "rating": 5,
+      "text": "Our server Harrison was great, kept checking out table and was very kind to the kids!",
+      "reviewDate": "2026-08-02T23:20:10.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5697536835472936995",
       "reviewer": "Luis Autie",
