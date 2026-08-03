@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-03T00:15:03.791Z",
-  "reviewCount": 15,
+  "fetchedAt": "2026-08-03T04:01:08.946Z",
+  "reviewCount": 17,
   "reviews": [
+    {
+      "reviewId": "5698282595473011521",
+      "reviewer": "Kris Wong",
+      "rating": 5,
+      "text": "Maria is an excellent bartender. Very attentive.",
+      "reviewDate": "2026-08-03T01:08:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5697907645472974047",
+      "reviewer": "Adam Hogan",
+      "rating": 5,
+      "text": "Maria did a wonderful job. The food was on point, and for a place we could walk to while visiting, we were impressed. Great job!",
+      "reviewDate": "2026-08-03T00:22:10.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5697567775472940067",
       "reviewer": "dianne diniz",

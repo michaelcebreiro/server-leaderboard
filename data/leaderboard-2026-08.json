@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-03T00:15:04.006Z",
-  "reviewCount": 15,
-  "qualifyingReviewCount": 14,
+  "processedAt": "2026-08-03T04:01:09.025Z",
+  "reviewCount": 17,
+  "qualifyingReviewCount": 16,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,152 +30,152 @@
     },
     {
       "rank": 4,
+      "server": "Maria",
+      "count": 2
+    },
+    {
+      "rank": 5,
       "server": "Harrison",
       "count": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 32,
-      "server": "Mackenzie",
-      "count": 0
-    },
-    {
       "rank": 33,
-      "server": "Maria",
+      "server": "Mackenzie",
       "count": 0
     },
     {
@@ -250,6 +250,24 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Maria",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Kris Wong",
+          "text": "Maria is an excellent bartender. Very attentive.",
+          "date": "2026-08-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adam Hogan",
+          "text": "Maria did a wonderful job. The food was on point, and for a place we could walk to while visiting, we were impressed. Great job!",
+          "date": "2026-08-03",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Ewan",
       "count": 3,
