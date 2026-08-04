@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-03T23:49:49.179Z",
-  "reviewCount": 18,
-  "qualifyingReviewCount": 17,
+  "processedAt": "2026-08-04T02:53:51.911Z",
+  "reviewCount": 21,
+  "qualifyingReviewCount": 20,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,12 +25,12 @@
     },
     {
       "rank": 3,
-      "server": "Derka",
-      "count": 2
+      "server": "Maria",
+      "count": 4
     },
     {
       "rank": 4,
-      "server": "Maria",
+      "server": "Derka",
       "count": 2
     },
     {
@@ -252,8 +252,20 @@
   "mentions": [
     {
       "server": "Maria",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Kathy Murphy",
+          "text": "Maria offered us amazing service. We’re regulars and would like to see new options added to the menu.",
+          "date": "2026-08-04",
+          "rating": 4
+        },
+        {
+          "reviewer": "Abby",
+          "text": "Came by for some drinks and a quick bite and had the pleasure of having Maria as our server! She was so sweet and kind! I recommend asking for her on your next visit!",
+          "date": "2026-08-04",
+          "rating": 5
+        },
         {
           "reviewer": "Kris Wong",
           "text": "Maria is an excellent bartender. Very attentive.",

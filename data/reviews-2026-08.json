@@ -1,8 +1,32 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-03T23:49:49.125Z",
-  "reviewCount": 18,
+  "fetchedAt": "2026-08-04T02:53:51.712Z",
+  "reviewCount": 21,
   "reviews": [
+    {
+      "reviewId": "5700602444473242844",
+      "reviewer": "Kathy Murphy",
+      "rating": 4,
+      "text": "Maria offered us amazing service. We’re regulars and would like to see new options added to the menu.",
+      "reviewDate": "2026-08-04T00:56:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5700585785473241195",
+      "reviewer": "Abby",
+      "rating": 5,
+      "text": "Came by for some drinks and a quick bite and had the pleasure of having Maria as our server! She was so sweet and kind! I recommend asking for her on your next visit!",
+      "reviewDate": "2026-08-04T00:40:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5700474325473230096",
+      "reviewer": "Eyal Yair",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-08-03T23:52:53.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5699316235473114647",
       "reviewer": "Laura Moreton",
