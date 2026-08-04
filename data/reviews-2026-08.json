@@ -1,8 +1,32 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-04T02:53:51.712Z",
-  "reviewCount": 21,
+  "fetchedAt": "2026-08-04T05:52:20.685Z",
+  "reviewCount": 24,
   "reviews": [
+    {
+      "reviewId": "5700694455473251970",
+      "reviewer": "michael hershoran",
+      "rating": 5,
+      "text": "Maria was helpful and efficient in getting food and drinks for us👍",
+      "reviewDate": "2026-08-04T03:04:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5700689705473251497",
+      "reviewer": "Andriana Hountalas",
+      "rating": 5,
+      "text": "Maria is a great server! She usually takes care of our tables and is always very friendly and attentive.",
+      "reviewDate": "2026-08-04T02:53:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5700679585473250487",
+      "reviewer": "John Fulford-Brown",
+      "rating": 5,
+      "text": "Our sever Ewan was excellent on every level. I see him being future management material.",
+      "reviewDate": "2026-08-04T02:49:43.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5700602444473242844",
       "reviewer": "Kathy Murphy",

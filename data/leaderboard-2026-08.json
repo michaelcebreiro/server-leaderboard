@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-04T02:53:51.911Z",
-  "reviewCount": 21,
-  "qualifyingReviewCount": 20,
+  "processedAt": "2026-08-04T05:52:20.909Z",
+  "reviewCount": 24,
+  "qualifyingReviewCount": 23,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,18 +15,18 @@
   "standings": [
     {
       "rank": 1,
+      "server": "Maria",
+      "count": 6
+    },
+    {
+      "rank": 2,
       "server": "Daniel",
       "count": 5
     },
     {
-      "rank": 2,
-      "server": "Ewan",
-      "count": 4
-    },
-    {
       "rank": 3,
-      "server": "Maria",
-      "count": 4
+      "server": "Ewan",
+      "count": 5
     },
     {
       "rank": 4,
@@ -252,8 +252,20 @@
   "mentions": [
     {
       "server": "Maria",
-      "count": 4,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "michael hershoran",
+          "text": "Maria was helpful and efficient in getting food and drinks for us👍",
+          "date": "2026-08-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andriana Hountalas",
+          "text": "Maria is a great server! She usually takes care of our tables and is always very friendly and attentive.",
+          "date": "2026-08-04",
+          "rating": 5
+        },
         {
           "reviewer": "Kathy Murphy",
           "text": "Maria offered us amazing service. We’re regulars and would like to see new options added to the menu.",
@@ -282,8 +294,14 @@
     },
     {
       "server": "Ewan",
-      "count": 4,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "John Fulford-Brown",
+          "text": "Our sever Ewan was excellent on every level. I see him being future management material.",
+          "date": "2026-08-04",
+          "rating": 5
+        },
         {
           "reviewer": "Laura Moreton",
           "text": "Ewan was fantastic!\nVery friendly, knowledgeable and attentive.",
