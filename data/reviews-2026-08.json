@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-04T13:11:19.701Z",
-  "reviewCount": 24,
+  "fetchedAt": "2026-08-04T15:36:50.300Z",
+  "reviewCount": 25,
   "reviews": [
+    {
+      "reviewId": "5701231205473305419",
+      "reviewer": "Kayla Caron",
+      "rating": 5,
+      "text": "I had the pleasure of dining here for my Fiancé’s God-daughter’s first birthday, the service and atmosphere was so wonderful we decided to reach out to book a large party for our Engagement party, the booking process was so easy - even for a 60 person party. Nicky and the team were quick to address all inquiries, provided a detailed event deck so we knew what to expect on the day of our party. Unfortunately we had to cancel due to my fiance needing surgery for a broken leg but the team was so wonderful to work with, I will definitely be reaching out to reschedule the celebration once he has healed. 10/10 service, vibes, food was great and overall amazing experience.",
+      "reviewDate": "2026-08-04T15:02:35.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5700694455473251970",
       "reviewer": "michael hershoran",

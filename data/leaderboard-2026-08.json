@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-04T13:11:19.933Z",
-  "reviewCount": 24,
-  "qualifyingReviewCount": 23,
+  "processedAt": "2026-08-04T15:36:50.378Z",
+  "reviewCount": 25,
+  "qualifyingReviewCount": 24,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -40,172 +40,172 @@
     },
     {
       "rank": 6,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 7,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 38,
-      "server": "Mia",
-      "count": 0
-    },
-    {
       "rank": 39,
-      "server": "Nicky",
+      "server": "Mia",
       "count": 0
     },
     {
@@ -324,6 +324,18 @@
           "reviewer": "Luis Autie",
           "text": "Ewan was great! He was able to accommodate every single ask we had in no time and always with a smile.",
           "date": "2026-08-02",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Nicky",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Kayla Caron",
+          "text": "I had the pleasure of dining here for my Fiancé’s God-daughter’s first birthday, the service and atmosphere was so wonderful we decided to reach out to book a large party for our Engagement party, the booking process was so easy - even for a 60 person party. Nicky and the team were quick to address all inquiries, provided a detailed event deck so we knew what to expect on the day of our party. Unfortunately we had to cancel due to my fiance needing surgery for a broken leg but the team was so wonderful to work with, I will definitely be reaching out to reschedule the celebration once he has healed. 10/10 service, vibes, food was great and overall amazing experience.",
+          "date": "2026-08-04",
           "rating": 5
         }
       ]
