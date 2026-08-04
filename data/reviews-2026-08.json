@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-04T15:36:50.300Z",
-  "reviewCount": 25,
+  "fetchedAt": "2026-08-04T17:22:55.977Z",
+  "reviewCount": 26,
   "reviews": [
+    {
+      "reviewId": "5701323825473314598",
+      "reviewer": "Bashar Al-shawwa",
+      "rating": 5,
+      "text": "The patio was very nice, good food and Andrew was very friendly and helpful.\nLovely experience highly recommended",
+      "reviewDate": "2026-08-04T16:27:02.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5701231205473305419",
       "reviewer": "Kayla Caron",
