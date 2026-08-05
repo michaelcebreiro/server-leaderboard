@@ -1,8 +1,40 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-05T00:16:22.199Z",
-  "reviewCount": 26,
+  "fetchedAt": "2026-08-05T03:44:46.657Z",
+  "reviewCount": 30,
   "reviews": [
+    {
+      "reviewId": "5702530655473434769",
+      "reviewer": "Annie Herman",
+      "rating": 5,
+      "text": "I came with some friends for trivia night- I have celiac disease and our server Maria was so helpful in guiding me through the menu! She was so friendly and knowledgeable!",
+      "reviewDate": "2026-08-05T00:55:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5702233485473405078",
+      "reviewer": "Mariane Abi Daoud",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-08-05T00:29:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5702204705473402210",
+      "reviewer": "Soroosh Sl",
+      "rating": 5,
+      "text": "Daniel was an amazing! He was very friendly, attentive, and made sure we had everything we needed. His service made our experience even better. Highly recommend!",
+      "reviewDate": "2026-08-05T00:17:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5702201745473401919",
+      "reviewer": "Hussein Hachem",
+      "rating": 5,
+      "text": "Daniel was amazing",
+      "reviewDate": "2026-08-05T00:09:59.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5701323825473314598",
       "reviewer": "Bashar Al-shawwa",

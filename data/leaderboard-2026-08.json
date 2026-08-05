@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-05T00:16:22.360Z",
-  "reviewCount": 26,
-  "qualifyingReviewCount": 25,
+  "processedAt": "2026-08-05T03:44:46.912Z",
+  "reviewCount": 30,
+  "qualifyingReviewCount": 29,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,13 +15,13 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Maria",
-      "count": 6
+      "server": "Daniel",
+      "count": 7
     },
     {
       "rank": 2,
-      "server": "Daniel",
-      "count": 5
+      "server": "Maria",
+      "count": 7
     },
     {
       "rank": 3,
@@ -252,8 +252,14 @@
   "mentions": [
     {
       "server": "Maria",
-      "count": 6,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Annie Herman",
+          "text": "I came with some friends for trivia night- I have celiac disease and our server Maria was so helpful in guiding me through the menu! She was so friendly and knowledgeable!",
+          "date": "2026-08-05",
+          "rating": 5
+        },
         {
           "reviewer": "michael hershoran",
           "text": "Maria was helpful and efficient in getting food and drinks for us👍",
@@ -342,8 +348,20 @@
     },
     {
       "server": "Daniel",
-      "count": 5,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Soroosh Sl",
+          "text": "Daniel was an amazing! He was very friendly, attentive, and made sure we had everything we needed. His service made our experience even better. Highly recommend!",
+          "date": "2026-08-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Hussein Hachem",
+          "text": "Daniel was amazing",
+          "date": "2026-08-05",
+          "rating": 5
+        },
         {
           "reviewer": "Adam Da Barp",
           "text": "Daniel is the best server I’ve ever had in my life. Like ever. Beer was never empty, food was never cold. I love Daniel.",
