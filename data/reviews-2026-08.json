@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-05T23:09:33.781Z",
-  "reviewCount": 30,
+  "fetchedAt": "2026-08-06T00:10:55.274Z",
+  "reviewCount": 32,
   "reviews": [
+    {
+      "reviewId": "5741156115477296413",
+      "reviewer": "Mel Dashdorj",
+      "rating": 5,
+      "text": "Our serves Kaia was extremely nice and attentive. Food was delicious!!!",
+      "reviewDate": "2026-08-05T23:40:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5741152195477296035",
+      "reviewer": "Curtis Begg",
+      "rating": 5,
+      "text": "We had Kaia and she was great!",
+      "reviewDate": "2026-08-05T23:31:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5702530655473434769",
       "reviewer": "Annie Herman",
