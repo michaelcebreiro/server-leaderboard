@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-07T00:05:27.725Z",
-  "reviewCount": 35,
-  "qualifyingReviewCount": 34,
+  "processedAt": "2026-08-07T03:15:50.040Z",
+  "reviewCount": 37,
+  "qualifyingReviewCount": 36,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,221 +30,226 @@
     },
     {
       "rank": 4,
+      "server": "Kaia",
+      "count": 3
+    },
+    {
+      "rank": 5,
       "server": "Derka",
       "count": 2
     },
     {
-      "rank": 5,
-      "server": "Kaia",
-      "count": 2
-    },
-    {
       "rank": 6,
-      "server": "Harrison",
+      "server": "genuinely",
       "count": 1
     },
     {
       "rank": 7,
-      "server": "Nicky",
+      "server": "Harrison",
       "count": 1
     },
     {
       "rank": 8,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 9,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Norah",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 44,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 45,
+      "rank": 46,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 46,
+      "rank": 47,
       "server": "Sydney",
       "count": 0
     },
     {
-      "rank": 47,
+      "rank": 48,
       "server": "Zivko",
       "count": 0
     }
@@ -426,8 +431,14 @@
     },
     {
       "server": "Kaia",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Lewis F",
+          "text": "We had a wonderful experience at The Local in Leaside. The atmosphere was warm and welcoming, and the food was fresh, flavourful and beautifully presented. Special thanks to our server, Kaia, who made the evening even better. She was friendly, attentive, and genuinely made us feel well looked after without ever being intrusive. You can tell the staff takes pride in creating a great dining experience. We’ll definitely be back",
+          "date": "2026-08-07",
+          "rating": 5
+        },
         {
           "reviewer": "Mel Dashdorj",
           "text": "Our serves Kaia was extremely nice and attentive. Food was delicious!!!",
@@ -438,6 +449,18 @@
           "reviewer": "Curtis Begg",
           "text": "We had Kaia and she was great!",
           "date": "2026-08-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "genuinely",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Lewis F",
+          "text": "We had a wonderful experience at The Local in Leaside. The atmosphere was warm and welcoming, and the food was fresh, flavourful and beautifully presented. Special thanks to our server, Kaia, who made the evening even better. She was friendly, attentive, and genuinely made us feel well looked after without ever being intrusive. You can tell the staff takes pride in creating a great dining experience. We’ll definitely be back",
+          "date": "2026-08-07",
           "rating": 5
         }
       ]
