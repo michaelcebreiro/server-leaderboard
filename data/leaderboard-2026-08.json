@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-08T03:45:20.705Z",
-  "reviewCount": 38,
-  "qualifyingReviewCount": 37,
+  "processedAt": "2026-08-08T05:57:29.552Z",
+  "reviewCount": 40,
+  "qualifyingReviewCount": 39,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,12 +15,12 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Daniel",
-      "count": 7
+      "server": "Maria",
+      "count": 8
     },
     {
       "rank": 2,
-      "server": "Maria",
+      "server": "Daniel",
       "count": 7
     },
     {
@@ -257,8 +257,14 @@
   "mentions": [
     {
       "server": "Maria",
-      "count": 7,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Sydney Forbes",
+          "text": "Loved the experience, Maria was really friendly and her service was amazing!",
+          "date": "2026-08-08",
+          "rating": 5
+        },
         {
           "reviewer": "Annie Herman",
           "text": "I came with some friends for trivia night- I have celiac disease and our server Maria was so helpful in guiding me through the menu! She was so friendly and knowledgeable!",

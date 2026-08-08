@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-08T03:45:20.629Z",
-  "reviewCount": 38,
+  "fetchedAt": "2026-08-08T05:57:29.320Z",
+  "reviewCount": 40,
   "reviews": [
+    {
+      "reviewId": "5069426705410396133",
+      "reviewer": "Sydney Forbes",
+      "rating": 5,
+      "text": "Loved the experience, Maria was really friendly and her service was amazing!",
+      "reviewDate": "2026-08-08T05:07:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5760218375479200580",
+      "reviewer": "Bryanna O'Grady",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-08-08T05:07:12.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5757720795478951608",
       "reviewer": "Kas",
