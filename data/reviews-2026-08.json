@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-08T05:57:29.320Z",
-  "reviewCount": 40,
+  "fetchedAt": "2026-08-08T07:05:44.264Z",
+  "reviewCount": 42,
   "reviews": [
+    {
+      "reviewId": "5760245435479203280",
+      "reviewer": "Sophia Csida",
+      "rating": 5,
+      "text": "love dining at local! Derks is the sweetest the server ever!",
+      "reviewDate": "2026-08-08T05:47:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5760244955479203232",
+      "reviewer": "Kristina Maragos",
+      "rating": 5,
+      "text": "Derks was the best server ever!!! She made our experience so fun! So efficient and will definitely be coming back soon because of her!",
+      "reviewDate": "2026-08-08T05:45:38.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5069426705410396133",
       "reviewer": "Sydney Forbes",

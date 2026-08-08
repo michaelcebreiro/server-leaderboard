@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-08T05:57:29.552Z",
-  "reviewCount": 40,
-  "qualifyingReviewCount": 39,
+  "processedAt": "2026-08-08T07:05:44.448Z",
+  "reviewCount": 42,
+  "qualifyingReviewCount": 41,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,13 +30,13 @@
     },
     {
       "rank": 4,
-      "server": "Kaia",
-      "count": 3
+      "server": "Derka",
+      "count": 4
     },
     {
       "rank": 5,
-      "server": "Derka",
-      "count": 2
+      "server": "Kaia",
+      "count": 3
     },
     {
       "rank": 6,
@@ -419,8 +419,20 @@
     },
     {
       "server": "Derka",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Sophia Csida",
+          "text": "love dining at local! Derks is the sweetest the server ever!",
+          "date": "2026-08-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kristina Maragos",
+          "text": "Derks was the best server ever!!! She made our experience so fun! So efficient and will definitely be coming back soon because of her!",
+          "date": "2026-08-08",
+          "rating": 5
+        },
         {
           "reviewer": "Enid Shatner",
           "text": "Derks is an amazing server. Huge smile, friendly, and great attitude. Awesome fish tacos with a very nice patio.",
