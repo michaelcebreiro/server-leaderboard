@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-08T21:11:24.130Z",
-  "reviewCount": 44,
-  "qualifyingReviewCount": 43,
+  "processedAt": "2026-08-08T21:47:36.957Z",
+  "reviewCount": 46,
+  "qualifyingReviewCount": 45,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,13 +25,13 @@
     },
     {
       "rank": 3,
-      "server": "Ewan",
+      "server": "Derka",
       "count": 5
     },
     {
       "rank": 4,
-      "server": "Derka",
-      "count": 4
+      "server": "Ewan",
+      "count": 5
     },
     {
       "rank": 5,
@@ -55,167 +55,167 @@
     },
     {
       "rank": 9,
+      "server": "Nicola",
+      "count": 1
+    },
+    {
+      "rank": 10,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 40,
-      "server": "Mia",
-      "count": 0
-    },
-    {
       "rank": 41,
-      "server": "Nicola",
+      "server": "Mia",
       "count": 0
     },
     {
@@ -346,6 +346,18 @@
       ]
     },
     {
+      "server": "Nicola",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Cathy Craven",
+          "text": "Excellent service from Nicola - very supportive of our agenda and receptive to individual requests while meeting group needs! Will be back soon",
+          "date": "2026-08-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Nicky",
       "count": 1,
       "reviews": [
@@ -419,11 +431,17 @@
     },
     {
       "server": "Derka",
-      "count": 4,
+      "count": 5,
       "reviews": [
         {
           "reviewer": "Sophia Csida",
           "text": "love dining at local! Derks is the sweetest the server ever!",
+          "date": "2026-08-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andrea Babic",
+          "text": "My favourite place to dine! Derks is the best! She is so welcoming and sweet. Amazing service with her!!",
           "date": "2026-08-08",
           "rating": 5
         },
