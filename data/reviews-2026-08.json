@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-09T20:52:25.634Z",
-  "reviewCount": 50,
+  "fetchedAt": "2026-08-09T21:36:16.696Z",
+  "reviewCount": 51,
   "reviews": [
+    {
+      "reviewId": "5761788295479356876",
+      "reviewer": "Jeff Garland",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-08-09T21:24:52.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5341791755437511130",
+      "reviewer": "Matt Diniz",
+      "rating": 5,
+      "text": "Nina is amazing! Try the chicken. Tendies.",
+      "reviewDate": "2026-08-09T20:54:53.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5761899535479367926",
       "reviewer": "gashta berahman",
@@ -17,14 +33,6 @@
       "rating": 5,
       "text": "We had great service from Michael.",
       "reviewDate": "2026-08-09T12:30:15.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5761788295479356876",
-      "reviewer": "Jeff Garland",
-      "rating": 5,
-      "text": "",
-      "reviewDate": "2026-08-09T02:15:31.000Z",
       "source": "GOOGLE"
     },
     {
