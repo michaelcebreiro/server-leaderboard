@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-10T00:35:32.801Z",
-  "reviewCount": 52,
+  "fetchedAt": "2026-08-10T02:59:58.503Z",
+  "reviewCount": 54,
   "reviews": [
+    {
+      "reviewId": "5762872415479465050",
+      "reviewer": "Markus",
+      "rating": 5,
+      "text": "Handsome waiter and great service",
+      "reviewDate": "2026-08-10T02:06:42.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5327623425436100853",
       "reviewer": "Suzanne Niles",
@@ -33,6 +41,14 @@
       "rating": 5,
       "text": "The patio is great! They’ve managed to create such a beautiful little space even though the surroundings are mostly parking lots. The big trees make it feel really pretty, peaceful, and almost completely separate from everything around it.\n\nThe service is also great :) the servers are always very friendly and sweet. The food is consistently fresh and delicious. Breakfast on the patio is honestly a 10/10 experience!\n\nAlso a great place for getting drinks and game nights (try the spicy edamame)",
       "reviewDate": "2026-08-09T17:37:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4592119985362874032",
+      "reviewer": "Ian Barr",
+      "rating": 5,
+      "text": "Love this place! Staff are amazing, food is great and it consistently delivers. And a huge thanks to Eli, Ewan and the other servers for taking care of the family.",
+      "reviewDate": "2026-08-09T17:02:55.000Z",
       "source": "GOOGLE"
     },
     {

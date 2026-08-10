@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-10T00:35:32.986Z",
-  "reviewCount": 52,
-  "qualifyingReviewCount": 51,
+  "processedAt": "2026-08-10T02:59:58.562Z",
+  "reviewCount": 54,
+  "qualifyingReviewCount": 53,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,17 +25,17 @@
     },
     {
       "rank": 3,
-      "server": "patio",
+      "server": "Ewan",
       "count": 6
     },
     {
       "rank": 4,
-      "server": "Derka",
-      "count": 5
+      "server": "patio",
+      "count": 6
     },
     {
       "rank": 5,
-      "server": "Ewan",
+      "server": "Derka",
       "count": 5
     },
     {
@@ -50,92 +50,92 @@
     },
     {
       "rank": 8,
-      "server": "genuinely",
+      "server": "Eli",
       "count": 1
     },
     {
       "rank": 9,
-      "server": "Nicky",
+      "server": "genuinely",
       "count": 1
     },
     {
       "rank": 10,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Nina",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 12,
+      "server": "Nina",
+      "count": 1
+    },
+    {
+      "rank": 13,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 24,
-      "server": "Elaiza",
-      "count": 0
-    },
-    {
       "rank": 25,
-      "server": "Eli",
+      "server": "Elaiza",
       "count": 0
     },
     {
@@ -316,8 +316,14 @@
     },
     {
       "server": "Ewan",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Ian Barr",
+          "text": "Love this place! Staff are amazing, food is great and it consistently delivers. And a huge thanks to Eli, Ewan and the other servers for taking care of the family.",
+          "date": "2026-08-09",
+          "rating": 5
+        },
         {
           "reviewer": "John Fulford-Brown",
           "text": "Our sever Ewan was excellent on every level. I see him being future management material.",
@@ -370,6 +376,18 @@
           "reviewer": "Kayla Caron",
           "text": "I had the pleasure of dining here for my Fiancé’s God-daughter’s first birthday, the service and atmosphere was so wonderful we decided to reach out to book a large party for our Engagement party, the booking process was so easy - even for a 60 person party. Nicky and the team were quick to address all inquiries, provided a detailed event deck so we knew what to expect on the day of our party. Unfortunately we had to cancel due to my fiance needing surgery for a broken leg but the team was so wonderful to work with, I will definitely be reaching out to reschedule the celebration once he has healed. 10/10 service, vibes, food was great and overall amazing experience.",
           "date": "2026-08-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Eli",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Ian Barr",
+          "text": "Love this place! Staff are amazing, food is great and it consistently delivers. And a huge thanks to Eli, Ewan and the other servers for taking care of the family.",
+          "date": "2026-08-09",
           "rating": 5
         }
       ]
