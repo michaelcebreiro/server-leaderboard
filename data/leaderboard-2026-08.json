@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-09T23:35:05.532Z",
-  "reviewCount": 51,
-  "qualifyingReviewCount": 50,
+  "processedAt": "2026-08-10T00:35:32.986Z",
+  "reviewCount": 52,
+  "qualifyingReviewCount": 51,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,17 +25,17 @@
     },
     {
       "rank": 3,
+      "server": "patio",
+      "count": 6
+    },
+    {
+      "rank": 4,
       "server": "Derka",
       "count": 5
     },
     {
-      "rank": 4,
-      "server": "Ewan",
-      "count": 5
-    },
-    {
       "rank": 5,
-      "server": "patio",
+      "server": "Ewan",
       "count": 5
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "rank": 7,
-      "server": "genuinely",
-      "count": 1
+      "server": "Harrison",
+      "count": 2
     },
     {
       "rank": 8,
-      "server": "Harrison",
+      "server": "genuinely",
       "count": 1
     },
     {
@@ -424,8 +424,14 @@
     },
     {
       "server": "Harrison",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Suzanne Niles",
+          "text": "Harrison was an awesome server - attentive, friendly, enthusiastic!! We also love the patio for bringing our dog. Our pup is welcomed by everyone!!",
+          "date": "2026-08-10",
+          "rating": 5
+        },
         {
           "reviewer": "DplusK",
           "text": "Our server Harrison was great, kept checking out table and was very kind to the kids!",
@@ -520,8 +526,14 @@
     },
     {
       "server": "patio",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Suzanne Niles",
+          "text": "Harrison was an awesome server - attentive, friendly, enthusiastic!! We also love the patio for bringing our dog. Our pup is welcomed by everyone!!",
+          "date": "2026-08-10",
+          "rating": 5
+        },
         {
           "reviewer": "gashta berahman",
           "text": "The patio is great! They’ve managed to create such a beautiful little space even though the surroundings are mostly parking lots. The big trees make it feel really pretty, peaceful, and almost completely separate from everything around it.\n\nThe service is also great :) the servers are always very friendly and sweet. The food is consistently fresh and delicious. Breakfast on the patio is honestly a 10/10 experience!\n\nAlso a great place for getting drinks and game nights (try the spicy edamame)",

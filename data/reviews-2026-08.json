@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-09T23:35:05.454Z",
-  "reviewCount": 51,
+  "fetchedAt": "2026-08-10T00:35:32.801Z",
+  "reviewCount": 52,
   "reviews": [
+    {
+      "reviewId": "5327623425436100853",
+      "reviewer": "Suzanne Niles",
+      "rating": 5,
+      "text": "Harrison was an awesome server - attentive, friendly, enthusiastic!! We also love the patio for bringing our dog. Our pup is welcomed by everyone!!",
+      "reviewDate": "2026-08-10T00:11:13.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5761788295479356876",
       "reviewer": "Jeff Garland",
