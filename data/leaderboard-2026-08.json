@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-10T02:59:58.562Z",
-  "reviewCount": 54,
-  "qualifyingReviewCount": 53,
+  "processedAt": "2026-08-10T04:47:56.085Z",
+  "reviewCount": 55,
+  "qualifyingReviewCount": 54,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,187 +60,187 @@
     },
     {
       "rank": 10,
-      "server": "Nicky",
+      "server": "Karina",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Nina",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 13,
+      "server": "Nina",
+      "count": 1
+    },
+    {
+      "rank": 14,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 15,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 18,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 23,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 24,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 26,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 27,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 28,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 29,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 30,
       "server": "Ivy",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 31,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 32,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 33,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 34,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 35,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 36,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 35,
-      "server": "Karina",
-      "count": 0
-    },
-    {
-      "rank": 36,
+      "rank": 37,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 44,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "server": "Norah",
       "count": 0
     },
     {
-      "rank": 45,
-      "server": "Paige",
-      "count": 0
-    },
-    {
       "rank": 46,
-      "server": "Paulveen",
+      "server": "Paige",
       "count": 0
     },
     {
@@ -260,6 +260,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Karina",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sangpil Lee",
+          "text": "My wife and I stopped by for a quick beer, and we were pleasantly surprised by both the food and the beer. All the staff were so friendly and welcoming, which made us feel very comfortable and relaxed.\n\nA special shout-out to Karina, Paulveen, and Nicolas—they were incredibly friendly and awesome!\n\nThe interior is bright, clean, and comfortable, and they also have outdoor seating, which is a great bonus.\n\nHighly recommended! 🍺👍",
+          "date": "2026-08-10",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Maria",
       "count": 8,
@@ -388,6 +400,18 @@
           "reviewer": "Ian Barr",
           "text": "Love this place! Staff are amazing, food is great and it consistently delivers. And a huge thanks to Eli, Ewan and the other servers for taking care of the family.",
           "date": "2026-08-09",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Paulveen",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sangpil Lee",
+          "text": "My wife and I stopped by for a quick beer, and we were pleasantly surprised by both the food and the beer. All the staff were so friendly and welcoming, which made us feel very comfortable and relaxed.\n\nA special shout-out to Karina, Paulveen, and Nicolas—they were incredibly friendly and awesome!\n\nThe interior is bright, clean, and comfortable, and they also have outdoor seating, which is a great bonus.\n\nHighly recommended! 🍺👍",
+          "date": "2026-08-10",
           "rating": 5
         }
       ]

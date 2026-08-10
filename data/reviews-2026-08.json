@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-10T02:59:58.503Z",
-  "reviewCount": 54,
+  "fetchedAt": "2026-08-10T04:47:55.996Z",
+  "reviewCount": 55,
   "reviews": [
+    {
+      "reviewId": "5766357095479813491",
+      "reviewer": "Sangpil Lee",
+      "rating": 5,
+      "text": "My wife and I stopped by for a quick beer, and we were pleasantly surprised by both the food and the beer. All the staff were so friendly and welcoming, which made us feel very comfortable and relaxed.\n\nA special shout-out to Karina, Paulveen, and Nicolas—they were incredibly friendly and awesome!\n\nThe interior is bright, clean, and comfortable, and they also have outdoor seating, which is a great bonus.\n\nHighly recommended! 🍺👍",
+      "reviewDate": "2026-08-10T04:28:09.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5762872415479465050",
       "reviewer": "Markus",
