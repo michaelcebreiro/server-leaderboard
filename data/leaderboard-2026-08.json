@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-11T02:53:16.797Z",
-  "reviewCount": 58,
-  "qualifyingReviewCount": 57,
+  "processedAt": "2026-08-11T04:22:21.658Z",
+  "reviewCount": 59,
+  "qualifyingReviewCount": 58,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -50,72 +50,72 @@
     },
     {
       "rank": 8,
-      "server": "Eli",
+      "server": "Blake",
       "count": 1
     },
     {
       "rank": 9,
-      "server": "genuinely",
+      "server": "Eli",
       "count": 1
     },
     {
       "rank": 10,
-      "server": "Karina",
+      "server": "genuinely",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Nicky",
+      "server": "Karina",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Nina",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Paulveen",
+      "server": "Nina",
       "count": 1
     },
     {
       "rank": 15,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 16,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 20,
-      "server": "Ben",
-      "count": 0
-    },
-    {
       "rank": 21,
-      "server": "Blake",
+      "server": "Ben",
       "count": 0
     },
     {
@@ -412,6 +412,18 @@
           "reviewer": "Sangpil Lee",
           "text": "My wife and I stopped by for a quick beer, and we were pleasantly surprised by both the food and the beer. All the staff were so friendly and welcoming, which made us feel very comfortable and relaxed.\n\nA special shout-out to Karina, Paulveen, and Nicolas—they were incredibly friendly and awesome!\n\nThe interior is bright, clean, and comfortable, and they also have outdoor seating, which is a great bonus.\n\nHighly recommended! 🍺👍",
           "date": "2026-08-10",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Blake",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Alex Ferguson",
+          "text": "Blake is fantastic, he make the trip worth it.",
+          "date": "2026-08-11",
           "rating": 5
         }
       ]

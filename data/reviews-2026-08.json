@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-11T02:53:16.715Z",
-  "reviewCount": 58,
+  "fetchedAt": "2026-08-11T04:22:21.581Z",
+  "reviewCount": 59,
   "reviews": [
+    {
+      "reviewId": "5768519325480028996",
+      "reviewer": "Alex Ferguson",
+      "rating": 5,
+      "text": "Blake is fantastic, he make the trip worth it.",
+      "reviewDate": "2026-08-11T03:16:02.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5767993785479976673",
       "reviewer": "Marina Sarkisova",
