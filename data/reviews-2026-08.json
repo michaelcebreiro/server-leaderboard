@@ -1,8 +1,40 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-12T23:58:49.904Z",
-  "reviewCount": 61,
+  "fetchedAt": "2026-08-13T02:38:13.820Z",
+  "reviewCount": 65,
   "reviews": [
+    {
+      "reviewId": "5773101005480485348",
+      "reviewer": "Siena Bildfell",
+      "rating": 5,
+      "text": "Perogies were super yummy and our server Kaia provided amazing service .I would definitely recommend asking for Kaia next time you come for a great time.",
+      "reviewDate": "2026-08-13T01:03:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5773100555480485303",
+      "reviewer": "Erin Karatsu",
+      "rating": 5,
+      "text": "Kaia was such a sweet server! Really enjoyed my dinner:) Definitely recommend coming to local and asking for her.",
+      "reviewDate": "2026-08-13T01:02:44.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5773100165480485264",
+      "reviewer": "Jayden Lau",
+      "rating": 5,
+      "text": "Kaia was a great server!!!",
+      "reviewDate": "2026-08-13T01:01:09.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5773099904480485238",
+      "reviewer": "Dayna Brown",
+      "rating": 4,
+      "text": "Kaia was such an amazing server! Had a great time!",
+      "reviewDate": "2026-08-13T01:00:39.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5770677385480244128",
       "reviewer": "Meghan Townsend",
