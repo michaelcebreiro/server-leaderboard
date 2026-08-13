@@ -249,10 +249,6 @@
     {
       "name": "genuinely",
       "aliases": []
-    },
-    {
-      "name": "patio",
-      "aliases": []
     }
   ],
   "removed": [
@@ -264,6 +260,7 @@
     "friendly",
     "ever",
     "Eliza",
-    "named"
+    "named",
+    "patio"
   ]
 }
