@@ -245,10 +245,6 @@
     {
       "name": "Max",
       "aliases": []
-    },
-    {
-      "name": "genuinely",
-      "aliases": []
     }
   ],
   "removed": [
@@ -261,6 +257,7 @@
     "ever",
     "Eliza",
     "named",
-    "patio"
+    "patio",
+    "genuinely"
   ]
 }
