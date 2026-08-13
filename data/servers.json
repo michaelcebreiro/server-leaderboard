@@ -113,10 +113,6 @@
       "aliases": []
     },
     {
-      "name": "Ivy",
-      "aliases": []
-    },
-    {
       "name": "Kalypsa",
       "aliases": [
         "Calypsa",
@@ -258,6 +254,7 @@
     "Eliza",
     "named",
     "patio",
-    "genuinely"
+    "genuinely",
+    "Ivy"
   ]
 }
