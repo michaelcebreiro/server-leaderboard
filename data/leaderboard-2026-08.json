@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-15T05:28:29.749Z",
-  "reviewCount": 72,
-  "qualifyingReviewCount": 71,
+  "processedAt": "2026-08-15T05:54:07.100Z",
+  "reviewCount": 75,
+  "qualifyingReviewCount": 74,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,13 +30,13 @@
     },
     {
       "rank": 4,
-      "server": "Kaia",
+      "server": "Derka",
       "count": 7
     },
     {
       "rank": 5,
-      "server": "Derka",
-      "count": 5
+      "server": "Kaia",
+      "count": 7
     },
     {
       "rank": 6,
@@ -493,8 +493,20 @@
     },
     {
       "server": "Derka",
-      "count": 5,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Sammy Brezovsky",
+          "text": "Derks is my goat she may have been the all-time waitress",
+          "date": "2026-08-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Angelo K",
+          "text": "Derks was great",
+          "date": "2026-08-15",
+          "rating": 5
+        },
         {
           "reviewer": "Sophia Csida",
           "text": "love dining at local! Derks is the sweetest the server ever!",

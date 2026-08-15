@@ -1,8 +1,32 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-15T05:28:29.691Z",
-  "reviewCount": 72,
+  "fetchedAt": "2026-08-15T05:54:07.021Z",
+  "reviewCount": 75,
   "reviews": [
+    {
+      "reviewId": "5777680025480941337",
+      "reviewer": "Sammy Brezovsky",
+      "rating": 5,
+      "text": "Derks is my goat she may have been the all-time waitress",
+      "reviewDate": "2026-08-15T05:19:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5777679995480941334",
+      "reviewer": "Jcp Productions",
+      "rating": 5,
+      "text": "Seeks are great",
+      "reviewDate": "2026-08-15T05:18:52.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5777679925480941327",
+      "reviewer": "Angelo K",
+      "rating": 5,
+      "text": "Derks was great",
+      "reviewDate": "2026-08-15T05:18:39.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5777529655480926371",
       "reviewer": "Canada Val",
