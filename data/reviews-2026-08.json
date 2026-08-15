@@ -1,8 +1,48 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-15T00:00:23.692Z",
-  "reviewCount": 68,
+  "fetchedAt": "2026-08-15T01:50:13.113Z",
+  "reviewCount": 72,
   "reviews": [
+    {
+      "reviewId": "5777529655480926371",
+      "reviewer": "Canada Val",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-08-15T01:28:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5777512785480924696",
+      "reviewer": "Denise Bishop",
+      "rating": 5,
+      "text": "Ewan was incredibly attentive and made some really great suggestions on both the food and the drinks.  It was our first time eating here and we will definitely be coming back!!",
+      "reviewDate": "2026-08-15T01:05:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327623425436100853",
+      "reviewer": "Suzanne Niles",
+      "rating": 5,
+      "text": "Michael was our server today and he was outstanding. When we chatted I realized he was new to serving and he is such a professional! Positive energy, very engaging and so easy to chat to. His service was amazing.",
+      "reviewDate": "2026-08-15T01:02:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5777507405480924166",
+      "reviewer": "Maya Sikora",
+      "rating": 5,
+      "text": "Food was delicious and Ewan’s service was great 😊😊",
+      "reviewDate": "2026-08-15T00:55:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5777455755480919030",
+      "reviewer": "Efrain Perez",
+      "rating": 5,
+      "text": "Thank you Matthew you are one of a kind, we had such a friendly conversation, and the service was excellent. We’ll definitely see you again sometime n!",
+      "reviewDate": "2026-08-15T00:18:06.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5775204715480694760",
       "reviewer": "Mike Arkhipov",
@@ -121,14 +161,6 @@
       "rating": 5,
       "text": "Handsome waiter and great service",
       "reviewDate": "2026-08-10T02:06:42.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5327623425436100853",
-      "reviewer": "Suzanne Niles",
-      "rating": 5,
-      "text": "Harrison was an awesome server - attentive, friendly, enthusiastic!! We also love the patio for bringing our dog. Our pup is welcomed by everyone!!",
-      "reviewDate": "2026-08-10T00:11:13.000Z",
       "source": "GOOGLE"
     },
     {

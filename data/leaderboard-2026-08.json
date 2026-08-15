@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-15T00:00:23.768Z",
-  "reviewCount": 68,
-  "qualifyingReviewCount": 67,
+  "processedAt": "2026-08-15T01:50:13.259Z",
+  "reviewCount": 72,
+  "qualifyingReviewCount": 71,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,18 +20,18 @@
     },
     {
       "rank": 2,
-      "server": "Maria",
+      "server": "Ewan",
       "count": 8
     },
     {
       "rank": 3,
-      "server": "Kaia",
-      "count": 7
+      "server": "Maria",
+      "count": 8
     },
     {
       "rank": 4,
-      "server": "Ewan",
-      "count": 6
+      "server": "Kaia",
+      "count": 7
     },
     {
       "rank": 5,
@@ -40,17 +40,17 @@
     },
     {
       "rank": 6,
-      "server": "Harrison",
-      "count": 2
-    },
-    {
-      "rank": 7,
       "server": "Blake",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "server": "Eli",
+      "count": 1
+    },
+    {
+      "rank": 8,
+      "server": "Harrison",
       "count": 1
     },
     {
@@ -60,147 +60,147 @@
     },
     {
       "rank": 10,
-      "server": "Nicky",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Nina",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Paulveen",
+      "server": "Nina",
       "count": 1
     },
     {
       "rank": 14,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 15,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 37,
-      "server": "Matteo",
-      "count": 0
-    },
-    {
       "rank": 38,
-      "server": "Matthew",
+      "server": "Matteo",
       "count": 0
     },
     {
@@ -313,8 +313,20 @@
     },
     {
       "server": "Ewan",
-      "count": 6,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Denise Bishop",
+          "text": "Ewan was incredibly attentive and made some really great suggestions on both the food and the drinks.  It was our first time eating here and we will definitely be coming back!!",
+          "date": "2026-08-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Maya Sikora",
+          "text": "Food was delicious and Ewan’s service was great 😊😊",
+          "date": "2026-08-15",
+          "rating": 5
+        },
         {
           "reviewer": "Ian Barr",
           "text": "Love this place! Staff are amazing, food is great and it consistently delivers. And a huge thanks to Eli, Ewan and the other servers for taking care of the family.",
@@ -469,14 +481,8 @@
     },
     {
       "server": "Harrison",
-      "count": 2,
+      "count": 1,
       "reviews": [
-        {
-          "reviewer": "Suzanne Niles",
-          "text": "Harrison was an awesome server - attentive, friendly, enthusiastic!! We also love the patio for bringing our dog. Our pup is welcomed by everyone!!",
-          "date": "2026-08-10",
-          "rating": 5
-        },
         {
           "reviewer": "DplusK",
           "text": "Our server Harrison was great, kept checking out table and was very kind to the kids!",
@@ -577,6 +583,18 @@
           "reviewer": "Matt Diniz",
           "text": "Nina is amazing! Try the chicken. Tendies.",
           "date": "2026-08-09",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matthew",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Efrain Perez",
+          "text": "Thank you Matthew you are one of a kind, we had such a friendly conversation, and the service was excellent. We’ll definitely see you again sometime n!",
+          "date": "2026-08-15",
           "rating": 5
         }
       ]
