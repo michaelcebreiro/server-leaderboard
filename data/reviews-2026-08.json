@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-15T23:24:02.389Z",
-  "reviewCount": 77,
+  "fetchedAt": "2026-08-15T23:46:29.571Z",
+  "reviewCount": 78,
   "reviews": [
+    {
+      "reviewId": "5778583365481031140",
+      "reviewer": "John Hyde",
+      "rating": 5,
+      "text": "My family and I enjoyed a lovely afternoon dinner on friday night here at local eatery. Tye food service and atmosphere was top tier. My server Ewan waz incredible. His positive attitude and attentiveness was exactly what I needed after a tough week at work. 10/10 would totally recommend.",
+      "reviewDate": "2026-08-15T23:11:06.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5778038045480976941",
       "reviewer": "Rishabh Mehta",

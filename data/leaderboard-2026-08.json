@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-15T23:24:02.606Z",
-  "reviewCount": 77,
-  "qualifyingReviewCount": 76,
+  "processedAt": "2026-08-15T23:46:29.650Z",
+  "reviewCount": 78,
+  "qualifyingReviewCount": 77,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 9
+      "count": 10
     },
     {
       "rank": 2,
@@ -313,8 +313,14 @@
     },
     {
       "server": "Ewan",
-      "count": 9,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "John Hyde",
+          "text": "My family and I enjoyed a lovely afternoon dinner on friday night here at local eatery. Tye food service and atmosphere was top tier. My server Ewan waz incredible. His positive attitude and attentiveness was exactly what I needed after a tough week at work. 10/10 would totally recommend.",
+          "date": "2026-08-15",
+          "rating": 5
+        },
         {
           "reviewer": "Dan Sublett",
           "text": "Favorite spot to catch up with friends.  Food is amazing!   Ewan was our server last night and highly recommend him!  Very friendly introduced himself to the entire table asked people's names made conversation and made our evening extra enjoyable.  Thanks again Ewan, see you soon!",
