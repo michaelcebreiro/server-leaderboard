@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-15T21:29:44.140Z",
-  "reviewCount": 76,
-  "qualifyingReviewCount": 75,
+  "processedAt": "2026-08-15T21:50:24.024Z",
+  "reviewCount": 77,
+  "qualifyingReviewCount": 76,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,12 +15,12 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Daniel",
-      "count": 8
+      "server": "Ewan",
+      "count": 9
     },
     {
       "rank": 2,
-      "server": "Ewan",
+      "server": "Daniel",
       "count": 8
     },
     {
@@ -313,17 +313,23 @@
     },
     {
       "server": "Ewan",
-      "count": 8,
+      "count": 9,
       "reviews": [
         {
-          "reviewer": "Denise Bishop",
-          "text": "Ewan was incredibly attentive and made some really great suggestions on both the food and the drinks.  It was our first time eating here and we will definitely be coming back!!",
+          "reviewer": "Dan Sublett",
+          "text": "Favorite spot to catch up with friends.  Food is amazing!   Ewan was our server last night and highly recommend him!  Very friendly introduced himself to the entire table asked people's names made conversation and made our evening extra enjoyable.  Thanks again Ewan, see you soon!",
           "date": "2026-08-15",
           "rating": 5
         },
         {
           "reviewer": "Maya Sikora",
           "text": "Food was delicious and Ewan’s service was great 😊😊",
+          "date": "2026-08-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Denise Bishop",
+          "text": "Ewan was incredibly attentive and made some really great suggestions on both the food and the drinks.  It was our first time eating here and we will definitely be coming back!!",
           "date": "2026-08-15",
           "rating": 5
         },

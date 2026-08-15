@@ -1,7 +1,7 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-15T21:29:43.965Z",
-  "reviewCount": 76,
+  "fetchedAt": "2026-08-15T21:50:23.954Z",
+  "reviewCount": 77,
   "reviews": [
     {
       "reviewId": "5778038045480976941",
@@ -9,6 +9,14 @@
       "rating": 5,
       "text": "Excellent patio. Excellent food. Maggie really made our experience enjoyable!",
       "reviewDate": "2026-08-15T15:11:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327626405436101151",
+      "reviewer": "Dan Sublett",
+      "rating": 5,
+      "text": "Favorite spot to catch up with friends.  Food is amazing!   Ewan was our server last night and highly recommend him!  Very friendly introduced himself to the entire table asked people's names made conversation and made our evening extra enjoyable.  Thanks again Ewan, see you soon!",
+      "reviewDate": "2026-08-15T14:26:10.000Z",
       "source": "GOOGLE"
     },
     {
@@ -44,6 +52,14 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "5777507405480924166",
+      "reviewer": "Maya Sikora",
+      "rating": 5,
+      "text": "Food was delicious and Ewan’s service was great 😊😊",
+      "reviewDate": "2026-08-15T01:19:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5777512785480924696",
       "reviewer": "Denise Bishop",
       "rating": 5,
@@ -57,14 +73,6 @@
       "rating": 5,
       "text": "Michael was our server today and he was outstanding. When we chatted I realized he was new to serving and he is such a professional! Positive energy, very engaging and so easy to chat to. His service was amazing.",
       "reviewDate": "2026-08-15T01:02:08.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5777507405480924166",
-      "reviewer": "Maya Sikora",
-      "rating": 5,
-      "text": "Food was delicious and Ewan’s service was great 😊😊",
-      "reviewDate": "2026-08-15T00:55:37.000Z",
       "source": "GOOGLE"
     },
     {
