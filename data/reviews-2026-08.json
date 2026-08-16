@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-16T14:00:09.776Z",
-  "reviewCount": 81,
+  "fetchedAt": "2026-08-16T14:32:54.517Z",
+  "reviewCount": 82,
   "reviews": [
+    {
+      "reviewId": "5779162765481088926",
+      "reviewer": "Nayoun Kim",
+      "rating": 5,
+      "text": "My friend and I visited The Local last evening, and we had a great experience. All the food we ordered was delicious, and our servers, Ewan and Kalypsa, were very friendly and attentive.\n\nI’ve been to The Local several times, and I always have a great time. The food is consistently good, and I’ve always enjoyed the atmosphere. It was my friend’s first time visiting, and she really liked the place, the food, and the vibes as well.\n\nWe both had a wonderful time and will definitely be back!",
+      "reviewDate": "2026-08-16T13:55:01.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5778884475481061180",
       "reviewer": "Bogdan Ceha",

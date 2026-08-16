@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-16T14:00:09.938Z",
-  "reviewCount": 81,
-  "qualifyingReviewCount": 80,
+  "processedAt": "2026-08-16T14:32:54.596Z",
+  "reviewCount": 82,
+  "qualifyingReviewCount": 81,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,12 +15,12 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Daniel",
-      "count": 10
+      "server": "Ewan",
+      "count": 11
     },
     {
       "rank": 2,
-      "server": "Ewan",
+      "server": "Daniel",
       "count": 10
     },
     {
@@ -55,132 +55,132 @@
     },
     {
       "rank": 9,
-      "server": "Karina",
+      "server": "Kalypsa",
       "count": 1
     },
     {
       "rank": 10,
-      "server": "Matthew",
+      "server": "Karina",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Nicky",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Nina",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Paulveen",
+      "server": "Nina",
       "count": 1
     },
     {
       "rank": 15,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 16,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 33,
-      "server": "Kaitlyn S",
-      "count": 0
-    },
-    {
       "rank": 34,
-      "server": "Kalypsa",
+      "server": "Kaitlyn S",
       "count": 0
     },
     {
@@ -313,8 +313,14 @@
     },
     {
       "server": "Ewan",
-      "count": 10,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Nayoun Kim",
+          "text": "My friend and I visited The Local last evening, and we had a great experience. All the food we ordered was delicious, and our servers, Ewan and Kalypsa, were very friendly and attentive.\n\nI’ve been to The Local several times, and I always have a great time. The food is consistently good, and I’ve always enjoyed the atmosphere. It was my friend’s first time visiting, and she really liked the place, the food, and the vibes as well.\n\nWe both had a wonderful time and will definitely be back!",
+          "date": "2026-08-16",
+          "rating": 5
+        },
         {
           "reviewer": "John Hyde",
           "text": "My family and I enjoyed a lovely afternoon dinner on friday night here at local eatery. Tye food service and atmosphere was top tier. My server Ewan waz incredible. His positive attitude and attentiveness was exactly what I needed after a tough week at work. 10/10 would totally recommend.",
@@ -421,6 +427,18 @@
           "reviewer": "Sangpil Lee",
           "text": "My wife and I stopped by for a quick beer, and we were pleasantly surprised by both the food and the beer. All the staff were so friendly and welcoming, which made us feel very comfortable and relaxed.\n\nA special shout-out to Karina, Paulveen, and Nicolas—they were incredibly friendly and awesome!\n\nThe interior is bright, clean, and comfortable, and they also have outdoor seating, which is a great bonus.\n\nHighly recommended! 🍺👍",
           "date": "2026-08-10",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kalypsa",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Nayoun Kim",
+          "text": "My friend and I visited The Local last evening, and we had a great experience. All the food we ordered was delicious, and our servers, Ewan and Kalypsa, were very friendly and attentive.\n\nI’ve been to The Local several times, and I always have a great time. The food is consistently good, and I’ve always enjoyed the atmosphere. It was my friend’s first time visiting, and she really liked the place, the food, and the vibes as well.\n\nWe both had a wonderful time and will definitely be back!",
+          "date": "2026-08-16",
           "rating": 5
         }
       ]
