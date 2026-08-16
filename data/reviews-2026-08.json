@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-16T21:28:28.349Z",
-  "reviewCount": 83,
+  "fetchedAt": "2026-08-16T21:48:30.226Z",
+  "reviewCount": 84,
   "reviews": [
+    {
+      "reviewId": "5779497085481122180",
+      "reviewer": "Lloyd Primeau",
+      "rating": 5,
+      "text": "Stop in for lunch on Saturday and we had lunch outside. It was a very nice place to have are lunch. The staff are awesome. I would come back again.",
+      "reviewDate": "2026-08-16T21:20:02.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5779365495481109080",
       "reviewer": "Andrea",
