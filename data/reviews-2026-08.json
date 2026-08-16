@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-16T03:51:09.403Z",
-  "reviewCount": 79,
+  "fetchedAt": "2026-08-16T04:39:14.688Z",
+  "reviewCount": 81,
   "reviews": [
+    {
+      "reviewId": "5778884475481061180",
+      "reviewer": "Bogdan Ceha",
+      "rating": 5,
+      "text": "Daniel is a one of a kind. Long live the man!",
+      "reviewDate": "2026-08-16T03:56:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5778883115481061044",
+      "reviewer": "Lazar Vujanovic",
+      "rating": 5,
+      "text": "Worked in service for 6 years. Daniel is a legend. A great server, a great person and a reason why we’d come back. God bless.",
+      "reviewDate": "2026-08-16T03:50:26.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5778618645481034652",
       "reviewer": "Katherine Popkin",

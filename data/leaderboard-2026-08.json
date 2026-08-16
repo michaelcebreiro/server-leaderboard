@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-16T03:51:09.488Z",
-  "reviewCount": 79,
-  "qualifyingReviewCount": 78,
+  "processedAt": "2026-08-16T04:39:14.895Z",
+  "reviewCount": 81,
+  "qualifyingReviewCount": 80,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,13 +15,13 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Ewan",
+      "server": "Daniel",
       "count": 10
     },
     {
       "rank": 2,
-      "server": "Daniel",
-      "count": 8
+      "server": "Ewan",
+      "count": 10
     },
     {
       "rank": 3,
@@ -439,8 +439,20 @@
     },
     {
       "server": "Daniel",
-      "count": 8,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "Bogdan Ceha",
+          "text": "Daniel is a one of a kind. Long live the man!",
+          "date": "2026-08-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lazar Vujanovic",
+          "text": "Worked in service for 6 years. Daniel is a legend. A great server, a great person and a reason why we’d come back. God bless.",
+          "date": "2026-08-16",
+          "rating": 5
+        },
         {
           "reviewer": "Meghan Townsend",
           "text": "We were at Leaside Pub on Saturday, August 8th, sitting out on the back patio, and I just wanted to leave a special shoutout to our server, Daniel.\n\nThe restaurant was really busy when we arrived  Daniel was so warm, friendly & genuinely lovely throughout the entire evening. He was attentive without hovering, checked in with us at all the right moments, and had such a naturally kind and welcoming way about him.\n\nWhat stood out the most was he never made us feel like JUST another table, even on what was clearly a busy — inside was full and the upstairs was closed for a private party.\n\nDaniel was personable, patient and seemed genuinely happy to be taking care of us. I actually left commenting on how great he was - always a good sign that someone made an impression.\n\nDaniel, thank you for making our night relaxing & enjoyable; Leaside Pub is lucky to have you :)\n\nWe’ll definitely be back. ❤️",
