@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-16T18:38:44.211Z",
-  "reviewCount": 82,
+  "fetchedAt": "2026-08-16T19:03:35.982Z",
+  "reviewCount": 83,
   "reviews": [
+    {
+      "reviewId": "5779365495481109080",
+      "reviewer": "Andrea",
+      "rating": 5,
+      "text": "It was good. Service is good, food expensive for the size.",
+      "reviewDate": "2026-08-16T18:06:11.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5779162765481088926",
       "reviewer": "Nayoun Kim",
