@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-16T23:46:14.783Z",
-  "reviewCount": 84,
-  "qualifyingReviewCount": 83,
+  "processedAt": "2026-08-17T01:35:41.655Z",
+  "reviewCount": 85,
+  "qualifyingReviewCount": 84,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -55,112 +55,112 @@
     },
     {
       "rank": 9,
-      "server": "Kalypsa",
+      "server": "Jackie G",
       "count": 1
     },
     {
       "rank": 10,
-      "server": "Karina",
+      "server": "Kalypsa",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Matthew",
+      "server": "Karina",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Nicky",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Nina",
+      "server": "Nicola",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Paulveen",
+      "server": "Nina",
       "count": 1
     },
     {
       "rank": 16,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 17,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 29,
-      "server": "Isabella",
-      "count": 0
-    },
-    {
       "rank": 30,
-      "server": "Jackie G",
+      "server": "Isabella",
       "count": 0
     },
     {
@@ -404,6 +404,18 @@
           "text": "I had the pleasure of dining here for my Fiancé’s God-daughter’s first birthday, the service and atmosphere was so wonderful we decided to reach out to book a large party for our Engagement party, the booking process was so easy - even for a 60 person party. Nicky and the team were quick to address all inquiries, provided a detailed event deck so we knew what to expect on the day of our party. Unfortunately we had to cancel due to my fiance needing surgery for a broken leg but the team was so wonderful to work with, I will definitely be reaching out to reschedule the celebration once he has healed. 10/10 service, vibes, food was great and overall amazing experience.",
           "date": "2026-08-04",
           "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Jackie G",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "WF “Fanster” Wong",
+          "text": "The Local is a trendy place with super friendly servers.  Our server Jackie is attentive and so nice. We were asked at the door where we wanted to sit.  Their patio is like a little hidden gem but we elected to sit inside. The booths inside are huge.  We ordered appetizers to share as it was late on a Sunday.  We had the pork tacos, shrimp dumplings and the peanut chicken satay noodle salad. We did order the potatoe skins but they ran out of that item.  The shrimp dumplings are yummy.  The pork tacos was good but missing a flavour (recommended a slaw to help).  The best dish is the peanut chicken satay noodle salad.  Crunchy, peanuty and limey.  All the flavours to make the salad fresh and tasty.  Overall, a good eatery to try out.  Just note parking is quite limited and the dishes are pricey.",
+          "date": "2026-08-17",
+          "rating": 4
         }
       ]
     },
