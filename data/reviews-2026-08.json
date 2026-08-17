@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-17T19:31:10.632Z",
-  "reviewCount": 85,
+  "fetchedAt": "2026-08-17T20:00:36.668Z",
+  "reviewCount": 86,
   "reviews": [
+    {
+      "reviewId": "5780801405481252061",
+      "reviewer": "Liz Kostic",
+      "rating": 5,
+      "text": "Our server Nicola was so great!",
+      "reviewDate": "2026-08-17T19:30:00.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5779686494481141028",
       "reviewer": "WF “Fanster” Wong",

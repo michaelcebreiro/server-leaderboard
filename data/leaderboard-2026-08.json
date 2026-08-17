@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-17T19:31:10.690Z",
-  "reviewCount": 85,
-  "qualifyingReviewCount": 84,
+  "processedAt": "2026-08-17T20:00:36.753Z",
+  "reviewCount": 86,
+  "qualifyingReviewCount": 85,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -40,47 +40,47 @@
     },
     {
       "rank": 6,
+      "server": "Nicola",
+      "count": 2
+    },
+    {
+      "rank": 7,
       "server": "Blake",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Harrison",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Kalypsa",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Karina",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Matthew",
       "count": 1
     },
     {
-      "rank": 13,
-      "server": "Nicky",
-      "count": 1
-    },
-    {
       "rank": 14,
-      "server": "Nicola",
+      "server": "Nicky",
       "count": 1
     },
     {
@@ -385,8 +385,14 @@
     },
     {
       "server": "Nicola",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Liz Kostic",
+          "text": "Our server Nicola was so great!",
+          "date": "2026-08-17",
+          "rating": 5
+        },
         {
           "reviewer": "Cathy Craven",
           "text": "Excellent service from Nicola - very supportive of our agenda and receptive to individual requests while meeting group needs! Will be back soon",
