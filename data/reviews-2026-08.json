@@ -1,7 +1,7 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-18T05:45:41.059Z",
-  "reviewCount": 86,
+  "fetchedAt": "2026-08-18T06:49:45.721Z",
+  "reviewCount": 87,
   "reviews": [
     {
       "reviewId": "5780801405481252061",
@@ -9,6 +9,14 @@
       "rating": 5,
       "text": "Our server Nicola was so great!",
       "reviewDate": "2026-08-17T19:30:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "3331496545240974478",
+      "reviewer": "Issam Gharios",
+      "rating": 5,
+      "text": "A must stop when visiting family. And this time Paulveen was great!",
+      "reviewDate": "2026-08-17T01:49:59.000Z",
       "source": "GOOGLE"
     },
     {

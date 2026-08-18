@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-18T05:45:41.118Z",
-  "reviewCount": 86,
-  "qualifyingReviewCount": 85,
+  "processedAt": "2026-08-18T06:49:45.804Z",
+  "reviewCount": 87,
+  "qualifyingReviewCount": 86,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,52 +45,52 @@
     },
     {
       "rank": 7,
+      "server": "Paulveen",
+      "count": 2
+    },
+    {
+      "rank": 8,
       "server": "Blake",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Harrison",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Kalypsa",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Karina",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Matthew",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 15,
-      "server": "Nina",
-      "count": 1
-    },
-    {
       "rank": 16,
-      "server": "Paulveen",
+      "server": "Nina",
       "count": 1
     },
     {
@@ -439,8 +439,14 @@
     },
     {
       "server": "Paulveen",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Issam Gharios",
+          "text": "A must stop when visiting family. And this time Paulveen was great!",
+          "date": "2026-08-17",
+          "rating": 5
+        },
         {
           "reviewer": "Sangpil Lee",
           "text": "My wife and I stopped by for a quick beer, and we were pleasantly surprised by both the food and the beer. All the staff were so friendly and welcoming, which made us feel very comfortable and relaxed.\n\nA special shout-out to Karina, Paulveen, and Nicolas—they were incredibly friendly and awesome!\n\nThe interior is bright, clean, and comfortable, and they also have outdoor seating, which is a great bonus.\n\nHighly recommended! 🍺👍",
