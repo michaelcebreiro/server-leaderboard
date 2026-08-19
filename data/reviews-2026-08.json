@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-18T23:58:48.179Z",
-  "reviewCount": 88,
+  "fetchedAt": "2026-08-19T01:46:52.843Z",
+  "reviewCount": 90,
   "reviews": [
+    {
+      "reviewId": "5784368605481607540",
+      "reviewer": "Armin Sariaslani",
+      "rating": 5,
+      "text": "Harrison was amazing and the food was incredible as well",
+      "reviewDate": "2026-08-19T01:09:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5784368025481607482",
+      "reviewer": "Amir Reihani",
+      "rating": 5,
+      "text": "Harrison was amazing and we had an excellent time.",
+      "reviewDate": "2026-08-19T01:09:05.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5783246135481495618",
       "reviewer": "Khaleel",

@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-18T23:58:48.358Z",
-  "reviewCount": 88,
-  "qualifyingReviewCount": 87,
+  "processedAt": "2026-08-19T01:46:53.041Z",
+  "reviewCount": 90,
+  "qualifyingReviewCount": 89,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -40,27 +40,27 @@
     },
     {
       "rank": 6,
+      "server": "Harrison",
+      "count": 3
+    },
+    {
+      "rank": 7,
       "server": "Nicola",
       "count": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Paulveen",
       "count": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Blake",
       "count": 1
     },
     {
-      "rank": 9,
-      "server": "Eli",
-      "count": 1
-    },
-    {
       "rank": 10,
-      "server": "Harrison",
+      "server": "Eli",
       "count": 1
     },
     {
@@ -547,8 +547,20 @@
     },
     {
       "server": "Harrison",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Armin Sariaslani",
+          "text": "Harrison was amazing and the food was incredible as well",
+          "date": "2026-08-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Amir Reihani",
+          "text": "Harrison was amazing and we had an excellent time.",
+          "date": "2026-08-19",
+          "rating": 5
+        },
         {
           "reviewer": "DplusK",
           "text": "Our server Harrison was great, kept checking out table and was very kind to the kids!",
