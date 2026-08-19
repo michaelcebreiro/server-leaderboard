@@ -1,8 +1,24 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-19T01:46:52.843Z",
-  "reviewCount": 90,
+  "fetchedAt": "2026-08-19T03:00:45.359Z",
+  "reviewCount": 92,
   "reviews": [
+    {
+      "reviewId": "5784391265481609785",
+      "reviewer": "Shelly Ringham",
+      "rating": 5,
+      "text": "Kayla was a wonderful server!",
+      "reviewDate": "2026-08-19T01:51:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327628075436101318",
+      "reviewer": "Kurt K",
+      "rating": 5,
+      "text": "Kayla was kind, attentive and provided excellent customer service. We'll be back!",
+      "reviewDate": "2026-08-19T01:51:10.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5784368605481607540",
       "reviewer": "Armin Sariaslani",
