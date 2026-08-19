@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-19T13:09:48.183Z",
-  "reviewCount": 92,
+  "fetchedAt": "2026-08-19T13:58:17.265Z",
+  "reviewCount": 93,
   "reviews": [
+    {
+      "reviewId": "5784938485481664286",
+      "reviewer": "liana s",
+      "rating": 5,
+      "text": "local always has the best service for dine in! the servers are so attentive and kind. their food is delicious! i always get the chicken tenders and fries, and the chicken tenders are definitely the best chicken tenders i have tried. so crispy, seasoned, and juicy. their fries are AMAZING and so are their sweet potato fries! their takeout takes quite a long time though, as i ordered chicken tenders and sweet potato fries once at around 9:30pm and it took 30 minutes to get it.",
+      "reviewDate": "2026-08-19T13:21:35.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5784391265481609785",
       "reviewer": "Shelly Ringham",
