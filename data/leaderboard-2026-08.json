@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-21T21:01:46.249Z",
-  "reviewCount": 96,
-  "qualifyingReviewCount": 95,
+  "processedAt": "2026-08-21T21:40:42.738Z",
+  "reviewCount": 98,
+  "qualifyingReviewCount": 97,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 11
+      "count": 12
     },
     {
       "rank": 2,
@@ -313,8 +313,14 @@
     },
     {
       "server": "Ewan",
-      "count": 11,
+      "count": 12,
       "reviews": [
+        {
+          "reviewer": "Fiona Hinsley",
+          "text": "We had a great night and Ewan was an exceptional waiter- very attentive, great service and went above and beyond to look after us!",
+          "date": "2026-08-21",
+          "rating": 5
+        },
         {
           "reviewer": "Nayoun Kim",
           "text": "My friend and I visited The Local last evening, and we had a great experience. All the food we ordered was delicious, and our servers, Ewan and Kalypsa, were very friendly and attentive.\n\nI’ve been to The Local several times, and I always have a great time. The food is consistently good, and I’ve always enjoyed the atmosphere. It was my friend’s first time visiting, and she really liked the place, the food, and the vibes as well.\n\nWe both had a wonderful time and will definitely be back!",
