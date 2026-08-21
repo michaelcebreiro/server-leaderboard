@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-21T04:41:57.824Z",
-  "reviewCount": 94,
+  "fetchedAt": "2026-08-21T05:16:42.315Z",
+  "reviewCount": 95,
   "reviews": [
+    {
+      "reviewId": "5792854695482453997",
+      "reviewer": "Bo Much",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-08-21T05:04:40.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5791749165482343895",
       "reviewer": "Maia",
