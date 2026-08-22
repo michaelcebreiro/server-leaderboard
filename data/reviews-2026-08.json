@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-22T02:57:07.043Z",
-  "reviewCount": 99,
+  "fetchedAt": "2026-08-22T03:48:12.092Z",
+  "reviewCount": 100,
   "reviews": [
+    {
+      "reviewId": "5796058565482773557",
+      "reviewer": "Giovanni S",
+      "rating": 5,
+      "text": "Had dinner on the patio with friends. Patio was very nice, food and drink is good, and the service from staff was warm and friendly.",
+      "reviewDate": "2026-08-22T03:30:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5795730885482740915",
       "reviewer": "Michael M",
