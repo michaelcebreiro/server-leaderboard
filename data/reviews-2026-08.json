@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-22T00:00:33.999Z",
-  "reviewCount": 98,
+  "fetchedAt": "2026-08-22T01:51:02.758Z",
+  "reviewCount": 99,
   "reviews": [
+    {
+      "reviewId": "5795730885482740915",
+      "reviewer": "Michael M",
+      "rating": 5,
+      "text": "Great food and service. Thanks Meklit!!!",
+      "reviewDate": "2026-08-21T23:47:05.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5795412735482709227",
       "reviewer": "Fiona Hinsley",
