@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-23T22:59:06.186Z",
-  "reviewCount": 105,
+  "fetchedAt": "2026-08-23T23:29:57.220Z",
+  "reviewCount": 106,
   "reviews": [
+    {
+      "reviewId": "5801169195483283663",
+      "reviewer": "Tamera Lay",
+      "rating": 5,
+      "text": "This was our first time here and it was EXCELLENT!  I said to my husband that after Covid people kind of stopped caring as much in restaurants and it was the exact opposite here. Our service was amazing, the manager checked in on us, another server noticed my 5 year old son was watching football and came up and talked to him about the sport and said she was a cheerleader for UofT. It was honestly one of the best experiences in a restaurant we’ve had in a long time.",
+      "reviewDate": "2026-08-23T23:14:11.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5800905223483257309",
       "reviewer": "Jim",
