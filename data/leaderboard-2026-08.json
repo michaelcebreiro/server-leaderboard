@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-27T00:16:01.908Z",
-  "reviewCount": 108,
-  "qualifyingReviewCount": 106,
+  "processedAt": "2026-08-27T10:09:52.808Z",
+  "reviewCount": 109,
+  "qualifyingReviewCount": 107,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 12
+      "count": 13
     },
     {
       "rank": 2,
@@ -85,127 +85,127 @@
     },
     {
       "rank": 15,
-      "server": "Matthew",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Meklit",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 17,
-      "server": "Nicky",
+      "server": "Meklit",
       "count": 1
     },
     {
       "rank": 18,
-      "server": "Nina",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 19,
+      "server": "Nina",
+      "count": 1
+    },
+    {
+      "rank": 20,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 38,
-      "server": "Mackenzie",
-      "count": 0
-    },
-    {
       "rank": 39,
-      "server": "Matteo",
+      "server": "Mackenzie",
       "count": 0
     },
     {
@@ -325,8 +325,14 @@
     },
     {
       "server": "Ewan",
-      "count": 12,
+      "count": 13,
       "reviews": [
+        {
+          "reviewer": "Josh",
+          "text": "Came with a group of friends, had amazing service throughout the evening from a very attentive Ewan & Matteo.",
+          "date": "2026-08-27",
+          "rating": 5
+        },
         {
           "reviewer": "Fiona Hinsley",
           "text": "We had a great night and Ewan was an exceptional waiter- very attentive, great service and went above and beyond to look after us!",
@@ -445,6 +451,18 @@
           "reviewer": "Kayla Caron",
           "text": "I had the pleasure of dining here for my Fiancé’s God-daughter’s first birthday, the service and atmosphere was so wonderful we decided to reach out to book a large party for our Engagement party, the booking process was so easy - even for a 60 person party. Nicky and the team were quick to address all inquiries, provided a detailed event deck so we knew what to expect on the day of our party. Unfortunately we had to cancel due to my fiance needing surgery for a broken leg but the team was so wonderful to work with, I will definitely be reaching out to reschedule the celebration once he has healed. 10/10 service, vibes, food was great and overall amazing experience.",
           "date": "2026-08-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matteo",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Josh",
+          "text": "Came with a group of friends, had amazing service throughout the evening from a very attentive Ewan & Matteo.",
+          "date": "2026-08-27",
           "rating": 5
         }
       ]
