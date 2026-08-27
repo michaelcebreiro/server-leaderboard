@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-27T10:09:52.808Z",
-  "reviewCount": 109,
-  "qualifyingReviewCount": 107,
+  "processedAt": "2026-08-27T20:32:05.197Z",
+  "reviewCount": 113,
+  "qualifyingReviewCount": 111,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -10,13 +10,13 @@
   "winners": {
     "finalized": false,
     "first": null,
-    "second": null
+    "second": "Ewan"
   },
   "standings": [
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 13
+      "count": 17
     },
     {
       "rank": 2,
@@ -325,8 +325,32 @@
     },
     {
       "server": "Ewan",
-      "count": 13,
+      "count": 17,
       "reviews": [
+        {
+          "reviewer": "Melissa Haley",
+          "text": "Always a great spot.  And Ewan is such a helpful and excellent server",
+          "date": "2026-08-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Nicholas Delyannis",
+          "text": "Had Ewan as my server and he did a lovely job, would recommend!",
+          "date": "2026-08-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Andrew McMichael",
+          "text": "Ewan was awesome!",
+          "date": "2026-08-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Grant Boyle",
+          "text": "We had a great time and Ewan was a great server and we all had a great time",
+          "date": "2026-08-27",
+          "rating": 5
+        },
         {
           "reviewer": "Josh",
           "text": "Came with a group of friends, had amazing service throughout the evening from a very attentive Ewan & Matteo.",
