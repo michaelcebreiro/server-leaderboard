@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-27T20:32:05.124Z",
-  "reviewCount": 113,
+  "fetchedAt": "2026-08-28T04:31:08.836Z",
+  "reviewCount": 114,
   "reviews": [
+    {
+      "reviewId": "5809598445484122832",
+      "reviewer": "Kyle Todt",
+      "rating": 5,
+      "text": "The pickleball crew and I started coming last summer, and after being served by Karina and Blake on Mondays and Thursdays we come back every week for them. They are so genuine, put us on chicken nachos, and make sure our urquells are always full! We will continue to come back just for them!",
+      "reviewDate": "2026-08-28T02:38:13.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5809007595484064161",
       "reviewer": "Melissa Haley",

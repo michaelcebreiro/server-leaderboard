@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-27T20:32:05.197Z",
-  "reviewCount": 113,
-  "qualifyingReviewCount": 111,
+  "processedAt": "2026-08-28T04:31:09.035Z",
+  "reviewCount": 114,
+  "qualifyingReviewCount": 112,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,42 +45,42 @@
     },
     {
       "rank": 7,
-      "server": "Kayla",
+      "server": "Blake",
       "count": 2
     },
     {
       "rank": 8,
-      "server": "Nicola",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 9,
-      "server": "Paulveen",
+      "server": "Kayla",
       "count": 2
     },
     {
       "rank": 10,
-      "server": "Blake",
-      "count": 1
+      "server": "Nicola",
+      "count": 2
     },
     {
       "rank": 11,
+      "server": "Paulveen",
+      "count": 2
+    },
+    {
+      "rank": 12,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 13,
-      "server": "Kalypsa",
-      "count": 1
-    },
-    {
       "rank": 14,
-      "server": "Karina",
+      "server": "Kalypsa",
       "count": 1
     },
     {
@@ -247,8 +247,14 @@
   "mentions": [
     {
       "server": "Karina",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Kyle Todt",
+          "text": "The pickleball crew and I started coming last summer, and after being served by Karina and Blake on Mondays and Thursdays we come back every week for them. They are so genuine, put us on chicken nachos, and make sure our urquells are always full! We will continue to come back just for them!",
+          "date": "2026-08-28",
+          "rating": 5
+        },
         {
           "reviewer": "Sangpil Lee",
           "text": "My wife and I stopped by for a quick beer, and we were pleasantly surprised by both the food and the beer. All the staff were so friendly and welcoming, which made us feel very comfortable and relaxed.\n\nA special shout-out to Karina, Paulveen, and Nicolas—they were incredibly friendly and awesome!\n\nThe interior is bright, clean, and comfortable, and they also have outdoor seating, which is a great bonus.\n\nHighly recommended! 🍺👍",
@@ -547,8 +553,14 @@
     },
     {
       "server": "Blake",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Kyle Todt",
+          "text": "The pickleball crew and I started coming last summer, and after being served by Karina and Blake on Mondays and Thursdays we come back every week for them. They are so genuine, put us on chicken nachos, and make sure our urquells are always full! We will continue to come back just for them!",
+          "date": "2026-08-28",
+          "rating": 5
+        },
         {
           "reviewer": "Alex Ferguson",
           "text": "Blake is fantastic, he make the trip worth it.",
