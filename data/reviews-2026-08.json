@@ -1,14 +1,30 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-28T04:31:08.836Z",
-  "reviewCount": 114,
+  "fetchedAt": "2026-08-28T16:56:35.996Z",
+  "reviewCount": 116,
   "reviews": [
+    {
+      "reviewId": "5810205295484183209",
+      "reviewer": "K FENELON",
+      "rating": 5,
+      "text": "Had lunch with my son and it was  an enjoyable time !",
+      "reviewDate": "2026-08-28T14:53:58.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5809598445484122832",
       "reviewer": "Kyle Todt",
       "rating": 5,
       "text": "The pickleball crew and I started coming last summer, and after being served by Karina and Blake on Mondays and Thursdays we come back every week for them. They are so genuine, put us on chicken nachos, and make sure our urquells are always full! We will continue to come back just for them!",
       "reviewDate": "2026-08-28T02:38:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5507982745454071363",
+      "reviewer": "Alex",
+      "rating": 5,
+      "text": "Great place in Leaside, patio in the summer is a must.",
+      "reviewDate": "2026-08-27T20:16:13.000Z",
       "source": "GOOGLE"
     },
     {
