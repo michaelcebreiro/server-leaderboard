@@ -1,8 +1,40 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-29T00:55:59.716Z",
-  "reviewCount": 118,
+  "fetchedAt": "2026-08-29T07:46:38.371Z",
+  "reviewCount": 122,
   "reviews": [
+    {
+      "reviewId": "5811786605484340745",
+      "reviewer": "Shelagh Cummins",
+      "rating": 5,
+      "text": "Ewan was a great server. Super fun, attentive and should definitely be a bartender.",
+      "reviewDate": "2026-08-29T01:48:58.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5811754335484337550",
+      "reviewer": "Murley Herrle-Fanning",
+      "rating": 5,
+      "text": "Your boy Ewan should be working the bar. Good man, great vibes.",
+      "reviewDate": "2026-08-29T00:55:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5811754375484337554",
+      "reviewer": "Taylor Lau",
+      "rating": 5,
+      "text": "A go-to spot in the neighbourhood - always good food, good drinks and good times! Had Ewan on the patio tonight while dining with friends and he was super friendly and knew his stuff! We went with all of his recommendations and were not disappointed!",
+      "reviewDate": "2026-08-29T00:55:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5811741615484336280",
+      "reviewer": "Gareth White",
+      "rating": 5,
+      "text": "Great food, great atmosphere and Ewan was extremely attentive and personable!",
+      "reviewDate": "2026-08-29T00:53:27.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5811671895484329346",
       "reviewer": "Jon Malton",
