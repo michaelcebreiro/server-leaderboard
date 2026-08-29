@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-29T17:24:05.536Z",
-  "reviewCount": 123,
+  "fetchedAt": "2026-08-29T19:56:29.849Z",
+  "reviewCount": 124,
   "reviews": [
+    {
+      "reviewId": "5812884895484450123",
+      "reviewer": "zach peddle",
+      "rating": 5,
+      "text": "Great service and very accommodating. We called 15 minutes before we got there with 3 wheel chairs and 12 person group, they were very helpful in asking where we would like to sit and let us see indoor/outdoor options. Very friendly service and was able to enter through the front with a ramp and exit out of the back. On a Saturday too! 9.4/10 experience from the family, sister 8.5/10, Nico 8.5/10, & J 8.5/10. Overall 8.9/10.",
+      "reviewDate": "2026-08-29T19:39:01.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5812312015484393114",
       "reviewer": "shima keramati",
