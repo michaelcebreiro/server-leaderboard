@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-28T16:56:36.077Z",
-  "reviewCount": 116,
-  "qualifyingReviewCount": 114,
+  "processedAt": "2026-08-29T00:55:59.796Z",
+  "reviewCount": 118,
+  "qualifyingReviewCount": 116,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 17
+      "count": 18
     },
     {
       "rank": 2,
@@ -331,8 +331,14 @@
     },
     {
       "server": "Ewan",
-      "count": 17,
+      "count": 18,
       "reviews": [
+        {
+          "reviewer": "Jon Malton",
+          "text": "Ewan was the best server I’ve had in a while. But his personality seems more suited to be a bartender.",
+          "date": "2026-08-28",
+          "rating": 5
+        },
         {
           "reviewer": "Melissa Haley",
           "text": "Always a great spot.  And Ewan is such a helpful and excellent server",
