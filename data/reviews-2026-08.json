@@ -1,8 +1,16 @@
 {
   "month": "2026-08",
-  "fetchedAt": "2026-08-30T21:51:47.862Z",
-  "reviewCount": 125,
+  "fetchedAt": "2026-08-31T00:18:03.477Z",
+  "reviewCount": 131,
   "reviews": [
+    {
+      "reviewId": "5815247035484685827",
+      "reviewer": "Chris McMullen",
+      "rating": 5,
+      "text": "We just celebrated our son’s birthday with his wife and their 3 kids today for brunch. We were fortunate to have Daniel as our server, who was very attentive, courteous and provided top notch service with a smile.   To go with the consistently fabulous food, Daniel also surprised us with an apple cobbler with a birthday candle.  Highly recommended and ask for Daniel!!\n\nThanks for a great start to our day!!",
+      "reviewDate": "2026-08-30T18:06:53.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5814981345484659459",
       "reviewer": "Riya",
@@ -10,6 +18,46 @@
       "text": "",
       "reviewDate": "2026-08-30T13:53:43.000Z",
       "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5815247045484685828",
+      "reviewer": "cherry",
+      "rating": 5,
+      "text": "danielle was excellent. we will be back!",
+      "reviewDate": "2026-08-30T02:40:32.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5815247055484685829",
+      "reviewer": "Saleem Dahi",
+      "rating": 5,
+      "text": "Shoutout Danielle!",
+      "reviewDate": "2026-08-30T02:38:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5815247065484685830",
+      "reviewer": "SammyG123",
+      "rating": 5,
+      "text": "Danielle was so sweet! Loved the Spicy Chicken Sandwich she recommended!",
+      "reviewDate": "2026-08-30T02:38:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5815247075484685831",
+      "reviewer": "KnucklesUp",
+      "rating": 5,
+      "text": "Banger as always. Love the local. Danielle was our server she was great, thank you!!",
+      "reviewDate": "2026-08-30T02:36:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5669949335470190262",
+      "reviewer": "Peter Baugh",
+      "rating": 5,
+      "text": "I love local leaside. Kaia is always amazing. Karen is awesome at the door. Ewan and Jackie G are great bartenders. All of the other staff are amazing as well. Daniel is also a great server. I always have a great time coming here.",
+      "reviewDate": "2026-08-30T01:20:24.000Z",
+      "source": "GOOGLE"
     },
     {
       "reviewId": "5812884895484450123",

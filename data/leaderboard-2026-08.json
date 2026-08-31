@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
-  "processedAt": "2026-08-30T21:51:47.944Z",
-  "reviewCount": 125,
-  "qualifyingReviewCount": 123,
+  "processedAt": "2026-08-31T00:18:03.560Z",
+  "reviewCount": 131,
+  "qualifyingReviewCount": 129,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,151 +16,151 @@
     {
       "rank": 1,
       "server": "Ewan",
-      "count": 22
+      "count": 23
     },
     {
       "rank": 2,
       "server": "Daniel",
-      "count": 10
+      "count": 12
     },
     {
       "rank": 3,
-      "server": "Maria",
+      "server": "Kaia",
       "count": 8
     },
     {
       "rank": 4,
+      "server": "Maria",
+      "count": 8
+    },
+    {
+      "rank": 5,
       "server": "Derka",
       "count": 7
     },
     {
-      "rank": 5,
-      "server": "Kaia",
-      "count": 7
+      "rank": 6,
+      "server": "Danielle",
+      "count": 4
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Harrison",
       "count": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Blake",
       "count": 2
     },
     {
-      "rank": 8,
-      "server": "Karina",
-      "count": 2
-    },
-    {
       "rank": 9,
-      "server": "Kayla",
+      "server": "Jackie G",
       "count": 2
     },
     {
       "rank": 10,
-      "server": "Nicola",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 11,
-      "server": "Paulveen",
+      "server": "Kayla",
       "count": 2
     },
     {
       "rank": 12,
+      "server": "Nicola",
+      "count": 2
+    },
+    {
+      "rank": 13,
+      "server": "Paulveen",
+      "count": 2
+    },
+    {
+      "rank": 14,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 13,
-      "server": "Jackie G",
-      "count": 1
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "server": "Kalypsa",
       "count": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Matthew",
       "count": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Meklit",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Nina",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 29,
-      "server": "Christina",
-      "count": 0
-    },
-    {
       "rank": 30,
-      "server": "Danielle",
+      "server": "Christina",
       "count": 0
     },
     {
@@ -331,8 +331,14 @@
     },
     {
       "server": "Ewan",
-      "count": 22,
+      "count": 23,
       "reviews": [
+        {
+          "reviewer": "Peter Baugh",
+          "text": "I love local leaside. Kaia is always amazing. Karen is awesome at the door. Ewan and Jackie G are great bartenders. All of the other staff are amazing as well. Daniel is also a great server. I always have a great time coming here.",
+          "date": "2026-08-30",
+          "rating": 5
+        },
         {
           "reviewer": "Shelagh Cummins",
           "text": "Ewan was a great server. Super fun, attentive and should definitely be a bartender.",
@@ -516,6 +522,36 @@
       ]
     },
     {
+      "server": "Danielle",
+      "count": 4,
+      "reviews": [
+        {
+          "reviewer": "cherry",
+          "text": "danielle was excellent. we will be back!",
+          "date": "2026-08-30",
+          "rating": 5
+        },
+        {
+          "reviewer": "Saleem Dahi",
+          "text": "Shoutout Danielle!",
+          "date": "2026-08-30",
+          "rating": 5
+        },
+        {
+          "reviewer": "SammyG123",
+          "text": "Danielle was so sweet! Loved the Spicy Chicken Sandwich she recommended!",
+          "date": "2026-08-30",
+          "rating": 5
+        },
+        {
+          "reviewer": "KnucklesUp",
+          "text": "Banger as always. Love the local. Danielle was our server she was great, thank you!!",
+          "date": "2026-08-30",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Matteo",
       "count": 1,
       "reviews": [
@@ -529,8 +565,14 @@
     },
     {
       "server": "Jackie G",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Peter Baugh",
+          "text": "I love local leaside. Kaia is always amazing. Karen is awesome at the door. Ewan and Jackie G are great bartenders. All of the other staff are amazing as well. Daniel is also a great server. I always have a great time coming here.",
+          "date": "2026-08-30",
+          "rating": 5
+        },
         {
           "reviewer": "WF “Fanster” Wong",
           "text": "The Local is a trendy place with super friendly servers.  Our server Jackie is attentive and so nice. We were asked at the door where we wanted to sit.  Their patio is like a little hidden gem but we elected to sit inside. The booths inside are huge.  We ordered appetizers to share as it was late on a Sunday.  We had the pork tacos, shrimp dumplings and the peanut chicken satay noodle salad. We did order the potatoe skins but they ran out of that item.  The shrimp dumplings are yummy.  The pork tacos was good but missing a flavour (recommended a slaw to help).  The best dish is the peanut chicken satay noodle salad.  Crunchy, peanuty and limey.  All the flavours to make the salad fresh and tasty.  Overall, a good eatery to try out.  Just note parking is quite limited and the dishes are pricey.",
@@ -601,8 +643,20 @@
     },
     {
       "server": "Daniel",
-      "count": 10,
+      "count": 12,
       "reviews": [
+        {
+          "reviewer": "Chris McMullen",
+          "text": "We just celebrated our son’s birthday with his wife and their 3 kids today for brunch. We were fortunate to have Daniel as our server, who was very attentive, courteous and provided top notch service with a smile.   To go with the consistently fabulous food, Daniel also surprised us with an apple cobbler with a birthday candle.  Highly recommended and ask for Daniel!!\n\nThanks for a great start to our day!!",
+          "date": "2026-08-30",
+          "rating": 5
+        },
+        {
+          "reviewer": "Peter Baugh",
+          "text": "I love local leaside. Kaia is always amazing. Karen is awesome at the door. Ewan and Jackie G are great bartenders. All of the other staff are amazing as well. Daniel is also a great server. I always have a great time coming here.",
+          "date": "2026-08-30",
+          "rating": 5
+        },
         {
           "reviewer": "Bogdan Ceha",
           "text": "Daniel is a one of a kind. Long live the man!",
@@ -739,8 +793,14 @@
     },
     {
       "server": "Kaia",
-      "count": 7,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Peter Baugh",
+          "text": "I love local leaside. Kaia is always amazing. Karen is awesome at the door. Ewan and Jackie G are great bartenders. All of the other staff are amazing as well. Daniel is also a great server. I always have a great time coming here.",
+          "date": "2026-08-30",
+          "rating": 5
+        },
         {
           "reviewer": "Siena Bildfell",
           "text": "Perogies were super yummy and our server Kaia provided amazing service .I would definitely recommend asking for Kaia next time you come for a great time.",
