@@ -1,6 +1,15 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-01T01:59:43.162Z",
-  "reviewCount": 0,
-  "reviews": []
+  "fetchedAt": "2026-09-01T07:42:40.257Z",
+  "reviewCount": 1,
+  "reviews": [
+    {
+      "reviewId": "5817861434484946316",
+      "reviewer": "pedram rad",
+      "rating": 4,
+      "text": "We always go here and we have never been disappointed.\nEverything is quiet decent and always easy to find a table\nThe burger and tacos are really good",
+      "reviewDate": "2026-09-01T04:09:34.000Z",
+      "source": "GOOGLE"
+    }
+  ]
 }
