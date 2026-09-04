@@ -1,72 +1,8 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-04T01:15:20.464Z",
-  "reviewCount": 12,
+  "fetchedAt": "2026-09-04T06:23:08.518Z",
+  "reviewCount": 4,
   "reviews": [
-    {
-      "reviewId": "5825408615485698169",
-      "reviewer": "Liviu Teodorescu",
-      "rating": 5,
-      "text": "Had a great time at Local! Food was great and drinks were amazing. Maria was an outstanding server!",
-      "reviewDate": "2026-09-04T00:51:31.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5825401795485697492",
-      "reviewer": "hani el-hajj",
-      "rating": 5,
-      "text": "One of the best restaurants I’ve been too in a while!! The food was amazing and my server Maria was outstanding!! Can’t wait to go back!!",
-      "reviewDate": "2026-09-04T00:46:01.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5551503755458396715",
-      "reviewer": "ak san",
-      "rating": 5,
-      "text": "Kaia was super a helpful waitress!",
-      "reviewDate": "2026-09-04T00:34:16.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5825330685485690397",
-      "reviewer": "Abigail Phillips",
-      "rating": 5,
-      "text": "Kaia gave amazing service, will definitely be back!",
-      "reviewDate": "2026-09-04T00:24:18.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5825292725485686644",
-      "reviewer": "Cathy Zhang",
-      "rating": 5,
-      "text": "The food is incredible!",
-      "reviewDate": "2026-09-03T23:43:37.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5825279715485685365",
-      "reviewer": "Melissa Sublett",
-      "rating": 5,
-      "text": "Kaia was awesome so friendly!!",
-      "reviewDate": "2026-09-03T23:27:07.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5825269965485684397",
-      "reviewer": "Kaitlyn Towle",
-      "rating": 5,
-      "text": "We loved kaia!",
-      "reviewDate": "2026-09-03T23:23:24.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5268094315430163289",
-      "reviewer": "Lisa Towle",
-      "rating": 5,
-      "text": "Kaia was super friendly!",
-      "reviewDate": "2026-09-03T23:23:18.000Z",
-      "source": "GOOGLE"
-    },
     {
       "reviewId": "5825036475485661191",
       "reviewer": "Greg",
