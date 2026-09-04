@@ -1,8 +1,40 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-04T11:36:00.680Z",
-  "reviewCount": 4,
+  "fetchedAt": "2026-09-04T15:06:41.216Z",
+  "reviewCount": 8,
   "reviews": [
+    {
+      "reviewId": "5825858835485742950",
+      "reviewer": "Shelly",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-09-04T12:18:29.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5825824155485739496",
+      "reviewer": "Bosco Chan",
+      "rating": 5,
+      "text": "Food and drinks were great, our server Michael was helpful!",
+      "reviewDate": "2026-09-04T02:24:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5551503755458396715",
+      "reviewer": "ak san",
+      "rating": 5,
+      "text": "Kaia was super a helpful waitress!",
+      "reviewDate": "2026-09-04T00:34:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5268094315430163289",
+      "reviewer": "Lisa Towle",
+      "rating": 5,
+      "text": "Kaia was super friendly!",
+      "reviewDate": "2026-09-03T23:23:18.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5825036475485661191",
       "reviewer": "Greg",
