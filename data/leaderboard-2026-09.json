@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-03T23:27:17.490Z",
-  "reviewCount": 4,
-  "qualifyingReviewCount": 4,
+  "processedAt": "2026-09-04T01:15:20.538Z",
+  "reviewCount": 12,
+  "qualifyingReviewCount": 12,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,162 +15,162 @@
   "standings": [
     {
       "rank": 1,
+      "server": "Kaia",
+      "count": 5
+    },
+    {
+      "rank": 2,
+      "server": "Maria",
+      "count": 2
+    },
+    {
+      "rank": 3,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 2,
+      "rank": 4,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 3,
+      "rank": 5,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 4,
+      "rank": 6,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 7,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 8,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 9,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 10,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 11,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 14,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 15,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Derka",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 18,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 23,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 24,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 24,
-      "server": "Kaia",
-      "count": 0
-    },
-    {
-      "rank": 25,
+      "rank": 26,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 31,
-      "server": "Mackenzie",
-      "count": 0
-    },
-    {
       "rank": 32,
-      "server": "Maria",
+      "server": "Mackenzie",
       "count": 0
     },
     {
@@ -244,5 +244,60 @@
       "count": 0
     }
   ],
-  "mentions": []
+  "mentions": [
+    {
+      "server": "Maria",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Liviu Teodorescu",
+          "text": "Had a great time at Local! Food was great and drinks were amazing. Maria was an outstanding server!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "hani el-hajj",
+          "text": "One of the best restaurants I’ve been too in a while!! The food was amazing and my server Maria was outstanding!! Can’t wait to go back!!",
+          "date": "2026-09-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaia",
+      "count": 5,
+      "reviews": [
+        {
+          "reviewer": "ak san",
+          "text": "Kaia was super a helpful waitress!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Abigail Phillips",
+          "text": "Kaia gave amazing service, will definitely be back!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Melissa Sublett",
+          "text": "Kaia was awesome so friendly!!",
+          "date": "2026-09-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kaitlyn Towle",
+          "text": "We loved kaia!",
+          "date": "2026-09-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lisa Towle",
+          "text": "Kaia was super friendly!",
+          "date": "2026-09-03",
+          "rating": 5
+        }
+      ]
+    }
+  ]
 }
