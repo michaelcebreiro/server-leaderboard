@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-05T12:48:11.567Z",
-  "reviewCount": 19,
-  "qualifyingReviewCount": 19,
+  "processedAt": "2026-09-05T15:51:47.094Z",
+  "reviewCount": 20,
+  "qualifyingReviewCount": 20,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,18 +30,18 @@
     },
     {
       "rank": 4,
-      "server": "Annabel",
+      "server": "Akiko",
       "count": 1
     },
     {
       "rank": 5,
-      "server": "Michael",
+      "server": "Annabel",
       "count": 1
     },
     {
       "rank": 6,
-      "server": "Akiko",
-      "count": 0
+      "server": "Michael",
+      "count": 1
     },
     {
       "rank": 7,
@@ -250,6 +250,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Akiko",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Mani",
+          "text": "Shoutout to Akiko for her amazing customer service! She was incredibly welcoming, friendly, and helpful, patiently answering all my questions about the menu. Her positive attitude really stood out and made the experience even more enjoyable. Thank you, Akiko, for making us feel so welcomed! 😊",
+          "date": "2026-09-05",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Annabel",
       "count": 1,

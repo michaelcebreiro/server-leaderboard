@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-05T12:48:11.281Z",
-  "reviewCount": 19,
+  "fetchedAt": "2026-09-05T15:51:47.015Z",
+  "reviewCount": 20,
   "reviews": [
+    {
+      "reviewId": "5827535475485909744",
+      "reviewer": "Mani",
+      "rating": 5,
+      "text": "Shoutout to Akiko for her amazing customer service! She was incredibly welcoming, friendly, and helpful, patiently answering all my questions about the menu. Her positive attitude really stood out and made the experience even more enjoyable. Thank you, Akiko, for making us feel so welcomed! 😊",
+      "reviewDate": "2026-09-05T13:20:35.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5827271284485883450",
       "reviewer": "Jane Wong",
