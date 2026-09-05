@@ -1,8 +1,64 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-05T00:49:20.802Z",
-  "reviewCount": 12,
+  "fetchedAt": "2026-09-05T05:25:44.952Z",
+  "reviewCount": 19,
   "reviews": [
+    {
+      "reviewId": "5827271284485883450",
+      "reviewer": "Jane Wong",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-09-05T04:32:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5827210205485877364",
+      "reviewer": "Chrissy Mav",
+      "rating": 5,
+      "text": "Maria is amazing!!!!",
+      "reviewDate": "2026-09-05T03:11:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5827200925485876438",
+      "reviewer": "TENZIN shakya",
+      "rating": 5,
+      "text": "great spot with chill vibes. shoutout Maria for the great service",
+      "reviewDate": "2026-09-05T02:57:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5827200695485876415",
+      "reviewer": "Siavash Sadegi",
+      "rating": 5,
+      "text": "Great neighborhood spot. Maria was amazing",
+      "reviewDate": "2026-09-05T02:57:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5827199215485876268",
+      "reviewer": "Aleko Nikiforos",
+      "rating": 5,
+      "text": "Maria was very sweet and helped our table! Shes fantastic!",
+      "reviewDate": "2026-09-05T02:52:03.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5827153155485871683",
+      "reviewer": "Jordan Houston",
+      "rating": 5,
+      "text": "Would highly recommend. Incredible service from Annabel. Tried the new pork lettuce wraps they were 10/10.",
+      "reviewDate": "2026-09-05T01:30:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5411059955444413689",
+      "reviewer": "Randall Ulate Piedra",
+      "rating": 5,
+      "text": "Excellent service. Food delicious. Maria is a great waitress, makes our night more enjoyable",
+      "reviewDate": "2026-09-05T01:03:32.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5827068775485863302",
       "reviewer": "Carlos Sikorski",

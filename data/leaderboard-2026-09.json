@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-05T00:49:20.878Z",
-  "reviewCount": 12,
-  "qualifyingReviewCount": 12,
+  "processedAt": "2026-09-05T05:25:45.038Z",
+  "reviewCount": 19,
+  "qualifyingReviewCount": 19,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,12 +15,12 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Kaia",
-      "count": 2
+      "server": "Maria",
+      "count": 7
     },
     {
       "rank": 2,
-      "server": "Maria",
+      "server": "Kaia",
       "count": 2
     },
     {
@@ -30,27 +30,27 @@
     },
     {
       "rank": 4,
-      "server": "Michael",
+      "server": "Annabel",
       "count": 1
     },
     {
       "rank": 5,
+      "server": "Michael",
+      "count": 1
+    },
+    {
+      "rank": 6,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 7,
-      "server": "Alex",
-      "count": 0
-    },
-    {
       "rank": 8,
-      "server": "Annabel",
+      "server": "Alex",
       "count": 0
     },
     {
@@ -251,9 +251,51 @@
   ],
   "mentions": [
     {
-      "server": "Maria",
-      "count": 2,
+      "server": "Annabel",
+      "count": 1,
       "reviews": [
+        {
+          "reviewer": "Jordan Houston",
+          "text": "Would highly recommend. Incredible service from Annabel. Tried the new pork lettuce wraps they were 10/10.",
+          "date": "2026-09-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Maria",
+      "count": 7,
+      "reviews": [
+        {
+          "reviewer": "Chrissy Mav",
+          "text": "Maria is amazing!!!!",
+          "date": "2026-09-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "TENZIN shakya",
+          "text": "great spot with chill vibes. shoutout Maria for the great service",
+          "date": "2026-09-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Siavash Sadegi",
+          "text": "Great neighborhood spot. Maria was amazing",
+          "date": "2026-09-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Aleko Nikiforos",
+          "text": "Maria was very sweet and helped our table! Shes fantastic!",
+          "date": "2026-09-05",
+          "rating": 5
+        },
+        {
+          "reviewer": "Randall Ulate Piedra",
+          "text": "Excellent service. Food delicious. Maria is a great waitress, makes our night more enjoyable",
+          "date": "2026-09-05",
+          "rating": 5
+        },
         {
           "reviewer": "Carlos Sikorski",
           "text": "We had a great time thanks to Maria. She is a great server, and made sure we had everything we needed.",
