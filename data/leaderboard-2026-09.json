@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-04T22:57:50.599Z",
-  "reviewCount": 10,
-  "qualifyingReviewCount": 10,
+  "processedAt": "2026-09-05T00:49:20.878Z",
+  "reviewCount": 12,
+  "qualifyingReviewCount": 12,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,17 +21,17 @@
     {
       "rank": 2,
       "server": "Maria",
-      "count": 1
+      "count": 2
     },
     {
       "rank": 3,
-      "server": "Michael",
+      "server": "Aisia",
       "count": 1
     },
     {
       "rank": 4,
-      "server": "Aisia",
-      "count": 0
+      "server": "Michael",
+      "count": 1
     },
     {
       "rank": 5,
@@ -252,8 +252,14 @@
   "mentions": [
     {
       "server": "Maria",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Carlos Sikorski",
+          "text": "We had a great time thanks to Maria. She is a great server, and made sure we had everything we needed.",
+          "date": "2026-09-04",
+          "rating": 5
+        },
         {
           "reviewer": "ramy hoarder",
           "text": "Really enjoyed my time here! Service was great and Maria was super friendly, definitely a place I would come back to!",
@@ -276,6 +282,18 @@
           "reviewer": "Lisa Towle",
           "text": "Kaia was super friendly!",
           "date": "2026-09-03",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Aisia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Kaela McCarney",
+          "text": "We had a fabulous family night out at The Local. Our server, Aisia, was so friendly and attentive!",
+          "date": "2026-09-04",
           "rating": 5
         }
       ]

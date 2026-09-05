@@ -1,8 +1,24 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-04T22:57:50.539Z",
-  "reviewCount": 10,
+  "fetchedAt": "2026-09-05T00:49:20.802Z",
+  "reviewCount": 12,
   "reviews": [
+    {
+      "reviewId": "5827068775485863302",
+      "reviewer": "Carlos Sikorski",
+      "rating": 5,
+      "text": "We had a great time thanks to Maria. She is a great server, and made sure we had everything we needed.",
+      "reviewDate": "2026-09-04T23:40:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5827066235485863056",
+      "reviewer": "Kaela McCarney",
+      "rating": 5,
+      "text": "We had a fabulous family night out at The Local. Our server, Aisia, was so friendly and attentive!",
+      "reviewDate": "2026-09-04T23:34:15.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5826864795485842973",
       "reviewer": "ramy hoarder",
