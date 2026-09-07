@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-06T23:15:59.733Z",
-  "reviewCount": 21,
+  "fetchedAt": "2026-09-07T01:13:43.465Z",
+  "reviewCount": 22,
   "reviews": [
+    {
+      "reviewId": "5829035964486058994",
+      "reviewer": "Chuck _",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-09-06T23:40:47.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5828669074486022543",
       "reviewer": "Darace Rose",
