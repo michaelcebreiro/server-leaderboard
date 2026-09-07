@@ -1,8 +1,24 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-07T12:36:55.335Z",
-  "reviewCount": 23,
+  "fetchedAt": "2026-09-07T17:56:04.832Z",
+  "reviewCount": 25,
   "reviews": [
+    {
+      "reviewId": "5829726085486127634",
+      "reviewer": "Greg",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-09-07T16:21:45.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5829552935486110481",
+      "reviewer": "Alia",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-09-07T13:24:54.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5829131675486068513",
       "reviewer": "Harini Iyengar",
