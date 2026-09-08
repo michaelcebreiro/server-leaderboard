@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-08T15:20:53.322Z",
-  "reviewCount": 27,
+  "fetchedAt": "2026-09-08T18:54:21.971Z",
+  "reviewCount": 28,
   "reviews": [
+    {
+      "reviewId": "5831430245486297539",
+      "reviewer": "Stephanie Lima",
+      "rating": 5,
+      "text": "Our server was extremely kind, very attentive and friendly. She was a delight to have.\n\nThe nachos are spectacular, I've had their burgers in the past and I loved them too. Would definitely come back again.",
+      "reviewDate": "2026-09-08T17:53:24.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5829840064486138948",
       "reviewer": "Mark",
