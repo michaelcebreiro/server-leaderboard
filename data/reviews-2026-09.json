@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-08T23:41:34.216Z",
-  "reviewCount": 28,
+  "fetchedAt": "2026-09-09T01:36:02.434Z",
+  "reviewCount": 29,
   "reviews": [
+    {
+      "reviewId": "5833401915486494339",
+      "reviewer": "Hugh Lawson",
+      "rating": 5,
+      "text": "Maggie’s great! So personable, friendly, helpful, we really had a great time and we’ll be coming back real soon. She’s the best!",
+      "reviewDate": "2026-09-09T00:38:45.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5831430245486297539",
       "reviewer": "Stephanie Lima",
