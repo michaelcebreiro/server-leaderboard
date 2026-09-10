@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-10T17:13:44.095Z",
-  "reviewCount": 30,
-  "qualifyingReviewCount": 30,
+  "processedAt": "2026-09-10T19:47:14.219Z",
+  "reviewCount": 32,
+  "qualifyingReviewCount": 32,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,13 +20,13 @@
     },
     {
       "rank": 2,
-      "server": "Kaia",
-      "count": 2
+      "server": "Aisia",
+      "count": 3
     },
     {
       "rank": 3,
-      "server": "Aisia",
-      "count": 1
+      "server": "Kaia",
+      "count": 2
     },
     {
       "rank": 4,
@@ -354,8 +354,20 @@
     },
     {
       "server": "Aisia",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "JPes G",
+          "text": "Food was amazing but Aisia was the star. Made sure our drinks were to our liking and gave her 110% to ensure we were taken care of.",
+          "date": "2026-09-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Christina Gallardo",
+          "text": "Asia was amazing! She’s knowledgeable and gave great recommendations!",
+          "date": "2026-09-10",
+          "rating": 5
+        },
         {
           "reviewer": "Kaela McCarney",
           "text": "We had a fabulous family night out at The Local. Our server, Aisia, was so friendly and attentive!",

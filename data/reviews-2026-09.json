@@ -1,8 +1,24 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-10T17:13:44.013Z",
-  "reviewCount": 30,
+  "fetchedAt": "2026-09-10T19:47:14.144Z",
+  "reviewCount": 32,
   "reviews": [
+    {
+      "reviewId": "5837103485486863034",
+      "reviewer": "JPes G",
+      "rating": 5,
+      "text": "Food was amazing but Aisia was the star. Made sure our drinks were to our liking and gave her 110% to ensure we were taken care of.",
+      "reviewDate": "2026-09-10T17:12:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5837109835486863664",
+      "reviewer": "Christina Gallardo",
+      "rating": 5,
+      "text": "Asia was amazing! She’s knowledgeable and gave great recommendations!",
+      "reviewDate": "2026-09-10T17:11:14.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5835435785486696814",
       "reviewer": "Jessica White",
