@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-09T23:55:56.351Z",
-  "reviewCount": 29,
+  "fetchedAt": "2026-09-10T04:10:07.024Z",
+  "reviewCount": 30,
   "reviews": [
+    {
+      "reviewId": "5835435785486696814",
+      "reviewer": "Jessica White",
+      "rating": 5,
+      "text": "I have to say that our server Karina made our  experience at Local exceptional.  Sweet, kind, engaging and knowledgeable. Food was good, atmosphere was good, service was outstanding",
+      "reviewDate": "2026-09-10T00:07:39.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5833401915486494339",
       "reviewer": "Hugh Lawson",
