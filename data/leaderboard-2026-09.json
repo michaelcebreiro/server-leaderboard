@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-10T22:21:31.639Z",
-  "reviewCount": 32,
-  "qualifyingReviewCount": 32,
+  "processedAt": "2026-09-11T00:24:03.149Z",
+  "reviewCount": 33,
+  "qualifyingReviewCount": 33,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 7
+      "count": 8
     },
     {
       "rank": 2,
@@ -288,8 +288,14 @@
     },
     {
       "server": "Maria",
-      "count": 7,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Jenn Dunstan",
+          "text": "Maria is our girl! Every visit comes with excellent service and (of course) consistently great food.",
+          "date": "2026-09-10",
+          "rating": 5
+        },
         {
           "reviewer": "Chrissy Mav",
           "text": "Maria is amazing!!!!",

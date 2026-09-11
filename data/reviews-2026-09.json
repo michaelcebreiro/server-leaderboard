@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-10T22:21:31.564Z",
-  "reviewCount": 32,
+  "fetchedAt": "2026-09-11T00:24:02.982Z",
+  "reviewCount": 33,
   "reviews": [
+    {
+      "reviewId": "5837914635486943723",
+      "reviewer": "Jenn Dunstan",
+      "rating": 5,
+      "text": "Maria is our girl! Every visit comes with excellent service and (of course) consistently great food.",
+      "reviewDate": "2026-09-10T23:53:20.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5837103485486863034",
       "reviewer": "JPes G",
