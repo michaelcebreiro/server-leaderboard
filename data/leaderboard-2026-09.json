@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-11T13:51:35.472Z",
-  "reviewCount": 33,
-  "qualifyingReviewCount": 33,
+  "processedAt": "2026-09-11T17:38:34.889Z",
+  "reviewCount": 35,
+  "qualifyingReviewCount": 35,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,22 +25,22 @@
     },
     {
       "rank": 3,
+      "server": "Karina",
+      "count": 3
+    },
+    {
+      "rank": 4,
       "server": "Kaia",
       "count": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 5,
-      "server": "Annabel",
-      "count": 1
-    },
-    {
       "rank": 6,
-      "server": "Karina",
+      "server": "Annabel",
       "count": 1
     },
     {
@@ -264,8 +264,20 @@
     },
     {
       "server": "Karina",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Alexi O",
+          "text": "Went for a couple drinks after work, our server Karina was great and took care of us.  Very friendly staff and enjoyed our time!",
+          "date": "2026-09-11",
+          "rating": 5
+        },
+        {
+          "reviewer": "Dave",
+          "text": "Our server, Karina, was so lovely.  Friendly and super efficient!",
+          "date": "2026-09-11",
+          "rating": 5
+        },
         {
           "reviewer": "Jessica White",
           "text": "I have to say that our server Karina made our  experience at Local exceptional.  Sweet, kind, engaging and knowledgeable. Food was good, atmosphere was good, service was outstanding♥️",
