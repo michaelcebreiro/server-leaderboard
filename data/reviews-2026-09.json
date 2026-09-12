@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-12T13:02:01.791Z",
-  "reviewCount": 36,
+  "fetchedAt": "2026-09-12T16:19:58.717Z",
+  "reviewCount": 37,
   "reviews": [
     {
       "reviewId": "5840576715487208912",
@@ -9,6 +9,14 @@
       "rating": 5,
       "text": "We had such a great experience! The service was excellent from start to finish. Since it was our first time visiting, the staff went out of their way to make us feel welcome and made sure we had a great experience. The food and drinks were absolutely delicious, and everything was beautifully prepared. We’ll definitely be coming back and would highly recommend this place!",
       "reviewDate": "2026-09-12T02:41:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5841075515487258575",
+      "reviewer": "Karim Jaroudi",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-09-11T18:50:18.000Z",
       "source": "GOOGLE"
     },
     {
