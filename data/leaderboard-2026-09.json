@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-15T00:39:20.777Z",
-  "reviewCount": 42,
-  "qualifyingReviewCount": 41,
+  "processedAt": "2026-09-15T05:25:06.064Z",
+  "reviewCount": 48,
+  "qualifyingReviewCount": 47,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,187 +20,187 @@
     },
     {
       "rank": 2,
+      "server": "Karina",
+      "count": 6
+    },
+    {
+      "rank": 3,
+      "server": "Blake",
+      "count": 5
+    },
+    {
+      "rank": 4,
       "server": "Aisia",
       "count": 3
     },
     {
-      "rank": 3,
-      "server": "Karina",
+      "rank": 5,
+      "server": "Meklit",
       "count": 3
     },
     {
-      "rank": 4,
+      "rank": 6,
       "server": "Kaia",
       "count": 2
     },
     {
-      "rank": 5,
+      "rank": 7,
       "server": "Tomi",
       "count": 2
     },
     {
-      "rank": 6,
+      "rank": 8,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 9,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 10,
       "server": "Michael",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 11,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 12,
-      "server": "Blake",
-      "count": 0
-    },
-    {
-      "rank": 13,
+      "rank": 14,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Derka",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 37,
-      "server": "Max",
-      "count": 0
-    },
-    {
       "rank": 38,
-      "server": "Meklit",
+      "server": "Max",
       "count": 0
     },
     {
@@ -269,8 +269,26 @@
     },
     {
       "server": "Karina",
-      "count": 3,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Linda Ly",
+          "text": "Blake and Karina made our night! Amazing service, so attentive and friendly - we will definitely be back to be in their wonderful company!",
+          "date": "2026-09-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Koby Biya",
+          "text": "Karina and Blake are so wholesome and hospitable!! Would absolutely recommend coming here for the Monday nights as the crowd is quite welcoming as well.",
+          "date": "2026-09-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Zeina Alsamman",
+          "text": "Came for the first time on a Monday and we are coming back for Karina & Blake !! They brought the vibes and we stayed till close, they’re the best",
+          "date": "2026-09-15",
+          "rating": 5
+        },
         {
           "reviewer": "Alexi O",
           "text": "Went for a couple drinks after work, our server Karina was great and took care of us.  Very friendly staff and enjoyed our time!",
@@ -353,6 +371,66 @@
           "reviewer": "ramy hoarder",
           "text": "Really enjoyed my time here! Service was great and Maria was super friendly, definitely a place I would come back to!",
           "date": "2026-09-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Meklit",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "MnA VLOGS",
+          "text": "Meklit Blake and willl has been the best servers I ever had. Thank you so much",
+          "date": "2026-09-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Piranavie Sugumaran",
+          "text": "Meklit blake and will were sooo good they made my experience",
+          "date": "2026-09-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Abinaya Ganeshamoorthy",
+          "text": "Meklit was amazinggg! Such a sweetie",
+          "date": "2026-09-15",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Blake",
+      "count": 5,
+      "reviews": [
+        {
+          "reviewer": "Linda Ly",
+          "text": "Blake and Karina made our night! Amazing service, so attentive and friendly - we will definitely be back to be in their wonderful company!",
+          "date": "2026-09-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Koby Biya",
+          "text": "Karina and Blake are so wholesome and hospitable!! Would absolutely recommend coming here for the Monday nights as the crowd is quite welcoming as well.",
+          "date": "2026-09-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Zeina Alsamman",
+          "text": "Came for the first time on a Monday and we are coming back for Karina & Blake !! They brought the vibes and we stayed till close, they’re the best",
+          "date": "2026-09-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "MnA VLOGS",
+          "text": "Meklit Blake and willl has been the best servers I ever had. Thank you so much",
+          "date": "2026-09-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Piranavie Sugumaran",
+          "text": "Meklit blake and will were sooo good they made my experience",
+          "date": "2026-09-15",
           "rating": 5
         }
       ]

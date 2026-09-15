@@ -1,8 +1,56 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-15T00:39:20.696Z",
-  "reviewCount": 42,
+  "fetchedAt": "2026-09-15T05:25:05.879Z",
+  "reviewCount": 48,
   "reviews": [
+    {
+      "reviewId": "5844492805487598786",
+      "reviewer": "Linda Ly",
+      "rating": 5,
+      "text": "Blake and Karina made our night! Amazing service, so attentive and friendly - we will definitely be back to be in their wonderful company!",
+      "reviewDate": "2026-09-15T04:20:24.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5844492525487598758",
+      "reviewer": "Koby Biya",
+      "rating": 5,
+      "text": "Karina and Blake are so wholesome and hospitable!! Would absolutely recommend coming here for the Monday nights as the crowd is quite welcoming as well.",
+      "reviewDate": "2026-09-15T04:18:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5844492415487598747",
+      "reviewer": "Zeina Alsamman",
+      "rating": 5,
+      "text": "Came for the first time on a Monday and we are coming back for Karina & Blake !! They brought the vibes and we stayed till close, they’re the best",
+      "reviewDate": "2026-09-15T04:16:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5844484785487597984",
+      "reviewer": "MnA VLOGS",
+      "rating": 5,
+      "text": "Meklit Blake and willl has been the best servers I ever had. Thank you so much",
+      "reviewDate": "2026-09-15T03:59:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5844484605487597967",
+      "reviewer": "Piranavie Sugumaran",
+      "rating": 5,
+      "text": "Meklit blake and will were sooo good they made my experience",
+      "reviewDate": "2026-09-15T03:57:58.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5844483235487597831",
+      "reviewer": "Abinaya Ganeshamoorthy",
+      "rating": 5,
+      "text": "Meklit was amazinggg! Such a sweetie",
+      "reviewDate": "2026-09-15T03:53:57.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5844244383487574080",
       "reviewer": "Ana",
