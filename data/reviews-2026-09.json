@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-15T19:02:11.137Z",
-  "reviewCount": 48,
+  "fetchedAt": "2026-09-15T22:14:59.082Z",
+  "reviewCount": 49,
   "reviews": [
+    {
+      "reviewId": "5845435675487692578",
+      "reviewer": "Tyson Coughlin",
+      "rating": 5,
+      "text": "Jackie G.was amazing and had us laughing the whole lunch. Her three pour Guinness was the best I’ve had since the my UK trip. The chicken entree is also insanely good!",
+      "reviewDate": "2026-09-15T19:09:12.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5844492805487598786",
       "reviewer": "Linda Ly",

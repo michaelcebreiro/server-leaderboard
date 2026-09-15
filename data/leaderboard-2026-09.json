@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-15T19:02:11.219Z",
-  "reviewCount": 48,
-  "qualifyingReviewCount": 47,
+  "processedAt": "2026-09-15T22:14:59.311Z",
+  "reviewCount": 49,
+  "qualifyingReviewCount": 48,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,92 +60,92 @@
     },
     {
       "rank": 10,
-      "server": "Michael",
+      "server": "Jackie G",
       "count": 1
     },
     {
       "rank": 11,
+      "server": "Michael",
+      "count": 1
+    },
+    {
+      "rank": 12,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Derka",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 26,
-      "server": "Isabella",
-      "count": 0
-    },
-    {
       "rank": 27,
-      "server": "Jackie G",
+      "server": "Isabella",
       "count": 0
     },
     {
@@ -394,6 +394,18 @@
         {
           "reviewer": "Abinaya Ganeshamoorthy",
           "text": "Meklit was amazinggg! Such a sweetie",
+          "date": "2026-09-15",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Jackie G",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Tyson Coughlin",
+          "text": "Jackie G.was amazing and had us laughing the whole lunch. Her three pour Guinness was the best I’ve had since the my UK trip. The chicken entree is also insanely good!",
           "date": "2026-09-15",
           "rating": 5
         }
