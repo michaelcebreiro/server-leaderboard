@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-17T19:02:56.583Z",
-  "reviewCount": 51,
-  "qualifyingReviewCount": 50,
+  "processedAt": "2026-09-17T22:10:55.888Z",
+  "reviewCount": 70,
+  "qualifyingReviewCount": 69,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -10,13 +10,13 @@
   "winners": {
     "finalized": false,
     "first": null,
-    "second": null
+    "second": "Maria"
   },
   "standings": [
     {
       "rank": 1,
       "server": "Maria",
-      "count": 8
+      "count": 19
     },
     {
       "rank": 2,
@@ -30,226 +30,231 @@
     },
     {
       "rank": 4,
+      "server": "Kaia",
+      "count": 5
+    },
+    {
+      "rank": 5,
+      "server": "Michael",
+      "count": 4
+    },
+    {
+      "rank": 6,
       "server": "Aisia",
       "count": 3
     },
     {
-      "rank": 5,
+      "rank": 7,
       "server": "Meklit",
       "count": 3
     },
     {
-      "rank": 6,
-      "server": "Kaia",
+      "rank": 8,
+      "server": "potatoes",
       "count": 2
     },
     {
-      "rank": 7,
+      "rank": 9,
       "server": "Tomi",
       "count": 2
     },
     {
-      "rank": 8,
+      "rank": 10,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 11,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 11,
-      "server": "Michael",
-      "count": 1
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Derka",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Mia",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 44,
       "server": "Norah",
       "count": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 45,
+      "rank": 46,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 46,
+      "rank": 47,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 47,
+      "rank": 48,
       "server": "Sydney",
       "count": 0
     },
     {
-      "rank": 48,
+      "rank": 49,
       "server": "Zivko",
       "count": 0
     }
@@ -323,7 +328,7 @@
     },
     {
       "server": "Maria",
-      "count": 8,
+      "count": 19,
       "reviews": [
         {
           "reviewer": "Jenn Dunstan",
@@ -370,6 +375,72 @@
         {
           "reviewer": "ramy hoarder",
           "text": "Really enjoyed my time here! Service was great and Maria was super friendly, definitely a place I would come back to!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jason Comendador",
+          "text": "Maria",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "carlson diep",
+          "text": "Friendly service from Maria",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Raymond Simm",
+          "text": "Maria was great and attentive!!!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Matt P",
+          "text": "Maria provided unreal service - she made celebrating our DMHL Low B Championship game a BLAST. Btw we won… cuz Yak absolutely ripped in OT against the Patty Kings.",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Justin Yakimishyn",
+          "text": "Maria was the best!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Craig Rushton",
+          "text": "Maria was great!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ryan MacBain",
+          "text": "Maria was great",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "James",
+          "text": "Fun spot, Maria was a great server",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "David",
+          "text": "Had an amazing experience here! Maria was a really good server, very friendly and attentive and made sure everything was taken care of. From the atmosphere and the food to the service I will definitely be returning!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Liviu Teodorescu",
+          "text": "Had a great time at Local! Food was great and drinks were amazing. Maria was an outstanding server!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "hani el-hajj",
+          "text": "One of the best restaurants I’ve been too in a while!! The food was amazing and my server Maria was outstanding!! Can’t wait to go back!!",
           "date": "2026-09-04",
           "rating": 5
         }
@@ -449,12 +520,30 @@
     },
     {
       "server": "Kaia",
-      "count": 2,
+      "count": 5,
       "reviews": [
         {
           "reviewer": "ak san",
           "text": "Kaia was super a helpful waitress!",
           "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Abigail Phillips",
+          "text": "Kaia gave amazing service, will definitely be back!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Melissa Sublett",
+          "text": "Kaia was awesome so friendly!!",
+          "date": "2026-09-03",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kaitlyn Towle",
+          "text": "We loved kaia!",
+          "date": "2026-09-03",
           "rating": 5
         },
         {
@@ -491,11 +580,29 @@
     },
     {
       "server": "Michael",
-      "count": 1,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "jaden sa",
+          "text": "Enjoyed my night, Michael was a nice server!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
         {
           "reviewer": "Bosco Chan",
           "text": "Food and drinks were great, our server Michael was helpful!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Annie Bernard",
+          "text": "Had a great experience with our server Michael today! The mocktails were so good, and Michael’s service was awesome!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Leane Lacroix",
+          "text": "We had such a wonderful time at Local tonight, the crispy potatoes and tacos were delicious. Our server Michael was truly incredible and gave us the best food recommendations. He was so friendly and welcoming, and made our experience so fun! Both the food and service definitely exceeded our expectations :))",
           "date": "2026-09-04",
           "rating": 5
         }
@@ -515,6 +622,24 @@
           "reviewer": "Thaksha Vijayakumar",
           "text": "Tomi was amazing!!!",
           "date": "2026-09-13",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "potatoes",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "kevin chen",
+          "text": "Had a blast with friends at the Local tonight, really enjoyed the nachos and crispy potatoes. Michaels service was awesome, he really made the experience special. Would definitely recommend!",
+          "date": "2026-09-04",
+          "rating": 5
+        },
+        {
+          "reviewer": "Leane Lacroix",
+          "text": "We had such a wonderful time at Local tonight, the crispy potatoes and tacos were delicious. Our server Michael was truly incredible and gave us the best food recommendations. He was so friendly and welcoming, and made our experience so fun! Both the food and service definitely exceeded our expectations :))",
+          "date": "2026-09-04",
           "rating": 5
         }
       ]

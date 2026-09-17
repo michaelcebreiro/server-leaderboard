@@ -1,24 +1,8 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-17T19:02:56.502Z",
-  "reviewCount": 51,
+  "fetchedAt": "2026-09-17T22:10:55.810Z",
+  "reviewCount": 70,
   "reviews": [
-    {
-      "reviewId": "5673459445470539887",
-      "reviewer": "Steve",
-      "rating": 5,
-      "text": "Lucia was fantastic, shame she wasn't our server. She was much more engaged and friendly the lady that attended us. Please promote her!",
-      "reviewDate": "2026-09-17T01:54:03.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5849893035488137259",
-      "reviewer": "Allan Carvajal",
-      "rating": 5,
-      "text": "",
-      "reviewDate": "2026-09-16T19:56:31.000Z",
-      "source": "GOOGLE"
-    },
     {
       "reviewId": "5845435675487692578",
       "reviewer": "Tyson Coughlin",
@@ -356,6 +340,86 @@
       "source": "OPENTABLE"
     },
     {
+      "reviewId": "5825292725485686644",
+      "reviewer": "Cathy Zhang",
+      "rating": 5,
+      "text": "The food is incredible!",
+      "reviewDate": "2026-09-04T05:05:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825491615485706379",
+      "reviewer": "Jason Comendador",
+      "rating": 5,
+      "text": "Maria",
+      "reviewDate": "2026-09-04T03:26:32.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825492065485706424",
+      "reviewer": "carlson diep",
+      "rating": 5,
+      "text": "Friendly service from Maria",
+      "reviewDate": "2026-09-04T02:45:09.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825491455485706364",
+      "reviewer": "Raymond Simm",
+      "rating": 5,
+      "text": "Maria was great and attentive!!!",
+      "reviewDate": "2026-09-04T02:44:39.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825490935485706314",
+      "reviewer": "Matt P",
+      "rating": 5,
+      "text": "Maria provided unreal service - she made celebrating our DMHL Low B Championship game a BLAST. Btw we won… cuz Yak absolutely ripped in OT against the Patty Kings.",
+      "reviewDate": "2026-09-04T02:41:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825490795485706301",
+      "reviewer": "jaden sa",
+      "rating": 5,
+      "text": "Enjoyed my night, Michael was a nice server!",
+      "reviewDate": "2026-09-04T02:40:14.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825490515485706274",
+      "reviewer": "Justin Yakimishyn",
+      "rating": 5,
+      "text": "Maria was the best!",
+      "reviewDate": "2026-09-04T02:38:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825478235485705057",
+      "reviewer": "Craig Rushton",
+      "rating": 5,
+      "text": "Maria was great!",
+      "reviewDate": "2026-09-04T02:37:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825488395485706064",
+      "reviewer": "Cole Nichols",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-09-04T02:36:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825480065485705237",
+      "reviewer": "reade macinnis",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-09-04T02:26:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5825824155485739496",
       "reviewer": "Bosco Chan",
       "rating": 5,
@@ -364,11 +428,99 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "5825481285485705355",
+      "reviewer": "Ryan MacBain",
+      "rating": 5,
+      "text": "Maria was great",
+      "reviewDate": "2026-09-04T02:24:34.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825480715485705299",
+      "reviewer": "James",
+      "rating": 5,
+      "text": "Fun spot, Maria was a great server",
+      "reviewDate": "2026-09-04T02:22:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825466065485703853",
+      "reviewer": "kevin chen",
+      "rating": 5,
+      "text": "Had a blast with friends at the Local tonight, really enjoyed the nachos and crispy potatoes. Michaels service was awesome, he really made the experience special. Would definitely recommend!",
+      "reviewDate": "2026-09-04T02:04:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825445805485701837",
+      "reviewer": "Annie Bernard",
+      "rating": 5,
+      "text": "Had a great experience with our server Michael today! The mocktails were so good, and Michael’s service was awesome!",
+      "reviewDate": "2026-09-04T01:42:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825445175485701775",
+      "reviewer": "David",
+      "rating": 5,
+      "text": "Had an amazing experience here! Maria was a really good server, very friendly and attentive and made sure everything was taken care of. From the atmosphere and the food to the service I will definitely be returning!",
+      "reviewDate": "2026-09-04T01:41:11.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825419345485699223",
+      "reviewer": "Leane Lacroix",
+      "rating": 5,
+      "text": "We had such a wonderful time at Local tonight, the crispy potatoes and tacos were delicious. Our server Michael was truly incredible and gave us the best food recommendations. He was so friendly and welcoming, and made our experience so fun! Both the food and service definitely exceeded our expectations :))",
+      "reviewDate": "2026-09-04T01:10:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825408615485698169",
+      "reviewer": "Liviu Teodorescu",
+      "rating": 5,
+      "text": "Had a great time at Local! Food was great and drinks were amazing. Maria was an outstanding server!",
+      "reviewDate": "2026-09-04T00:51:31.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825401795485697492",
+      "reviewer": "hani el-hajj",
+      "rating": 5,
+      "text": "One of the best restaurants I’ve been too in a while!! The food was amazing and my server Maria was outstanding!! Can’t wait to go back!!",
+      "reviewDate": "2026-09-04T00:46:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5551503755458396715",
       "reviewer": "ak san",
       "rating": 5,
       "text": "Kaia was super a helpful waitress!",
       "reviewDate": "2026-09-04T00:34:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825330685485690397",
+      "reviewer": "Abigail Phillips",
+      "rating": 5,
+      "text": "Kaia gave amazing service, will definitely be back!",
+      "reviewDate": "2026-09-04T00:24:18.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825279715485685365",
+      "reviewer": "Melissa Sublett",
+      "rating": 5,
+      "text": "Kaia was awesome so friendly!!",
+      "reviewDate": "2026-09-03T23:27:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825269965485684397",
+      "reviewer": "Kaitlyn Towle",
+      "rating": 5,
+      "text": "We loved kaia!",
+      "reviewDate": "2026-09-03T23:23:24.000Z",
       "source": "GOOGLE"
     },
     {
