@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-18T09:47:25.312Z",
-  "reviewCount": 70,
+  "fetchedAt": "2026-09-18T14:13:58.223Z",
+  "reviewCount": 71,
   "reviews": [
+    {
+      "reviewId": "5673459445470539887",
+      "reviewer": "Steve",
+      "rating": 5,
+      "text": "Lucia was fantastic, shame she wasn't our server. She was much more engaged and friendly the lady that attended us. Please promote her!",
+      "reviewDate": "2026-09-17T01:54:03.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5845435675487692578",
       "reviewer": "Tyson Coughlin",
