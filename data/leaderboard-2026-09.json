@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-20T06:52:48.382Z",
-  "reviewCount": 74,
-  "qualifyingReviewCount": 73,
+  "processedAt": "2026-09-20T12:08:07.942Z",
+  "reviewCount": 95,
+  "qualifyingReviewCount": 94,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,182 +20,182 @@
     },
     {
       "rank": 2,
-      "server": "Karina",
-      "count": 6
+      "server": "Annabel",
+      "count": 9
     },
     {
       "rank": 3,
+      "server": "Karina",
+      "count": 8
+    },
+    {
+      "rank": 4,
+      "server": "Meklit",
+      "count": 7
+    },
+    {
+      "rank": 5,
       "server": "Blake",
       "count": 5
     },
     {
-      "rank": 4,
+      "rank": 6,
       "server": "Kaia",
       "count": 5
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "server": "Matteo",
+      "count": 4
+    },
+    {
+      "rank": 8,
       "server": "Michael",
       "count": 4
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "server": "Tomi",
+      "count": 4
+    },
+    {
+      "rank": 10,
       "server": "Aisia",
       "count": 3
     },
     {
-      "rank": 7,
-      "server": "Meklit",
-      "count": 3
+      "rank": 11,
+      "server": "Akiko",
+      "count": 2
     },
     {
-      "rank": 8,
+      "rank": 12,
       "server": "potatoes",
       "count": 2
     },
     {
-      "rank": 9,
-      "server": "Tomi",
-      "count": 2
-    },
-    {
-      "rank": 10,
-      "server": "Akiko",
-      "count": 1
-    },
-    {
-      "rank": 11,
-      "server": "Annabel",
-      "count": 1
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Derka",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 36,
-      "server": "Mackenzie",
-      "count": 0
-    },
-    {
       "rank": 37,
-      "server": "Matteo",
+      "server": "Mackenzie",
       "count": 0
     },
     {
@@ -262,8 +262,14 @@
   "mentions": [
     {
       "server": "Akiko",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Tobi Fong",
+          "text": "Akiko and Derkaare amazing! They were so friendly, the service was fast and efficient, and we would definitely come back because of them",
+          "date": "2026-09-19",
+          "rating": 5
+        },
         {
           "reviewer": "Mani",
           "text": "Shoutout to Akiko for her amazing customer service! She was incredibly welcoming, friendly, and helpful, patiently answering all my questions about the menu. Her positive attitude really stood out and made the experience even more enjoyable. Thank you, Akiko, for making us feel so welcomed! 😊",
@@ -274,8 +280,20 @@
     },
     {
       "server": "Karina",
-      "count": 6,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "R",
+          "text": "Food was great and Karina had all the best recommendations!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Michelle Lavergne",
+          "text": "Our server was excellent. Karina.",
+          "date": "2026-09-18",
+          "rating": 5
+        },
         {
           "reviewer": "Linda Ly",
           "text": "Blake and Karina made our night! Amazing service, so attentive and friendly - we will definitely be back to be in their wonderful company!",
@@ -316,8 +334,56 @@
     },
     {
       "server": "Annabel",
-      "count": 1,
+      "count": 9,
       "reviews": [
+        {
+          "reviewer": "Bridget Leonard",
+          "text": "Annabel was awesome!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Brendan Mahadeo",
+          "text": "Annabelle and Mattel are amazing staff and took great care of us. 10/10 am coming back",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "ItsJuustiin -",
+          "text": "Annabel and Matteo greatest servers ever!!!!!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "DHANVINDER SINGH",
+          "text": "Annabel matteo were great! Thank you!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jamie Richardson",
+          "text": "We sat at the bar and had a great night. Thanks to Annabel and Matteo for the awesome service. We’ll be back!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Hugo",
+          "text": "Annabel and Matteo",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Scott Holtshousen",
+          "text": "Annabelle was great!",
+          "date": "2026-09-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Maddy Arnott",
+          "text": "Annabelle was amazing!",
+          "date": "2026-09-19",
+          "rating": 5
+        },
         {
           "reviewer": "Jordan Houston",
           "text": "Would highly recommend. Incredible service from Annabel. Tried the new pork lettuce wraps they were 10/10.",
@@ -448,8 +514,32 @@
     },
     {
       "server": "Meklit",
-      "count": 3,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Ethan Baillie",
+          "text": "Meklit was an amazing server",
+          "date": "2026-09-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Nick",
+          "text": "Our server was meklit",
+          "date": "2026-09-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Marcy Muchnik",
+          "text": "Meklit was awesome!!",
+          "date": "2026-09-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Scott Lund",
+          "text": "Meklit was excellent",
+          "date": "2026-09-19",
+          "rating": 4
+        },
         {
           "reviewer": "MnA VLOGS",
           "text": "Meklit Blake and willl has been the best servers I ever had. Thank you so much",
@@ -466,6 +556,36 @@
           "reviewer": "Abinaya Ganeshamoorthy",
           "text": "Meklit was amazinggg! Such a sweetie",
           "date": "2026-09-15",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matteo",
+      "count": 4,
+      "reviews": [
+        {
+          "reviewer": "ItsJuustiin -",
+          "text": "Annabel and Matteo greatest servers ever!!!!!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "DHANVINDER SINGH",
+          "text": "Annabel matteo were great! Thank you!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jamie Richardson",
+          "text": "We sat at the bar and had a great night. Thanks to Annabel and Matteo for the awesome service. We’ll be back!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Hugo",
+          "text": "Annabel and Matteo",
+          "date": "2026-09-20",
           "rating": 5
         }
       ]
@@ -610,8 +730,20 @@
     },
     {
       "server": "Tomi",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Graham Pace",
+          "text": "We love Local! Great vibe, great service and awesome food. Tomi  was our server. So friendly and attentive. She went out of her way to make my children feel comfortable and included in conversation. We really appreciate her! Cheers.",
+          "date": "2026-09-19",
+          "rating": 5
+        },
+        {
+          "reviewer": "Elizabeth Huc",
+          "text": "Love the patio.  Tomi was amazing!",
+          "date": "2026-09-18",
+          "rating": 5
+        },
         {
           "reviewer": "Vibeshan Kathiramalainathan",
           "text": "Tomi was great!",
