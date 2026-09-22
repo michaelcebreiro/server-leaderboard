@@ -250,10 +250,6 @@
     {
       "name": "Tomi",
       "aliases": []
-    },
-    {
-      "name": "potatoes",
-      "aliases": []
     }
   ],
   "removed": [
@@ -268,6 +264,7 @@
     "named",
     "patio",
     "genuinely",
-    "Ivy"
+    "Ivy",
+    "potatoes"
   ]
 }
