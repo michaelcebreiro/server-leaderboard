@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-22T01:13:18.744Z",
-  "reviewCount": 95,
-  "qualifyingReviewCount": 94,
+  "processedAt": "2026-09-22T06:19:40.658Z",
+  "reviewCount": 97,
+  "qualifyingReviewCount": 96,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 19
+      "count": 18
     },
     {
       "rank": 2,
@@ -65,52 +65,52 @@
     },
     {
       "rank": 11,
+      "server": "Christina",
+      "count": 3
+    },
+    {
+      "rank": 12,
       "server": "Akiko",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "potatoes",
       "count": 2
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 19,
-      "server": "Carolina",
-      "count": 0
-    },
-    {
       "rank": 20,
-      "server": "Christina",
+      "server": "Carolina",
       "count": 0
     },
     {
@@ -333,6 +333,30 @@
       ]
     },
     {
+      "server": "Christina",
+      "count": 3,
+      "reviews": [
+        {
+          "reviewer": "Christos Rose",
+          "text": "Christina was amazing and was very attentive. Gave us everything we needed",
+          "date": "2026-09-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ambri Zguri",
+          "text": "Christina was the best! Will be back to be served by her",
+          "date": "2026-09-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Aleko Nikiforos",
+          "text": "Christina was very sweet and helped our table! Shes fantastic!",
+          "date": "2026-09-22",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Annabel",
       "count": 9,
       "reviews": [
@@ -394,7 +418,7 @@
     },
     {
       "server": "Maria",
-      "count": 19,
+      "count": 18,
       "reviews": [
         {
           "reviewer": "Jenn Dunstan",
@@ -417,12 +441,6 @@
         {
           "reviewer": "Siavash Sadegi",
           "text": "Great neighborhood spot. Maria was amazing",
-          "date": "2026-09-05",
-          "rating": 5
-        },
-        {
-          "reviewer": "Aleko Nikiforos",
-          "text": "Maria was very sweet and helped our table! Shes fantastic!",
           "date": "2026-09-05",
           "rating": 5
         },

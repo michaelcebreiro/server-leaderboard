@@ -1,8 +1,32 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-22T01:13:18.652Z",
-  "reviewCount": 95,
+  "fetchedAt": "2026-09-22T06:19:40.575Z",
+  "reviewCount": 97,
   "reviews": [
+    {
+      "reviewId": "5859072585489051167",
+      "reviewer": "Christos Rose",
+      "rating": 5,
+      "text": "Christina was amazing and was very attentive. Gave us everything we needed",
+      "reviewDate": "2026-09-22T02:26:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5859072045489051113",
+      "reviewer": "Ambri Zguri",
+      "rating": 5,
+      "text": "Christina was the best! Will be back to be served by her",
+      "reviewDate": "2026-09-22T02:26:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5827199215485876268",
+      "reviewer": "Aleko Nikiforos",
+      "rating": 5,
+      "text": "Christina was very sweet and helped our table! Shes fantastic!",
+      "reviewDate": "2026-09-22T02:23:08.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5857233795488868344",
       "reviewer": "Bridget Leonard",
@@ -473,14 +497,6 @@
       "rating": 5,
       "text": "Great neighborhood spot. Maria was amazing",
       "reviewDate": "2026-09-05T02:57:23.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5827199215485876268",
-      "reviewer": "Aleko Nikiforos",
-      "rating": 5,
-      "text": "Maria was very sweet and helped our table! Shes fantastic!",
-      "reviewDate": "2026-09-05T02:52:03.000Z",
       "source": "GOOGLE"
     },
     {
