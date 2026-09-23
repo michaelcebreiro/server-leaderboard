@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-23T20:24:21.105Z",
-  "reviewCount": 99,
+  "fetchedAt": "2026-09-23T23:03:53.394Z",
+  "reviewCount": 101,
   "reviews": [
     {
       "reviewId": "5861624685489304817",
@@ -9,6 +9,22 @@
       "rating": 5,
       "text": "Our server was lovely!!",
       "reviewDate": "2026-09-23T19:57:09.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5861977385489339964",
+      "reviewer": "Grace Murphy",
+      "rating": 5,
+      "text": "Tomi was a super nice waitress. It was a great experience.",
+      "reviewDate": "2026-09-23T00:36:50.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5861977395489339965",
+      "reviewer": "Alex Shadie",
+      "rating": 5,
+      "text": "Every time I come to Canada, I visit Leaside Local. Tomi is great, she even shared the banana cream pie with us!",
+      "reviewDate": "2026-09-23T00:29:44.000Z",
       "source": "GOOGLE"
     },
     {
