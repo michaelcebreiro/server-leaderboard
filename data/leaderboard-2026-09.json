@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-24T01:25:54.916Z",
-  "reviewCount": 102,
-  "qualifyingReviewCount": 101,
+  "processedAt": "2026-09-24T06:37:37.245Z",
+  "reviewCount": 107,
+  "qualifyingReviewCount": 106,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,47 +25,47 @@
     },
     {
       "rank": 3,
-      "server": "Karina",
+      "server": "Christina",
       "count": 8
     },
     {
       "rank": 4,
+      "server": "Karina",
+      "count": 8
+    },
+    {
+      "rank": 5,
       "server": "Meklit",
       "count": 7
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Tomi",
       "count": 6
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Blake",
       "count": 5
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Kaia",
       "count": 5
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Matteo",
       "count": 4
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Michael",
       "count": 4
     },
     {
-      "rank": 10,
-      "server": "Aisia",
-      "count": 3
-    },
-    {
       "rank": 11,
-      "server": "Christina",
+      "server": "Aisia",
       "count": 3
     },
     {
@@ -329,8 +329,38 @@
     },
     {
       "server": "Christina",
-      "count": 3,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Amir Mir ehsan",
+          "text": "Christina is so welcoming and nice! Thanks for all....",
+          "date": "2026-09-24",
+          "rating": 4
+        },
+        {
+          "reviewer": "Fatima Rangchi",
+          "text": "Christina is nice and very helpful",
+          "date": "2026-09-24",
+          "rating": 4
+        },
+        {
+          "reviewer": "NiloOfar Shahabi",
+          "text": "Great food and a lovely atmosphere! Special shoutout to Christina—she was so warm, attentive, and made our experience even better. Exceptional service! ❤️",
+          "date": "2026-09-24",
+          "rating": 5
+        },
+        {
+          "reviewer": "Amin Tabrizi",
+          "text": "Our server Christina was just fantastic! Very caring, charming and super attentive and knowledgeable with all the food and drink items!",
+          "date": "2026-09-24",
+          "rating": 5
+        },
+        {
+          "reviewer": "Liam Snyder",
+          "text": "Christina was the best! Wow! So fun and nice looking forward to being served by her!",
+          "date": "2026-09-24",
+          "rating": 5
+        },
         {
           "reviewer": "Christos Rose",
           "text": "Christina was amazing and was very attentive. Gave us everything we needed",
