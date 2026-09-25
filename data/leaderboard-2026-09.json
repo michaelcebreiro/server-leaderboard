@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-25T07:29:00.623Z",
-  "reviewCount": 111,
-  "qualifyingReviewCount": 110,
+  "processedAt": "2026-09-25T12:55:51.837Z",
+  "reviewCount": 113,
+  "qualifyingReviewCount": 112,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Annabel",
-      "count": 10
+      "count": 12
     },
     {
       "rank": 3,
@@ -40,22 +40,22 @@
     },
     {
       "rank": 6,
-      "server": "Tomi",
+      "server": "Matteo",
       "count": 6
     },
     {
       "rank": 7,
+      "server": "Tomi",
+      "count": 6
+    },
+    {
+      "rank": 8,
       "server": "Blake",
       "count": 5
     },
     {
-      "rank": 8,
-      "server": "Kaia",
-      "count": 5
-    },
-    {
       "rank": 9,
-      "server": "Matteo",
+      "server": "Kaia",
       "count": 5
     },
     {
@@ -395,8 +395,14 @@
     },
     {
       "server": "Annabel",
-      "count": 10,
+      "count": 12,
       "reviews": [
+        {
+          "reviewer": "chie palon",
+          "text": "Annabelle - server",
+          "date": "2026-09-20",
+          "rating": 5
+        },
         {
           "reviewer": "Bridget Leonard",
           "text": "Annabel was awesome!",
@@ -424,6 +430,12 @@
         {
           "reviewer": "Daniel Bonin",
           "text": "Thank you Matteo and Annabel, we sat at the bar and had a great night.",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Soroush Mehraban",
+          "text": "Best spot in the city! Thanks Annabel & Matteo for the great service.",
           "date": "2026-09-20",
           "rating": 5
         },
@@ -617,7 +629,7 @@
     },
     {
       "server": "Matteo",
-      "count": 5,
+      "count": 6,
       "reviews": [
         {
           "reviewer": "ItsJuustiin -",
@@ -634,6 +646,12 @@
         {
           "reviewer": "Daniel Bonin",
           "text": "Thank you Matteo and Annabel, we sat at the bar and had a great night.",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Soroush Mehraban",
+          "text": "Best spot in the city! Thanks Annabel & Matteo for the great service.",
           "date": "2026-09-20",
           "rating": 5
         },

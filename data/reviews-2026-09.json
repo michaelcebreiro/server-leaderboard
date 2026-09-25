@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-25T07:29:00.529Z",
-  "reviewCount": 111,
+  "fetchedAt": "2026-09-25T12:55:51.743Z",
+  "reviewCount": 113,
   "reviews": [
     {
       "reviewId": "5865621615489703041",
@@ -140,6 +140,14 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "5866134295489754209",
+      "reviewer": "chie palon",
+      "rating": 5,
+      "text": "Annabelle - server",
+      "reviewDate": "2026-09-20T05:52:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5857233795488868344",
       "reviewer": "Bridget Leonard",
       "rating": 5,
@@ -185,6 +193,14 @@
       "rating": 5,
       "text": "",
       "reviewDate": "2026-09-20T02:04:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866081325489748942",
+      "reviewer": "Soroush Mehraban",
+      "rating": 5,
+      "text": "Best spot in the city! Thanks Annabel & Matteo for the great service.",
+      "reviewDate": "2026-09-20T01:52:18.000Z",
       "source": "GOOGLE"
     },
     {
