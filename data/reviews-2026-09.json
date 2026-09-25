@@ -1,8 +1,24 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-25T01:55:42.623Z",
-  "reviewCount": 109,
+  "fetchedAt": "2026-09-25T07:29:00.529Z",
+  "reviewCount": 111,
   "reviews": [
+    {
+      "reviewId": "5865621615489703041",
+      "reviewer": "K Lau",
+      "rating": 5,
+      "text": "Karina\"s service was great.  Always remembers our drinks when we arrive.  Food is good also.",
+      "reviewDate": "2026-09-25T03:36:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5825491455485706364",
+      "reviewer": "Raymond Simm",
+      "rating": 5,
+      "text": "Karina was great and attentive!!!",
+      "reviewDate": "2026-09-25T03:33:18.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5865460935489687147",
       "reviewer": "Jill",
@@ -153,6 +169,14 @@
       "rating": 5,
       "text": "Annabel matteo were great! Thank you!",
       "reviewDate": "2026-09-20T02:06:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5865761865489717028",
+      "reviewer": "Daniel Bonin",
+      "rating": 5,
+      "text": "Thank you Matteo and Annabel, we sat at the bar and had a great night.",
+      "reviewDate": "2026-09-20T02:06:26.000Z",
       "source": "GOOGLE"
     },
     {
@@ -673,14 +697,6 @@
       "rating": 5,
       "text": "Friendly service from Maria",
       "reviewDate": "2026-09-04T02:45:09.000Z",
-      "source": "GOOGLE"
-    },
-    {
-      "reviewId": "5825491455485706364",
-      "reviewer": "Raymond Simm",
-      "rating": 5,
-      "text": "Maria was great and attentive!!!",
-      "reviewDate": "2026-09-04T02:44:39.000Z",
       "source": "GOOGLE"
     },
     {

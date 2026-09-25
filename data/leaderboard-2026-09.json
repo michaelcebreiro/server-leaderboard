@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-25T01:55:42.710Z",
-  "reviewCount": 109,
-  "qualifyingReviewCount": 108,
+  "processedAt": "2026-09-25T07:29:00.623Z",
+  "reviewCount": 111,
+  "qualifyingReviewCount": 110,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,21 +16,21 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 18
+      "count": 17
     },
     {
       "rank": 2,
       "server": "Annabel",
-      "count": 9
+      "count": 10
     },
     {
       "rank": 3,
-      "server": "Christina",
-      "count": 8
+      "server": "Karina",
+      "count": 10
     },
     {
       "rank": 4,
-      "server": "Karina",
+      "server": "Christina",
       "count": 8
     },
     {
@@ -56,7 +56,7 @@
     {
       "rank": 9,
       "server": "Matteo",
-      "count": 4
+      "count": 5
     },
     {
       "rank": 10,
@@ -275,8 +275,20 @@
     },
     {
       "server": "Karina",
-      "count": 8,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "K Lau",
+          "text": "Karina\"s service was great.  Always remembers our drinks when we arrive.  Food is good also.",
+          "date": "2026-09-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Raymond Simm",
+          "text": "Karina was great and attentive!!!",
+          "date": "2026-09-25",
+          "rating": 5
+        },
         {
           "reviewer": "R",
           "text": "Food was great and Karina had all the best recommendations!",
@@ -383,7 +395,7 @@
     },
     {
       "server": "Annabel",
-      "count": 9,
+      "count": 10,
       "reviews": [
         {
           "reviewer": "Bridget Leonard",
@@ -406,6 +418,12 @@
         {
           "reviewer": "DHANVINDER SINGH",
           "text": "Annabel matteo were great! Thank you!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Daniel Bonin",
+          "text": "Thank you Matteo and Annabel, we sat at the bar and had a great night.",
           "date": "2026-09-20",
           "rating": 5
         },
@@ -443,7 +461,7 @@
     },
     {
       "server": "Maria",
-      "count": 18,
+      "count": 17,
       "reviews": [
         {
           "reviewer": "Jenn Dunstan",
@@ -496,12 +514,6 @@
         {
           "reviewer": "carlson diep",
           "text": "Friendly service from Maria",
-          "date": "2026-09-04",
-          "rating": 5
-        },
-        {
-          "reviewer": "Raymond Simm",
-          "text": "Maria was great and attentive!!!",
           "date": "2026-09-04",
           "rating": 5
         },
@@ -605,7 +617,7 @@
     },
     {
       "server": "Matteo",
-      "count": 4,
+      "count": 5,
       "reviews": [
         {
           "reviewer": "ItsJuustiin -",
@@ -616,6 +628,12 @@
         {
           "reviewer": "DHANVINDER SINGH",
           "text": "Annabel matteo were great! Thank you!",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Daniel Bonin",
+          "text": "Thank you Matteo and Annabel, we sat at the bar and had a great night.",
           "date": "2026-09-20",
           "rating": 5
         },
