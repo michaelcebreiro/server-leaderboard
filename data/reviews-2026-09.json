@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-25T17:52:03.920Z",
-  "reviewCount": 118,
+  "fetchedAt": "2026-09-25T21:18:43.889Z",
+  "reviewCount": 120,
   "reviews": [
+    {
+      "reviewId": "5867691815489909465",
+      "reviewer": "M Kh",
+      "rating": 5,
+      "text": "We had a fantastic experience at local public eatery]. The ambiance was lovely and the food was delicious, but the real standout was our server, Derks. She was so friendly, attentive, and accommodating to our needs. She sold us on trying the new menu items and the whole experience felt personable.It’s hard to find top-tier customer service like this these days. Derks truly made our night special, and we highly recommend dining here!",
+      "reviewDate": "2026-09-25T20:34:57.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5866929344489833474",
       "reviewer": "Magda",
@@ -161,6 +169,14 @@
       "rating": 5,
       "text": "Local was great, Christina was very friendly and amazing!",
       "reviewDate": "2026-09-22T01:09:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5867275095489867917",
+      "reviewer": "Thomas Koitsis",
+      "rating": 5,
+      "text": "Christina was awesome. Very friendly and attentive.",
+      "reviewDate": "2026-09-22T01:08:59.000Z",
       "source": "GOOGLE"
     },
     {
