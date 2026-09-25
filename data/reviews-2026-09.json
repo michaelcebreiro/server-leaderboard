@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-25T12:55:51.743Z",
-  "reviewCount": 113,
+  "fetchedAt": "2026-09-25T17:52:03.920Z",
+  "reviewCount": 118,
   "reviews": [
+    {
+      "reviewId": "5866929344489833474",
+      "reviewer": "Magda",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-09-25T16:25:24.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5865621615489703041",
       "reviewer": "K Lau",
@@ -140,11 +148,43 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "5867085975489849088",
+      "reviewer": "Maria",
+      "rating": 5,
+      "text": "LOVE the wings! Great spot to watch the game",
+      "reviewDate": "2026-09-22T02:18:10.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866380525489778700",
+      "reviewer": "Samy",
+      "rating": 5,
+      "text": "Local was great, Christina was very friendly and amazing!",
+      "reviewDate": "2026-09-22T01:09:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866168095489757579",
+      "reviewer": "Marco Anthony",
+      "rating": 5,
+      "text": "Christina was great!",
+      "reviewDate": "2026-09-22T01:08:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5866134295489754209",
       "reviewer": "chie palon",
       "rating": 5,
       "text": "Annabelle - server",
       "reviewDate": "2026-09-20T05:52:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866379995489778647",
+      "reviewer": "Melanie Nicholson",
+      "rating": 5,
+      "text": "Annabel provided us exceptional service!",
+      "reviewDate": "2026-09-20T04:45:19.000Z",
       "source": "GOOGLE"
     },
     {

@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-25T12:55:51.837Z",
-  "reviewCount": 113,
-  "qualifyingReviewCount": 112,
+  "processedAt": "2026-09-25T17:52:04.013Z",
+  "reviewCount": 118,
+  "qualifyingReviewCount": 117,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,17 +21,17 @@
     {
       "rank": 2,
       "server": "Annabel",
-      "count": 12
+      "count": 13
     },
     {
       "rank": 3,
-      "server": "Karina",
+      "server": "Christina",
       "count": 10
     },
     {
       "rank": 4,
-      "server": "Christina",
-      "count": 8
+      "server": "Karina",
+      "count": 10
     },
     {
       "rank": 5,
@@ -341,7 +341,7 @@
     },
     {
       "server": "Christina",
-      "count": 8,
+      "count": 10,
       "reviews": [
         {
           "reviewer": "Amir Mir ehsan",
@@ -390,16 +390,34 @@
           "text": "Christina was very sweet and helped our table! Shes fantastic!",
           "date": "2026-09-22",
           "rating": 5
+        },
+        {
+          "reviewer": "Samy",
+          "text": "Local was great, Christina was very friendly and amazing!",
+          "date": "2026-09-22",
+          "rating": 5
+        },
+        {
+          "reviewer": "Marco Anthony",
+          "text": "Christina was great!",
+          "date": "2026-09-22",
+          "rating": 5
         }
       ]
     },
     {
       "server": "Annabel",
-      "count": 12,
+      "count": 13,
       "reviews": [
         {
           "reviewer": "chie palon",
           "text": "Annabelle - server",
+          "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "Melanie Nicholson",
+          "text": "Annabel provided us exceptional service!",
           "date": "2026-09-20",
           "rating": 5
         },
