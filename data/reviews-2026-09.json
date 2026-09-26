@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-26T00:02:43.259Z",
-  "reviewCount": 120,
+  "fetchedAt": "2026-09-26T05:01:09.697Z",
+  "reviewCount": 123,
   "reviews": [
+    {
+      "reviewId": "5868754855490015529",
+      "reviewer": "Tijana",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-09-26T01:43:48.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5867691815489909465",
       "reviewer": "M Kh",
@@ -130,6 +138,14 @@
       "text": "",
       "reviewDate": "2026-09-22T20:36:41.000Z",
       "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5868836975490023721",
+      "reviewer": "nico koutroubis",
+      "rating": 5,
+      "text": "Christina was exceptional and very profesional. Great all around",
+      "reviewDate": "2026-09-22T02:55:04.000Z",
+      "source": "GOOGLE"
     },
     {
       "reviewId": "5859072585489051167",
@@ -377,6 +393,14 @@
       "rating": 4,
       "text": "Meklit was excellent",
       "reviewDate": "2026-09-19T00:09:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5868836985490023722",
+      "reviewer": "David Postill",
+      "rating": 5,
+      "text": "Matteo & Kalypso were awesome!!!",
+      "reviewDate": "2026-09-18T23:26:13.000Z",
       "source": "GOOGLE"
     },
     {

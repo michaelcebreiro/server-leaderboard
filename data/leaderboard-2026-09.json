@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-26T00:02:43.493Z",
-  "reviewCount": 120,
-  "qualifyingReviewCount": 119,
+  "processedAt": "2026-09-26T05:01:09.790Z",
+  "reviewCount": 123,
+  "qualifyingReviewCount": 122,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -26,7 +26,7 @@
     {
       "rank": 3,
       "server": "Christina",
-      "count": 11
+      "count": 12
     },
     {
       "rank": 4,
@@ -35,13 +35,13 @@
     },
     {
       "rank": 5,
-      "server": "Meklit",
+      "server": "Matteo",
       "count": 7
     },
     {
       "rank": 6,
-      "server": "Matteo",
-      "count": 6
+      "server": "Meklit",
+      "count": 7
     },
     {
       "rank": 7,
@@ -346,7 +346,7 @@
     },
     {
       "server": "Christina",
-      "count": 11,
+      "count": 12,
       "reviews": [
         {
           "reviewer": "Amir Mir ehsan",
@@ -376,6 +376,12 @@
           "reviewer": "Liam Snyder",
           "text": "Christina was the best! Wow! So fun and nice looking forward to being served by her!",
           "date": "2026-09-24",
+          "rating": 5
+        },
+        {
+          "reviewer": "nico koutroubis",
+          "text": "Christina was exceptional and very profesional. Great all around",
+          "date": "2026-09-22",
           "rating": 5
         },
         {
@@ -658,7 +664,7 @@
     },
     {
       "server": "Matteo",
-      "count": 6,
+      "count": 7,
       "reviews": [
         {
           "reviewer": "ItsJuustiin -",
@@ -694,6 +700,12 @@
           "reviewer": "Hugo",
           "text": "Annabel and Matteo",
           "date": "2026-09-20",
+          "rating": 5
+        },
+        {
+          "reviewer": "David Postill",
+          "text": "Matteo & Kalypso were awesome!!!",
+          "date": "2026-09-18",
           "rating": 5
         }
       ]
