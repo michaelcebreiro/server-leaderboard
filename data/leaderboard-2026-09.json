@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-26T14:14:53.315Z",
-  "reviewCount": 123,
-  "qualifyingReviewCount": 122,
+  "processedAt": "2026-09-26T17:47:52.838Z",
+  "reviewCount": 124,
+  "qualifyingReviewCount": 123,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -90,117 +90,117 @@
     },
     {
       "rank": 16,
+      "server": "Matthew",
+      "count": 1
+    },
+    {
+      "rank": 17,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 37,
-      "server": "Mackenzie",
-      "count": 0
-    },
-    {
       "rank": 38,
-      "server": "Matthew",
+      "server": "Mackenzie",
       "count": 0
     },
     {
@@ -832,6 +832,18 @@
           "reviewer": "Kaela McCarney",
           "text": "We had a fabulous family night out at The Local. Our server, Aisia, was so friendly and attentive!",
           "date": "2026-09-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matthew",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Ronak Patel",
+          "text": "Matthew was really helpful and we loved our time here",
+          "date": "2026-09-26",
           "rating": 5
         }
       ]
