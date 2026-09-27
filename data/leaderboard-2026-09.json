@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-27T07:06:36.169Z",
-  "reviewCount": 117,
-  "qualifyingReviewCount": 116,
+  "processedAt": "2026-09-27T13:03:58.327Z",
+  "reviewCount": 118,
+  "qualifyingReviewCount": 117,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 19
+      "count": 18
     },
     {
       "rank": 2,
@@ -25,12 +25,12 @@
     },
     {
       "rank": 3,
-      "server": "Annabel",
-      "count": 9
+      "server": "Karina",
+      "count": 10
     },
     {
       "rank": 4,
-      "server": "Karina",
+      "server": "Annabel",
       "count": 9
     },
     {
@@ -280,8 +280,14 @@
     },
     {
       "server": "Karina",
-      "count": 9,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "Raymond Simm",
+          "text": "Karina was great and attentive!!!",
+          "date": "2026-09-25",
+          "rating": 5
+        },
         {
           "reviewer": "R",
           "text": "Food was great and Karina had all the best recommendations!",
@@ -472,7 +478,7 @@
     },
     {
       "server": "Maria",
-      "count": 19,
+      "count": 18,
       "reviews": [
         {
           "reviewer": "Adrian",
@@ -531,12 +537,6 @@
         {
           "reviewer": "carlson diep",
           "text": "Friendly service from Maria",
-          "date": "2026-09-04",
-          "rating": 5
-        },
-        {
-          "reviewer": "Raymond Simm",
-          "text": "Maria was great and attentive!!!",
           "date": "2026-09-04",
           "rating": 5
         },
