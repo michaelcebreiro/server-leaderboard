@@ -1,8 +1,32 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-27T01:40:46.010Z",
-  "reviewCount": 113,
+  "fetchedAt": "2026-09-27T07:06:36.074Z",
+  "reviewCount": 117,
   "reviews": [
+    {
+      "reviewId": "5870352345490174620",
+      "reviewer": "greg belliveau",
+      "rating": 5,
+      "text": "Christina was amazing will be back to be served by her!",
+      "reviewDate": "2026-09-27T06:13:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5870352015490174587",
+      "reviewer": "Zach Jouri",
+      "rating": 5,
+      "text": "Loved our server Christina she never left our drinks empty and had a great time!!",
+      "reviewDate": "2026-09-27T06:10:33.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5668591325470055044",
+      "reviewer": "Riley Rogers",
+      "rating": 5,
+      "text": "Sweat heart, great service good personality thanks for advice on drinks  ! Thanks Christina",
+      "reviewDate": "2026-09-27T06:08:33.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5869720625490111718",
       "reviewer": "Andrea",
@@ -10,6 +34,14 @@
       "text": "",
       "reviewDate": "2026-09-26T18:24:10.000Z",
       "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5870213655490160792",
+      "reviewer": "Adrian",
+      "rating": 5,
+      "text": "Amazing experience, Maria was very nice and the service was excellent!",
+      "reviewDate": "2026-09-26T02:09:35.000Z",
+      "source": "GOOGLE"
     },
     {
       "reviewId": "5868754855490015529",

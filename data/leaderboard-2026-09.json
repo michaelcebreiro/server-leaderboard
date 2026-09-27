@@ -1,8 +1,8 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-27T01:40:46.103Z",
-  "reviewCount": 113,
-  "qualifyingReviewCount": 112,
+  "processedAt": "2026-09-27T07:06:36.169Z",
+  "reviewCount": 117,
+  "qualifyingReviewCount": 116,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,22 +16,22 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 18
+      "count": 19
     },
     {
       "rank": 2,
+      "server": "Christina",
+      "count": 11
+    },
+    {
+      "rank": 3,
       "server": "Annabel",
       "count": 9
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Karina",
       "count": 9
-    },
-    {
-      "rank": 4,
-      "server": "Christina",
-      "count": 8
     },
     {
       "rank": 5,
@@ -340,8 +340,26 @@
     },
     {
       "server": "Christina",
-      "count": 8,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "greg belliveau",
+          "text": "Christina was amazing will be back to be served by her!",
+          "date": "2026-09-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Zach Jouri",
+          "text": "Loved our server Christina she never left our drinks empty and had a great time!!",
+          "date": "2026-09-27",
+          "rating": 5
+        },
+        {
+          "reviewer": "Riley Rogers",
+          "text": "Sweat heart, great service good personality thanks for advice on drinks  ! Thanks Christina",
+          "date": "2026-09-27",
+          "rating": 5
+        },
         {
           "reviewer": "Amir Mir ehsan",
           "text": "Christina is so welcoming and nice! Thanks for all....",
@@ -454,8 +472,14 @@
     },
     {
       "server": "Maria",
-      "count": 18,
+      "count": 19,
       "reviews": [
+        {
+          "reviewer": "Adrian",
+          "text": "Amazing experience, Maria was very nice and the service was excellent!",
+          "date": "2026-09-26",
+          "rating": 5
+        },
         {
           "reviewer": "Jenn Dunstan",
           "text": "Maria is our girl! Every visit comes with excellent service and (of course) consistently great food.",
