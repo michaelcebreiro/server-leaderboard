@@ -1,8 +1,16 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-28T11:15:02.613Z",
-  "reviewCount": 125,
+  "fetchedAt": "2026-09-28T18:38:04.655Z",
+  "reviewCount": 126,
   "reviews": [
+    {
+      "reviewId": "5872261775490364931",
+      "reviewer": "Miguel",
+      "rating": 5,
+      "text": "Service was excellent. There was an issue with my son’s order but the team immediately took ownership and were prompt to fix it. Had a good time, happy with the visit.",
+      "reviewDate": "2026-09-28T16:24:17.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5871436215490282630",
       "reviewer": "Peter Christopoulos",
@@ -39,7 +47,7 @@
       "reviewId": "5871383055490277355",
       "reviewer": "Ilia Filippov (Ilia73)",
       "rating": 5,
-      "text": "Maria is the",
+      "text": "Maria is the 👌",
       "reviewDate": "2026-09-28T00:08:14.000Z",
       "source": "GOOGLE"
     },
