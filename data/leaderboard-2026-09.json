@@ -1,27 +1,27 @@
 {
   "month": "2026-09",
-  "processedAt": "2026-09-27T23:48:21.253Z",
-  "reviewCount": 119,
-  "qualifyingReviewCount": 118,
+  "processedAt": "2026-09-28T04:38:02.401Z",
+  "reviewCount": 125,
+  "qualifyingReviewCount": 124,
   "thresholds": {
     "first": 20,
     "second": 15
   },
   "winners": {
     "finalized": false,
-    "first": null,
-    "second": "Maria"
+    "first": "Maria",
+    "second": null
   },
   "standings": [
     {
       "rank": 1,
       "server": "Maria",
-      "count": 18
+      "count": 23
     },
     {
       "rank": 2,
       "server": "Christina",
-      "count": 11
+      "count": 13
     },
     {
       "rank": 3,
@@ -40,27 +40,27 @@
     },
     {
       "rank": 6,
-      "server": "Tomi",
+      "server": "Michael",
       "count": 6
     },
     {
       "rank": 7,
+      "server": "Tomi",
+      "count": 6
+    },
+    {
+      "rank": 8,
       "server": "Blake",
       "count": 5
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Kaia",
       "count": 5
     },
     {
-      "rank": 9,
-      "server": "Matteo",
-      "count": 4
-    },
-    {
       "rank": 10,
-      "server": "Michael",
+      "server": "Matteo",
       "count": 4
     },
     {
@@ -346,8 +346,20 @@
     },
     {
       "server": "Christina",
-      "count": 11,
+      "count": 13,
       "reviews": [
+        {
+          "reviewer": "Peter Christopoulos",
+          "text": "Maria, Christina, and Michael did a great job taking care of our table all night.",
+          "date": "2026-09-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "costa papaioanou",
+          "text": "Michael Maria and Christina took great care of us",
+          "date": "2026-09-28",
+          "rating": 5
+        },
         {
           "reviewer": "greg belliveau",
           "text": "Christina was amazing will be back to be served by her!",
@@ -478,8 +490,38 @@
     },
     {
       "server": "Maria",
-      "count": 18,
+      "count": 23,
       "reviews": [
+        {
+          "reviewer": "Peter Christopoulos",
+          "text": "Maria, Christina, and Michael did a great job taking care of our table all night.",
+          "date": "2026-09-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "costa papaioanou",
+          "text": "Michael Maria and Christina took great care of us",
+          "date": "2026-09-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jack Bryan",
+          "text": "Maria was great, food was great lots of screens showing the game has a good time.",
+          "date": "2026-09-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Ilia Filippov (Ilia73)",
+          "text": "Maria is the",
+          "date": "2026-09-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Danil Sukhachev",
+          "text": "Maria is great and amazing!!!!",
+          "date": "2026-09-28",
+          "rating": 5
+        },
         {
           "reviewer": "Adrian",
           "text": "Amazing experience, Maria was very nice and the service was excellent!",
@@ -790,8 +832,20 @@
     },
     {
       "server": "Michael",
-      "count": 4,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Peter Christopoulos",
+          "text": "Maria, Christina, and Michael did a great job taking care of our table all night.",
+          "date": "2026-09-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "costa papaioanou",
+          "text": "Michael Maria and Christina took great care of us",
+          "date": "2026-09-28",
+          "rating": 5
+        },
         {
           "reviewer": "jaden sa",
           "text": "Enjoyed my night, Michael was a nice server!",

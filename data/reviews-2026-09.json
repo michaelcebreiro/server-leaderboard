@@ -1,8 +1,56 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-27T23:48:21.156Z",
-  "reviewCount": 119,
+  "fetchedAt": "2026-09-28T04:38:02.306Z",
+  "reviewCount": 125,
   "reviews": [
+    {
+      "reviewId": "5871436215490282630",
+      "reviewer": "Peter Christopoulos",
+      "rating": 5,
+      "text": "Maria, Christina, and Michael did a great job taking care of our table all night.",
+      "reviewDate": "2026-09-28T01:47:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5871418435490280860",
+      "reviewer": "costa papaioanou",
+      "rating": 5,
+      "text": "Michael Maria and Christina took great care of us",
+      "reviewDate": "2026-09-28T01:15:44.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5871415835490280605",
+      "reviewer": "Owen Gauder",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-09-28T01:14:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5871394095490278449",
+      "reviewer": "Jack Bryan",
+      "rating": 5,
+      "text": "Maria was great, food was great lots of screens showing the game has a good time.",
+      "reviewDate": "2026-09-28T00:29:27.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5871383055490277355",
+      "reviewer": "Ilia Filippov (Ilia73)",
+      "rating": 5,
+      "text": "Maria is the",
+      "reviewDate": "2026-09-28T00:08:14.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5871382335490277283",
+      "reviewer": "Danil Sukhachev",
+      "rating": 5,
+      "text": "Maria is great and amazing!!!!",
+      "reviewDate": "2026-09-28T00:07:22.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5871130584490252247",
       "reviewer": "Malcolm Smullen",
