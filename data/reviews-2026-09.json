@@ -1,14 +1,38 @@
 {
   "month": "2026-09",
-  "fetchedAt": "2026-09-29T23:58:12.315Z",
-  "reviewCount": 127,
+  "fetchedAt": "2026-09-30T05:22:22.485Z",
+  "reviewCount": 143,
   "reviews": [
     {
-      "reviewId": "5873503565490488343",
-      "reviewer": "Ty Evans",
+      "reviewId": "5873963785490533613",
+      "reviewer": "Nicole Lavalley",
       "rating": 5,
-      "text": "Cristina was amazing we always had a drink in our hand. 10/10",
-      "reviewDate": "2026-09-29T03:28:43.000Z",
+      "text": "Our server Kaitlyn was so lovely and really made our girls night a 10/10. Thank u Kaitlyn!!",
+      "reviewDate": "2026-09-30T02:27:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5873945425490531816",
+      "reviewer": "Sarah Murphy",
+      "rating": 5,
+      "text": "Had an incredible night at the LOCAL for trivia! Our server Tomi was amazing and we had so much fun! We’ll definitely be back :)",
+      "reviewDate": "2026-09-30T01:21:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5873947255490531996",
+      "reviewer": "Taylor Barrett",
+      "rating": 5,
+      "text": "Went for my friend’s birthday for trivia night and had Tomi as our server and I truly think it was her FANTASTIC service that helped us win trivia night!",
+      "reviewDate": "2026-09-30T01:21:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5873946965490531969",
+      "reviewer": "Hannah Glover",
+      "rating": 5,
+      "text": "Tomi was incredible!!",
+      "reviewDate": "2026-09-30T01:20:18.000Z",
       "source": "GOOGLE"
     },
     {
@@ -33,6 +57,14 @@
       "rating": 5,
       "text": "Michael Maria and Christina took great care of us",
       "reviewDate": "2026-09-28T01:15:44.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5526411185455902678",
+      "reviewer": "Adam Vani",
+      "rating": 5,
+      "text": "Unbelievable so great",
+      "reviewDate": "2026-09-28T01:15:24.000Z",
       "source": "GOOGLE"
     },
     {
@@ -100,20 +132,20 @@
       "source": "GOOGLE"
     },
     {
-      "reviewId": "5668591325470055044",
-      "reviewer": "Riley Rogers",
-      "rating": 5,
-      "text": "Sweat heart, great service good personality thanks for advice on drinks  ! Thanks Christina",
-      "reviewDate": "2026-09-27T06:08:33.000Z",
-      "source": "GOOGLE"
-    },
-    {
       "reviewId": "5869720625490111718",
       "reviewer": "Andrea",
       "rating": 5,
       "text": "",
       "reviewDate": "2026-09-26T18:24:10.000Z",
       "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5869635755490103301",
+      "reviewer": "Ronak Patel",
+      "rating": 5,
+      "text": "Matthew was really helpful and we loved our time here",
+      "reviewDate": "2026-09-26T17:00:07.000Z",
+      "source": "GOOGLE"
     },
     {
       "reviewId": "5870213655490160792",
@@ -132,12 +164,28 @@
       "source": "OPENTABLE"
     },
     {
+      "reviewId": "5867691815489909465",
+      "reviewer": "M Kh",
+      "rating": 5,
+      "text": "We had a fantastic experience at local public eatery]. The ambiance was lovely and the food was delicious, but the real standout was our server, Derks. She was so friendly, attentive, and accommodating to our needs. She sold us on trying the new menu items and the whole experience felt personable.It’s hard to find top-tier customer service like this these days. Derks truly made our night special, and we highly recommend dining here!",
+      "reviewDate": "2026-09-25T20:34:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5866929344489833474",
       "reviewer": "Magda",
       "rating": 4,
       "text": "",
       "reviewDate": "2026-09-25T16:25:24.000Z",
       "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5865621615489703041",
+      "reviewer": "K Lau",
+      "rating": 5,
+      "text": "Karina\"s service was great.  Always remembers our drinks when we arrive.  Food is good also.",
+      "reviewDate": "2026-09-25T03:36:59.000Z",
+      "source": "GOOGLE"
     },
     {
       "reviewId": "5825491455485706364",
@@ -244,6 +292,14 @@
       "source": "OPENTABLE"
     },
     {
+      "reviewId": "5868836975490023721",
+      "reviewer": "nico koutroubis",
+      "rating": 5,
+      "text": "Christina was exceptional and very profesional. Great all around",
+      "reviewDate": "2026-09-22T02:55:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5859072585489051167",
       "reviewer": "Christos Rose",
       "rating": 5,
@@ -265,6 +321,54 @@
       "rating": 5,
       "text": "Christina was very sweet and helped our table! Shes fantastic!",
       "reviewDate": "2026-09-22T02:23:08.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5867085975489849088",
+      "reviewer": "Maria",
+      "rating": 5,
+      "text": "LOVE the wings! Great spot to watch the game",
+      "reviewDate": "2026-09-22T02:18:10.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866380525489778700",
+      "reviewer": "Samy",
+      "rating": 5,
+      "text": "Local was great, Christina was very friendly and amazing!",
+      "reviewDate": "2026-09-22T01:09:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5867275095489867917",
+      "reviewer": "Thomas Koitsis",
+      "rating": 5,
+      "text": "Christina was awesome. Very friendly and attentive.",
+      "reviewDate": "2026-09-22T01:08:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866168095489757579",
+      "reviewer": "Marco Anthony",
+      "rating": 5,
+      "text": "Christina was great!",
+      "reviewDate": "2026-09-22T01:08:36.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866134295489754209",
+      "reviewer": "chie palon",
+      "rating": 5,
+      "text": "Annabelle - server",
+      "reviewDate": "2026-09-20T05:52:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866379995489778647",
+      "reviewer": "Melanie Nicholson",
+      "rating": 5,
+      "text": "Annabel provided us exceptional service!",
+      "reviewDate": "2026-09-20T04:45:19.000Z",
       "source": "GOOGLE"
     },
     {
@@ -300,11 +404,27 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "5865761865489717028",
+      "reviewer": "Daniel Bonin",
+      "rating": 5,
+      "text": "Thank you Matteo and Annabel, we sat at the bar and had a great night.",
+      "reviewDate": "2026-09-20T02:06:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
       "reviewId": "5857233825488868347",
       "reviewer": "Tawnia P.",
       "rating": 5,
       "text": "",
       "reviewDate": "2026-09-20T02:04:28.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5866081325489748942",
+      "reviewer": "Soroush Mehraban",
+      "rating": 5,
+      "text": "Best spot in the city! Thanks Annabel & Matteo for the great service.",
+      "reviewDate": "2026-09-20T01:52:18.000Z",
       "source": "GOOGLE"
     },
     {
@@ -433,6 +553,14 @@
       "rating": 4,
       "text": "Meklit was excellent",
       "reviewDate": "2026-09-19T00:09:23.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5868836985490023722",
+      "reviewer": "David Postill",
+      "rating": 5,
+      "text": "Matteo & Kalypso were awesome!!!",
+      "reviewDate": "2026-09-18T23:26:13.000Z",
       "source": "GOOGLE"
     },
     {
