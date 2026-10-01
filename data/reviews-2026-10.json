@@ -1,6 +1,15 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-01T00:44:37.080Z",
-  "reviewCount": 0,
-  "reviews": []
+  "fetchedAt": "2026-10-01T06:36:08.980Z",
+  "reviewCount": 1,
+  "reviews": [
+    {
+      "reviewId": "5876178725490753968",
+      "reviewer": "Dylan Cash",
+      "rating": 5,
+      "text": "Everything was great, food was good, service was great, especially “Kalypsa & Maria”, they took well care of us throughout the night keeping the drinks flowing and overall just being so nice and accommodating",
+      "reviewDate": "2026-10-01T05:00:39.000Z",
+      "source": "GOOGLE"
+    }
+  ]
 }
