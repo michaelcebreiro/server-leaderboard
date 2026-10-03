@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-03T04:37:59.941Z",
-  "reviewCount": 1,
+  "fetchedAt": "2026-10-03T10:04:28.139Z",
+  "reviewCount": 2,
   "reviews": [
+    {
+      "reviewId": "5886152555491749328",
+      "reviewer": "Jalen Jones",
+      "rating": 5,
+      "text": "Qam was an amazing server. Very friendly and gifted us a free dessert for our first visit. I’d highly recommend local as a spot to eat and hangout. The food was great as well. Thanks Qam!",
+      "reviewDate": "2026-10-03T04:50:45.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5876178725490753968",
       "reviewer": "Dylan Cash",
