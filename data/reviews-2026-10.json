@@ -1,8 +1,48 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-04T00:04:57.016Z",
-  "reviewCount": 2,
+  "fetchedAt": "2026-10-04T05:56:44.181Z",
+  "reviewCount": 7,
   "reviews": [
+    {
+      "reviewId": "5889347855492068310",
+      "reviewer": "Saeid Hatami",
+      "rating": 5,
+      "text": "Great customer service by Maria!",
+      "reviewDate": "2026-10-04T04:05:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5889345195492068045",
+      "reviewer": "Ava Pirzadeh",
+      "rating": 5,
+      "text": "Great customer service from Maria.",
+      "reviewDate": "2026-10-04T04:04:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5889296035492063140",
+      "reviewer": "Joshua Heath",
+      "rating": 5,
+      "text": "Maria was a great server, incredibly personable, fast service. Also great insight on engagement rings.",
+      "reviewDate": "2026-10-04T03:42:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5889295125492063049",
+      "reviewer": "Chris P",
+      "rating": 5,
+      "text": "Maria was amazing. Excellent customer service and very professional.  Definitely coming back.",
+      "reviewDate": "2026-10-04T03:41:24.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5889295055492063042",
+      "reviewer": "Anastasios Daskalakis",
+      "rating": 5,
+      "text": "Very welcoming and took good care of us.",
+      "reviewDate": "2026-10-04T03:40:59.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5886152555491749328",
       "reviewer": "Jalen Jones",
