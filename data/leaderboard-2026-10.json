@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-05T01:51:16.296Z",
-  "reviewCount": 8,
-  "qualifyingReviewCount": 8,
+  "processedAt": "2026-10-05T08:41:29.966Z",
+  "reviewCount": 9,
+  "qualifyingReviewCount": 9,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,172 +30,172 @@
     },
     {
       "rank": 4,
+      "server": "Mia",
+      "count": 1
+    },
+    {
+      "rank": 5,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Derka",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 36,
-      "server": "Meklit",
-      "count": 0
-    },
-    {
       "rank": 37,
-      "server": "Mia",
+      "server": "Meklit",
       "count": 0
     },
     {
@@ -260,6 +260,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Mia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "LV Rael",
+          "text": "Our Local spot. The vibe is lively. The food is consistently delicious. Our server, Mia, was outstanding, friendly and a stellar host.\n\nWhether Hubby and I are without kids around or taking the whole family with us, Local will always be our go-to.",
+          "date": "2026-10-05",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Christina",
       "count": 1,

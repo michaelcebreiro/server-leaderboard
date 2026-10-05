@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-05T01:51:16.112Z",
-  "reviewCount": 8,
+  "fetchedAt": "2026-10-05T08:41:29.800Z",
+  "reviewCount": 9,
   "reviews": [
     {
       "reviewId": "5892617665492394921",
@@ -9,6 +9,14 @@
       "rating": 5,
       "text": "Local is always a lovely place to visit with great food and Christina was a great server. Will definitely come back!",
       "reviewDate": "2026-10-05T00:54:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4411703815344880950",
+      "reviewer": "LV Rael",
+      "rating": 5,
+      "text": "Our Local spot. The vibe is lively. The food is consistently delicious. Our server, Mia, was outstanding, friendly and a stellar host.\n\nWhether Hubby and I are without kids around or taking the whole family with us, Local will always be our go-to.",
+      "reviewDate": "2026-10-05T00:28:40.000Z",
       "source": "GOOGLE"
     },
     {
