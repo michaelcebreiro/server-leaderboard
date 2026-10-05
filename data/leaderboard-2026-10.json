@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-04T22:59:46.877Z",
-  "reviewCount": 7,
-  "qualifyingReviewCount": 7,
+  "processedAt": "2026-10-05T01:51:16.296Z",
+  "reviewCount": 8,
+  "qualifyingReviewCount": 8,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,62 +20,62 @@
     },
     {
       "rank": 2,
-      "server": "Kalypsa",
+      "server": "Christina",
       "count": 1
     },
     {
       "rank": 3,
+      "server": "Kalypsa",
+      "count": 1
+    },
+    {
+      "rank": 4,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 12,
-      "server": "Carolina",
-      "count": 0
-    },
-    {
       "rank": 13,
-      "server": "Christina",
+      "server": "Carolina",
       "count": 0
     },
     {
@@ -260,6 +260,18 @@
     }
   ],
   "mentions": [
+    {
+      "server": "Christina",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Andrew Varghese",
+          "text": "Local is always a lovely place to visit with great food and Christina was a great server. Will definitely come back!",
+          "date": "2026-10-05",
+          "rating": 5
+        }
+      ]
+    },
     {
       "server": "Maria",
       "count": 5,

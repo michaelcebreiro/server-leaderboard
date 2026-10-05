@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-04T22:59:46.792Z",
-  "reviewCount": 7,
+  "fetchedAt": "2026-10-05T01:51:16.112Z",
+  "reviewCount": 8,
   "reviews": [
+    {
+      "reviewId": "5892617665492394921",
+      "reviewer": "Andrew Varghese",
+      "rating": 5,
+      "text": "Local is always a lovely place to visit with great food and Christina was a great server. Will definitely come back!",
+      "reviewDate": "2026-10-05T00:54:49.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5889347855492068310",
       "reviewer": "Saeid Hatami",
