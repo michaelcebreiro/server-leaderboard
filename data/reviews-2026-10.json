@@ -1,8 +1,32 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-07T14:40:18.912Z",
-  "reviewCount": 15,
+  "fetchedAt": "2026-10-07T20:11:09.961Z",
+  "reviewCount": 18,
   "reviews": [
+    {
+      "reviewId": "5903653425493496185",
+      "reviewer": "Jordan M",
+      "rating": 5,
+      "text": "The food is great, and Carolina was very fast with our service.",
+      "reviewDate": "2026-10-07T18:24:00.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5903645125493495364",
+      "reviewer": "Alexander Palumbo",
+      "rating": 5,
+      "text": "Carolina was excellent - she provided great service and was extremely welcoming.",
+      "reviewDate": "2026-10-07T18:23:27.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327628075436101318",
+      "reviewer": "Kurt K",
+      "rating": 5,
+      "text": "Caro was kind, attentive and provided excellent customer service. We'll be back!",
+      "reviewDate": "2026-10-07T18:23:15.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5900746555493206108",
       "reviewer": "Paula Abelha",
