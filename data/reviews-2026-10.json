@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-06T21:32:51.315Z",
-  "reviewCount": 10,
+  "fetchedAt": "2026-10-07T01:01:35.598Z",
+  "reviewCount": 11,
   "reviews": [
+    {
+      "reviewId": "5900695534493201039",
+      "reviewer": "alex McColgan",
+      "rating": 4,
+      "text": "Kalypsa was so amazing! Such a fun vibe and very attentive. Would come back just for this amazing service!",
+      "reviewDate": "2026-10-07T00:41:45.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5896429024492775570",
       "reviewer": "Mathrisha",
