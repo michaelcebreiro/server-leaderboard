@@ -1,8 +1,40 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-07T01:01:35.598Z",
-  "reviewCount": 11,
+  "fetchedAt": "2026-10-07T07:15:50.222Z",
+  "reviewCount": 15,
   "reviews": [
+    {
+      "reviewId": "5900746555493206108",
+      "reviewer": "Paula Abelha",
+      "rating": 5,
+      "text": "Great service! Kalypsa was wonderful! Very attentive and gave great suggestions about menu items and drinks!",
+      "reviewDate": "2026-10-07T01:19:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5900744045493205865",
+      "reviewer": "Kim F",
+      "rating": 5,
+      "text": "Great night out",
+      "reviewDate": "2026-10-07T01:18:40.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5900742614493205723",
+      "reviewer": "Vishalie Sathiyabalan",
+      "rating": 4,
+      "text": "It was a great place to eat! And our server Kalypsa was amazing!",
+      "reviewDate": "2026-10-07T01:17:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5900742415493205704",
+      "reviewer": "dorothy tran",
+      "rating": 5,
+      "text": "Awesome spot for a large gathering upstairs on the indoor patio. Kalypsa was an awesome waitress for our retirement party. Incredible service.",
+      "reviewDate": "2026-10-07T01:17:28.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5900695534493201039",
       "reviewer": "alex McColgan",

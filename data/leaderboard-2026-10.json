@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-07T01:01:35.691Z",
-  "reviewCount": 11,
-  "qualifyingReviewCount": 11,
+  "processedAt": "2026-10-07T07:15:50.304Z",
+  "reviewCount": 15,
+  "qualifyingReviewCount": 15,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,13 +15,13 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Maria",
+      "server": "Kalypsa",
       "count": 5
     },
     {
       "rank": 2,
-      "server": "Kalypsa",
-      "count": 2
+      "server": "Maria",
+      "count": 5
     },
     {
       "rank": 3,
@@ -322,8 +322,26 @@
     },
     {
       "server": "Kalypsa",
-      "count": 2,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Paula Abelha",
+          "text": "Great service! Kalypsa was wonderful! Very attentive and gave great suggestions about menu items and drinks!",
+          "date": "2026-10-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Vishalie Sathiyabalan",
+          "text": "It was a great place to eat! And our server Kalypsa was amazing!",
+          "date": "2026-10-07",
+          "rating": 4
+        },
+        {
+          "reviewer": "dorothy tran",
+          "text": "Awesome spot for a large gathering upstairs on the indoor patio. Kalypsa was an awesome waitress for our retirement party. Incredible service.",
+          "date": "2026-10-07",
+          "rating": 5
+        },
         {
           "reviewer": "alex McColgan",
           "text": "Kalypsa was so amazing! Such a fun vibe and very attentive. Would come back just for this amazing service!",
