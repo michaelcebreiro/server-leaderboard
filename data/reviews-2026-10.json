@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-08T13:53:12.167Z",
-  "reviewCount": 20,
+  "fetchedAt": "2026-10-08T19:43:54.747Z",
+  "reviewCount": 21,
   "reviews": [
     {
       "reviewId": "5905575805493687880",
@@ -17,6 +17,14 @@
       "rating": 5,
       "text": "we have a great time  in local public eatery. The service of Derks was amazing she was very attentive fun and perfect . She gave good recommendations and make all of us have a good time.",
       "reviewDate": "2026-10-08T03:36:03.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "2147299075146687212",
+      "reviewer": "Jordan Franks",
+      "rating": 5,
+      "text": "Great spot to hit up for a drink and great service. Derks was lit and Jackie is da bomb",
+      "reviewDate": "2026-10-08T03:35:42.000Z",
       "source": "GOOGLE"
     },
     {
