@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-08T00:13:47.299Z",
-  "reviewCount": 18,
-  "qualifyingReviewCount": 18,
+  "processedAt": "2026-10-08T06:16:31.248Z",
+  "reviewCount": 20,
+  "qualifyingReviewCount": 20,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,72 +30,72 @@
     },
     {
       "rank": 4,
+      "server": "Derka",
+      "count": 2
+    },
+    {
+      "rank": 5,
       "server": "Christina",
       "count": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Mia",
       "count": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 16,
-      "server": "Danielle",
-      "count": 0
-    },
-    {
       "rank": 17,
-      "server": "Derka",
+      "server": "Danielle",
       "count": 0
     },
     {
@@ -376,6 +376,24 @@
           "reviewer": "Kurt K",
           "text": "Caro was kind, attentive and provided excellent customer service. We'll be back!",
           "date": "2026-10-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Derka",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Amadou Sylla",
+          "text": "Amazing spot!\nPerfectly taken care of by Derks!",
+          "date": "2026-10-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Roger Maire",
+          "text": "we have a great time  in local public eatery. The service of Derks was amazing she was very attentive fun and perfect . She gave good recommendations and make all of us have a good time.",
+          "date": "2026-10-08",
           "rating": 5
         }
       ]

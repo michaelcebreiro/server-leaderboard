@@ -1,8 +1,24 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-08T00:13:46.932Z",
-  "reviewCount": 18,
+  "fetchedAt": "2026-10-08T06:16:31.189Z",
+  "reviewCount": 20,
   "reviews": [
+    {
+      "reviewId": "5905575805493687880",
+      "reviewer": "Amadou Sylla",
+      "rating": 5,
+      "text": "Amazing spot!\nPerfectly taken care of by Derks!",
+      "reviewDate": "2026-10-08T03:38:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5905572745493687575",
+      "reviewer": "Roger Maire",
+      "rating": 5,
+      "text": "we have a great time  in local public eatery. The service of Derks was amazing she was very attentive fun and perfect . She gave good recommendations and make all of us have a good time.",
+      "reviewDate": "2026-10-08T03:36:03.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5903653425493496185",
       "reviewer": "Jordan M",
