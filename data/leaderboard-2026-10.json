@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-08T19:43:54.836Z",
-  "reviewCount": 21,
-  "qualifyingReviewCount": 21,
+  "processedAt": "2026-10-08T23:58:46.917Z",
+  "reviewCount": 22,
+  "qualifyingReviewCount": 22,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,27 +35,27 @@
     },
     {
       "rank": 5,
-      "server": "Christina",
+      "server": "Akiko",
       "count": 1
     },
     {
       "rank": 6,
-      "server": "Jackie G",
+      "server": "Christina",
       "count": 1
     },
     {
       "rank": 7,
-      "server": "Mia",
+      "server": "Jackie G",
       "count": 1
     },
     {
       "rank": 8,
-      "server": "Aisia",
-      "count": 0
+      "server": "Mia",
+      "count": 1
     },
     {
       "rank": 9,
-      "server": "Akiko",
+      "server": "Aisia",
       "count": 0
     },
     {
@@ -268,6 +268,18 @@
           "reviewer": "LV Rael",
           "text": "Our Local spot. The vibe is lively. The food is consistently delicious. Our server, Mia, was outstanding, friendly and a stellar host.\n\nWhether Hubby and I are without kids around or taking the whole family with us, Local will always be our go-to.",
           "date": "2026-10-05",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Akiko",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Kim Fong",
+          "text": "Akiko was great.  Very attentive.\nThanks for making a great night!",
+          "date": "2026-10-08",
           "rating": 5
         }
       ]

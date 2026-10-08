@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-08T19:43:54.747Z",
-  "reviewCount": 21,
+  "fetchedAt": "2026-10-08T23:58:46.824Z",
+  "reviewCount": 22,
   "reviews": [
+    {
+      "reviewId": "5913609075494490390",
+      "reviewer": "Kim Fong",
+      "rating": 5,
+      "text": "Akiko was great.  Very attentive.\nThanks for making a great night!",
+      "reviewDate": "2026-10-08T23:21:00.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5905575805493687880",
       "reviewer": "Amadou Sylla",
