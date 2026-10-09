@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-08T23:58:46.917Z",
-  "reviewCount": 22,
-  "qualifyingReviewCount": 22,
+  "processedAt": "2026-10-09T05:56:51.332Z",
+  "reviewCount": 23,
+  "qualifyingReviewCount": 23,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,12 +15,12 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Kalypsa",
-      "count": 5
+      "server": "Maria",
+      "count": 6
     },
     {
       "rank": 2,
-      "server": "Maria",
+      "server": "Kalypsa",
       "count": 5
     },
     {
@@ -298,8 +298,14 @@
     },
     {
       "server": "Maria",
-      "count": 5,
+      "count": 6,
       "reviews": [
+        {
+          "reviewer": "Aidan Mallon",
+          "text": "The atmosphere is lively, the drinks are cold, the food is delicious, and the staff are incredible. Maria is incredibly friendly, personable, and very professional. Her demeanor, and kindness makes you feel like more or a long time friend than a patron. A long with Nikola the manager, they are a dream team. Smiles, banter and sincere care makes you feel like you're at dinner party with close friends more than your local pub.",
+          "date": "2026-10-09",
+          "rating": 5
+        },
         {
           "reviewer": "Saeid Hatami",
           "text": "Great customer service by Maria!",

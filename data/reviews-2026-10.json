@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-08T23:58:46.824Z",
-  "reviewCount": 22,
+  "fetchedAt": "2026-10-09T05:56:51.264Z",
+  "reviewCount": 23,
   "reviews": [
+    {
+      "reviewId": "4520119735355697932",
+      "reviewer": "Aidan Mallon",
+      "rating": 5,
+      "text": "The atmosphere is lively, the drinks are cold, the food is delicious, and the staff are incredible. Maria is incredibly friendly, personable, and very professional. Her demeanor, and kindness makes you feel like more or a long time friend than a patron. A long with Nikola the manager, they are a dream team. Smiles, banter and sincere care makes you feel like you're at dinner party with close friends more than your local pub.",
+      "reviewDate": "2026-10-09T01:35:34.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5913609075494490390",
       "reviewer": "Kim Fong",
