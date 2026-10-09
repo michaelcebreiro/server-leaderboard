@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-09T13:04:26.865Z",
-  "reviewCount": 23,
+  "fetchedAt": "2026-10-09T18:49:52.358Z",
+  "reviewCount": 24,
   "reviews": [
+    {
+      "reviewId": "5917462785494875051",
+      "reviewer": "Vince Valeriano",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-10-09T18:00:45.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "4520119735355697932",
       "reviewer": "Aidan Mallon",
