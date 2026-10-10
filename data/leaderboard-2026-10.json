@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-10T02:21:37.078Z",
-  "reviewCount": 24,
-  "qualifyingReviewCount": 24,
+  "processedAt": "2026-10-10T08:50:34.837Z",
+  "reviewCount": 26,
+  "qualifyingReviewCount": 26,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,62 +45,62 @@
     },
     {
       "rank": 7,
-      "server": "Jackie G",
+      "server": "Danielle",
       "count": 1
     },
     {
       "rank": 8,
-      "server": "Mia",
+      "server": "Jackie G",
       "count": 1
     },
     {
       "rank": 9,
+      "server": "Mia",
+      "count": 1
+    },
+    {
+      "rank": 10,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 17,
-      "server": "Daniel",
-      "count": 0
-    },
-    {
       "rank": 18,
-      "server": "Danielle",
+      "server": "Daniel",
       "count": 0
     },
     {
@@ -334,6 +334,18 @@
           "reviewer": "Dylan Cash",
           "text": "Everything was great, food was good, service was great, especially “Kalypsa & Maria”, they took well care of us throughout the night keeping the drinks flowing and overall just being so nice and accommodating",
           "date": "2026-10-01",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Danielle",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Rudy",
+          "text": "Danielle killed it.  Best server ever",
+          "date": "2026-10-10",
           "rating": 5
         }
       ]
