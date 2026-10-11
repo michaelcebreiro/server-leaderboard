@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-11T19:24:31.923Z",
-  "reviewCount": 28,
-  "qualifyingReviewCount": 28,
+  "processedAt": "2026-10-11T23:05:05.963Z",
+  "reviewCount": 29,
+  "qualifyingReviewCount": 29,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,13 +30,13 @@
     },
     {
       "rank": 4,
-      "server": "Derka",
+      "server": "Danielle",
       "count": 3
     },
     {
       "rank": 5,
-      "server": "Danielle",
-      "count": 2
+      "server": "Derka",
+      "count": 3
     },
     {
       "rank": 6,
@@ -340,7 +340,7 @@
     },
     {
       "server": "Danielle",
-      "count": 2,
+      "count": 3,
       "reviews": [
         {
           "reviewer": "Maliyah Rahemtulla",
@@ -351,6 +351,12 @@
         {
           "reviewer": "Rudy",
           "text": "Danielle killed it.  Best server ever",
+          "date": "2026-10-10",
+          "rating": 5
+        },
+        {
+          "reviewer": "Max Tremblay",
+          "text": "We had a fantastic time thank to Danielle and staff. She was friendly, amazing, attentive and funny",
           "date": "2026-10-10",
           "rating": 5
         }

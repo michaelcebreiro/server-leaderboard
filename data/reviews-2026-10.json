@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-11T19:24:31.867Z",
-  "reviewCount": 28,
+  "fetchedAt": "2026-10-11T23:05:05.877Z",
+  "reviewCount": 29,
   "reviews": [
     {
       "reviewId": "5928671045495994762",
@@ -33,6 +33,14 @@
       "rating": 5,
       "text": "",
       "reviewDate": "2026-10-10T02:13:15.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4311421305334893575",
+      "reviewer": "Max Tremblay",
+      "rating": 5,
+      "text": "We had a fantastic time thank to Danielle and staff. She was friendly, amazing, attentive and funny",
+      "reviewDate": "2026-10-10T02:12:44.000Z",
       "source": "GOOGLE"
     },
     {
