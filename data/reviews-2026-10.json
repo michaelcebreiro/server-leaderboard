@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-11T14:47:05.014Z",
-  "reviewCount": 27,
+  "fetchedAt": "2026-10-11T19:24:31.867Z",
+  "reviewCount": 28,
   "reviews": [
+    {
+      "reviewId": "5928671045495994762",
+      "reviewer": "Dawn",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-10-11T15:34:47.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5926288155495756627",
       "reviewer": "Maliyah Rahemtulla",
