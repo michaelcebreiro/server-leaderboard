@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-11T01:42:14.465Z",
-  "reviewCount": 26,
-  "qualifyingReviewCount": 26,
+  "processedAt": "2026-10-11T07:51:35.200Z",
+  "reviewCount": 27,
+  "qualifyingReviewCount": 27,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,17 +35,17 @@
     },
     {
       "rank": 5,
+      "server": "Danielle",
+      "count": 2
+    },
+    {
+      "rank": 6,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 6,
-      "server": "Christina",
-      "count": 1
-    },
-    {
       "rank": 7,
-      "server": "Danielle",
+      "server": "Christina",
       "count": 1
     },
     {
@@ -340,8 +340,14 @@
     },
     {
       "server": "Danielle",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Maliyah Rahemtulla",
+          "text": "Danielle was so amazing, and lovely. Had the best service, she rocked!",
+          "date": "2026-10-11",
+          "rating": 5
+        },
         {
           "reviewer": "Rudy",
           "text": "Danielle killed it.  Best server ever",

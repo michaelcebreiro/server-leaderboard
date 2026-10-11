@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-11T01:42:14.270Z",
-  "reviewCount": 26,
+  "fetchedAt": "2026-10-11T07:51:34.989Z",
+  "reviewCount": 27,
   "reviews": [
+    {
+      "reviewId": "5926288155495756627",
+      "reviewer": "Maliyah Rahemtulla",
+      "rating": 5,
+      "text": "Danielle was so amazing, and lovely. Had the best service, she rocked!",
+      "reviewDate": "2026-10-11T02:15:19.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5922019435495330292",
       "reviewer": "Rudy",
