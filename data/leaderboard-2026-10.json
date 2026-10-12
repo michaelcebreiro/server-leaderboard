@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-12T09:38:49.778Z",
-  "reviewCount": 29,
-  "qualifyingReviewCount": 29,
+  "processedAt": "2026-10-12T19:21:13.985Z",
+  "reviewCount": 35,
+  "qualifyingReviewCount": 35,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 6
+      "count": 8
     },
     {
       "rank": 2,
@@ -40,212 +40,212 @@
     },
     {
       "rank": 6,
+      "server": "Tomi",
+      "count": 2
+    },
+    {
+      "rank": 7,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Christina",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Mia",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Michael",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Norah",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 44,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 45,
+      "rank": 46,
       "server": "Sofie",
       "count": 0
     },
     {
-      "rank": 46,
-      "server": "Sydney",
-      "count": 0
-    },
-    {
       "rank": 47,
-      "server": "Tomi",
+      "server": "Sydney",
       "count": 0
     },
     {
@@ -298,8 +298,20 @@
     },
     {
       "server": "Maria",
-      "count": 6,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Mark Bystrek",
+          "text": "Maria was amazing. One of the best servers that I ever have had",
+          "date": "2026-10-11",
+          "rating": 5
+        },
+        {
+          "reviewer": "David Herrera",
+          "text": "Maria was an excellent host!",
+          "date": "2026-10-11",
+          "rating": 5
+        },
         {
           "reviewer": "Aidan Mallon",
           "text": "The atmosphere is lively, the drinks are cold, the food is delicious, and the staff are incredible. Maria is incredibly friendly, personable, and very professional. Her demeanor, and kindness makes you feel like more or a long time friend than a patron. A long with Nikola the manager, they are a dream team. Smiles, banter and sincere care makes you feel like you're at dinner party with close friends more than your local pub.",
@@ -454,6 +466,24 @@
           "reviewer": "Jordan Franks",
           "text": "Great spot to hit up for a drink and great service. Derks was lit and Jackie is da bomb",
           "date": "2026-10-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Tomi",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Henry Metcalfe",
+          "text": "Tomi was super nice and had great service. Very nice experience overall.",
+          "date": "2026-10-12",
+          "rating": 5
+        },
+        {
+          "reviewer": "Susan Metcalfe",
+          "text": "Great restaurant & Tomi  a fantastic waitress;-)",
+          "date": "2026-10-12",
           "rating": 5
         }
       ]
