@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-13T08:29:14.923Z",
-  "reviewCount": 35,
-  "qualifyingReviewCount": 35,
+  "processedAt": "2026-10-13T16:21:46.217Z",
+  "reviewCount": 38,
+  "qualifyingReviewCount": 38,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,23 +25,23 @@
     },
     {
       "rank": 3,
+      "server": "Tomi",
+      "count": 4
+    },
+    {
+      "rank": 4,
       "server": "Carolina",
       "count": 3
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Danielle",
       "count": 3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Derka",
       "count": 3
-    },
-    {
-      "rank": 6,
-      "server": "Tomi",
-      "count": 2
     },
     {
       "rank": 7,
@@ -472,7 +472,7 @@
     },
     {
       "server": "Tomi",
-      "count": 2,
+      "count": 4,
       "reviews": [
         {
           "reviewer": "Henry Metcalfe",
@@ -483,6 +483,18 @@
         {
           "reviewer": "Susan Metcalfe",
           "text": "Great restaurant & Tomi  a fantastic waitress;-)",
+          "date": "2026-10-12",
+          "rating": 5
+        },
+        {
+          "reviewer": "Evan Metcalfe",
+          "text": "Tomi was an excellent waitress. Always a blast coming here.",
+          "date": "2026-10-12",
+          "rating": 5
+        },
+        {
+          "reviewer": "Coralie Metcalfe",
+          "text": "Tomi was the best!",
           "date": "2026-10-12",
           "rating": 5
         }
