@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-14T15:30:45.260Z",
-  "reviewCount": 39,
-  "qualifyingReviewCount": 39,
+  "processedAt": "2026-10-14T19:42:40.317Z",
+  "reviewCount": 41,
+  "qualifyingReviewCount": 41,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 8
+      "count": 9
     },
     {
       "rank": 2,
@@ -45,202 +45,202 @@
     },
     {
       "rank": 7,
-      "server": "Akiko",
-      "count": 1
+      "server": "Meklit",
+      "count": 2
     },
     {
       "rank": 8,
-      "server": "Christina",
-      "count": 1
+      "server": "Mia",
+      "count": 2
     },
     {
       "rank": 9,
-      "server": "Jackie G",
+      "server": "Aisia",
       "count": 1
     },
     {
       "rank": 10,
-      "server": "Mia",
+      "server": "Akiko",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Aisia",
-      "count": 0
+      "server": "Annabel",
+      "count": 1
     },
     {
       "rank": 12,
+      "server": "Christina",
+      "count": 1
+    },
+    {
+      "rank": 13,
+      "server": "Jackie G",
+      "count": 1
+    },
+    {
+      "rank": 14,
+      "server": "Matteo",
+      "count": 1
+    },
+    {
+      "rank": 15,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 16,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 17,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 18,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 14,
-      "server": "Annabel",
-      "count": 0
-    },
-    {
-      "rank": 15,
+      "rank": 19,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 20,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 21,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 22,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 23,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 24,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 25,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 26,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 27,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 28,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 29,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 30,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 31,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 32,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 33,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 34,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 35,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 36,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 37,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 38,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 35,
-      "server": "Matteo",
-      "count": 0
-    },
-    {
-      "rank": 36,
+      "rank": 39,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 40,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 38,
-      "server": "Meklit",
-      "count": 0
-    },
-    {
-      "rank": 39,
+      "rank": 41,
       "server": "Michael",
       "count": 0
     },
     {
-      "rank": 40,
-      "server": "Nicky",
-      "count": 0
-    },
-    {
-      "rank": 41,
+      "rank": 42,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 44,
       "server": "Norah",
       "count": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 45,
-      "server": "Paulveen",
-      "count": 0
-    },
-    {
       "rank": 46,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 0
     },
     {
@@ -262,8 +262,14 @@
   "mentions": [
     {
       "server": "Mia",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Sofie Hambrook",
+          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+          "date": "2026-10-14",
+          "rating": 5
+        },
         {
           "reviewer": "LV Rael",
           "text": "Our Local spot. The vibe is lively. The food is consistently delicious. Our server, Mia, was outstanding, friendly and a stellar host.\n\nWhether Hubby and I are without kids around or taking the whole family with us, Local will always be our go-to.",
@@ -297,9 +303,27 @@
       ]
     },
     {
-      "server": "Maria",
-      "count": 8,
+      "server": "Annabel",
+      "count": 1,
       "reviews": [
+        {
+          "reviewer": "Sofie Hambrook",
+          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+          "date": "2026-10-14",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Maria",
+      "count": 9,
+      "reviews": [
+        {
+          "reviewer": "Sofie Hambrook",
+          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+          "date": "2026-10-14",
+          "rating": 5
+        },
         {
           "reviewer": "Mark Bystrek",
           "text": "Maria was amazing. One of the best servers that I ever have had",
@@ -351,6 +375,36 @@
       ]
     },
     {
+      "server": "Meklit",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Issy Doty",
+          "text": "Lovely service! Meklit was so kind and was a pleasure.",
+          "date": "2026-10-14",
+          "rating": 5
+        },
+        {
+          "reviewer": "Sofie Hambrook",
+          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+          "date": "2026-10-14",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Nicky",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sofie Hambrook",
+          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+          "date": "2026-10-14",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Danielle",
       "count": 3,
       "reviews": [
@@ -370,6 +424,30 @@
           "reviewer": "Max Tremblay",
           "text": "We had a fantastic time thank to Danielle and staff. She was friendly, amazing, attentive and funny",
           "date": "2026-10-10",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Sofie",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sofie Hambrook",
+          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+          "date": "2026-10-14",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Matteo",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sofie Hambrook",
+          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+          "date": "2026-10-14",
           "rating": 5
         }
       ]
@@ -466,6 +544,18 @@
           "reviewer": "Jordan Franks",
           "text": "Great spot to hit up for a drink and great service. Derks was lit and Jackie is da bomb",
           "date": "2026-10-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Aisia",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Sofie Hambrook",
+          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+          "date": "2026-10-14",
           "rating": 5
         }
       ]

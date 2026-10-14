@@ -1,8 +1,24 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-14T15:30:45.165Z",
-  "reviewCount": 39,
+  "fetchedAt": "2026-10-14T19:42:40.117Z",
+  "reviewCount": 41,
   "reviews": [
+    {
+      "reviewId": "5941726115497298144",
+      "reviewer": "Issy Doty",
+      "rating": 5,
+      "text": "Lovely service! Meklit was so kind and was a pleasure.",
+      "reviewDate": "2026-10-14T03:42:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5941726125497298145",
+      "reviewer": "Sofie Hambrook",
+      "rating": 5,
+      "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
+      "reviewDate": "2026-10-14T00:32:46.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5937379745496864332",
       "reviewer": "Graham",
