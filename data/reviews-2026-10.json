@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-14T19:42:40.117Z",
-  "reviewCount": 41,
+  "fetchedAt": "2026-10-14T22:40:57.596Z",
+  "reviewCount": 42,
   "reviews": [
+    {
+      "reviewId": "5942223285497347612",
+      "reviewer": "Toronto Moving Supplies",
+      "rating": 5,
+      "text": "Dirka was fantastic. Great service, very friendly and knowledgeable about the menu.",
+      "reviewDate": "2026-10-14T19:36:40.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5941726115497298144",
       "reviewer": "Issy Doty",
