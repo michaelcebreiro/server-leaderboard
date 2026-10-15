@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-15T19:19:17.891Z",
-  "reviewCount": 47,
+  "fetchedAt": "2026-10-15T22:35:57.303Z",
+  "reviewCount": 48,
   "reviews": [
+    {
+      "reviewId": "5945403525497664531",
+      "reviewer": "Adam Elliott",
+      "rating": 5,
+      "text": "Matthew did a great job serving my friend Dave and I over lunch.",
+      "reviewDate": "2026-10-15T20:27:34.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5944330145497557664",
       "reviewer": "Fred Anderson",
