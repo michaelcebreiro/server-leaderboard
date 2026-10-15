@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-15T10:21:49.026Z",
-  "reviewCount": 46,
+  "fetchedAt": "2026-10-15T15:15:59.190Z",
+  "reviewCount": 47,
   "reviews": [
+    {
+      "reviewId": "5944330145497557664",
+      "reviewer": "Fred Anderson",
+      "rating": 5,
+      "text": "Good foods, great time in a lovely neighborhood.",
+      "reviewDate": "2026-10-15T13:42:31.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5700689705473251497",
       "reviewer": "Andriana Hountalas",
