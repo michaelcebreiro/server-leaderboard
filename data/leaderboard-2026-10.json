@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-15T00:55:51.524Z",
-  "reviewCount": 42,
-  "qualifyingReviewCount": 42,
+  "processedAt": "2026-10-15T05:44:12.135Z",
+  "reviewCount": 46,
+  "qualifyingReviewCount": 46,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,28 +25,28 @@
     },
     {
       "rank": 3,
-      "server": "Tomi",
+      "server": "Meklit",
       "count": 4
     },
     {
       "rank": 4,
+      "server": "Tomi",
+      "count": 4
+    },
+    {
+      "rank": 5,
       "server": "Carolina",
       "count": 3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Danielle",
       "count": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Derka",
       "count": 3
-    },
-    {
-      "rank": 7,
-      "server": "Meklit",
-      "count": 2
     },
     {
       "rank": 8,
@@ -80,142 +80,142 @@
     },
     {
       "rank": 14,
-      "server": "Matteo",
+      "server": "Karina",
       "count": 1
     },
     {
       "rank": 15,
-      "server": "Nicky",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Sofie",
+      "server": "Michael",
       "count": 1
     },
     {
       "rank": 17,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 18,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 19,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 23,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 24,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 26,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 27,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 28,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 29,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 30,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 31,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 32,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 33,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 34,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 35,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 36,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 35,
-      "server": "Karina",
-      "count": 0
-    },
-    {
-      "rank": 36,
+      "rank": 37,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 40,
-      "server": "Max",
-      "count": 0
-    },
-    {
       "rank": 41,
-      "server": "Michael",
+      "server": "Max",
       "count": 0
     },
     {
@@ -286,6 +286,18 @@
           "reviewer": "Kim Fong",
           "text": "Akiko was great.  Very attentive.\nThanks for making a great night!",
           "date": "2026-10-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Karina",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jvillvin",
+          "text": "Will, Karina, Michael and Meklit were an absolute delight",
+          "date": "2026-10-15",
           "rating": 5
         }
       ]
@@ -376,8 +388,20 @@
     },
     {
       "server": "Meklit",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Andriana Hountalas",
+          "text": "Meklit and Will were great servers. Amazing and friendly service, drinks came out quick and they were super kind!!",
+          "date": "2026-10-15",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jvillvin",
+          "text": "Will, Karina, Michael and Meklit were an absolute delight",
+          "date": "2026-10-15",
+          "rating": 5
+        },
         {
           "reviewer": "Issy Doty",
           "text": "Lovely service! Meklit was so kind and was a pleasure.",
@@ -556,6 +580,18 @@
           "reviewer": "Sofie Hambrook",
           "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
           "date": "2026-10-14",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Michael",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jvillvin",
+          "text": "Will, Karina, Michael and Meklit were an absolute delight",
+          "date": "2026-10-15",
           "rating": 5
         }
       ]

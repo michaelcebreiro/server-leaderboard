@@ -1,8 +1,40 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-15T00:55:51.453Z",
-  "reviewCount": 42,
+  "fetchedAt": "2026-10-15T05:44:12.065Z",
+  "reviewCount": 46,
   "reviews": [
+    {
+      "reviewId": "5700689705473251497",
+      "reviewer": "Andriana Hountalas",
+      "rating": 5,
+      "text": "Meklit and Will were great servers. Amazing and friendly service, drinks came out quick and they were super kind!!",
+      "reviewDate": "2026-10-15T03:46:07.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5943511925497476014",
+      "reviewer": "Jvillvin",
+      "rating": 5,
+      "text": "Will, Karina, Michael and Meklit were an absolute delight",
+      "reviewDate": "2026-10-15T03:45:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327625425436101054",
+      "reviewer": "Maahir Paliwal",
+      "rating": 5,
+      "text": "Welcomed by our waiter Will. Super hospitable, great service. For sure coming back again!!!",
+      "reviewDate": "2026-10-15T01:18:54.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5943294405497454344",
+      "reviewer": "Ryan Moffat",
+      "rating": 5,
+      "text": "Will was unreal. Floating around the table a perfect amount don’t think I went without a beer in my hand. Great dude",
+      "reviewDate": "2026-10-15T01:17:57.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5942223285497347612",
       "reviewer": "Toronto Moving Supplies",
