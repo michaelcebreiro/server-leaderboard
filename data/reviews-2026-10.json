@@ -1,8 +1,32 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-15T22:35:57.303Z",
-  "reviewCount": 48,
+  "fetchedAt": "2026-10-16T00:47:08.825Z",
+  "reviewCount": 51,
   "reviews": [
+    {
+      "reviewId": "5945883975497712344",
+      "reviewer": "Ares Rose",
+      "rating": 5,
+      "text": "Micheal and Maria were amazing. Exceeded expectations.",
+      "reviewDate": "2026-10-16T00:10:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5945883145497712262",
+      "reviewer": "Miles Singh",
+      "rating": 5,
+      "text": "Michael and Maria were great fantastic service 10/10",
+      "reviewDate": "2026-10-16T00:10:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5945695995497693633",
+      "reviewer": "carlos ayala",
+      "rating": 5,
+      "text": "We had a really great time. Service was great. Food was great as well. Will be back for sure!",
+      "reviewDate": "2026-10-15T22:57:34.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5945403525497664531",
       "reviewer": "Adam Elliott",

@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-15T22:35:57.514Z",
-  "reviewCount": 48,
-  "qualifyingReviewCount": 48,
+  "processedAt": "2026-10-16T00:47:08.921Z",
+  "reviewCount": 51,
+  "qualifyingReviewCount": 51,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 9
+      "count": 11
     },
     {
       "rank": 2,
@@ -55,47 +55,47 @@
     },
     {
       "rank": 9,
+      "server": "Michael",
+      "count": 2
+    },
+    {
+      "rank": 10,
       "server": "Aisia",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Christina",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Karina",
       "count": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 16,
-      "server": "Matthew",
-      "count": 1
-    },
-    {
       "rank": 17,
-      "server": "Michael",
+      "server": "Matthew",
       "count": 1
     },
     {
@@ -328,8 +328,20 @@
     },
     {
       "server": "Maria",
-      "count": 9,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Ares Rose",
+          "text": "Micheal and Maria were amazing. Exceeded expectations.",
+          "date": "2026-10-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "Miles Singh",
+          "text": "Michael and Maria were great fantastic service 10/10",
+          "date": "2026-10-16",
+          "rating": 5
+        },
         {
           "reviewer": "Sofie Hambrook",
           "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
@@ -598,8 +610,14 @@
     },
     {
       "server": "Michael",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Miles Singh",
+          "text": "Michael and Maria were great fantastic service 10/10",
+          "date": "2026-10-16",
+          "rating": 5
+        },
         {
           "reviewer": "Jvillvin",
           "text": "Will, Karina, Michael and Meklit were an absolute delight",
