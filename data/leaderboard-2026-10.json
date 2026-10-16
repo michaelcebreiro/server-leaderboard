@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-16T10:07:19.102Z",
-  "reviewCount": 51,
-  "qualifyingReviewCount": 51,
+  "processedAt": "2026-10-16T14:52:12.944Z",
+  "reviewCount": 54,
+  "qualifyingReviewCount": 54,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Maria",
-      "count": 11
+      "count": 13
     },
     {
       "rank": 2,
@@ -328,8 +328,20 @@
     },
     {
       "server": "Maria",
-      "count": 11,
+      "count": 13,
       "reviews": [
+        {
+          "reviewer": "Alex",
+          "text": "Maria was a great server. Very kind and very helpful.",
+          "date": "2026-10-16",
+          "rating": 4
+        },
+        {
+          "reviewer": "Jeoffrey “JP” Arzaga",
+          "text": "Maria was an amazing hostess",
+          "date": "2026-10-16",
+          "rating": 5
+        },
         {
           "reviewer": "Ares Rose",
           "text": "Micheal and Maria were amazing. Exceeded expectations.",

@@ -1,8 +1,32 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-16T10:07:19.002Z",
-  "reviewCount": 51,
+  "fetchedAt": "2026-10-16T14:52:12.848Z",
+  "reviewCount": 54,
   "reviews": [
+    {
+      "reviewId": "5946916955497815388",
+      "reviewer": "Jo L",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-10-16T03:12:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5946916964497815389",
+      "reviewer": "Alex",
+      "rating": 4,
+      "text": "Maria was a great server. Very kind and very helpful.",
+      "reviewDate": "2026-10-16T02:17:55.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5946916975497815390",
+      "reviewer": "Jeoffrey “JP” Arzaga",
+      "rating": 5,
+      "text": "Maria was an amazing hostess",
+      "reviewDate": "2026-10-16T01:11:28.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5945883975497712344",
       "reviewer": "Ares Rose",
