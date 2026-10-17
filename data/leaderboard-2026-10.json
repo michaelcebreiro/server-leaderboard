@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-16T23:57:08.284Z",
-  "reviewCount": 55,
-  "qualifyingReviewCount": 55,
+  "processedAt": "2026-10-17T04:09:15.768Z",
+  "reviewCount": 58,
+  "qualifyingReviewCount": 58,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,57 +25,57 @@
     },
     {
       "rank": 3,
-      "server": "Meklit",
+      "server": "Christina",
       "count": 4
     },
     {
       "rank": 4,
-      "server": "Tomi",
+      "server": "Meklit",
       "count": 4
     },
     {
       "rank": 5,
+      "server": "Tomi",
+      "count": 4
+    },
+    {
+      "rank": 6,
       "server": "Carolina",
       "count": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Danielle",
       "count": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Derka",
       "count": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Mia",
       "count": 2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Michael",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Aisia",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 12,
-      "server": "Annabel",
-      "count": 1
-    },
-    {
       "rank": 13,
-      "server": "Christina",
+      "server": "Annabel",
       "count": 1
     },
     {
@@ -304,8 +304,26 @@
     },
     {
       "server": "Christina",
-      "count": 1,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Stephan Bosevski",
+          "text": "Enjoyed the visit the other night! Huge shoutout to Christina for taking care of us! 🇲🇰🤝🏻🇬🇷",
+          "date": "2026-10-17",
+          "rating": 5
+        },
+        {
+          "reviewer": "Stefano Fermo-Calla",
+          "text": "I ate here with my friend and everything was amazing. Christina provided really good service and was very friendly and welcoming . Will definitely be coming back!",
+          "date": "2026-10-17",
+          "rating": 5
+        },
+        {
+          "reviewer": "Omar Sara",
+          "text": "Christina was great! Very friendly, provided great recommendations (try the wings they were 10/10) and constantly checked up on us to make sure we were having a great experience!!",
+          "date": "2026-10-17",
+          "rating": 5
+        },
         {
           "reviewer": "Andrew Varghese",
           "text": "Local is always a lovely place to visit with great food and Christina was a great server. Will definitely come back!",

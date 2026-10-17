@@ -1,8 +1,32 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-16T23:57:08.192Z",
-  "reviewCount": 55,
+  "fetchedAt": "2026-10-17T04:09:15.699Z",
+  "reviewCount": 58,
   "reviews": [
+    {
+      "reviewId": "5950091205498131983",
+      "reviewer": "Stephan Bosevski",
+      "rating": 5,
+      "text": "Enjoyed the visit the other night! Huge shoutout to Christina for taking care of us! 🇲🇰🤝🏻🇬🇷",
+      "reviewDate": "2026-10-17T03:07:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5949801995498103085",
+      "reviewer": "Stefano Fermo-Calla",
+      "rating": 5,
+      "text": "I ate here with my friend and everything was amazing. Christina provided really good service and was very friendly and welcoming . Will definitely be coming back!",
+      "reviewDate": "2026-10-17T02:11:59.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5949801615498103047",
+      "reviewer": "Omar Sara",
+      "rating": 5,
+      "text": "Christina was great! Very friendly, provided great recommendations (try the wings they were 10/10) and constantly checked up on us to make sure we were having a great experience!!",
+      "reviewDate": "2026-10-17T02:06:04.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5948814605498004669",
       "reviewer": "DIANNE",
