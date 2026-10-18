@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-18T00:50:19.161Z",
-  "reviewCount": 58,
+  "fetchedAt": "2026-10-18T05:34:28.193Z",
+  "reviewCount": 59,
   "reviews": [
+    {
+      "reviewId": "5954224335498544748",
+      "reviewer": "Kevin George",
+      "rating": 5,
+      "text": "They weren’t kidding when suggesting the banana cream pie was a must order! Delicious.\n\nWas wowed less by the cesar salad. Probably just a taste palette preference. Loved the crouton texture though.\n\nCompanions enjoyed their salmon and burger.\n\nService was excellent. Was nice to see that it was a shared effort across all team members. A bit concerned at first about the number of high top tables but fortunately we were seated at a circular booth.\n\nLooking forward to returning to try some other menu items. And maybe even participate in trivia night!",
+      "reviewDate": "2026-10-18T04:27:16.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5950091205498131983",
       "reviewer": "Stephan Bosevski",
