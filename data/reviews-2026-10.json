@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-18T17:10:21.336Z",
-  "reviewCount": 59,
+  "fetchedAt": "2026-10-18T19:26:03.119Z",
+  "reviewCount": 60,
   "reviews": [
+    {
+      "reviewId": "5327629705436101481",
+      "reviewer": "Nick Jako",
+      "rating": 5,
+      "text": "First bad experience at the Local after many good ones.  Seated upstairs  and jammed together on what appears to be patio furniture.  There's no space to get by.  Really loud making conversation difficult.   Service was poor though likely more due to staffing as opposed to lack of effort of the staff that was there.  Food was good though served lukewarm...due to noted staffing issues?  All in all less than \"good\" experience.",
+      "reviewDate": "2026-10-18T18:20:47.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5954224335498544748",
       "reviewer": "Kevin George",
