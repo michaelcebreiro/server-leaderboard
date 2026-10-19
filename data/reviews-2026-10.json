@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-19T14:59:24.968Z",
-  "reviewCount": 61,
+  "fetchedAt": "2026-10-19T20:31:32.323Z",
+  "reviewCount": 62,
   "reviews": [
+    {
+      "reviewId": "5956575775498779200",
+      "reviewer": "Arun Kanthavel",
+      "rating": 5,
+      "text": "Paulveen was our server last night for our first time at the restaurant! She was super sweet and provided exceptional service!",
+      "reviewDate": "2026-10-19T18:16:00.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5954906655498612749",
       "reviewer": "Alexander Szymanowski",

@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-19T14:59:25.035Z",
-  "reviewCount": 61,
-  "qualifyingReviewCount": 61,
+  "processedAt": "2026-10-19T20:31:32.406Z",
+  "reviewCount": 62,
+  "qualifyingReviewCount": 62,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -105,142 +105,142 @@
     },
     {
       "rank": 19,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 20,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 21,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 44,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "server": "Norah",
       "count": 0
     },
     {
-      "rank": 45,
-      "server": "Paige",
-      "count": 0
-    },
-    {
       "rank": 46,
-      "server": "Paulveen",
+      "server": "Paige",
       "count": 0
     },
     {
@@ -526,6 +526,18 @@
           "reviewer": "Jordan Franks",
           "text": "Great spot to hit up for a drink and great service. Derks was lit and Jackie is da bomb",
           "date": "2026-10-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Paulveen",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Arun Kanthavel",
+          "text": "Paulveen was our server last night for our first time at the restaurant! She was super sweet and provided exceptional service!",
+          "date": "2026-10-19",
           "rating": 5
         }
       ]
