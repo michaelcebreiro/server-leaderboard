@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-20T14:30:07.481Z",
-  "reviewCount": 64,
+  "fetchedAt": "2026-10-20T18:40:39.259Z",
+  "reviewCount": 65,
   "reviews": [
+    {
+      "reviewId": "5965594623499680308",
+      "reviewer": "ssarkhosh",
+      "rating": 3,
+      "text": "The restaurant still has a great atmosphere and excellent staff, which keeps the experience enjoyable. However, the food quality has noticeably decreased compared to a few years ago, especially the burgers that once made this place stand out.",
+      "reviewDate": "2026-10-20T18:00:42.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5961746905499295935",
       "reviewer": "dave coms",
