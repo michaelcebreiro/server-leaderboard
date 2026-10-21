@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-21T15:30:09.553Z",
-  "reviewCount": 66,
-  "qualifyingReviewCount": 65,
+  "processedAt": "2026-10-21T19:32:33.638Z",
+  "reviewCount": 72,
+  "qualifyingReviewCount": 71,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,38 +20,38 @@
     },
     {
       "rank": 2,
+      "server": "Tomi",
+      "count": 8
+    },
+    {
+      "rank": 3,
       "server": "Kalypsa",
       "count": 5
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Christina",
       "count": 4
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Derka",
       "count": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Meklit",
       "count": 4
     },
     {
-      "rank": 6,
-      "server": "Tomi",
-      "count": 4
-    },
-    {
       "rank": 7,
-      "server": "Carolina",
+      "server": "Danielle",
       "count": 3
     },
     {
       "rank": 8,
-      "server": "Danielle",
-      "count": 3
+      "server": "Carolina",
+      "count": 2
     },
     {
       "rank": 9,
@@ -580,7 +580,7 @@
     },
     {
       "server": "Carolina",
-      "count": 3,
+      "count": 2,
       "reviews": [
         {
           "reviewer": "Jordan M",
@@ -591,12 +591,6 @@
         {
           "reviewer": "Alexander Palumbo",
           "text": "Carolina was excellent - she provided great service and was extremely welcoming.",
-          "date": "2026-10-07",
-          "rating": 5
-        },
-        {
-          "reviewer": "Kurt K",
-          "text": "Caro was kind, attentive and provided excellent customer service. We'll be back!",
           "date": "2026-10-07",
           "rating": 5
         }
@@ -676,8 +670,32 @@
     },
     {
       "server": "Tomi",
-      "count": 4,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Roger Singh",
+          "text": "Tomi was amazing",
+          "date": "2026-10-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Steve Sexton",
+          "text": "Great service Tomi",
+          "date": "2026-10-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jason Clarke",
+          "text": "Tomi was great!",
+          "date": "2026-10-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kurt K",
+          "text": "Tomi was kind, attentive and provided excellent customer service. We'll be back!",
+          "date": "2026-10-21",
+          "rating": 5
+        },
         {
           "reviewer": "Henry Metcalfe",
           "text": "Tomi was super nice and had great service. Very nice experience overall.",
