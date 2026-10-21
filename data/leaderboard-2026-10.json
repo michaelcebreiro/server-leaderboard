@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-20T21:54:57.615Z",
-  "reviewCount": 65,
-  "qualifyingReviewCount": 64,
+  "processedAt": "2026-10-21T00:27:09.051Z",
+  "reviewCount": 66,
+  "qualifyingReviewCount": 65,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,27 +30,27 @@
     },
     {
       "rank": 4,
-      "server": "Meklit",
+      "server": "Derka",
       "count": 4
     },
     {
       "rank": 5,
-      "server": "Tomi",
+      "server": "Meklit",
       "count": 4
     },
     {
       "rank": 6,
+      "server": "Tomi",
+      "count": 4
+    },
+    {
+      "rank": 7,
       "server": "Carolina",
       "count": 3
     },
     {
-      "rank": 7,
-      "server": "Danielle",
-      "count": 3
-    },
-    {
       "rank": 8,
-      "server": "Derka",
+      "server": "Danielle",
       "count": 3
     },
     {
@@ -604,8 +604,14 @@
     },
     {
       "server": "Derka",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Jas N",
+          "text": "We were served by Derks.  She was awesome.  Gave such great service.  She was pleasant and engaged so well with our grandson.  We loved the experience.",
+          "date": "2026-10-20",
+          "rating": 5
+        },
         {
           "reviewer": "Amadou Sylla",
           "text": "Amazing spot!\nPerfectly taken care of by Derks!",

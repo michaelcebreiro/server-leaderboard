@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-20T21:54:57.507Z",
-  "reviewCount": 65,
+  "fetchedAt": "2026-10-21T00:27:08.943Z",
+  "reviewCount": 66,
   "reviews": [
+    {
+      "reviewId": "5966872075499807743",
+      "reviewer": "Jas N",
+      "rating": 5,
+      "text": "We were served by Derks.  She was awesome.  Gave such great service.  She was pleasant and engaged so well with our grandson.  We loved the experience.",
+      "reviewDate": "2026-10-20T23:07:11.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5965594623499680308",
       "reviewer": "ssarkhosh",
