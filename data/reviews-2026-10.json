@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-22T17:30:09.160Z",
-  "reviewCount": 75,
+  "fetchedAt": "2026-10-22T20:49:40.274Z",
+  "reviewCount": 76,
   "reviews": [
+    {
+      "reviewId": "5971236085500242531",
+      "reviewer": "Bob D",
+      "rating": 5,
+      "text": "We have had lunch numerous times at the LOCAL.  We meet up with a friend who has a dog, and their patio is dog-friendly.   The patio is lovely and despite being adjacent to a busy street (Laird) it feels quiet and secluded.  Nice big umbrellas and trees to provide lots of shade.  Great menu of delicious items.",
+      "reviewDate": "2026-10-22T19:11:23.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5970867995500205900",
       "reviewer": "Charles",
