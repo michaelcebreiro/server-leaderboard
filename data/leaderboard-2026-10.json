@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-22T01:21:47.806Z",
-  "reviewCount": 72,
-  "qualifyingReviewCount": 71,
+  "processedAt": "2026-10-22T06:27:43.301Z",
+  "reviewCount": 74,
+  "qualifyingReviewCount": 72,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Tomi",
-      "count": 8
+      "count": 9
     },
     {
       "rank": 3,
@@ -670,8 +670,14 @@
     },
     {
       "server": "Tomi",
-      "count": 8,
+      "count": 9,
       "reviews": [
+        {
+          "reviewer": "Cayla Tverberg",
+          "text": "I came to eat earlier today with my friend and still thinking about the positive experience I had so thought I’d share. I am totally astounded by the service Tomi provided for me and my friends! From the beginning it felt like we’d been friends for ages! She recommended dishes for all of us and made my friend who is celiac and usually anxious at restaurants feel extremely comfortable and relaxed. I can say wholeheartedly I have never had service quite like this. Thank you Tomi and can’t wait to go to Local Leaside again soon!",
+          "date": "2026-10-22",
+          "rating": 5
+        },
         {
           "reviewer": "Roger Singh",
           "text": "Tomi was amazing",

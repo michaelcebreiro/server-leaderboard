@@ -1,8 +1,24 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-22T01:21:47.714Z",
-  "reviewCount": 72,
+  "fetchedAt": "2026-10-22T06:27:43.204Z",
+  "reviewCount": 74,
   "reviews": [
+    {
+      "reviewId": "5969820065500101420",
+      "reviewer": "Cayla Tverberg",
+      "rating": 5,
+      "text": "I came to eat earlier today with my friend and still thinking about the positive experience I had so thought I’d share. I am totally astounded by the service Tomi provided for me and my friends! From the beginning it felt like we’d been friends for ages! She recommended dishes for all of us and made my friend who is celiac and usually anxious at restaurants feel extremely comfortable and relaxed. I can say wholeheartedly I have never had service quite like this. Thank you Tomi and can’t wait to go to Local Leaside again soon!",
+      "reviewDate": "2026-10-22T03:44:53.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5555453213458789736",
+      "reviewer": "Mohammad Ei",
+      "rating": 3,
+      "text": "The atmosphere was great, but the service was really disappointing. We had to wait about 20 minutes just to place our order, and then the server came back 15 minutes later only to realize they had completely forgotten it. We went on a weekday, and they were definitely understaffed.\nUpdate: The service was better on this visit, and changed the review from 2 to 3 star.",
+      "reviewDate": "2026-10-22T01:27:31.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5968841675500004073",
       "reviewer": "Roger Singh",
