@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-24T16:50:32.110Z",
-  "reviewCount": 78,
+  "fetchedAt": "2026-10-24T19:19:29.993Z",
+  "reviewCount": 79,
   "reviews": [
+    {
+      "reviewId": "5975517095500668845",
+      "reviewer": "JENNIFER",
+      "rating": 5,
+      "text": "Always a 'local' favourite with the family. Maria and Will are awesome servers. Super friendly and great service. Thank you.",
+      "reviewDate": "2026-10-24T15:39:32.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5973915375500509526",
       "reviewer": "Paula",
