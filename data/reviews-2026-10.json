@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-24T19:19:29.993Z",
-  "reviewCount": 79,
+  "fetchedAt": "2026-10-24T21:47:07.102Z",
+  "reviewCount": 80,
   "reviews": [
+    {
+      "reviewId": "5975685725500685623",
+      "reviewer": "Simon H",
+      "rating": 5,
+      "text": "Danielle was a fantastic server!",
+      "reviewDate": "2026-10-24T20:10:53.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5975517095500668845",
       "reviewer": "JENNIFER",

@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-24T19:19:30.057Z",
-  "reviewCount": 79,
-  "qualifyingReviewCount": 77,
+  "processedAt": "2026-10-24T21:47:07.220Z",
+  "reviewCount": 80,
+  "qualifyingReviewCount": 78,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,18 +35,18 @@
     },
     {
       "rank": 5,
-      "server": "Derka",
+      "server": "Danielle",
       "count": 4
     },
     {
       "rank": 6,
-      "server": "Meklit",
+      "server": "Derka",
       "count": 4
     },
     {
       "rank": 7,
-      "server": "Danielle",
-      "count": 3
+      "server": "Meklit",
+      "count": 4
     },
     {
       "rank": 8,
@@ -478,8 +478,14 @@
     },
     {
       "server": "Danielle",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Simon H",
+          "text": "Danielle was a fantastic server!",
+          "date": "2026-10-24",
+          "rating": 5
+        },
         {
           "reviewer": "Maliyah Rahemtulla",
           "text": "Danielle was so amazing, and lovely. Had the best service, she rocked!",
