@@ -1,8 +1,56 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-25T00:06:38.787Z",
-  "reviewCount": 80,
+  "fetchedAt": "2026-10-25T04:44:32.735Z",
+  "reviewCount": 86,
   "reviews": [
+    {
+      "reviewId": "5976116925500728563",
+      "reviewer": "Emily Ferreira",
+      "rating": 5,
+      "text": "Derka was the best server ever! She was very a tentative and helped us with picking things to have when we had trouble on picking what to get. The pour on was the best part of the night! 10/10!",
+      "reviewDate": "2026-10-25T03:42:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5976116795500728551",
+      "reviewer": "Isabelle Daguiar",
+      "rating": 5,
+      "text": "Derka was an amazing server! She made sure we had everything and always checked in on us! Had a great time here. Would recommend this place to anyone looking for good food and drinks :)",
+      "reviewDate": "2026-10-25T03:41:52.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5362886335439609441",
+      "reviewer": "Iman Rawji",
+      "rating": 5,
+      "text": "Matteo and Derka were awesome!  food was outstanding as always.  Amazing service as well!   Loved it and great experience!",
+      "reviewDate": "2026-10-25T03:19:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327653425436103852",
+      "reviewer": "Rubina Manji-Rawji",
+      "rating": 5,
+      "text": "Matteo and Dharka  were  amazing.   Really took care of of us.    was super friendly  and very good service.",
+      "reviewDate": "2026-10-25T03:19:45.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5976149895500731851",
+      "reviewer": "Rubina",
+      "rating": 5,
+      "text": "Dharka was really good and friendly   Very good service",
+      "reviewDate": "2026-10-25T03:17:18.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "5976005025500717421",
+      "reviewer": "Roseanne",
+      "rating": 5,
+      "text": "Amazing customer service from our server Eli! My girls enjoyed their birthday AND their first time at Local Leaside. We loved the food!",
+      "reviewDate": "2026-10-24T23:57:35.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "5975685725500685623",
       "reviewer": "Simon H",

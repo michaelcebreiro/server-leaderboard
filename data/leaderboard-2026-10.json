@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-25T00:06:38.967Z",
-  "reviewCount": 80,
-  "qualifyingReviewCount": 78,
+  "processedAt": "2026-10-25T04:44:32.922Z",
+  "reviewCount": 86,
+  "qualifyingReviewCount": 84,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,22 +25,22 @@
     },
     {
       "rank": 3,
+      "server": "Derka",
+      "count": 7
+    },
+    {
+      "rank": 4,
       "server": "Kalypsa",
       "count": 5
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Christina",
       "count": 4
     },
     {
-      "rank": 5,
-      "server": "Danielle",
-      "count": 4
-    },
-    {
       "rank": 6,
-      "server": "Derka",
+      "server": "Danielle",
       "count": 4
     },
     {
@@ -50,112 +50,112 @@
     },
     {
       "rank": 8,
+      "server": "Matteo",
+      "count": 3
+    },
+    {
+      "rank": 9,
       "server": "Carolina",
       "count": 2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Mia",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Michael",
       "count": 2
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Aisia",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 14,
-      "server": "Jackie G",
-      "count": 1
-    },
-    {
       "rank": 15,
-      "server": "Karina",
+      "server": "Eli",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Matteo",
+      "server": "Jackie G",
       "count": 1
     },
     {
       "rank": 17,
-      "server": "Matthew",
+      "server": "Karina",
       "count": 1
     },
     {
       "rank": 18,
-      "server": "Nicky",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 19,
-      "server": "Paulveen",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 20,
-      "server": "Sofie",
+      "server": "Paulveen",
       "count": 1
     },
     {
       "rank": 21,
+      "server": "Sofie",
+      "count": 1
+    },
+    {
+      "rank": 22,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 28,
-      "server": "Elaiza",
-      "count": 0
-    },
-    {
       "rank": 29,
-      "server": "Eli",
+      "server": "Elaiza",
       "count": 0
     },
     {
@@ -520,8 +520,20 @@
     },
     {
       "server": "Matteo",
-      "count": 1,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Iman Rawji",
+          "text": "Matteo and Derka were awesome!  food was outstanding as always.  Amazing service as well!   Loved it and great experience!",
+          "date": "2026-10-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rubina Manji-Rawji",
+          "text": "Matteo and Dharka  were  amazing.   Really took care of of us.    was super friendly  and very good service.",
+          "date": "2026-10-25",
+          "rating": 5
+        },
         {
           "reviewer": "Sofie Hambrook",
           "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
@@ -538,6 +550,18 @@
           "reviewer": "Jordan Franks",
           "text": "Great spot to hit up for a drink and great service. Derks was lit and Jackie is da bomb",
           "date": "2026-10-08",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Eli",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Roseanne",
+          "text": "Amazing customer service from our server Eli! My girls enjoyed their birthday AND their first time at Local Leaside. We loved the food!",
+          "date": "2026-10-24",
           "rating": 5
         }
       ]
@@ -610,8 +634,26 @@
     },
     {
       "server": "Derka",
-      "count": 4,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "Emily Ferreira",
+          "text": "Derka was the best server ever! She was very a tentative and helped us with picking things to have when we had trouble on picking what to get. The pour on was the best part of the night! 10/10!",
+          "date": "2026-10-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Isabelle Daguiar",
+          "text": "Derka was an amazing server! She made sure we had everything and always checked in on us! Had a great time here. Would recommend this place to anyone looking for good food and drinks :)",
+          "date": "2026-10-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Iman Rawji",
+          "text": "Matteo and Derka were awesome!  food was outstanding as always.  Amazing service as well!   Loved it and great experience!",
+          "date": "2026-10-25",
+          "rating": 5
+        },
         {
           "reviewer": "Jas N",
           "text": "We were served by Derks.  She was awesome.  Gave such great service.  She was pleasant and engaged so well with our grandson.  We loved the experience.",
