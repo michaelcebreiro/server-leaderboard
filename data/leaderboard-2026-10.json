@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-25T04:44:32.922Z",
-  "reviewCount": 86,
-  "qualifyingReviewCount": 84,
+  "processedAt": "2026-10-25T09:26:39.097Z",
+  "reviewCount": 89,
+  "qualifyingReviewCount": 87,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,13 +20,13 @@
     },
     {
       "rank": 2,
-      "server": "Tomi",
+      "server": "Derka",
       "count": 9
     },
     {
       "rank": 3,
-      "server": "Derka",
-      "count": 7
+      "server": "Tomi",
+      "count": 9
     },
     {
       "rank": 4,
@@ -634,8 +634,20 @@
     },
     {
       "server": "Derka",
-      "count": 7,
+      "count": 9,
       "reviews": [
+        {
+          "reviewer": "Lorgen Hali",
+          "text": "Great place to get some food, watch sports and have a good time with friends and family. Atmosphere is excellent. Lots of different options for food and drinks! Derks is a excellent server as well, attentive and friendly.",
+          "date": "2026-10-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Pai Zuri",
+          "text": "Beautiful establishment with a lively atmosphere, timely and attentive service, and tasty drinks!\n\nAnd proper thanks to our waitress, Derks, she was amazing when me and my friend’s visited! Friendly, attentive, and a wonderful waitress. Would highly recommend this establishment to anyone considering visiting a bar or eatery within the Leaside general area.",
+          "date": "2026-10-25",
+          "rating": 5
+        },
         {
           "reviewer": "Emily Ferreira",
           "text": "Derka was the best server ever! She was very a tentative and helped us with picking things to have when we had trouble on picking what to get. The pour on was the best part of the night! 10/10!",

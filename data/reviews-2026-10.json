@@ -1,8 +1,32 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-25T04:44:32.735Z",
-  "reviewCount": 86,
+  "fetchedAt": "2026-10-25T09:26:38.901Z",
+  "reviewCount": 89,
   "reviews": [
+    {
+      "reviewId": "5976372675500754115",
+      "reviewer": "Alex Kioulmetis",
+      "rating": 5,
+      "text": "Great service & food",
+      "reviewDate": "2026-10-25T05:35:06.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5976373375500754185",
+      "reviewer": "Lorgen Hali",
+      "rating": 5,
+      "text": "Great place to get some food, watch sports and have a good time with friends and family. Atmosphere is excellent. Lots of different options for food and drinks! Derks is a excellent server as well, attentive and friendly.",
+      "reviewDate": "2026-10-25T05:31:15.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5976372955500754143",
+      "reviewer": "Pai Zuri",
+      "rating": 5,
+      "text": "Beautiful establishment with a lively atmosphere, timely and attentive service, and tasty drinks!\n\nAnd proper thanks to our waitress, Derks, she was amazing when me and my friend’s visited! Friendly, attentive, and a wonderful waitress. Would highly recommend this establishment to anyone considering visiting a bar or eatery within the Leaside general area.",
+      "reviewDate": "2026-10-25T05:30:47.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5976116925500728563",
       "reviewer": "Emily Ferreira",
