@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-25T19:58:14.716Z",
-  "reviewCount": 89,
+  "fetchedAt": "2026-10-25T22:26:54.584Z",
+  "reviewCount": 90,
   "reviews": [
+    {
+      "reviewId": "5977417045500858268",
+      "reviewer": "Cassandra Bovell",
+      "rating": 5,
+      "text": "Had such an amazing time dining at Locals! Our server, Derka, truly made our night memorable with her exceptional service! We’ll definitely be coming back and hope to have her as our server again!",
+      "reviewDate": "2026-10-25T21:14:10.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5976372675500754115",
       "reviewer": "Alex Kioulmetis",

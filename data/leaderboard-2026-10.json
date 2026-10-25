@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-25T19:58:14.786Z",
-  "reviewCount": 89,
-  "qualifyingReviewCount": 87,
+  "processedAt": "2026-10-25T22:26:54.659Z",
+  "reviewCount": 90,
+  "qualifyingReviewCount": 88,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Derka",
-      "count": 9
+      "count": 10
     },
     {
       "rank": 3,
@@ -120,137 +120,137 @@
     },
     {
       "rank": 22,
+      "server": "truly",
+      "count": 1
+    },
+    {
+      "rank": 23,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Ben",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Camille",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Daniel",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Georgia",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Isabella",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Josh",
       "count": 0
     },
     {
-      "rank": 36,
+      "rank": 37,
       "server": "Kaia",
       "count": 0
     },
     {
-      "rank": 37,
+      "rank": 38,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 38,
+      "rank": 39,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 40,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 41,
       "server": "Kelyse",
       "count": 0
     },
     {
-      "rank": 41,
+      "rank": 42,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 42,
+      "rank": 43,
       "server": "Max",
       "count": 0
     },
     {
-      "rank": 43,
+      "rank": 44,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 44,
+      "rank": 45,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 45,
+      "rank": 46,
       "server": "Norah",
       "count": 0
     },
     {
-      "rank": 46,
+      "rank": 47,
       "server": "Paige",
       "count": 0
     },
     {
-      "rank": 47,
-      "server": "Sydney",
-      "count": 0
-    },
-    {
       "rank": 48,
-      "server": "truly",
+      "server": "Sydney",
       "count": 0
     },
     {
@@ -634,8 +634,14 @@
     },
     {
       "server": "Derka",
-      "count": 9,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "Cassandra Bovell",
+          "text": "Had such an amazing time dining at Locals! Our server, Derka, truly made our night memorable with her exceptional service! We’ll definitely be coming back and hope to have her as our server again!",
+          "date": "2026-10-25",
+          "rating": 5
+        },
         {
           "reviewer": "Lorgen Hali",
           "text": "Great place to get some food, watch sports and have a good time with friends and family. Atmosphere is excellent. Lots of different options for food and drinks! Derks is a excellent server as well, attentive and friendly.",
@@ -790,6 +796,18 @@
           "reviewer": "Coralie Metcalfe",
           "text": "Tomi was the best!",
           "date": "2026-10-12",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "truly",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Cassandra Bovell",
+          "text": "Had such an amazing time dining at Locals! Our server, Derka, truly made our night memorable with her exceptional service! We’ll definitely be coming back and hope to have her as our server again!",
+          "date": "2026-10-25",
           "rating": 5
         }
       ]
