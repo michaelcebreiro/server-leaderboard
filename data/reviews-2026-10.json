@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-26T17:33:05.301Z",
-  "reviewCount": 92,
+  "fetchedAt": "2026-10-26T21:53:21.940Z",
+  "reviewCount": 93,
   "reviews": [
+    {
+      "reviewId": "5979285724501044598",
+      "reviewer": "Maryam Saleem",
+      "rating": 4,
+      "text": "McKenzie and Katherine were both very welcoming! I was able to sit in a very nice seating area with window view and under nice lighting! Katherine had been very helpful in what options were available for me, which I greatly appreciated! :) I order BBQ rice bowl with tofu, and it was amazing! The salad had a nice tangy touch. The rice, aioli, with egg added a nice umami flavour, and the tofu was sweet and crispy with a soft and a slightly chewy texture!\nOverall, all the different textures and flavours lead me to have an amazing and fulfilling experience :D",
+      "reviewDate": "2026-10-26T19:24:39.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5978398125500956191",
       "reviewer": "Jennifer Piro",
