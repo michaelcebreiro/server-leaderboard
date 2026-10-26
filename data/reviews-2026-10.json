@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-26T11:25:32.781Z",
-  "reviewCount": 91,
+  "fetchedAt": "2026-10-26T17:33:05.301Z",
+  "reviewCount": 92,
   "reviews": [
+    {
+      "reviewId": "5978398125500956191",
+      "reviewer": "Jennifer Piro",
+      "rating": 5,
+      "text": "Staff are always so friendly!\nNever been disappointed with the food",
+      "reviewDate": "2026-10-26T12:14:12.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5978020465500918475",
       "reviewer": "Ruwyeda Said",
