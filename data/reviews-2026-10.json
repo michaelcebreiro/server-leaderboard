@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-26T05:22:03.583Z",
-  "reviewCount": 90,
+  "fetchedAt": "2026-10-26T11:25:32.781Z",
+  "reviewCount": 91,
   "reviews": [
+    {
+      "reviewId": "5978020465500918475",
+      "reviewer": "Ruwyeda Said",
+      "rating": 5,
+      "text": "I am brand new to the area and decided to try this spot out I am so glad I did! The food was delicious, but what really made the night was our server, Derka. She was incredibly warm, welcoming, and attentive. She completely elevated the entire dining experience. I will definitely be back, honestly just to see her again! Highly recommend!",
+      "reviewDate": "2026-10-26T05:47:41.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5977417045500858268",
       "reviewer": "Cassandra Bovell",

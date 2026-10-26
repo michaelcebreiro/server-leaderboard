@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-26T05:22:03.677Z",
-  "reviewCount": 90,
-  "qualifyingReviewCount": 88,
+  "processedAt": "2026-10-26T11:25:32.868Z",
+  "reviewCount": 91,
+  "qualifyingReviewCount": 89,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -21,7 +21,7 @@
     {
       "rank": 2,
       "server": "Derka",
-      "count": 10
+      "count": 11
     },
     {
       "rank": 3,
@@ -634,8 +634,14 @@
     },
     {
       "server": "Derka",
-      "count": 10,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Ruwyeda Said",
+          "text": "I am brand new to the area and decided to try this spot out I am so glad I did! The food was delicious, but what really made the night was our server, Derka. She was incredibly warm, welcoming, and attentive. She completely elevated the entire dining experience. I will definitely be back, honestly just to see her again! Highly recommend!",
+          "date": "2026-10-26",
+          "rating": 5
+        },
         {
           "reviewer": "Cassandra Bovell",
           "text": "Had such an amazing time dining at Locals! Our server, Derka, truly made our night memorable with her exceptional service! We’ll definitely be coming back and hope to have her as our server again!",
