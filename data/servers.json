@@ -128,13 +128,6 @@
       "aliases": []
     },
     {
-      "name": "Daniel",
-      "aliases": [
-        "dan",
-        "danny"
-      ]
-    },
-    {
       "name": "Carolina",
       "aliases": [
         "Caro"
@@ -258,6 +251,7 @@
     "Mia",
     "Ben",
     "Josh",
-    "Kelyse"
+    "Kelyse",
+    "Daniel"
   ]
 }
