@@ -152,10 +152,6 @@
       ]
     },
     {
-      "name": "Paige",
-      "aliases": []
-    },
-    {
       "name": "Alex",
       "aliases": []
     },
@@ -247,6 +243,7 @@
     "Josh",
     "Kelyse",
     "Daniel",
-    "Isabella"
+    "Isabella",
+    "Paige"
   ]
 }
