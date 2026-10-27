@@ -165,16 +165,6 @@
       ]
     },
     {
-      "name": "Sydney",
-      "aliases": [
-        "Syd"
-      ]
-    },
-    {
-      "name": "Georgia",
-      "aliases": []
-    },
-    {
       "name": "Nina",
       "aliases": []
     },
@@ -236,6 +226,8 @@
     "Isabella",
     "Paige",
     "Camille",
-    "Kaia"
+    "Kaia",
+    "Sydney",
+    "Georgia"
   ]
 }
