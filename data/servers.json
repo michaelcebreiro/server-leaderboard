@@ -165,10 +165,6 @@
       ]
     },
     {
-      "name": "Kaia",
-      "aliases": []
-    },
-    {
       "name": "Sydney",
       "aliases": [
         "Syd"
@@ -239,6 +235,7 @@
     "Daniel",
     "Isabella",
     "Paige",
-    "Camille"
+    "Camille",
+    "Kaia"
   ]
 }
