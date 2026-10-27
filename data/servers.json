@@ -145,12 +145,6 @@
       ]
     },
     {
-      "name": "Isabella",
-      "aliases": [
-        "Bella"
-      ]
-    },
-    {
       "name": "Harrison",
       "aliases": [
         "Harry",
@@ -252,6 +246,7 @@
     "Ben",
     "Josh",
     "Kelyse",
-    "Daniel"
+    "Daniel",
+    "Isabella"
   ]
 }
