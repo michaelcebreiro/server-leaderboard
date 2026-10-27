@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-27T18:20:19.250Z",
+  "processedAt": "2026-10-27T22:30:28.562Z",
   "reviewCount": 102,
   "qualifyingReviewCount": 99,
   "thresholds": {
@@ -20,18 +20,18 @@
     },
     {
       "rank": 2,
-      "server": "Christina",
-      "count": 11
+      "server": "Derka",
+      "count": 13
     },
     {
       "rank": 3,
-      "server": "Derka",
+      "server": "Christina",
       "count": 11
     },
     {
       "rank": 4,
       "server": "Tomi",
-      "count": 9
+      "count": 11
     },
     {
       "rank": 5,
@@ -60,224 +60,136 @@
     },
     {
       "rank": 10,
-      "server": "Mia",
-      "count": 2
-    },
-    {
-      "rank": 11,
       "server": "Michael",
       "count": 2
     },
     {
-      "rank": 12,
+      "rank": 11,
       "server": "Aisia",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 13,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "server": "Karina",
       "count": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "server": "Matthew",
       "count": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "server": "Paulveen",
       "count": 1
     },
     {
-      "rank": 21,
-      "server": "Sofie",
-      "count": 1
-    },
-    {
-      "rank": 22,
-      "server": "truly",
-      "count": 1
-    },
-    {
-      "rank": 23,
+      "rank": 20,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 21,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 25,
-      "server": "Ben",
-      "count": 0
-    },
-    {
-      "rank": 26,
+      "rank": 22,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 23,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 28,
-      "server": "Camille",
-      "count": 0
-    },
-    {
-      "rank": 29,
-      "server": "Daniel",
-      "count": 0
-    },
-    {
-      "rank": 30,
+      "rank": 24,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 25,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 32,
-      "server": "Georgia",
-      "count": 0
-    },
-    {
-      "rank": 33,
+      "rank": 26,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 34,
-      "server": "Isabella",
-      "count": 0
-    },
-    {
-      "rank": 35,
+      "rank": 27,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 36,
-      "server": "Josh",
-      "count": 0
-    },
-    {
-      "rank": 37,
-      "server": "Kaia",
-      "count": 0
-    },
-    {
-      "rank": 38,
+      "rank": 28,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 39,
+      "rank": 29,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 40,
+      "rank": 30,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 41,
-      "server": "Kelyse",
-      "count": 0
-    },
-    {
-      "rank": 42,
+      "rank": 31,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 43,
-      "server": "Max",
-      "count": 0
-    },
-    {
-      "rank": 44,
+      "rank": 32,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 45,
+      "rank": 33,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 46,
-      "server": "Norah",
-      "count": 0
-    },
-    {
-      "rank": 47,
-      "server": "Paige",
-      "count": 0
-    },
-    {
-      "rank": 48,
+      "rank": 34,
       "server": "Sydney",
       "count": 0
     },
     {
-      "rank": 49,
+      "rank": 35,
       "server": "Zivko",
       "count": 0
     }
   ],
   "mentions": [
-    {
-      "server": "Mia",
-      "count": 2,
-      "reviews": [
-        {
-          "reviewer": "Sofie Hambrook",
-          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
-          "date": "2026-10-14",
-          "rating": 5
-        },
-        {
-          "reviewer": "LV Rael",
-          "text": "Our Local spot. The vibe is lively. The food is consistently delicious. Our server, Mia, was outstanding, friendly and a stellar host.\n\nWhether Hubby and I are without kids around or taking the whole family with us, Local will always be our go-to.",
-          "date": "2026-10-05",
-          "rating": 5
-        }
-      ]
-    },
     {
       "server": "Akiko",
       "count": 1,
@@ -549,18 +461,6 @@
       ]
     },
     {
-      "server": "Sofie",
-      "count": 1,
-      "reviews": [
-        {
-          "reviewer": "Sofie Hambrook",
-          "text": "WOW!!!! Had the absolute BEST experience here tonight. Between the dining and service, it was the ultimate fun and friendly combo. Shoutout Matteo (a stellar server), Aisia, Meklit, Maria, Nicky, Hasmik, Aimee, Annabel, and Mia (for her awesome trivia) as well as Vicco!!! Will definitely be coming back. - also, highly recommend the new menu Korean BBQ Pork Lettuce wraps, a new staple for this group of girls. - Sofie, Jules, Veronika",
-          "date": "2026-10-14",
-          "rating": 5
-        }
-      ]
-    },
-    {
       "server": "Matteo",
       "count": 3,
       "reviews": [
@@ -676,7 +576,7 @@
     },
     {
       "server": "Derka",
-      "count": 11,
+      "count": 13,
       "reviews": [
         {
           "reviewer": "Ruwyeda Said",
@@ -717,6 +617,18 @@
         {
           "reviewer": "Iman Rawji",
           "text": "Matteo and Derka were awesome!  food was outstanding as always.  Amazing service as well!   Loved it and great experience!",
+          "date": "2026-10-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rubina Manji-Rawji",
+          "text": "Matteo and Dharka  were  amazing.   Really took care of of us.    was super friendly  and very good service.",
+          "date": "2026-10-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Rubina",
+          "text": "Dharka was really good and friendly   Very good service",
           "date": "2026-10-25",
           "rating": 5
         },
@@ -790,7 +702,7 @@
     },
     {
       "server": "Tomi",
-      "count": 9,
+      "count": 11,
       "reviews": [
         {
           "reviewer": "Cayla Tverberg",
@@ -801,6 +713,18 @@
         {
           "reviewer": "Roger Singh",
           "text": "Tomi was amazing",
+          "date": "2026-10-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Michael",
+          "text": "Amazing service feom Tom for lunch!!",
+          "date": "2026-10-21",
+          "rating": 5
+        },
+        {
+          "reviewer": "Alana Carter",
+          "text": "Toni was so wonderful! Great service and was super accommodating of our dietary restrictions.",
           "date": "2026-10-21",
           "rating": 5
         },
@@ -844,18 +768,6 @@
           "reviewer": "Coralie Metcalfe",
           "text": "Tomi was the best!",
           "date": "2026-10-12",
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "server": "truly",
-      "count": 1,
-      "reviews": [
-        {
-          "reviewer": "Cassandra Bovell",
-          "text": "Had such an amazing time dining at Locals! Our server, Derka, truly made our night memorable with her exceptional service! We’ll definitely be coming back and hope to have her as our server again!",
-          "date": "2026-10-25",
           "rating": 5
         }
       ]
