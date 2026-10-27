@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-26T21:53:22.034Z",
-  "reviewCount": 93,
-  "qualifyingReviewCount": 91,
+  "processedAt": "2026-10-27T01:18:03.964Z",
+  "reviewCount": 100,
+  "qualifyingReviewCount": 98,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,23 +20,23 @@
     },
     {
       "rank": 2,
-      "server": "Derka",
+      "server": "Christina",
       "count": 11
     },
     {
       "rank": 3,
+      "server": "Derka",
+      "count": 11
+    },
+    {
+      "rank": 4,
       "server": "Tomi",
       "count": 9
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Kalypsa",
       "count": 5
-    },
-    {
-      "rank": 5,
-      "server": "Christina",
-      "count": 4
     },
     {
       "rank": 6,
@@ -304,8 +304,50 @@
     },
     {
       "server": "Christina",
-      "count": 4,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "The Two Musketeers",
+          "text": "Christina was a phenomenal waitress and she accommodated our large rugby team amazing. She was honestly one of the best waitresses I’ve ever had in my life 5 star service.",
+          "date": "2026-10-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Selim Bozada",
+          "text": "We had an amazing experience at Local Public Eatery on Laird in Leaside, and a huge part of that was our server, Christina! She was incredibly friendly, attentive, and welcoming throughout our entire visit. She made sure everything was perfect, checked in on us at the right times, and made the whole experience so enjoyable. Her positive attitude and excellent service really stood out and made our visit even better. It’s not every day you come across a server who genuinely makes you feel so welcome. Christina is a great example of what outstanding customer service should look like!\n\nThank you, Christina, for making our experience so great. We’ll definitely be back! Highly recommend asking for Christina if you visit this location!",
+          "date": "2026-10-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Gerasimos Shiamptanis",
+          "text": "Food was amazing and came very fast. Our waiter Christina was the best.",
+          "date": "2026-10-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Oliver De Maio",
+          "text": "The food was very good and Christina was a very good waitress.",
+          "date": "2026-10-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Yahav Glick",
+          "text": "Christina offered amazing service and was kind regardless of our large group.",
+          "date": "2026-10-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Beckett Maysuik",
+          "text": "Christina was the best give her employee of the century",
+          "date": "2026-10-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Aydin Virji",
+          "text": "Great service from Christina. Will definitely be back!",
+          "date": "2026-10-26",
+          "rating": 5
+        },
         {
           "reviewer": "Stephan Bosevski",
           "text": "Enjoyed the visit the other night! Huge shoutout to Christina for taking care of us! 🇲🇰🤝🏻🇬🇷",
