@@ -190,10 +190,6 @@
       "aliases": []
     },
     {
-      "name": "Max",
-      "aliases": []
-    },
-    {
       "name": "Michael",
       "aliases": []
     },
@@ -230,6 +226,7 @@
     "Camille",
     "Kaia",
     "Georgia",
-    "Norah"
+    "Norah",
+    "Max"
   ]
 }
