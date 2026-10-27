@@ -68,12 +68,6 @@
       ]
     },
     {
-      "name": "Sofie",
-      "aliases": [
-        "Sophie"
-      ]
-    },
-    {
       "name": "Matteo",
       "aliases": []
     },
@@ -224,6 +218,7 @@
     "Georgia",
     "Norah",
     "Max",
-    "truly"
+    "truly",
+    "Sofie"
   ]
 }
