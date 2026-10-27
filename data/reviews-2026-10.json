@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-27T06:40:48.312Z",
-  "reviewCount": 100,
+  "fetchedAt": "2026-10-27T12:41:37.310Z",
+  "reviewCount": 101,
   "reviews": [
+    {
+      "reviewId": "5981680243501283563",
+      "reviewer": "Brad S",
+      "rating": 3,
+      "text": "Our server, Aisia, was fantastic. Very attentive and extremely friendly. We were promplty seated at the empty booth we requested, our drinks were always full, and my friend, who wanted the sold out fish tacos, was accommodated with an off-menu chicken taco by recommendation of our server.\n\nThe food was mid. I found my fish greasy and the batter wasn't great, but that's a kitchen issue.\n\nThe atmosphere was typical of a pub. The \"highlight\" was when another server's hair caught fire on an open candle flame. It definitely stunk for a while, which isn't ideal over dinner.\n\nThis is a place that has excellent service and a typical pub atmosphere. I wouldn't order the fish again, but I'm sure there's something on the menu worth trying.",
+      "reviewDate": "2026-10-27T11:22:02.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5979753575501091193",
       "reviewer": "The Two Musketeers",
@@ -15,7 +23,7 @@
       "reviewId": "5979743915501090231",
       "reviewer": "Selim Bozada",
       "rating": 5,
-      "text": "We had an amazing experience at Local Public Eatery on Laird in Leaside, and a huge part of that was our server, Christina! She was incredibly friendly, attentive, and welcoming throughout our entire visit. She made sure everything was perfect, checked in on us at the right times, and made the whole experience so enjoyable. Her positive attitude and excellent service really stood out and made our visit even better. It’s not every day you come across a server who genuinely makes you feel so welcome. Christina is a great example of what outstanding customer service should look like!\n\nThank you, Christina, for making our experience so great. We’ll definitely be back! Highly recommend asking for Christina if you visit this location!",
+      "text": "We had an amazing experience at Local Public Eatery on Laird in Leaside, and a huge part of that was our server, Christina! She was incredibly friendly, attentive, and welcoming throughout our entire visit. She made sure everything was perfect, checked in on us at the right times, and made the whole experience so enjoyable. Her positive attitude and excellent service really stood out and made our visit even better. It’s not every day you come across a server who genuinely makes you feel so welcome. Christina is a great example of what outstanding customer service should look like!\n\nThank you, Christina, for making our experience so great. We’ll definitely be back! Highly recommend asking for Christina if you visit this location! 👏",
       "reviewDate": "2026-10-26T22:36:43.000Z",
       "source": "GOOGLE"
     },
