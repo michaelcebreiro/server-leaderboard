@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-27T22:30:28.562Z",
-  "reviewCount": 102,
-  "qualifyingReviewCount": 99,
+  "processedAt": "2026-10-28T01:44:48.343Z",
+  "reviewCount": 106,
+  "qualifyingReviewCount": 103,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,18 +15,18 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Maria",
+      "server": "Christina",
       "count": 14
     },
     {
       "rank": 2,
-      "server": "Derka",
-      "count": 13
+      "server": "Maria",
+      "count": 14
     },
     {
       "rank": 3,
-      "server": "Christina",
-      "count": 11
+      "server": "Derka",
+      "count": 13
     },
     {
       "rank": 4,
@@ -90,72 +90,72 @@
     },
     {
       "rank": 16,
-      "server": "Karina",
+      "server": "Kaitlyn S",
       "count": 1
     },
     {
       "rank": 17,
-      "server": "Matthew",
+      "server": "Karina",
       "count": 1
     },
     {
       "rank": 18,
-      "server": "Nicky",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 19,
-      "server": "Paulveen",
+      "server": "Nicky",
       "count": 1
     },
     {
       "rank": 20,
+      "server": "Paulveen",
+      "count": 1
+    },
+    {
+      "rank": 21,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 28,
-      "server": "Kaitlyn M",
-      "count": 0
-    },
-    {
       "rank": 29,
-      "server": "Kaitlyn S",
+      "server": "Kaitlyn M",
       "count": 0
     },
     {
@@ -216,17 +216,35 @@
     },
     {
       "server": "Christina",
-      "count": 11,
+      "count": 14,
       "reviews": [
-        {
-          "reviewer": "The Two Musketeers",
-          "text": "Christina was a phenomenal waitress and she accommodated our large rugby team amazing. She was honestly one of the best waitresses I’ve ever had in my life 5 star service.",
-          "date": "2026-10-26",
-          "rating": 5
-        },
         {
           "reviewer": "Selim Bozada",
           "text": "We had an amazing experience at Local Public Eatery on Laird in Leaside, and a huge part of that was our server, Christina! She was incredibly friendly, attentive, and welcoming throughout our entire visit. She made sure everything was perfect, checked in on us at the right times, and made the whole experience so enjoyable. Her positive attitude and excellent service really stood out and made our visit even better. It’s not every day you come across a server who genuinely makes you feel so welcome. Christina is a great example of what outstanding customer service should look like!\n\nThank you, Christina, for making our experience so great. We’ll definitely be back! Highly recommend asking for Christina if you visit this location! 👏",
+          "date": "2026-10-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Alex Stephenson",
+          "text": "Christina was electric and so was Will at the front door",
+          "date": "2026-10-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Will Locklin",
+          "text": "Will Kiely and Christina were so good at their jobs!",
+          "date": "2026-10-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tristan Z",
+          "text": "Christina was my server tonight and she always made sure our glasses were full. Shoutout to will as well for greeting us at the front door. Will definitely be coming back.",
+          "date": "2026-10-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "The Two Musketeers",
+          "text": "Christina was a phenomenal waitress and she accommodated our large rugby team amazing. She was honestly one of the best waitresses I’ve ever had in my life 5 star service.",
           "date": "2026-10-26",
           "rating": 5
         },
@@ -570,6 +588,18 @@
           "reviewer": "Alexander Palumbo",
           "text": "Carolina was excellent - she provided great service and was extremely welcoming.",
           "date": "2026-10-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Kaitlyn S",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Taylor Kronick",
+          "text": "Local is a fantastic restaurant. Always love the food and service. Highly recommend going. Had Kaitlyn as my waitress. Very fun and nice person great service.",
+          "date": "2026-10-27",
           "rating": 5
         }
       ]
