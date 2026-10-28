@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-28T19:53:28.095Z",
-  "reviewCount": 106,
+  "fetchedAt": "2026-10-28T23:56:06.493Z",
+  "reviewCount": 107,
   "reviews": [
+    {
+      "reviewId": "5991783165502292353",
+      "reviewer": "Robhan314 Hansen",
+      "rating": 5,
+      "text": "Derks is amazing. Did I say amazing, this girl wears a cape. Beer always fresh any questioned answered. Great service employee of the month already.",
+      "reviewDate": "2026-10-28T21:02:51.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5979743915501090231",
       "reviewer": "Selim Bozada",

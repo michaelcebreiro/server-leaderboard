@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-28T19:53:28.327Z",
-  "reviewCount": 106,
-  "qualifyingReviewCount": 103,
+  "processedAt": "2026-10-28T23:56:06.555Z",
+  "reviewCount": 107,
+  "qualifyingReviewCount": 104,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -20,13 +20,13 @@
     },
     {
       "rank": 2,
-      "server": "Maria",
+      "server": "Derka",
       "count": 14
     },
     {
       "rank": 3,
-      "server": "Derka",
-      "count": 13
+      "server": "Maria",
+      "count": 14
     },
     {
       "rank": 4,
@@ -606,8 +606,14 @@
     },
     {
       "server": "Derka",
-      "count": 13,
+      "count": 14,
       "reviews": [
+        {
+          "reviewer": "Robhan314 Hansen",
+          "text": "Derks is amazing. Did I say amazing, this girl wears a cape. Beer always fresh any questioned answered. Great service employee of the month already.",
+          "date": "2026-10-28",
+          "rating": 5
+        },
         {
           "reviewer": "Ruwyeda Said",
           "text": "I am brand new to the area and decided to try this spot out I am so glad I did! The food was delicious, but what really made the night was our server, Derka. She was incredibly warm, welcoming, and attentive. She completely elevated the entire dining experience. I will definitely be back, honestly just to see her again! Highly recommend!",
