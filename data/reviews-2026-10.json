@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-28T23:56:06.493Z",
-  "reviewCount": 107,
+  "fetchedAt": "2026-10-29T05:25:41.146Z",
+  "reviewCount": 108,
   "reviews": [
+    {
+      "reviewId": "4961957735399695260",
+      "reviewer": "Blake Petcoff",
+      "rating": 5,
+      "text": "Had a great experience tonight! Will was an excellent server, friendly, attentive, and made sure everything was taken care of. Really appreciated the great service. Thanks, Will!",
+      "reviewDate": "2026-10-29T00:51:16.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5991783165502292353",
       "reviewer": "Robhan314 Hansen",
