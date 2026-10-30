@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-29T22:01:16.498Z",
-  "reviewCount": 108,
+  "fetchedAt": "2026-10-30T01:58:05.429Z",
+  "reviewCount": 109,
   "reviews": [
+    {
+      "reviewId": "5995040725502616804",
+      "reviewer": "Morgan Sullivan",
+      "rating": 5,
+      "text": "Karina was amazing and provided such a warm and inviting experience for us. Everything was quick and the food and drinks were great. Definitely will come back!!",
+      "reviewDate": "2026-10-30T00:22:49.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "4961957735399695260",
       "reviewer": "Blake Petcoff",

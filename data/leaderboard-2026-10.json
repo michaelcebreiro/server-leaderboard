@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-29T22:01:16.580Z",
-  "reviewCount": 108,
-  "qualifyingReviewCount": 105,
+  "processedAt": "2026-10-30T01:58:05.614Z",
+  "reviewCount": 109,
+  "qualifyingReviewCount": 106,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,42 +60,42 @@
     },
     {
       "rank": 10,
-      "server": "Michael",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 11,
+      "server": "Michael",
+      "count": 2
+    },
+    {
+      "rank": 12,
       "server": "Aisia",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Annabel",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Eli",
       "count": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Jackie G",
       "count": 1
     },
     {
-      "rank": 16,
-      "server": "Kaitlyn S",
-      "count": 1
-    },
-    {
       "rank": 17,
-      "server": "Karina",
+      "server": "Kaitlyn S",
       "count": 1
     },
     {
@@ -204,8 +204,14 @@
     },
     {
       "server": "Karina",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Morgan Sullivan",
+          "text": "Karina was amazing and provided such a warm and inviting experience for us. Everything was quick and the food and drinks were great. Definitely will come back!!",
+          "date": "2026-10-30",
+          "rating": 5
+        },
         {
           "reviewer": "Jvillvin",
           "text": "Will, Karina, Michael and Meklit were an absolute delight",
