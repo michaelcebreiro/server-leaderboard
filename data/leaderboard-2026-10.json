@@ -1,8 +1,8 @@
 {
   "month": "2026-10",
-  "processedAt": "2026-10-30T15:16:08.598Z",
-  "reviewCount": 110,
-  "qualifyingReviewCount": 107,
+  "processedAt": "2026-10-30T20:00:57.592Z",
+  "reviewCount": 111,
+  "qualifyingReviewCount": 108,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,32 +60,32 @@
     },
     {
       "rank": 10,
-      "server": "Karina",
+      "server": "Eli",
       "count": 2
     },
     {
       "rank": 11,
-      "server": "Michael",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 12,
+      "server": "Michael",
+      "count": 2
+    },
+    {
+      "rank": 13,
       "server": "Aisia",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 14,
-      "server": "Annabel",
-      "count": 1
-    },
-    {
       "rank": 15,
-      "server": "Eli",
+      "server": "Annabel",
       "count": 1
     },
     {
@@ -522,8 +522,14 @@
     },
     {
       "server": "Eli",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Andrew",
+          "text": "Eli did a great job serving us at the Leaside location.\n\nFood was great and service was fast and professional",
+          "date": "2026-10-30",
+          "rating": 5
+        },
         {
           "reviewer": "Roseanne",
           "text": "Amazing customer service from our server Eli! My girls enjoyed their birthday AND their first time at Local Leaside. We loved the food!",

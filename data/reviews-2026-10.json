@@ -1,8 +1,16 @@
 {
   "month": "2026-10",
-  "fetchedAt": "2026-10-30T15:16:08.541Z",
-  "reviewCount": 110,
+  "fetchedAt": "2026-10-30T20:00:57.514Z",
+  "reviewCount": 111,
   "reviews": [
+    {
+      "reviewId": "5287648875432110933",
+      "reviewer": "Andrew",
+      "rating": 5,
+      "text": "Eli did a great job serving us at the Leaside location.\n\nFood was great and service was fast and professional",
+      "reviewDate": "2026-10-30T18:08:41.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5995747275502687226",
       "reviewer": "Jennifer",
