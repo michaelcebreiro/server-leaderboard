@@ -1,0 +1,193 @@
+{
+  "month": "2026-11",
+  "processedAt": "2026-11-01T02:17:27.133Z",
+  "reviewCount": 0,
+  "qualifyingReviewCount": 0,
+  "thresholds": {
+    "first": 20,
+    "second": 15
+  },
+  "winners": {
+    "finalized": false,
+    "first": null,
+    "second": null
+  },
+  "standings": [
+    {
+      "rank": 1,
+      "server": "Aisia",
+      "count": 0
+    },
+    {
+      "rank": 2,
+      "server": "Akiko",
+      "count": 0
+    },
+    {
+      "rank": 3,
+      "server": "Alessia",
+      "count": 0
+    },
+    {
+      "rank": 4,
+      "server": "Alex",
+      "count": 0
+    },
+    {
+      "rank": 5,
+      "server": "Annabel",
+      "count": 0
+    },
+    {
+      "rank": 6,
+      "server": "Blake",
+      "count": 0
+    },
+    {
+      "rank": 7,
+      "server": "Brooke",
+      "count": 0
+    },
+    {
+      "rank": 8,
+      "server": "Carolina",
+      "count": 0
+    },
+    {
+      "rank": 9,
+      "server": "Christina",
+      "count": 0
+    },
+    {
+      "rank": 10,
+      "server": "Danielle",
+      "count": 0
+    },
+    {
+      "rank": 11,
+      "server": "Derka",
+      "count": 0
+    },
+    {
+      "rank": 12,
+      "server": "Elaiza",
+      "count": 0
+    },
+    {
+      "rank": 13,
+      "server": "Eli",
+      "count": 0
+    },
+    {
+      "rank": 14,
+      "server": "Ewan",
+      "count": 0
+    },
+    {
+      "rank": 15,
+      "server": "Harrison",
+      "count": 0
+    },
+    {
+      "rank": 16,
+      "server": "Jackie G",
+      "count": 0
+    },
+    {
+      "rank": 17,
+      "server": "Jackie N",
+      "count": 0
+    },
+    {
+      "rank": 18,
+      "server": "Kaitlyn M",
+      "count": 0
+    },
+    {
+      "rank": 19,
+      "server": "Kaitlyn S",
+      "count": 0
+    },
+    {
+      "rank": 20,
+      "server": "Kalypsa",
+      "count": 0
+    },
+    {
+      "rank": 21,
+      "server": "Karina",
+      "count": 0
+    },
+    {
+      "rank": 22,
+      "server": "Kayla",
+      "count": 0
+    },
+    {
+      "rank": 23,
+      "server": "Mackenzie",
+      "count": 0
+    },
+    {
+      "rank": 24,
+      "server": "Maria",
+      "count": 0
+    },
+    {
+      "rank": 25,
+      "server": "Matteo",
+      "count": 0
+    },
+    {
+      "rank": 26,
+      "server": "Matthew",
+      "count": 0
+    },
+    {
+      "rank": 27,
+      "server": "Meklit",
+      "count": 0
+    },
+    {
+      "rank": 28,
+      "server": "Michael",
+      "count": 0
+    },
+    {
+      "rank": 29,
+      "server": "Nicky",
+      "count": 0
+    },
+    {
+      "rank": 30,
+      "server": "Nicola",
+      "count": 0
+    },
+    {
+      "rank": 31,
+      "server": "Nina",
+      "count": 0
+    },
+    {
+      "rank": 32,
+      "server": "Paulveen",
+      "count": 0
+    },
+    {
+      "rank": 33,
+      "server": "Sydney",
+      "count": 0
+    },
+    {
+      "rank": 34,
+      "server": "Tomi",
+      "count": 0
+    },
+    {
+      "rank": 35,
+      "server": "Zivko",
+      "count": 0
+    }
+  ],
+  "mentions": []
+}
