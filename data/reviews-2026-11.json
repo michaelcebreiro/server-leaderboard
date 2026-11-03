@@ -1,6 +1,15 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-03T11:23:24.619Z",
-  "reviewCount": 0,
-  "reviews": []
+  "fetchedAt": "2026-11-03T18:36:08.290Z",
+  "reviewCount": 1,
+  "reviews": [
+    {
+      "reviewId": "6003749085503484750",
+      "reviewer": "Elaine",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-02T20:04:12.000Z",
+      "source": "OPENTABLE"
+    }
+  ]
 }
