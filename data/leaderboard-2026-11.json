@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-04T11:25:53.376Z",
-  "reviewCount": 1,
-  "qualifyingReviewCount": 1,
+  "processedAt": "2026-11-04T18:46:47.702Z",
+  "reviewCount": 2,
+  "qualifyingReviewCount": 2,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,172 +15,172 @@
   "standings": [
     {
       "rank": 1,
+      "server": "Tomi",
+      "count": 1
+    },
+    {
+      "rank": 2,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "server": "Akiko",
       "count": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Danielle",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Derka",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Kalypsa",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Karina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Matteo",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Michael",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Nicky",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 33,
-      "server": "Sydney",
-      "count": 0
-    },
-    {
       "rank": 34,
-      "server": "Tomi",
+      "server": "Sydney",
       "count": 0
     },
     {
@@ -189,5 +189,18 @@
       "count": 0
     }
   ],
-  "mentions": []
+  "mentions": [
+    {
+      "server": "Tomi",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Yasma Ali-Hassan",
+          "text": "Excellent service from Tomi!!!!!",
+          "date": "2026-11-04",
+          "rating": 5
+        }
+      ]
+    }
+  ]
 }
