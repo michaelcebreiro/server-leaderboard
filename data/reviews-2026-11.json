@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-05T15:20:38.480Z",
-  "reviewCount": 3,
+  "fetchedAt": "2026-11-05T21:31:19.249Z",
+  "reviewCount": 4,
   "reviews": [
+    {
+      "reviewId": "6008586085503965909",
+      "reviewer": "Chantel",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-05T21:14:15.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6007050625503813242",
       "reviewer": "Georgina Tsaparis",
