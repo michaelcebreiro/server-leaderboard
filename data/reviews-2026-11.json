@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-05T00:12:57.229Z",
-  "reviewCount": 2,
+  "fetchedAt": "2026-11-05T06:57:56.182Z",
+  "reviewCount": 3,
   "reviews": [
+    {
+      "reviewId": "6007050625503813242",
+      "reviewer": "Georgina Tsaparis",
+      "rating": 5,
+      "text": "Had a great experience at the local with Ashley as my server. She had a great energy and was very attentive",
+      "reviewDate": "2026-11-05T00:19:11.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6006430365503751730",
       "reviewer": "Yasma Ali-Hassan",
