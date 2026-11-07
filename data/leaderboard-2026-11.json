@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-07T01:47:21.634Z",
-  "reviewCount": 7,
-  "qualifyingReviewCount": 7,
+  "processedAt": "2026-11-07T08:31:50.538Z",
+  "reviewCount": 10,
+  "qualifyingReviewCount": 10,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,67 +15,67 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Tomi",
+      "server": "Derka",
       "count": 2
     },
     {
       "rank": 2,
+      "server": "Tomi",
+      "count": 2
+    },
+    {
+      "rank": 3,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "server": "Danielle",
+      "count": 1
+    },
+    {
+      "rank": 5,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 4,
+      "rank": 6,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 5,
+      "rank": 7,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 6,
+      "rank": 8,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 9,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 10,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 11,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 11,
-      "server": "Christina",
-      "count": 0
-    },
-    {
-      "rank": 12,
-      "server": "Danielle",
-      "count": 0
-    },
-    {
       "rank": 13,
-      "server": "Derka",
+      "server": "Christina",
       "count": 0
     },
     {
@@ -203,12 +203,42 @@
       ]
     },
     {
+      "server": "Danielle",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "eric muzzo",
+          "text": "Danielle and Derka were so sweet and helpful! Made the night so fun and had the person recommendations and vibes. Will definitely be back",
+          "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Matteo",
       "count": 1,
       "reviews": [
         {
           "reviewer": "Hannah Carver",
           "text": "Matteo and Akiko were so great, really enjoyed our time at Local!!! Would come back again.",
+          "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Derka",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Charlie Cummins",
+          "text": "Derks was awesome and we had a great time!",
+          "date": "2026-11-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "eric muzzo",
+          "text": "Danielle and Derka were so sweet and helpful! Made the night so fun and had the person recommendations and vibes. Will definitely be back",
           "date": "2026-11-07",
           "rating": 5
         }

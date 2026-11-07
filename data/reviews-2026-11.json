@@ -1,8 +1,32 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-07T01:47:21.441Z",
-  "reviewCount": 7,
+  "fetchedAt": "2026-11-07T08:31:50.368Z",
+  "reviewCount": 10,
   "reviews": [
+    {
+      "reviewId": "5534582965456715420",
+      "reviewer": "Charlie Cummins",
+      "rating": 5,
+      "text": "Derks was awesome and we had a great time!",
+      "reviewDate": "2026-11-07T04:22:32.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6011014005504207274",
+      "reviewer": "eric muzzo",
+      "rating": 5,
+      "text": "Danielle and Derka were so sweet and helpful! Made the night so fun and had the person recommendations and vibes. Will definitely be back",
+      "reviewDate": "2026-11-07T03:08:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6010996135504205506",
+      "reviewer": "behzad barikbeen",
+      "rating": 5,
+      "text": "Pauline was great. Period",
+      "reviewDate": "2026-11-07T02:33:52.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6010906505504196623",
       "reviewer": "Hannah Carver",
