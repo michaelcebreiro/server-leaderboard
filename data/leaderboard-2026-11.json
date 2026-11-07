@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-07T15:11:09.935Z",
-  "reviewCount": 10,
-  "qualifyingReviewCount": 10,
+  "processedAt": "2026-11-07T19:27:18.791Z",
+  "reviewCount": 16,
+  "qualifyingReviewCount": 15,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,152 +15,152 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Derka",
-      "count": 2
+      "server": "Danielle",
+      "count": 4
     },
     {
       "rank": 2,
+      "server": "Derka",
+      "count": 4
+    },
+    {
+      "rank": 3,
       "server": "Tomi",
       "count": 2
     },
     {
-      "rank": 3,
+      "rank": 4,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 4,
-      "server": "Danielle",
-      "count": 1
-    },
-    {
       "rank": 5,
-      "server": "Matteo",
+      "server": "Kalypsa",
       "count": 1
     },
     {
       "rank": 6,
+      "server": "Karina",
+      "count": 1
+    },
+    {
+      "rank": 7,
+      "server": "Matteo",
+      "count": 1
+    },
+    {
+      "rank": 8,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 9,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 7,
+      "rank": 10,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 8,
+      "rank": 11,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 9,
+      "rank": 12,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 13,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 14,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 15,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 16,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 17,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 18,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 19,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 20,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 21,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 22,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 23,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 24,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 22,
-      "server": "Kalypsa",
-      "count": 0
-    },
-    {
-      "rank": 23,
-      "server": "Karina",
-      "count": 0
-    },
-    {
-      "rank": 24,
+      "rank": 25,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Matthew",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Meklit",
       "count": 0
     },
     {
-      "rank": 29,
-      "server": "Michael",
-      "count": 0
-    },
-    {
       "rank": 30,
-      "server": "Nicky",
+      "server": "Michael",
       "count": 0
     },
     {
@@ -203,12 +203,54 @@
       ]
     },
     {
-      "server": "Danielle",
+      "server": "Karina",
       "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Josee Gravelle",
+          "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",
+          "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Nicky",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Josee Gravelle",
+          "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",
+          "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Danielle",
+      "count": 4,
       "reviews": [
         {
           "reviewer": "eric muzzo",
           "text": "Danielle and Derka were so sweet and helpful! Made the night so fun and had the person recommendations and vibes. Will definitely be back",
+          "date": "2026-11-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lauren Horowitz",
+          "text": "Danielle and Derka were so amazing!! 10/10 cannot recommend enough. Dani will be the reason I come back here- thank you for a great night",
+          "date": "2026-11-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adrianna Schmeichel",
+          "text": "Love local!! Danielle and Derka were so wonderful",
+          "date": "2026-11-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Paige Stanley",
+          "text": "Danielle was the best server ever! She was so attentive and kind. Highly recommend",
           "date": "2026-11-07",
           "rating": 5
         }
@@ -227,8 +269,20 @@
       ]
     },
     {
+      "server": "Kalypsa",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Patrick Ruiz",
+          "text": "Great and fast Kalypsa was great",
+          "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
       "server": "Derka",
-      "count": 2,
+      "count": 4,
       "reviews": [
         {
           "reviewer": "Charlie Cummins",
@@ -239,6 +293,18 @@
         {
           "reviewer": "eric muzzo",
           "text": "Danielle and Derka were so sweet and helpful! Made the night so fun and had the person recommendations and vibes. Will definitely be back",
+          "date": "2026-11-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Lauren Horowitz",
+          "text": "Danielle and Derka were so amazing!! 10/10 cannot recommend enough. Dani will be the reason I come back here- thank you for a great night",
+          "date": "2026-11-07",
+          "rating": 5
+        },
+        {
+          "reviewer": "Adrianna Schmeichel",
+          "text": "Love local!! Danielle and Derka were so wonderful",
           "date": "2026-11-07",
           "rating": 5
         }

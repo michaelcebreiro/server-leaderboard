@@ -1,8 +1,32 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-07T15:11:09.749Z",
-  "reviewCount": 10,
+  "fetchedAt": "2026-11-07T19:27:18.484Z",
+  "reviewCount": 16,
   "reviews": [
+    {
+      "reviewId": "5518578585455125270",
+      "reviewer": "Josee Gravelle",
+      "rating": 5,
+      "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",
+      "reviewDate": "2026-11-07T18:23:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6011601145504265687",
+      "reviewer": "Patrick Ruiz",
+      "rating": 5,
+      "text": "Great and fast Kalypsa was great",
+      "reviewDate": "2026-11-07T18:10:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4126443743316544058",
+      "reviewer": "Emre Bilgin",
+      "rating": 3,
+      "text": "the quality of food must match the quality of beers. \"steak & fries\" main course was too small and the FR fries were served cold ❄️ lively patio w/sunset and people-watching. indoors is way too loud 🔊 very challenging to talk, especially when a game is on 😬 maybe upstairs, opening at 6pm, is quieter ❓ the clientele is young and their kids are welcome. intimate but inefficient service 👎 clean but loud WC ❗ fair Q/P",
+      "reviewDate": "2026-11-07T15:37:03.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5534582965456715420",
       "reviewer": "Charlie Cummins",
@@ -17,6 +41,30 @@
       "rating": 5,
       "text": "Danielle and Derka were so sweet and helpful! Made the night so fun and had the person recommendations and vibes. Will definitely be back",
       "reviewDate": "2026-11-07T03:08:05.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6011455455504251219",
+      "reviewer": "Lauren Horowitz",
+      "rating": 5,
+      "text": "Danielle and Derka were so amazing!! 10/10 cannot recommend enough. Dani will be the reason I come back here- thank you for a great night",
+      "reviewDate": "2026-11-07T03:05:47.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6011455465504251220",
+      "reviewer": "Adrianna Schmeichel",
+      "rating": 5,
+      "text": "Love local!! Danielle and Derka were so wonderful",
+      "reviewDate": "2026-11-07T03:05:35.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6011455475504251221",
+      "reviewer": "Paige Stanley",
+      "rating": 5,
+      "text": "Danielle was the best server ever! She was so attentive and kind. Highly recommend",
+      "reviewDate": "2026-11-07T03:05:30.000Z",
       "source": "GOOGLE"
     },
     {
