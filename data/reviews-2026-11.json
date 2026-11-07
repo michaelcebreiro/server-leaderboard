@@ -1,8 +1,24 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-06T21:58:34.362Z",
-  "reviewCount": 5,
+  "fetchedAt": "2026-11-07T01:47:21.441Z",
+  "reviewCount": 7,
   "reviews": [
+    {
+      "reviewId": "6010906505504196623",
+      "reviewer": "Hannah Carver",
+      "rating": 5,
+      "text": "Matteo and Akiko were so great, really enjoyed our time at Local!!! Would come back again.",
+      "reviewDate": "2026-11-07T01:19:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6010742015504180276",
+      "reviewer": "Sameh Aziz",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-06T23:40:49.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6010247185504131090",
       "reviewer": "Anne Francis",
