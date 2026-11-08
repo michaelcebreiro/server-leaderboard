@@ -1,8 +1,40 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-08T02:13:47.086Z",
-  "reviewCount": 18,
+  "fetchedAt": "2026-11-08T09:08:42.569Z",
+  "reviewCount": 22,
   "reviews": [
+    {
+      "reviewId": "6011972835504302558",
+      "reviewer": "spencer bohm",
+      "rating": 5,
+      "text": "Great service from Derks & Will",
+      "reviewDate": "2026-11-08T02:50:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5943511925497476014",
+      "reviewer": "Jvillvin",
+      "rating": 5,
+      "text": "Will, Karina, Michael and Meklit were an absolute delight. And thank you to Derks for the apps and keeping my beer full!",
+      "reviewDate": "2026-11-08T02:50:27.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6011956895504300964",
+      "reviewer": "Andrew Doane",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-08T02:49:57.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6011971995504302474",
+      "reviewer": "Charlie M",
+      "rating": 5,
+      "text": "Derks and Will were amazing, will definitely be coming back!",
+      "reviewDate": "2026-11-08T02:49:56.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6011841865504289546",
       "reviewer": "Kledi Papa",

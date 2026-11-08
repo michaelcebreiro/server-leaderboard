@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-08T02:13:47.179Z",
-  "reviewCount": 18,
-  "qualifyingReviewCount": 17,
+  "processedAt": "2026-11-08T09:08:42.627Z",
+  "reviewCount": 22,
+  "qualifyingReviewCount": 21,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,18 +15,18 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Danielle",
-      "count": 4
+      "server": "Derka",
+      "count": 7
     },
     {
       "rank": 2,
-      "server": "Derka",
+      "server": "Danielle",
       "count": 4
     },
     {
       "rank": 3,
       "server": "Karina",
-      "count": 2
+      "count": 3
     },
     {
       "rank": 4,
@@ -50,117 +50,117 @@
     },
     {
       "rank": 8,
-      "server": "Nicky",
+      "server": "Meklit",
       "count": 1
     },
     {
       "rank": 9,
+      "server": "Michael",
+      "count": 1
+    },
+    {
+      "rank": 10,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 11,
       "server": "Aisia",
       "count": 0
     },
     {
-      "rank": 10,
+      "rank": 12,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 12,
+      "rank": 14,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 13,
+      "rank": 15,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 14,
+      "rank": 16,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 17,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 18,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
       "server": "Ewan",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 22,
       "server": "Harrison",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 23,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 24,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 25,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 26,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 27,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 28,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 29,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 28,
-      "server": "Matthew",
-      "count": 0
-    },
-    {
-      "rank": 29,
-      "server": "Meklit",
-      "count": 0
-    },
-    {
       "rank": 30,
-      "server": "Michael",
+      "server": "Matthew",
       "count": 0
     },
     {
@@ -204,8 +204,14 @@
     },
     {
       "server": "Karina",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Jvillvin",
+          "text": "Will, Karina, Michael and Meklit were an absolute delight. And thank you to Derks for the apps and keeping my beer full!",
+          "date": "2026-11-08",
+          "rating": 5
+        },
         {
           "reviewer": "sophia grontis",
           "text": "yummy food & best margs. karina was so so sweet!",
@@ -216,6 +222,18 @@
           "reviewer": "Josee Gravelle",
           "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",
           "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Meklit",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jvillvin",
+          "text": "Will, Karina, Michael and Meklit were an absolute delight. And thank you to Derks for the apps and keeping my beer full!",
+          "date": "2026-11-08",
           "rating": 5
         }
       ]
@@ -288,8 +306,26 @@
     },
     {
       "server": "Derka",
-      "count": 4,
+      "count": 7,
       "reviews": [
+        {
+          "reviewer": "spencer bohm",
+          "text": "Great service from Derks & Will",
+          "date": "2026-11-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Jvillvin",
+          "text": "Will, Karina, Michael and Meklit were an absolute delight. And thank you to Derks for the apps and keeping my beer full!",
+          "date": "2026-11-08",
+          "rating": 5
+        },
+        {
+          "reviewer": "Charlie M",
+          "text": "Derks and Will were amazing, will definitely be coming back!",
+          "date": "2026-11-08",
+          "rating": 5
+        },
         {
           "reviewer": "Charlie Cummins",
           "text": "Derks was awesome and we had a great time!",
@@ -312,6 +348,18 @@
           "reviewer": "Adrianna Schmeichel",
           "text": "Love local!! Danielle and Derka were so wonderful",
           "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Michael",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Jvillvin",
+          "text": "Will, Karina, Michael and Meklit were an absolute delight. And thank you to Derks for the apps and keeping my beer full!",
+          "date": "2026-11-08",
           "rating": 5
         }
       ]
