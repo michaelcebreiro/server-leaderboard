@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-07T22:55:55.438Z",
-  "reviewCount": 16,
-  "qualifyingReviewCount": 15,
+  "processedAt": "2026-11-08T02:13:47.179Z",
+  "reviewCount": 18,
+  "qualifyingReviewCount": 17,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,22 +25,22 @@
     },
     {
       "rank": 3,
-      "server": "Tomi",
+      "server": "Karina",
       "count": 2
     },
     {
       "rank": 4,
+      "server": "Tomi",
+      "count": 2
+    },
+    {
+      "rank": 5,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 5,
-      "server": "Kalypsa",
-      "count": 1
-    },
-    {
       "rank": 6,
-      "server": "Karina",
+      "server": "Kalypsa",
       "count": 1
     },
     {
@@ -204,8 +204,14 @@
     },
     {
       "server": "Karina",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "sophia grontis",
+          "text": "yummy food & best margs. karina was so so sweet!",
+          "date": "2026-11-08",
+          "rating": 5
+        },
         {
           "reviewer": "Josee Gravelle",
           "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",

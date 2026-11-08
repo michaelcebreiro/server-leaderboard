@@ -1,8 +1,24 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-07T22:55:55.359Z",
-  "reviewCount": 16,
+  "fetchedAt": "2026-11-08T02:13:47.086Z",
+  "reviewCount": 18,
   "reviews": [
+    {
+      "reviewId": "6011841865504289546",
+      "reviewer": "Kledi Papa",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-08T00:00:46.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6011843435504289702",
+      "reviewer": "sophia grontis",
+      "rating": 5,
+      "text": "yummy food & best margs. karina was so so sweet!",
+      "reviewDate": "2026-11-08T00:00:32.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5518578585455125270",
       "reviewer": "Josee Gravelle",
