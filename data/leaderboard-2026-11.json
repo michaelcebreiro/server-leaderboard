@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-08T23:55:26.626Z",
-  "reviewCount": 25,
-  "qualifyingReviewCount": 24,
+  "processedAt": "2026-11-09T05:39:01.735Z",
+  "reviewCount": 29,
+  "qualifyingReviewCount": 28,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,13 +15,13 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Derka",
-      "count": 7
+      "server": "Danielle",
+      "count": 8
     },
     {
       "rank": 2,
-      "server": "Danielle",
-      "count": 4
+      "server": "Derka",
+      "count": 7
     },
     {
       "rank": 3,
@@ -264,8 +264,32 @@
     },
     {
       "server": "Danielle",
-      "count": 4,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Kate Claydon",
+          "text": "Danielle was an excellent waitress! She was very kind, attentive, and knowledgeable about the restaurant. We felt extremely welcomed and valued, thank you for such a wonderful experience!",
+          "date": "2026-11-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Mahpary Ghorbany",
+          "text": "Danielle was really nice! She was extremely welcoming, and she accommodated really nicely for our party of 8! As someone new to Canada, it was incredibly nice to get this kind of service.",
+          "date": "2026-11-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "Shashi Kant",
+          "text": "DANIELLE!!! She was amazing",
+          "date": "2026-11-09",
+          "rating": 5
+        },
+        {
+          "reviewer": "bianca pereira",
+          "text": "DANIELLE was amazing, incredible, beautiful, awesome, so quick, so responsive, so bright and full of energy! DANIELLE was kind, patient, nice, marvelous, wonderful, animated, and maybe the most amazing server I've ever had! DANIELLE was so careful to make sure the birthday girl had an amazing time, asked for allergies, and did ALL the things she was trained to do AND MORE. DANIELLEEEEE WAS A GREAT WAITRESS TONIGHT.",
+          "date": "2026-11-09",
+          "rating": 5
+        },
         {
           "reviewer": "eric muzzo",
           "text": "Danielle and Derka were so sweet and helpful! Made the night so fun and had the person recommendations and vibes. Will definitely be back",
