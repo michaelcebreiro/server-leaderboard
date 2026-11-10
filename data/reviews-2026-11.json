@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-09T23:31:02.060Z",
-  "reviewCount": 29,
+  "fetchedAt": "2026-11-10T04:47:41.612Z",
+  "reviewCount": 30,
   "reviews": [
+    {
+      "reviewId": "4135073285317380565",
+      "reviewer": "Michael Atkin",
+      "rating": 5,
+      "text": "Steak was great!",
+      "reviewDate": "2026-11-10T02:18:36.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6012725085504377434",
       "reviewer": "Kate Claydon",
