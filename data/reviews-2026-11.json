@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-11T07:36:38.886Z",
-  "reviewCount": 32,
+  "fetchedAt": "2026-11-11T15:38:20.354Z",
+  "reviewCount": 33,
   "reviews": [
+    {
+      "reviewId": "6016570795504760165",
+      "reviewer": "SAUL BERNSTEIN",
+      "rating": 5,
+      "text": "Great atmosphere and very well managed staff.\nVery attentive and was very delightful as well.",
+      "reviewDate": "2026-11-11T07:37:45.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6016524885504755585",
       "reviewer": "Ealasaid McLeod-Rivera",
