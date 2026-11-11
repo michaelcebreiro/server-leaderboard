@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-11T00:54:46.042Z",
-  "reviewCount": 31,
-  "qualifyingReviewCount": 30,
+  "processedAt": "2026-11-11T07:36:38.972Z",
+  "reviewCount": 32,
+  "qualifyingReviewCount": 31,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -55,77 +55,77 @@
     },
     {
       "rank": 9,
-      "server": "Matteo",
+      "server": "Harrison",
       "count": 1
     },
     {
       "rank": 10,
-      "server": "Matthew",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Meklit",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Michael",
+      "server": "Meklit",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Nicky",
+      "server": "Michael",
       "count": 1
     },
     {
       "rank": 14,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 15,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 22,
-      "server": "Eli",
-      "count": 0
-    },
-    {
       "rank": 23,
-      "server": "Harrison",
+      "server": "Eli",
       "count": 0
     },
     {
@@ -342,6 +342,18 @@
           "reviewer": "Patrick Ruiz",
           "text": "Great and fast Kalypsa was great",
           "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Harrison",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Ealasaid McLeod-Rivera",
+          "text": "Not your typical bland, subpar, overpriced restaurant by any means.\n\nWhat a phenomenal experience?!!! The wait staff , hostess , chef , and bar tender were exceptional.\n\nThe highlight of this gem was the incredible food; nothing pre packaged, absolutely fresh, and made with LOVE. A++++++ to this chef and kitchen staff. It has been years since I genuinely raved about a meal at a restaurant.\n\nMy waiter HARRISON made our night with his top notch customer service skills, knowledge, and overall kindness. LPE should recognize this employee for his contribution to their brand by setting them above the rest.\n\nMy only very very slight criticism would be the music level - it is quite overpowering upon entering the establishment. The music playlist itself however fit the atmosphere perfectly.\n\nBtw , LOVE the quiz night incorporation, next level in trending!",
+          "date": "2026-11-11",
           "rating": 5
         }
       ]
