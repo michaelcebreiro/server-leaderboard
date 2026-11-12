@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-12T11:42:36.718Z",
-  "reviewCount": 33,
+  "fetchedAt": "2026-11-12T19:10:11.903Z",
+  "reviewCount": 34,
   "reviews": [
+    {
+      "reviewId": "6021306323505232232",
+      "reviewer": "Lindsay",
+      "rating": 3,
+      "text": "We were seated at 645, and our server didnt come to see us until 720, only after another person checked in on us (I think they were wondering if we were just taking up space).",
+      "reviewDate": "2026-11-12T04:25:18.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "6016570795504760165",
       "reviewer": "SAUL BERNSTEIN",
