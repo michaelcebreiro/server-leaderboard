@@ -1,8 +1,24 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-13T00:27:45.080Z",
-  "reviewCount": 34,
+  "fetchedAt": "2026-11-13T07:07:51.266Z",
+  "reviewCount": 36,
   "reviews": [
+    {
+      "reviewId": "6022433063505344289",
+      "reviewer": "HonestGrub",
+      "rating": 3,
+      "text": "Wednesday staff is an absolute 12/10 , from the blonde manager to the Asian server to the deezed white guy cracking jokes … absolute gems shoutout them for real … Thursday manager just giving up pissed off angry vibes life’s already stressful as it is , we come to this place to escape reality for an hour or two before returning to this dog water country , server I give her a 10/10 too she’s probably pissed she’s working under that manager too so I won’t blame her for the attitude and no smiles cause im a fair guy . From making me wait 11 minutes until happy hour to order to no hello how are you . This is a problem.",
+      "reviewDate": "2026-11-13T02:59:38.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6022373165505338362",
+      "reviewer": "Andrès",
+      "rating": 5,
+      "text": "We came here a for a random night out and were surprised about the food and service. Ashley was really kind and friendly, always taking care of us, ensuring we were enjoying the experience.\n\nThe food was really good, steaks were cooked perfectly and service was fast. We will definitely come back!",
+      "reviewDate": "2026-11-13T01:28:22.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6021306323505232232",
       "reviewer": "Lindsay",
