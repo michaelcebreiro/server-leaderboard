@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-13T15:24:50.709Z",
-  "reviewCount": 36,
-  "qualifyingReviewCount": 33,
+  "processedAt": "2026-11-13T21:30:46.109Z",
+  "reviewCount": 38,
+  "qualifyingReviewCount": 36,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -25,17 +25,17 @@
     },
     {
       "rank": 3,
+      "server": "Tomi",
+      "count": 4
+    },
+    {
+      "rank": 4,
       "server": "Karina",
       "count": 3
     },
     {
-      "rank": 4,
-      "server": "Kalypsa",
-      "count": 2
-    },
-    {
       "rank": 5,
-      "server": "Tomi",
+      "server": "Kalypsa",
       "count": 2
     },
     {
@@ -444,8 +444,20 @@
     },
     {
       "server": "Tomi",
-      "count": 2,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Jeremy Millar",
+          "text": "Out server, Tomi, was great!",
+          "date": "2026-11-13",
+          "rating": 5
+        },
+        {
+          "reviewer": "Derek Brown",
+          "text": "Tomi was great server.",
+          "date": "2026-11-13",
+          "rating": 4
+        },
         {
           "reviewer": "Anne Francis",
           "text": "Great lace for a reunion with old friends and Tomi is terrific!",

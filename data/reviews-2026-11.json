@@ -1,14 +1,30 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-13T15:24:50.606Z",
-  "reviewCount": 36,
+  "fetchedAt": "2026-11-13T21:30:45.913Z",
+  "reviewCount": 38,
   "reviews": [
     {
-      "reviewId": "6022433063505344289",
-      "reviewer": "HonestGrub",
-      "rating": 3,
-      "text": "Wednesday staff is an absolute 12/10 , from the blonde manager to the Asian server to the deezed white guy cracking jokes … absolute gems shoutout them for real … Thursday manager just giving up pissed off angry vibes life’s already stressful as it is , we come to this place to escape reality for an hour or two before returning to this dog water country , server I give her a 10/10 too she’s probably pissed she’s working under that manager too so I won’t blame her for the attitude and no smiles cause im a fair guy . From making me wait 11 minutes until happy hour to order to no hello how are you . This is a problem.",
-      "reviewDate": "2026-11-13T02:59:38.000Z",
+      "reviewId": "6023686485505469044",
+      "reviewer": "Jeremy Millar",
+      "rating": 5,
+      "text": "Out server, Tomi, was great!",
+      "reviewDate": "2026-11-13T19:54:48.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6023537015505454153",
+      "reviewer": "justin boye",
+      "rating": 5,
+      "text": "Great job!",
+      "reviewDate": "2026-11-13T19:20:41.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6023548314505455282",
+      "reviewer": "Derek Brown",
+      "rating": 4,
+      "text": "Tomi was great server.",
+      "reviewDate": "2026-11-13T19:20:27.000Z",
       "source": "GOOGLE"
     },
     {
