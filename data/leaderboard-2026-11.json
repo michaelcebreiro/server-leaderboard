@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-14T01:50:08.871Z",
-  "reviewCount": 38,
-  "qualifyingReviewCount": 36,
+  "processedAt": "2026-11-14T08:46:07.439Z",
+  "reviewCount": 41,
+  "qualifyingReviewCount": 39,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -40,42 +40,42 @@
     },
     {
       "rank": 6,
+      "server": "Michael",
+      "count": 2
+    },
+    {
+      "rank": 7,
       "server": "Aisia",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Ewan",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Harrison",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Matthew",
       "count": 1
     },
     {
-      "rank": 12,
-      "server": "Meklit",
-      "count": 1
-    },
-    {
       "rank": 13,
-      "server": "Michael",
+      "server": "Meklit",
       "count": 1
     },
     {
@@ -432,8 +432,14 @@
     },
     {
       "server": "Michael",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "martina tait",
+          "text": "Go Michael go. Love that guy.",
+          "date": "2026-11-14",
+          "rating": 4
+        },
         {
           "reviewer": "Jvillvin",
           "text": "Will, Karina, Michael and Meklit were an absolute delight. And thank you to Derks for the apps and keeping my beer full!",
