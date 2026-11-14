@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-14T08:46:07.360Z",
-  "reviewCount": 41,
+  "fetchedAt": "2026-11-14T15:39:40.481Z",
+  "reviewCount": 43,
   "reviews": [
     {
       "reviewId": "6024552674505555313",
@@ -50,6 +50,22 @@
       "text": "Tomi was great server.",
       "reviewDate": "2026-11-13T19:20:27.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6024985065505598514",
+      "reviewer": "Charles",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-13T17:46:21.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "6024985075505598515",
+      "reviewer": "Stephen",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-13T15:51:53.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "6022373165505338362",
