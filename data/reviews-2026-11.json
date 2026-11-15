@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-15T19:38:11.579Z",
-  "reviewCount": 46,
+  "fetchedAt": "2026-11-15T23:30:57.501Z",
+  "reviewCount": 47,
   "reviews": [
+    {
+      "reviewId": "6026625075505761778",
+      "reviewer": "Darryl H",
+      "rating": 5,
+      "text": "Amazing location, staff and food!  2nd floor is a great place for a party!",
+      "reviewDate": "2026-11-15T16:55:17.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6025988185505698291",
       "reviewer": "R V",

@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-15T19:38:11.785Z",
-  "reviewCount": 46,
-  "qualifyingReviewCount": 44,
+  "processedAt": "2026-11-15T23:30:57.683Z",
+  "reviewCount": 47,
+  "qualifyingReviewCount": 45,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,131 +60,136 @@
     },
     {
       "rank": 10,
-      "server": "Harrison",
+      "server": "floor",
       "count": 1
     },
     {
       "rank": 11,
-      "server": "Matteo",
+      "server": "Harrison",
       "count": 1
     },
     {
       "rank": 12,
-      "server": "Matthew",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 13,
-      "server": "Meklit",
+      "server": "Matthew",
       "count": 1
     },
     {
       "rank": 14,
-      "server": "Nicky",
+      "server": "Meklit",
       "count": 1
     },
     {
       "rank": 15,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 16,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Mackenzie",
       "count": 0
     },
     {
-      "rank": 30,
+      "rank": 31,
       "server": "Maria",
       "count": 0
     },
     {
-      "rank": 31,
+      "rank": 32,
       "server": "Nicola",
       "count": 0
     },
     {
-      "rank": 32,
+      "rank": 33,
       "server": "Nina",
       "count": 0
     },
     {
-      "rank": 33,
+      "rank": 34,
       "server": "Paulveen",
       "count": 0
     },
     {
-      "rank": 34,
+      "rank": 35,
       "server": "Sydney",
       "count": 0
     },
     {
-      "rank": 35,
+      "rank": 36,
       "server": "Zivko",
       "count": 0
     }
@@ -480,6 +485,18 @@
           "reviewer": "Yasma Ali-Hassan",
           "text": "Excellent service from Tomi!!!!!",
           "date": "2026-11-04",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "floor",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Darryl H",
+          "text": "Amazing location, staff and food!  2nd floor is a great place for a party!",
+          "date": "2026-11-15",
           "rating": 5
         }
       ]
