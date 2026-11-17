@@ -1,8 +1,24 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-16T21:11:26.293Z",
-  "reviewCount": 47,
+  "fetchedAt": "2026-11-17T03:56:28.331Z",
+  "reviewCount": 49,
   "reviews": [
+    {
+      "reviewId": "5098616925413297706",
+      "reviewer": "Kate Denomme",
+      "rating": 5,
+      "text": "Love this place! Maria is the sweetest server ever :)",
+      "reviewDate": "2026-11-16T23:56:43.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6029297405506028291",
+      "reviewer": "kory Dipucchio",
+      "rating": 5,
+      "text": "Maria was awesome and very attentive. Would totally come back!\nThank you!",
+      "reviewDate": "2026-11-16T22:51:57.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6026625075505761778",
       "reviewer": "Darryl H",

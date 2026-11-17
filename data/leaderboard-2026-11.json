@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-16T21:11:26.380Z",
-  "reviewCount": 47,
-  "qualifyingReviewCount": 45,
+  "processedAt": "2026-11-17T03:56:28.506Z",
+  "reviewCount": 49,
+  "qualifyingReviewCount": 47,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -45,127 +45,127 @@
     },
     {
       "rank": 7,
-      "server": "Michael",
+      "server": "Maria",
       "count": 2
     },
     {
       "rank": 8,
+      "server": "Michael",
+      "count": 2
+    },
+    {
+      "rank": 9,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Ewan",
       "count": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "floor",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "server": "Harrison",
       "count": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "server": "Matteo",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "Matthew",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Meklit",
       "count": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Nicky",
       "count": 1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Brooke",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Carolina",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Christina",
       "count": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "server": "Elaiza",
       "count": 0
     },
     {
-      "rank": 24,
+      "rank": 25,
       "server": "Eli",
       "count": 0
     },
     {
-      "rank": 25,
+      "rank": 26,
       "server": "Jackie G",
       "count": 0
     },
     {
-      "rank": 26,
+      "rank": 27,
       "server": "Jackie N",
       "count": 0
     },
     {
-      "rank": 27,
+      "rank": 28,
       "server": "Kaitlyn M",
       "count": 0
     },
     {
-      "rank": 28,
+      "rank": 29,
       "server": "Kaitlyn S",
       "count": 0
     },
     {
-      "rank": 29,
+      "rank": 30,
       "server": "Kayla",
       "count": 0
     },
     {
-      "rank": 30,
-      "server": "Mackenzie",
-      "count": 0
-    },
-    {
       "rank": 31,
-      "server": "Maria",
+      "server": "Mackenzie",
       "count": 0
     },
     {
@@ -227,6 +227,24 @@
           "reviewer": "Josee Gravelle",
           "text": "Family party for 25. Great food and the staff was amazing!  Thank you Karina and Nicky!",
           "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Maria",
+      "count": 2,
+      "reviews": [
+        {
+          "reviewer": "Kate Denomme",
+          "text": "Love this place! Maria is the sweetest server ever :)",
+          "date": "2026-11-16",
+          "rating": 5
+        },
+        {
+          "reviewer": "kory Dipucchio",
+          "text": "Maria was awesome and very attentive. Would totally come back!\nThank you!",
+          "date": "2026-11-16",
           "rating": 5
         }
       ]
