@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-17T13:01:47.736Z",
-  "reviewCount": 49,
-  "qualifyingReviewCount": 47,
+  "processedAt": "2026-11-17T21:46:30.978Z",
+  "reviewCount": 50,
+  "qualifyingReviewCount": 48,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,17 +30,17 @@
     },
     {
       "rank": 4,
-      "server": "Karina",
+      "server": "Kalypsa",
       "count": 3
     },
     {
       "rank": 5,
-      "server": "Aisia",
-      "count": 2
+      "server": "Karina",
+      "count": 3
     },
     {
       "rank": 6,
-      "server": "Kalypsa",
+      "server": "Aisia",
       "count": 2
     },
     {
@@ -353,8 +353,14 @@
     },
     {
       "server": "Kalypsa",
-      "count": 2,
+      "count": 3,
       "reviews": [
+        {
+          "reviewer": "Yasmeen Hasan Pasha",
+          "text": "Amazing ambience, great food! Special shoutout to our server Kalypsa who was awesome!",
+          "date": "2026-11-17",
+          "rating": 5
+        },
         {
           "reviewer": "Roxanne Muir",
           "text": "My son and I go there for lunch and a catch up, amazing food and great service , Kalypsa is a fantastic server and every thing she recommends is fantastic , I’m celiac and they have great options for me. I highly recommend the fish tacos",

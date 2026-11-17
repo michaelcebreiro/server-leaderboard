@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-17T13:01:47.669Z",
-  "reviewCount": 49,
+  "fetchedAt": "2026-11-17T21:46:30.859Z",
+  "reviewCount": 50,
   "reviews": [
+    {
+      "reviewId": "6030440985506141973",
+      "reviewer": "Yasmeen Hasan Pasha",
+      "rating": 5,
+      "text": "Amazing ambience, great food! Special shoutout to our server Kalypsa who was awesome!",
+      "reviewDate": "2026-11-17T17:42:03.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5098616925413297706",
       "reviewer": "Kate Denomme",
