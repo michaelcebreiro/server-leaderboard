@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-18T03:27:06.037Z",
-  "reviewCount": 50,
+  "fetchedAt": "2026-11-18T12:08:17.016Z",
+  "reviewCount": 51,
   "reviews": [
+    {
+      "reviewId": "6003276765503437584",
+      "reviewer": "Bhala insan",
+      "rating": 5,
+      "text": "This is a great place. We just walked in here out of nowhere and we were totally surprised by amazing food menu and amazing drinks menu. The service is great. They have an outdoor patio where you can have a chill time while having your drinks and eating great food . Very family friendly area\n\nAdding more from 3rd visit - had amazing experience as always !!",
+      "reviewDate": "2026-11-18T03:28:04.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6030440985506141973",
       "reviewer": "Yasmeen Hasan Pasha",
