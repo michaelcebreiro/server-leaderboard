@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-20T17:42:53.739Z",
-  "reviewCount": 53,
+  "fetchedAt": "2026-11-20T23:23:54.332Z",
+  "reviewCount": 55,
   "reviews": [
     {
       "reviewId": "6036966225506791413",
@@ -10,6 +10,22 @@
       "text": "Great food, great drinks, great vibes",
       "reviewDate": "2026-11-20T15:12:38.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6037712415506865856",
+      "reviewer": "Michelle",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-20T02:21:32.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "6037712424506865857",
+      "reviewer": "Alexandre",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-11-20T02:16:47.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "6033577975506454031",
