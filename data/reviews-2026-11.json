@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-20T08:58:48.266Z",
-  "reviewCount": 52,
+  "fetchedAt": "2026-11-20T17:42:53.739Z",
+  "reviewCount": 53,
   "reviews": [
+    {
+      "reviewId": "6036966225506791413",
+      "reviewer": "Jess Weert",
+      "rating": 5,
+      "text": "Great food, great drinks, great vibes",
+      "reviewDate": "2026-11-20T15:12:38.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6033577975506454031",
       "reviewer": "Emily Cooper",
