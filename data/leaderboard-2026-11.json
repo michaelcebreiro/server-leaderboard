@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-21T04:11:32.784Z",
-  "reviewCount": 56,
-  "qualifyingReviewCount": 54,
+  "processedAt": "2026-11-21T12:43:15.785Z",
+  "reviewCount": 58,
+  "qualifyingReviewCount": 56,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Danielle",
-      "count": 8
+      "count": 9
     },
     {
       "rank": 2,
@@ -293,8 +293,14 @@
     },
     {
       "server": "Danielle",
-      "count": 8,
+      "count": 9,
       "reviews": [
+        {
+          "reviewer": "Yasamin Karimi",
+          "text": "Danielle truly made our experience unforgettable! She was incredibly kind, friendly, attentive, and welcoming. Her warm personality and genuine care made us feel so comfortable and special. She went above and beyond to make sure we had a wonderful experience, and honestly, people like Danielle are what make a place stand out. The café is lovely, but Danielle is definitely the highlight! We’ll absolutely be coming back. Thank you, Danielle, for making our visit so special!",
+          "date": "2026-11-21",
+          "rating": 5
+        },
         {
           "reviewer": "Kate Claydon",
           "text": "Danielle was an excellent waitress! She was very kind, attentive, and knowledgeable about the restaurant. We felt extremely welcomed and valued, thank you for such a wonderful experience!",

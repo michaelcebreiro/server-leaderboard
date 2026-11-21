@@ -1,8 +1,24 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-21T04:11:32.702Z",
-  "reviewCount": 56,
+  "fetchedAt": "2026-11-21T12:43:15.506Z",
+  "reviewCount": 58,
   "reviews": [
+    {
+      "reviewId": "6039337665507027812",
+      "reviewer": "Yasamin Karimi",
+      "rating": 5,
+      "text": "Danielle truly made our experience unforgettable! She was incredibly kind, friendly, attentive, and welcoming. Her warm personality and genuine care made us feel so comfortable and special. She went above and beyond to make sure we had a wonderful experience, and honestly, people like Danielle are what make a place stand out. The café is lovely, but Danielle is definitely the highlight! We’ll absolutely be coming back. Thank you, Danielle, for making our visit so special!",
+      "reviewDate": "2026-11-21T04:15:21.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6039337415507027787",
+      "reviewer": "mana matinpour",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-21T04:14:28.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6039306315507024698",
       "reviewer": "Ranjit Singh",
