@@ -1,13 +1,61 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-21T12:43:15.506Z",
-  "reviewCount": 58,
+  "fetchedAt": "2026-11-21T19:49:44.809Z",
+  "reviewCount": 64,
   "reviews": [
+    {
+      "reviewId": "6040456025507139301",
+      "reviewer": "Kathryn Green",
+      "rating": 5,
+      "text": "We had a great experience because of Tomi’s wonderful service. She was awesome! We enjoyed the food, but she truly made our experience here great! I would come back here just for the vibes",
+      "reviewDate": "2026-11-21T19:24:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6040462435507139937",
+      "reviewer": "Sridhar Rao",
+      "rating": 5,
+      "text": "Tomi was incredible! Her attitude and energy was infectious. The food was great as well!",
+      "reviewDate": "2026-11-21T19:24:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6040454435507139149",
+      "reviewer": "Maxine Yang",
+      "rating": 5,
+      "text": "Tomi went above and beyond with our service (: she was so helpful and kind and made great suggestions for dessert!",
+      "reviewDate": "2026-11-21T19:13:52.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6040431645507136887",
+      "reviewer": "Chris Rochon",
+      "rating": 5,
+      "text": "We had Tomi she was amazing",
+      "reviewDate": "2026-11-21T18:48:51.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6040431205507136845",
+      "reviewer": "Michael Gross",
+      "rating": 5,
+      "text": "Tomi was the best!",
+      "reviewDate": "2026-11-21T18:48:18.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6040356415507129438",
+      "reviewer": "Haley",
+      "rating": 5,
+      "text": "Great family friendly restaurant with a great brunch. Aisia was kind and attentive!",
+      "reviewDate": "2026-11-21T17:12:46.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6039337665507027812",
       "reviewer": "Yasamin Karimi",
       "rating": 5,
-      "text": "Danielle truly made our experience unforgettable! She was incredibly kind, friendly, attentive, and welcoming. Her warm personality and genuine care made us feel so comfortable and special. She went above and beyond to make sure we had a wonderful experience, and honestly, people like Danielle are what make a place stand out. The café is lovely, but Danielle is definitely the highlight! We’ll absolutely be coming back. Thank you, Danielle, for making our visit so special!",
+      "text": "Danielle truly made our experience unforgettable! She was incredibly kind, friendly, attentive, and welcoming. Her warm personality and genuine care made us feel so comfortable and special. She went above and beyond to make sure we had a wonderful experience, and honestly, people like Danielle are what make a place stand out. The café is lovely, but Danielle is definitely the highlight! We’ll absolutely be coming back. Thank you, Danielle, for making our visit so special! ❤️",
       "reviewDate": "2026-11-21T04:15:21.000Z",
       "source": "GOOGLE"
     },

@@ -197,6 +197,10 @@
     {
       "name": "floor",
       "aliases": []
+    },
+    {
+      "name": "attitude",
+      "aliases": []
     }
   ],
   "removed": [
