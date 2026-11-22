@@ -195,10 +195,6 @@
       ]
     },
     {
-      "name": "attitude",
-      "aliases": []
-    },
-    {
       "name": "Will",
       "aliases": []
     }
@@ -231,6 +227,7 @@
     "Max",
     "truly",
     "Sofie",
-    "floor"
+    "floor",
+    "attitude"
   ]
 }
