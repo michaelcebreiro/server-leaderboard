@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-22T21:04:34.530Z",
-  "reviewCount": 64,
-  "qualifyingReviewCount": 62,
+  "processedAt": "2026-11-23T01:45:40.114Z",
+  "reviewCount": 65,
+  "qualifyingReviewCount": 63,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -15,12 +15,12 @@
   "standings": [
     {
       "rank": 1,
-      "server": "Danielle",
-      "count": 9
+      "server": "Tomi",
+      "count": 10
     },
     {
       "rank": 2,
-      "server": "Tomi",
+      "server": "Danielle",
       "count": 9
     },
     {
@@ -523,8 +523,14 @@
     },
     {
       "server": "Tomi",
-      "count": 9,
+      "count": 10,
       "reviews": [
+        {
+          "reviewer": "Miriam E",
+          "text": "Our server Tomi went above and beyond to make sure we were comfortable. Her service was impeccable, and she really made our dining experience a 12/10!",
+          "date": "2026-11-22",
+          "rating": 5
+        },
         {
           "reviewer": "Kathryn Green",
           "text": "We had a great experience because of Tomi’s wonderful service. She was awesome! We enjoyed the food, but she truly made our experience here great! I would come back here just for the vibes",

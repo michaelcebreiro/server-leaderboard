@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-22T21:04:34.438Z",
-  "reviewCount": 64,
+  "fetchedAt": "2026-11-23T01:45:40.052Z",
+  "reviewCount": 65,
   "reviews": [
+    {
+      "reviewId": "6042254325507318532",
+      "reviewer": "Miriam E",
+      "rating": 5,
+      "text": "Our server Tomi went above and beyond to make sure we were comfortable. Her service was impeccable, and she really made our dining experience a 12/10!",
+      "reviewDate": "2026-11-22T23:20:22.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6040456025507139301",
       "reviewer": "Kathryn Green",
