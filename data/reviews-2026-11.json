@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-23T01:45:40.052Z",
-  "reviewCount": 65,
+  "fetchedAt": "2026-11-23T10:29:40.053Z",
+  "reviewCount": 66,
   "reviews": [
+    {
+      "reviewId": "6042544435507347400",
+      "reviewer": "Amanda Yeretsian",
+      "rating": 5,
+      "text": "We hosted our family on the rooftop space to celebrate our daughter’s baptism. The process to book was super simple and we love local because there is something for everyone on their great menu. The day of, our service Kalypsa was incredible making sure everything we preordered came out asap, drinks were served quickly, food orders were taken, and dessert and coffee were offered quickly after (just in time when we needed some caffeine boost)! She went above and beyond and made the whole morning seamless for us, which really allowed us to enjoy the day as she did all the hosting for us (making sure we always had drinks topped up, helping with recommendations, and even just some great chats!). The day was wonderful, but our servers really made us feel special and well taken care of.",
+      "reviewDate": "2026-11-23T08:46:27.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6042254325507318532",
       "reviewer": "Miriam E",

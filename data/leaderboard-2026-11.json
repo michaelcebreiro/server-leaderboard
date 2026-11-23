@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-23T01:45:40.114Z",
-  "reviewCount": 65,
-  "qualifyingReviewCount": 63,
+  "processedAt": "2026-11-23T10:29:40.136Z",
+  "reviewCount": 66,
+  "qualifyingReviewCount": 64,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -35,17 +35,17 @@
     },
     {
       "rank": 5,
+      "server": "Kalypsa",
+      "count": 4
+    },
+    {
+      "rank": 6,
       "server": "Aisia",
       "count": 3
     },
     {
-      "rank": 6,
-      "server": "Ashley",
-      "count": 3
-    },
-    {
       "rank": 7,
-      "server": "Kalypsa",
+      "server": "Ashley",
       "count": 3
     },
     {
@@ -385,8 +385,14 @@
     },
     {
       "server": "Kalypsa",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Amanda Yeretsian",
+          "text": "We hosted our family on the rooftop space to celebrate our daughter’s baptism. The process to book was super simple and we love local because there is something for everyone on their great menu. The day of, our service Kalypsa was incredible making sure everything we preordered came out asap, drinks were served quickly, food orders were taken, and dessert and coffee were offered quickly after (just in time when we needed some caffeine boost)! She went above and beyond and made the whole morning seamless for us, which really allowed us to enjoy the day as she did all the hosting for us (making sure we always had drinks topped up, helping with recommendations, and even just some great chats!). The day was wonderful, but our servers really made us feel special and well taken care of.",
+          "date": "2026-11-23",
+          "rating": 5
+        },
         {
           "reviewer": "Yasmeen Hasan Pasha",
           "text": "Amazing ambience, great food! Special shoutout to our server Kalypsa who was awesome!",
