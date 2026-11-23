@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-23T10:29:40.053Z",
-  "reviewCount": 66,
+  "fetchedAt": "2026-11-23T22:11:26.667Z",
+  "reviewCount": 67,
   "reviews": [
     {
       "reviewId": "6042544435507347400",
@@ -18,6 +18,14 @@
       "text": "Our server Tomi went above and beyond to make sure we were comfortable. Her service was impeccable, and she really made our dining experience a 12/10!",
       "reviewDate": "2026-11-22T23:20:22.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6042666555507359602",
+      "reviewer": "Susan",
+      "rating": 5,
+      "text": "Fantastic spot!! Excellent service and food . Bruch always a hit here",
+      "reviewDate": "2026-11-22T19:13:51.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "6040456025507139301",
