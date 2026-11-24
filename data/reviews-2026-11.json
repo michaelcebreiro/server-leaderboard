@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-24T06:05:19.000Z",
-  "reviewCount": 68,
+  "fetchedAt": "2026-11-24T17:48:41.037Z",
+  "reviewCount": 70,
   "reviews": [
     {
       "reviewId": "6044236535507515983",
@@ -10,6 +10,22 @@
       "text": "Came for dinner on a busy Saturday night. Has Matthew as our server and he was amazing!!!",
       "reviewDate": "2026-11-24T00:39:26.000Z",
       "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6044673105507559469",
+      "reviewer": "Andrew",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-23T17:41:48.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "6044673115507559470",
+      "reviewer": "Clara",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-23T14:58:44.000Z",
+      "source": "OPENTABLE"
     },
     {
       "reviewId": "6042544435507347400",
