@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-23T22:11:26.667Z",
-  "reviewCount": 67,
+  "fetchedAt": "2026-11-24T06:05:19.000Z",
+  "reviewCount": 68,
   "reviews": [
+    {
+      "reviewId": "6044236535507515983",
+      "reviewer": "Heather Cairns",
+      "rating": 5,
+      "text": "Came for dinner on a busy Saturday night. Has Matthew as our server and he was amazing!!!",
+      "reviewDate": "2026-11-24T00:39:26.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6042544435507347400",
       "reviewer": "Amanda Yeretsian",

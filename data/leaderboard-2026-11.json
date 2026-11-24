@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-23T22:11:26.749Z",
-  "reviewCount": 67,
-  "qualifyingReviewCount": 65,
+  "processedAt": "2026-11-24T06:05:19.084Z",
+  "reviewCount": 68,
+  "qualifyingReviewCount": 66,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -60,42 +60,42 @@
     },
     {
       "rank": 10,
-      "server": "Meklit",
+      "server": "Matthew",
       "count": 2
     },
     {
       "rank": 11,
-      "server": "Michael",
+      "server": "Meklit",
       "count": 2
     },
     {
       "rank": 12,
+      "server": "Michael",
+      "count": 2
+    },
+    {
+      "rank": 13,
       "server": "Akiko",
       "count": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "server": "attitude",
       "count": 1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "server": "Ewan",
       "count": 1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "server": "Harrison",
       "count": 1
     },
     {
-      "rank": 16,
-      "server": "Matteo",
-      "count": 1
-    },
-    {
       "rank": 17,
-      "server": "Matthew",
+      "server": "Matteo",
       "count": 1
     },
     {
@@ -499,8 +499,14 @@
     },
     {
       "server": "Matthew",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "Heather Cairns",
+          "text": "Came for dinner on a busy Saturday night. Has Matthew as our server and he was amazing!!!",
+          "date": "2026-11-24",
+          "rating": 5
+        },
         {
           "reviewer": "Yo ly",
           "text": "Visited Local Public Eatery on a Sunday, while my son was at a birthday party at Skyzone, and had a great experience with my server/waiter Matthew, who was calm, friendly and able to recommend some great selections for food and drinks. Matthew was professional and made the whole outing a lovely moment for me. Thanks, LPE, for the stellar hire!",
