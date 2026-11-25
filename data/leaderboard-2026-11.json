@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-25T02:03:24.454Z",
-  "reviewCount": 70,
-  "qualifyingReviewCount": 68,
+  "processedAt": "2026-11-25T20:35:18.007Z",
+  "reviewCount": 80,
+  "qualifyingReviewCount": 78,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,7 +16,7 @@
     {
       "rank": 1,
       "server": "Tomi",
-      "count": 10
+      "count": 12
     },
     {
       "rank": 2,
@@ -30,47 +30,47 @@
     },
     {
       "rank": 4,
+      "server": "Kalypsa",
+      "count": 8
+    },
+    {
+      "rank": 5,
       "server": "Derka",
       "count": 7
     },
     {
-      "rank": 5,
-      "server": "Kalypsa",
-      "count": 4
+      "rank": 6,
+      "server": "Michael",
+      "count": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "server": "Aisia",
       "count": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "server": "Ashley",
       "count": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "server": "Karina",
       "count": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "server": "Maria",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "server": "Matthew",
       "count": 2
     },
     {
-      "rank": 11,
-      "server": "Meklit",
-      "count": 2
-    },
-    {
       "rank": 12,
-      "server": "Michael",
+      "server": "Meklit",
       "count": 2
     },
     {
@@ -385,8 +385,32 @@
     },
     {
       "server": "Kalypsa",
-      "count": 4,
+      "count": 8,
       "reviews": [
+        {
+          "reviewer": "Kiria Serranegra",
+          "text": "Kalypsa and Michael were great, very gentil and good energy. The food was also amazing. I love the loaded potato.",
+          "date": "2026-11-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Mariana Moura",
+          "text": "Kalypsa was wonderful!",
+          "date": "2026-11-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Grace Main",
+          "text": "Kalypsa was wonderful tonight!!! She was sweet and fun and made sure we had the best moms night!!!",
+          "date": "2026-11-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tonya Konidis",
+          "text": "Michael and Kalypsa took such good care of us, were so professional and attentive - definitely enhanced the evening.",
+          "date": "2026-11-25",
+          "rating": 5
+        },
         {
           "reviewer": "Amanda Yeretsian",
           "text": "We hosted our family on the rooftop space to celebrate our daughter’s baptism. The process to book was super simple and we love local because there is something for everyone on their great menu. The day of, our service Kalypsa was incredible making sure everything we preordered came out asap, drinks were served quickly, food orders were taken, and dessert and coffee were offered quickly after (just in time when we needed some caffeine boost)! She went above and beyond and made the whole morning seamless for us, which really allowed us to enjoy the day as she did all the hosting for us (making sure we always had drinks topped up, helping with recommendations, and even just some great chats!). The day was wonderful, but our servers really made us feel special and well taken care of.",
@@ -517,8 +541,26 @@
     },
     {
       "server": "Michael",
-      "count": 2,
+      "count": 5,
       "reviews": [
+        {
+          "reviewer": "Kiria Serranegra",
+          "text": "Kalypsa and Michael were great, very gentil and good energy. The food was also amazing. I love the loaded potato.",
+          "date": "2026-11-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Tonya Konidis",
+          "text": "Michael and Kalypsa took such good care of us, were so professional and attentive - definitely enhanced the evening.",
+          "date": "2026-11-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Thainá Lima",
+          "text": "Michael and kalipsa were AMAZING!",
+          "date": "2026-11-25",
+          "rating": 5
+        },
         {
           "reviewer": "martina tait",
           "text": "Go Michael go. Love that guy.",
@@ -535,8 +577,20 @@
     },
     {
       "server": "Tomi",
-      "count": 10,
+      "count": 12,
       "reviews": [
+        {
+          "reviewer": "Jason Clarke",
+          "text": "Tomi was awesome! Can’t wait to go back.",
+          "date": "2026-11-25",
+          "rating": 5
+        },
+        {
+          "reviewer": "Kurt K",
+          "text": "Tomi was amazing, attentive and provided excellent customer service. We'll be back!",
+          "date": "2026-11-25",
+          "rating": 5
+        },
         {
           "reviewer": "Miriam E",
           "text": "Our server Tomi went above and beyond to make sure we were comfortable. Her service was impeccable, and she really made our dining experience a 12/10!",

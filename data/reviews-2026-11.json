@@ -1,8 +1,88 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-25T02:03:24.384Z",
-  "reviewCount": 70,
+  "fetchedAt": "2026-11-25T20:35:17.928Z",
+  "reviewCount": 80,
   "reviews": [
+    {
+      "reviewId": "5968731035499993051",
+      "reviewer": "Jason Clarke",
+      "rating": 5,
+      "text": "Tomi was awesome! Can’t wait to go back.",
+      "reviewDate": "2026-11-25T19:57:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327628075436101318",
+      "reviewer": "Kurt K",
+      "rating": 5,
+      "text": "Tomi was amazing, attentive and provided excellent customer service. We'll be back!",
+      "reviewDate": "2026-11-25T19:56:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6047791315507869861",
+      "reviewer": "Jo Greer",
+      "rating": 5,
+      "text": "Tami was an excellent server, great food, very nice atmosphere. Everything came quickly and was hot and tasty.",
+      "reviewDate": "2026-11-25T19:48:35.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6047291064507820215",
+      "reviewer": "James Mulholland",
+      "rating": 4,
+      "text": "",
+      "reviewDate": "2026-11-25T15:00:04.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6046664745507757868",
+      "reviewer": "Kiria Serranegra",
+      "rating": 5,
+      "text": "Kalypsa and Michael were great, very gentil and good energy. The food was also amazing. I love the loaded potato.",
+      "reviewDate": "2026-11-25T02:03:27.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6046664565507757851",
+      "reviewer": "Mariana Moura",
+      "rating": 5,
+      "text": "Kalypsa was wonderful!",
+      "reviewDate": "2026-11-25T02:03:03.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5371920175440509229",
+      "reviewer": "Grace Main",
+      "rating": 5,
+      "text": "Kalypsa was wonderful tonight!!! She was sweet and fun and made sure we had the best moms night!!!",
+      "reviewDate": "2026-11-25T02:02:32.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5371920374440509249",
+      "reviewer": "dhanya pa",
+      "rating": 4,
+      "text": "Kalpsa was great and we did enjoy every bit of it",
+      "reviewDate": "2026-11-25T02:02:26.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6046664275507757822",
+      "reviewer": "Tonya Konidis",
+      "rating": 5,
+      "text": "Michael and Kalypsa took such good care of us, were so professional and attentive - definitely enhanced the evening.",
+      "reviewDate": "2026-11-25T02:02:22.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6046664295507757824",
+      "reviewer": "Thainá Lima",
+      "rating": 5,
+      "text": "Michael and kalipsa were AMAZING!",
+      "reviewDate": "2026-11-25T02:01:46.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6044236535507515983",
       "reviewer": "Heather Cairns",
