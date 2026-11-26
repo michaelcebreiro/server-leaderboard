@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-26T12:38:58.176Z",
-  "reviewCount": 89,
-  "qualifyingReviewCount": 87,
+  "processedAt": "2026-11-26T21:57:25.843Z",
+  "reviewCount": 91,
+  "qualifyingReviewCount": 88,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -85,52 +85,52 @@
     },
     {
       "rank": 15,
-      "server": "Ewan",
+      "server": "Carolina",
       "count": 1
     },
     {
       "rank": 16,
-      "server": "Harrison",
+      "server": "Ewan",
       "count": 1
     },
     {
       "rank": 17,
-      "server": "Matteo",
+      "server": "Harrison",
       "count": 1
     },
     {
       "rank": 18,
-      "server": "Nicky",
+      "server": "Matteo",
       "count": 1
     },
     {
       "rank": 19,
+      "server": "Nicky",
+      "count": 1
+    },
+    {
+      "rank": 20,
       "server": "Alessia",
       "count": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "server": "Alex",
       "count": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "server": "Annabel",
       "count": 0
     },
     {
-      "rank": 22,
+      "rank": 23,
       "server": "Blake",
       "count": 0
     },
     {
-      "rank": 23,
-      "server": "Brooke",
-      "count": 0
-    },
-    {
       "rank": 24,
-      "server": "Carolina",
+      "server": "Brooke",
       "count": 0
     },
     {
@@ -439,6 +439,18 @@
           "reviewer": "Patrick Ruiz",
           "text": "Great and fast Kalypsa was great",
           "date": "2026-11-07",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "server": "Carolina",
+      "count": 1,
+      "reviews": [
+        {
+          "reviewer": "Matt Russell",
+          "text": "Always great service, and a fun place to watch the game!\nCaro’s the best!",
+          "date": "2026-11-26",
           "rating": 5
         }
       ]

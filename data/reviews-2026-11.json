@@ -1,8 +1,24 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-26T12:38:58.108Z",
-  "reviewCount": 89,
+  "fetchedAt": "2026-11-26T21:57:25.640Z",
+  "reviewCount": 91,
   "reviews": [
+    {
+      "reviewId": "6049003403507990348",
+      "reviewer": "Jacques",
+      "rating": 3,
+      "text": "Nice greeting and waitress.\nGood menu variety and cooked food.\nNo specials.",
+      "reviewDate": "2026-11-26T20:50:37.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6048912285507981329",
+      "reviewer": "Matt Russell",
+      "rating": 5,
+      "text": "Always great service, and a fun place to watch the game!\nCaro’s the best!",
+      "reviewDate": "2026-11-26T17:38:16.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6048285455507918930",
       "reviewer": "MJMG",
