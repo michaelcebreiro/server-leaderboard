@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-25T20:35:18.007Z",
-  "reviewCount": 80,
-  "qualifyingReviewCount": 78,
+  "processedAt": "2026-11-26T03:09:53.242Z",
+  "reviewCount": 89,
+  "qualifyingReviewCount": 87,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -16,16 +16,16 @@
     {
       "rank": 1,
       "server": "Tomi",
-      "count": 12
+      "count": 14
     },
     {
       "rank": 2,
-      "server": "Danielle",
-      "count": 9
+      "server": "Will",
+      "count": 11
     },
     {
       "rank": 3,
-      "server": "Will",
+      "server": "Danielle",
       "count": 9
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "rank": 7,
-      "server": "Aisia",
-      "count": 3
+      "server": "Ashley",
+      "count": 4
     },
     {
       "rank": 8,
-      "server": "Ashley",
+      "server": "Aisia",
       "count": 3
     },
     {
@@ -60,23 +60,23 @@
     },
     {
       "rank": 10,
-      "server": "Maria",
+      "server": "Akiko",
       "count": 2
     },
     {
       "rank": 11,
-      "server": "Matthew",
+      "server": "Maria",
       "count": 2
     },
     {
       "rank": 12,
-      "server": "Meklit",
+      "server": "Matthew",
       "count": 2
     },
     {
       "rank": 13,
-      "server": "Akiko",
-      "count": 1
+      "server": "Meklit",
+      "count": 2
     },
     {
       "rank": 14,
@@ -217,8 +217,14 @@
   "mentions": [
     {
       "server": "Akiko",
-      "count": 1,
+      "count": 2,
       "reviews": [
+        {
+          "reviewer": "MJMG",
+          "text": "Akiko is the BEST...",
+          "date": "2026-11-26",
+          "rating": 5
+        },
         {
           "reviewer": "Hannah Carver",
           "text": "Matteo and Akiko were so great, really enjoyed our time at Local!!! Would come back again.",
@@ -577,8 +583,20 @@
     },
     {
       "server": "Tomi",
-      "count": 12,
+      "count": 14,
       "reviews": [
+        {
+          "reviewer": "Laura Rodriguez-Tuer",
+          "text": "Tomi was the very best!! No notes.",
+          "date": "2026-11-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Royce Mendes",
+          "text": "Thank you to our server Tomi for making our birthday celebration so wonderful!",
+          "date": "2026-11-26",
+          "rating": 5
+        },
         {
           "reviewer": "Jason Clarke",
           "text": "Tomi was awesome! Can’t wait to go back.",
@@ -667,8 +685,20 @@
     },
     {
       "server": "Will",
-      "count": 9,
+      "count": 11,
       "reviews": [
+        {
+          "reviewer": "Gray S.",
+          "text": "Will is a great server, helped us out a lot and probably had the best dinner and service because of him.",
+          "date": "2026-11-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Nazli Medghalchi",
+          "text": "Great atmosphere to relax and catch-up with friends. Will provided great service, very professional and friendly. Thanks to Will and the Local restaurant for being always great spot to hang out.",
+          "date": "2026-11-26",
+          "rating": 5
+        },
         {
           "reviewer": "Nancy Silveira",
           "text": "Had a great time as usual here.  Will was our server and he absolutley did amazing. He was very attentive and knew his stuff.",
@@ -727,8 +757,14 @@
     },
     {
       "server": "Ashley",
-      "count": 3,
+      "count": 4,
       "reviews": [
+        {
+          "reviewer": "Karin Coulter",
+          "text": "Our server was incredible!!!! Ashley is the Best!!!",
+          "date": "2026-11-26",
+          "rating": 5
+        },
         {
           "reviewer": "Emily Cooper",
           "text": "Ashley is awesomeeeee",

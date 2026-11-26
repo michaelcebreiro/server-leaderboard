@@ -1,8 +1,80 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-25T20:35:17.928Z",
-  "reviewCount": 80,
+  "fetchedAt": "2026-11-26T03:09:53.156Z",
+  "reviewCount": 89,
   "reviews": [
+    {
+      "reviewId": "6048285455507918930",
+      "reviewer": "MJMG",
+      "rating": 5,
+      "text": "Akiko is the BEST...",
+      "reviewDate": "2026-11-26T02:53:49.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6048285095507918894",
+      "reviewer": "Manuel Viola RCIC",
+      "rating": 5,
+      "text": "Wonderful service!",
+      "reviewDate": "2026-11-26T02:53:19.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6048250565507915460",
+      "reviewer": "Gray S.",
+      "rating": 5,
+      "text": "Will is a great server, helped us out a lot and probably had the best dinner and service because of him.",
+      "reviewDate": "2026-11-26T02:04:01.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6048250455507915449",
+      "reviewer": "Maryam Medghalchi",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-26T02:03:56.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6048249695507915373",
+      "reviewer": "Nazli Medghalchi",
+      "rating": 5,
+      "text": "Great atmosphere to relax and catch-up with friends. Will provided great service, very professional and friendly. Thanks to Will and the Local restaurant for being always great spot to hang out.",
+      "reviewDate": "2026-11-26T02:02:42.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6048249665507915370",
+      "reviewer": "Karin Coulter",
+      "rating": 5,
+      "text": "Our server was incredible!!!! Ashley is the Best!!!",
+      "reviewDate": "2026-11-26T02:02:12.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6048147435507905219",
+      "reviewer": "Laura Rodriguez-Tuer",
+      "rating": 5,
+      "text": "Tomi was the very best!! No notes.",
+      "reviewDate": "2026-11-26T00:16:29.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6048146875507905165",
+      "reviewer": "Refresh Home Improvements Info",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-26T00:15:13.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "5327622795436100790",
+      "reviewer": "Royce Mendes",
+      "rating": 5,
+      "text": "Thank you to our server Tomi for making our birthday celebration so wonderful!",
+      "reviewDate": "2026-11-26T00:09:55.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "5968731035499993051",
       "reviewer": "Jason Clarke",
