@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-27T04:03:15.738Z",
-  "reviewCount": 92,
+  "fetchedAt": "2026-11-27T13:54:11.884Z",
+  "reviewCount": 95,
   "reviews": [
+    {
+      "reviewId": "6049269095508016759",
+      "reviewer": "Triona Moore",
+      "rating": 5,
+      "text": "Addy was an amazing server and very accommodating, we loved the food and drinks would definitely come back again!",
+      "reviewDate": "2026-11-27T05:25:15.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6049074445507997400",
       "reviewer": "Robert Abbatangelo",
@@ -20,11 +28,27 @@
       "source": "GOOGLE"
     },
     {
+      "reviewId": "6049228804508012746",
+      "reviewer": "Robert",
+      "rating": 4,
+      "text": "Friendly , knowledgeable staff that deliver great service",
+      "reviewDate": "2026-11-26T18:11:35.000Z",
+      "source": "OPENTABLE"
+    },
+    {
       "reviewId": "6048912285507981329",
       "reviewer": "Matt Russell",
       "rating": 5,
       "text": "Always great service, and a fun place to watch the game!\nCaro’s the best!",
       "reviewDate": "2026-11-26T17:38:16.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "4725153305376118744",
+      "reviewer": "Shano Mohan",
+      "rating": 5,
+      "text": "Caro was awesome! Personal, attentive and a lot of fun.",
+      "reviewDate": "2026-11-26T17:36:41.000Z",
       "source": "GOOGLE"
     },
     {

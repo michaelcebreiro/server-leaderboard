@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-27T04:03:15.809Z",
-  "reviewCount": 92,
-  "qualifyingReviewCount": 89,
+  "processedAt": "2026-11-27T13:54:11.966Z",
+  "reviewCount": 95,
+  "qualifyingReviewCount": 92,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -65,27 +65,27 @@
     },
     {
       "rank": 11,
-      "server": "Maria",
+      "server": "Carolina",
       "count": 2
     },
     {
       "rank": 12,
-      "server": "Matthew",
+      "server": "Maria",
       "count": 2
     },
     {
       "rank": 13,
-      "server": "Meklit",
+      "server": "Matthew",
       "count": 2
     },
     {
       "rank": 14,
-      "server": "attitude",
-      "count": 1
+      "server": "Meklit",
+      "count": 2
     },
     {
       "rank": 15,
-      "server": "Carolina",
+      "server": "attitude",
       "count": 1
     },
     {
@@ -445,11 +445,17 @@
     },
     {
       "server": "Carolina",
-      "count": 1,
+      "count": 2,
       "reviews": [
         {
           "reviewer": "Matt Russell",
           "text": "Always great service, and a fun place to watch the game!\nCaro’s the best!",
+          "date": "2026-11-26",
+          "rating": 5
+        },
+        {
+          "reviewer": "Shano Mohan",
+          "text": "Caro was awesome! Personal, attentive and a lot of fun.",
           "date": "2026-11-26",
           "rating": 5
         }
