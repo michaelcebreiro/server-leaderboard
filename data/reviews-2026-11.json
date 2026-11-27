@@ -1,8 +1,16 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-26T21:57:25.640Z",
-  "reviewCount": 91,
+  "fetchedAt": "2026-11-27T04:03:15.738Z",
+  "reviewCount": 92,
   "reviews": [
+    {
+      "reviewId": "6049074445507997400",
+      "reviewer": "Robert Abbatangelo",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-26T23:07:05.000Z",
+      "source": "GOOGLE"
+    },
     {
       "reviewId": "6049003403507990348",
       "reviewer": "Jacques",
