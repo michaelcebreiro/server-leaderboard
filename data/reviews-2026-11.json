@@ -1,8 +1,40 @@
 {
   "month": "2026-11",
-  "fetchedAt": "2026-11-27T22:33:20.512Z",
-  "reviewCount": 95,
+  "fetchedAt": "2026-11-28T04:16:46.330Z",
+  "reviewCount": 99,
   "reviews": [
+    {
+      "reviewId": "6050200885508109457",
+      "reviewer": "Jon de la Mothe",
+      "rating": 5,
+      "text": "Derks was great, navigated me to the spicy chicken sandwich like a pro",
+      "reviewDate": "2026-11-28T02:19:25.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6050196615508109034",
+      "reviewer": "Douglas Parker",
+      "rating": 5,
+      "text": "Food was great, great time, and service was great, shoutout to Derks",
+      "reviewDate": "2026-11-28T02:06:02.000Z",
+      "source": "GOOGLE"
+    },
+    {
+      "reviewId": "6050213575508110718",
+      "reviewer": "Ashling",
+      "rating": 5,
+      "text": "Such a great spot. Really friendly staff from the front door and throughout. Food is always 10/10. Perogies are amazing. Also love the spicy chicken sandwich with onion rings. We’ll be back.",
+      "reviewDate": "2026-11-27T21:02:03.000Z",
+      "source": "OPENTABLE"
+    },
+    {
+      "reviewId": "6050213585508110719",
+      "reviewer": "David",
+      "rating": 5,
+      "text": "",
+      "reviewDate": "2026-11-27T17:36:15.000Z",
+      "source": "OPENTABLE"
+    },
     {
       "reviewId": "6049269095508016759",
       "reviewer": "Triona Moore",

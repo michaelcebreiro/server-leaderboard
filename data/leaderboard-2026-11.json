@@ -1,8 +1,8 @@
 {
   "month": "2026-11",
-  "processedAt": "2026-11-27T22:33:20.804Z",
-  "reviewCount": 95,
-  "qualifyingReviewCount": 92,
+  "processedAt": "2026-11-28T04:16:46.416Z",
+  "reviewCount": 99,
+  "qualifyingReviewCount": 96,
   "thresholds": {
     "first": 20,
     "second": 15
@@ -30,13 +30,13 @@
     },
     {
       "rank": 4,
-      "server": "Kalypsa",
-      "count": 8
+      "server": "Derka",
+      "count": 9
     },
     {
       "rank": 5,
-      "server": "Derka",
-      "count": 7
+      "server": "Kalypsa",
+      "count": 8
     },
     {
       "rank": 6,
@@ -475,8 +475,20 @@
     },
     {
       "server": "Derka",
-      "count": 7,
+      "count": 9,
       "reviews": [
+        {
+          "reviewer": "Jon de la Mothe",
+          "text": "Derks was great, navigated me to the spicy chicken sandwich like a pro",
+          "date": "2026-11-28",
+          "rating": 5
+        },
+        {
+          "reviewer": "Douglas Parker",
+          "text": "Food was great, great time, and service was great, shoutout to Derks",
+          "date": "2026-11-28",
+          "rating": 5
+        },
         {
           "reviewer": "spencer bohm",
           "text": "Great service from Derks & Will",
